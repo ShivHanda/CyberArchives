@@ -184,3 +184,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-03 20:17:17,93.50.248.17,100,Italy,Bologna,Fastweb SpA,Fastweb Internet NGA,Residential/Business,False
 2026-01-03 20:17:17,1.214.197.163,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
 2026-01-03 20:17:17,47.239.59.121,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-01-03 22:14:52,43.159.128.251,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-03 22:14:52,109.199.117.188,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-03 22:14:52,64.62.197.65,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-03 22:14:52,64.62.197.62,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-03 22:14:52,192.3.159.149,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-01-03 22:14:52,14.103.120.242,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-03 22:14:52,4.216.25.179,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-03 22:14:52,34.58.124.191,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-03 22:14:52,101.47.140.230,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-03 22:14:52,114.98.230.202,100,China,Hefei,China Telecom,Chinanet AH,Residential/Business,False
+2026-01-03 22:14:52,116.140.168.137,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-01-03 22:14:52,45.78.216.193,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-03 22:14:52,138.68.53.116,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-03 22:14:52,70.23.92.29,100,United States,Brooklyn,Verizon Business,Verizon Business,Residential/Business,False
+2026-01-03 22:14:52,42.49.216.35,100,China,Changsha,China Unicom Hunan Province Network,,Residential/Business,False
+2026-01-03 22:14:52,177.236.144.81,100,Mexico,Mexicali,Cablemas Telecomunicaciones SA de CV,Cablemas Telecomunicaciones SA de CV,Residential/Business,False
+2026-01-03 22:14:52,8.221.142.108,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-03 22:14:52,187.170.3.81,100,Mexico,Cuauhtémoc,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-01-03 22:14:52,120.48.28.60,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-03 22:14:52,41.40.117.9,100,Egypt,Alexandria,TE Data,,Residential/Business,False
+2026-01-03 22:14:52,130.12.181.59,100,United States,Louisville,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-03 22:14:52,200.59.147.112,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Mobile,False
+2026-01-03 22:14:52,43.173.254.125,100,Thailand,Bangkok,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-03 22:14:52,77.90.185.47,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-03 22:14:52,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-03 22:14:52,194.165.16.162,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-01-03 22:14:52,45.165.40.230,100,Chile,Gorbea,HomeNet LTDA,HomeNet LTDA,Residential/Business,False
+2026-01-03 22:14:52,118.31.121.34,100,China,Hangzhou,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-03 22:14:52,106.54.176.158,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-01-03 22:14:52,206.168.34.129,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-03 22:14:52,134.209.194.113,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-03 22:14:52,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-03 22:14:52,94.102.49.22,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-01-03 22:14:52,46.151.182.230,100,Ukraine,Kyiv,Demenin B.V,Demenin B.V,Residential/Business,False
+2026-01-03 22:14:52,91.196.152.71,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-03 22:14:52,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-03 22:14:52,45.142.154.10,100,Hong Kong,Hong Kong,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-03 22:14:52,49.51.183.220,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-01-03 22:14:52,172.236.228.220,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-03 22:14:52,207.180.234.98,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-03 22:14:52,114.111.54.188,100,Hong Kong,Hong Kong,Meteverse Limited.,CDNETWORKS,Residential/Business,True
+2026-01-03 22:14:52,164.92.106.89,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-03 22:14:52,16.162.187.14,100,Hong Kong,Hong Kong,"Amazon.com, Inc.",AWS EC2 (ap-east-1),Data Center,False
+2026-01-03 22:14:52,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-03 22:14:52,101.47.50.8,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-03 22:14:52,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-01-03 22:14:52,91.196.152.34,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-03 22:14:52,103.176.79.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-01-03 22:14:52,43.155.21.198,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-03 22:14:52,125.67.236.54,100,China,Kangding,Chinanet,Chinanet SC,Residential/Business,False
