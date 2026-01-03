@@ -1,0 +1,40 @@
+name: 15-Zone Threat Relay
+
+on:
+  schedule:
+    # Runs every 2 hours (Total 12 runs per day)
+    # This creates a "Relay Race" across timezones
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual click for testing
+
+permissions:
+  contents: write
+
+jobs:
+  run-relay:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Tools
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper (The Relay)
+        env:
+          ABUSE_API_KEYS: ${{ secrets.ABUSE_API_KEYS }}
+        run: python scraper.py
+
+      - name: Save Data to Repo
+        run: |
+          git config --global user.name "RelayBot"
+          git config --global user.email "bot@github.com"
+          git add threat_data.csv
+          git commit -m "Auto-Archive: New Zone Data Captured" || echo "No changes today"
+          git push
