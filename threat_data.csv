@@ -704,3 +704,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 18:21:59,79.143.42.170,100,Ukraine,Vinnytsia,Telecommunication Company Vinteleport Ltd.,Vinteleport company,Residential/Business,False
 2026-01-04 18:21:59,103.161.207.2,100,Indonesia,Cimahi,PT Media Solusi Network,PT Media Solusi Network,Residential/Business,False
 2026-01-04 18:21:59,206.217.131.233,100,United States,Elk Grove Village,HostPapa,Cloudserver,Data Center,True
+2026-01-04 20:17:51,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 20:17:51,94.26.88.59,100,United Kingdom,London,MEVSPACE sp. z o.o.,Telco power Ltd,Residential/Business,False
+2026-01-04 20:17:51,146.190.225.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,45.78.222.107,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 20:17:51,118.194.229.98,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 20:17:51,185.177.72.38,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-01-04 20:17:51,64.225.65.194,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,101.47.160.181,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 20:17:51,178.128.241.142,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-04 20:17:51,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 20:17:51,24.199.126.200,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,101.47.162.94,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 20:17:51,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 20:17:51,172.203.244.252,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-04 20:17:51,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 20:17:51,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-04 20:17:51,111.61.97.108,100,China,Shijiazhuang,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-04 20:17:51,36.37.122.175,100,Indonesia,Jakarta Pusat,PT Aplikanusa Lintasarta,LA DJ,Residential/Business,False
+2026-01-04 20:17:51,117.72.60.249,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-04 20:17:51,157.254.223.39,100,United States,Buffalo,Vantiva USA Shared Services Inc.,,Residential/Business,False
+2026-01-04 20:17:51,185.12.59.118,100,Norway,Oslo,Blix Solutions,Blixcust10463,Data Center,False
+2026-01-04 20:17:51,209.38.46.218,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,27.79.7.166,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-04 20:17:51,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-04 20:17:51,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-04 20:17:51,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 20:17:51,154.124.97.102,100,Senegal,Dakar,SONATEL-AS Autonomous System,,Residential/Business,False
+2026-01-04 20:17:51,121.73.163.14,100,New Zealand,Wellington,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-04 20:17:51,14.103.120.75,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-04 20:17:51,20.65.219.49,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-04 20:17:51,164.92.150.155,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,103.199.16.90,100,Vietnam,Vinhomes Times City,365 Online technology joint stock company,Greencloud Limited,Residential/Business,False
+2026-01-04 20:17:51,211.57.200.145,100,South Korea,Dalseo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-04 20:17:51,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 20:17:51,49.51.233.95,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-01-04 20:17:51,31.129.22.211,100,Portugal,Viana do Castelo,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-04 20:17:51,154.83.14.191,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-01-04 20:17:51,93.152.230.150,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-04 20:17:51,143.198.135.58,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-04 20:17:51,101.47.50.118,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-04 20:17:51,134.122.55.83,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,165.154.49.137,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 20:17:51,27.50.25.190,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-01-04 20:17:51,64.227.66.81,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 20:17:51,162.144.61.200,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
