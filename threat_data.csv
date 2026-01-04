@@ -419,3 +419,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 06:24:28,146.190.18.90,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-04 06:24:28,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
 2026-01-04 06:24:28,111.70.22.153,100,Taiwan,Guishan,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-04 08:21:06,60.15.129.62,100,China,Harbin,CNC Group CHINA169 Heilongjiang Province Network,,Mobile,False
+2026-01-04 08:21:06,101.36.114.252,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 08:21:06,152.32.181.210,100,United Arab Emirates,Dubai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-04 08:21:06,182.61.54.119,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-04 08:21:06,206.168.34.137,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-04 08:21:06,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 08:21:06,14.103.127.97,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-04 08:21:06,208.69.84.112,100,United States,Buffalo,Crown Castle Fiber LLC,Delta Sonic,Residential/Business,False
+2026-01-04 08:21:06,183.221.220.219,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-04 08:21:06,159.65.197.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 08:21:06,159.223.232.76,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-04 08:21:06,103.231.14.54,100,Hong Kong,San Po Kong,Converged Communications Limited,,Data Center,False
+2026-01-04 08:21:06,123.58.213.117,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 08:21:06,185.50.38.135,100,Iran,Mashhad,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin Co Ltd,Data Center,False
+2026-01-04 08:21:06,65.49.1.111,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-04 08:21:06,45.78.205.7,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 08:21:06,64.227.156.63,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 08:21:06,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-04 08:21:06,164.90.200.226,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 08:21:06,64.62.197.109,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-04 08:21:06,102.23.242.223,100,South Africa,Vryheid,JENNY INTERNET (PTY) LTD,Jenny Internet cc,Residential/Business,False
+2026-01-04 08:21:06,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-01-04 08:21:06,185.196.9.133,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-04 08:21:06,89.169.12.61,100,Germany,Frankfurt am Main,SERV.HOST GROUP LTD,SERV.HOST GROUP LTD,Residential/Business,False
+2026-01-04 08:21:06,165.154.51.193,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 08:21:06,104.248.89.121,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 08:21:06,181.116.220.11,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-01-04 08:21:06,20.123.120.169,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-04 08:21:06,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-04 08:21:06,152.42.135.176,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-04 08:21:06,20.173.116.24,100,Qatar,Doha,Microsoft Corporation,Microsoft Azure Cloud (qatarcentral),Data Center,False
+2026-01-04 08:21:06,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 08:21:06,69.175.107.208,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-01-04 08:21:06,78.128.112.74,100,Bulgaria,Sopot,noc@dotdash.host,4media,Residential/Business,True
+2026-01-04 08:21:06,64.62.156.201,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-04 08:21:06,35.189.199.133,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-04 08:21:06,41.59.202.241,100,Tanzania,Dar es Salaam,Tanzania Telecommunications CO. LTD,TTCL,Residential/Business,False
+2026-01-04 08:21:06,103.191.14.210,100,Indonesia,Utan,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,Residential/Business,False
+2026-01-04 08:21:06,148.113.24.68,100,India,Mumbai,OVH SAS,OVHTECH R&D (INDIA) PRIVATE LIMITED,Data Center,False
+2026-01-04 08:21:06,132.148.72.41,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-04 08:21:06,159.223.216.10,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-04 08:21:06,157.245.186.9,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 08:21:06,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 08:21:06,178.62.236.121,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-04 08:21:06,207.90.244.6,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
