@@ -564,3 +564,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 12:30:30,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
 2026-01-04 12:30:30,13.79.87.25,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
 2026-01-04 12:30:30,24.199.126.200,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 14:14:13,69.163.178.127,100,United States,Hillsboro,New Dream Network,DreamHost,Data Center,False
+2026-01-04 14:14:13,2.57.122.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 14:14:13,181.188.172.6,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Residential/Business,False
+2026-01-04 14:14:13,182.95.230.134,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Residential/Business,False
+2026-01-04 14:14:13,122.185.146.18,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-04 14:14:13,91.230.168.198,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-04 14:14:13,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-04 14:14:13,20.64.105.124,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-04 14:14:13,74.225.134.13,100,India,Pune,AT&T Corp.,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-04 14:14:13,135.235.138.43,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-04 14:14:13,170.106.193.108,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-01-04 14:14:13,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-04 14:14:13,39.100.183.18,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-04 14:14:13,45.144.233.139,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Mobile,False
+2026-01-04 14:14:13,91.191.209.198,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Residential/Business,True
+2026-01-04 14:14:13,174.138.46.225,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-04 14:14:13,47.150.235.102,100,United States,Diamond Bar,Frontier Communications Corporation,Frontier Communications Solutions,Residential/Business,False
+2026-01-04 14:14:13,101.47.142.55,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 14:14:13,152.69.216.217,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-04 14:14:13,101.47.48.147,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-04 14:14:13,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 14:14:13,57.128.214.238,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-01-04 14:14:13,164.92.149.126,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 14:14:13,46.187.24.97,100,Russia,Cheboksary,Net By Net Holding LLC (Cheboksary),Net By Net Holding LLC,Residential/Business,False
+2026-01-04 14:14:13,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-04 14:14:13,201.6.100.191,100,Brazil,São Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-01-04 14:14:13,104.208.73.136,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-04 14:14:13,64.62.156.119,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-04 14:14:13,2.135.25.184,100,Kazakhstan,Astana,JSC Kazakhtelecom,Kazakhtelecom Data Network Administration,Residential/Business,False
+2026-01-04 14:14:13,52.177.169.196,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-04 14:14:13,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-01-04 14:14:13,85.217.149.13,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-04 14:14:13,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 14:14:13,154.92.109.196,100,Hong Kong,Hong Kong,Universe Action Limited,Universe Action Limited,Residential/Business,False
+2026-01-04 14:14:13,130.12.180.95,100,United States,Louisville,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-04 14:14:13,203.161.43.55,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
+2026-01-04 14:14:13,203.106.164.74,100,Malaysia,Shah Alam,TMnet,,Residential/Business,False
+2026-01-04 14:14:13,31.59.175.174,100,United States,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Residential/Business,False
+2026-01-04 14:14:13,209.38.107.224,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 14:14:13,1.238.106.229,100,South Korea,Yongin-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-04 14:14:13,103.253.21.190,100,Vietnam,Quận Ba,PSG Joint Stock Company,PSG,Residential/Business,False
+2026-01-04 14:14:13,142.93.234.34,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 14:14:13,47.115.72.192,100,China,Shenzhen,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-04 14:14:13,101.47.161.248,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 14:14:13,81.177.136.68,100,Russia,Moscow,RTCOMM,Avguro Technologies Ltd.,Residential/Business,False
