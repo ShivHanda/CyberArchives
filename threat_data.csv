@@ -284,3 +284,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 01:23:55,147.182.224.132,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-04 01:23:55,61.156.218.5,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
 2026-01-04 01:23:55,138.68.104.233,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,165.154.41.6,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-04 03:46:26,45.78.222.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 03:46:26,68.183.14.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,101.47.141.170,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 03:46:26,194.180.48.63,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-04 03:46:26,161.35.144.140,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,209.38.109.193,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,85.217.149.6,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-04 03:46:26,101.126.129.179,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-04 03:46:26,43.130.90.166,100,United States,Ashburn,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-04 03:46:26,64.62.156.49,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-04 03:46:26,122.187.228.228,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-04 03:46:26,146.190.20.221,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 03:46:26,202.184.134.84,100,Malaysia,Kuala Lumpur,TT DOTCOM SDN BHD,TT DOTCOM SDN BHD,Residential/Business,False
+2026-01-04 03:46:26,54.89.96.162,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-04 03:46:26,142.93.131.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 03:46:26,93.152.230.150,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-04 03:46:26,4.217.184.154,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-04 03:46:26,209.38.111.36,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,14.103.63.16,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-01-04 03:46:26,64.227.135.37,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,20.42.220.101,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-04 03:46:26,217.154.62.22,100,United Kingdom,London,IONOS SE,Gb Wtr Ionos Cloud Bhx1,Data Center,False
+2026-01-04 03:46:26,107.189.29.175,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-04 03:46:26,45.78.216.107,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 03:46:26,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 03:46:26,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 03:46:26,103.154.77.48,100,Indonesia,Sleman,T2NET,,Residential/Business,True
+2026-01-04 03:46:26,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 03:46:26,45.78.227.155,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-04 03:46:26,185.177.72.51,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-01-04 03:46:26,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-04 03:46:26,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 03:46:26,101.47.161.158,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-04 03:46:26,104.208.108.166,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-01-04 03:46:26,146.158.162.24,100,Spain,Madrid,Orange Spain,Jazztel triple play services,Residential/Business,False
+2026-01-04 03:46:26,213.215.209.101,100,Italy,Rome,COLT Technology Services Group Limited,Babylon Cloud SpA,Residential/Business,False
+2026-01-04 03:46:26,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-04 03:46:26,101.126.69.201,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-01-04 03:46:26,101.126.131.101,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-04 03:46:26,219.92.8.45,100,Malaysia,Kuala Lumpur,TMnet,,Residential/Business,False
+2026-01-04 03:46:26,206.189.2.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 03:46:26,209.38.46.213,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
