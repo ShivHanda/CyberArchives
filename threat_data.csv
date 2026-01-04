@@ -329,3 +329,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 03:46:26,219.92.8.45,100,Malaysia,Kuala Lumpur,TMnet,,Residential/Business,False
 2026-01-04 03:46:26,206.189.2.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-04 03:46:26,209.38.46.213,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 04:44:16,45.56.222.60,100,Canada,Toronto,HostPapa,,Residential/Business,True
+2026-01-04 04:44:16,79.124.58.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-04 04:44:16,41.94.88.49,100,Mozambique,Maputo,Mozambique Research & Education Network - MoRENet,Provider,Residential/Business,False
+2026-01-04 04:44:16,60.172.52.101,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-04 04:44:16,159.223.45.112,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 04:44:16,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 04:44:16,165.232.82.174,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 04:44:16,138.124.158.147,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-01-04 04:44:16,165.245.137.246,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-04 04:44:16,112.27.102.137,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-04 04:44:16,40.113.19.56,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-04 04:44:16,14.103.228.246,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-04 04:44:16,114.246.241.87,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-04 04:44:16,117.176.219.248,100,China,Chengdu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-04 04:44:16,54.234.80.128,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-04 04:44:16,4.217.184.154,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-04 04:44:16,64.225.124.30,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 04:44:16,185.200.116.83,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-04 04:44:16,220.85.109.251,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-04 04:44:16,40.69.66.178,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-04 04:44:16,91.237.163.110,100,Russia,Moscow,Systematica LLC,Systematica LLC,Residential/Business,False
+2026-01-04 04:44:16,218.17.184.95,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-04 04:44:16,52.224.240.74,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-04 04:44:16,123.56.90.35,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-04 04:44:16,45.78.194.137,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 04:44:16,14.103.128.118,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-04 04:44:16,175.117.144.122,100,South Korea,Gwangju,SK Broadband Co Ltd,broadNnet,Residential/Business,True
+2026-01-04 04:44:16,14.103.230.55,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-04 04:44:16,47.251.115.169,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-04 04:44:16,58.249.132.71,100,China,Guangzhou,CNC Group CHINA169 Guangdong Province Network,,Residential/Business,False
+2026-01-04 04:44:16,45.142.193.92,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-04 04:44:16,109.205.211.60,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-04 04:44:16,45.78.201.60,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 04:44:16,103.117.57.134,100,Indonesia,Cicurug,BYOIP PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-04 04:44:16,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 04:44:16,146.88.240.117,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-01-04 04:44:16,175.180.129.87,100,Taiwan,New Taipei City,Digital United Inc.,"New Century InfoComm Tech. Co., Ltd.",Residential/Business,False
+2026-01-04 04:44:16,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 04:44:16,49.51.204.74,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-01-04 04:44:16,220.200.154.169,100,China,Jinrongjie,China Unicom Network,,Residential/Business,False
+2026-01-04 04:44:16,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 04:44:16,103.101.216.74,100,Indonesia,Sungaibamban,PT Duta Trans Nusantara Network,PT Duta Trans Nusantara Network,Residential/Business,False
+2026-01-04 04:44:16,189.4.3.135,100,Brazil,Pinhais,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-01-04 04:44:16,109.105.210.72,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-01-04 04:44:16,86.54.42.125,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
