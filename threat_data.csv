@@ -374,3 +374,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 04:44:16,189.4.3.135,100,Brazil,Pinhais,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
 2026-01-04 04:44:16,109.105.210.72,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
 2026-01-04 04:44:16,86.54.42.125,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-04 06:24:28,52.188.191.193,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-04 06:24:28,8.211.45.194,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-04 06:24:28,103.204.167.14,100,India,Mumbai,ABS BROADBAND SERVICES PVT LTD,ABS Broadband Services PVT LTD,Residential/Business,False
+2026-01-04 06:24:28,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-04 06:24:28,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 06:24:28,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-04 06:24:28,181.188.176.242,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Residential/Business,False
+2026-01-04 06:24:28,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-04 06:24:28,85.217.149.3,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-04 06:24:28,101.126.89.0,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-01-04 06:24:28,174.138.13.148,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,14.103.118.113,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-04 06:24:28,14.103.253.20,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-04 06:24:28,91.224.92.185,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-04 06:24:28,185.4.180.196,100,Kazakhstan,Almaty,PS Internet Company LLP,PS Internet Company LLP,Data Center,False
+2026-01-04 06:24:28,87.156.190.122,100,Germany,Schwarzheide,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-01-04 06:24:28,47.236.199.69,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-04 06:24:28,20.123.146.93,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-04 06:24:28,45.78.217.199,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 06:24:28,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-04 06:24:28,200.118.40.100,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A,Residential/Business,False
+2026-01-04 06:24:28,45.78.198.162,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 06:24:28,45.78.222.169,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 06:24:28,62.141.107.204,100,Russia,Solnechnogorsk,"PJSC ""Vimpelcom""",BeeLine ORL KViKFuD,Residential/Business,False
+2026-01-04 06:24:28,94.26.106.81,100,Bulgaria,Sofia,"""Traffic Broadband Communications"" Ltd.","""Traffic Broadband Communications"" Ltd.",Residential/Business,False
+2026-01-04 06:24:28,45.78.222.14,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-04 06:24:28,24.199.94.128,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,117.102.17.18,100,Pakistan,Lahore,Worldcall Telecom Limited,North LDI P2P,Residential/Business,False
+2026-01-04 06:24:28,164.92.212.182,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,174.138.13.45,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,159.203.45.163,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-04 06:24:28,65.49.1.236,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-04 06:24:28,165.154.119.217,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-04 06:24:28,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 06:24:28,165.227.60.198,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,176.65.132.95,100,The Netherlands,Eygelshoven,Pfcloud UG,VMHeaven.io,Residential/Business,False
+2026-01-04 06:24:28,176.65.149.30,100,The Netherlands,Eygelshoven,Pfcloud UG,Pfcloud UG,Residential/Business,False
+2026-01-04 06:24:28,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 06:24:28,78.153.140.195,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-04 06:24:28,144.217.13.134,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,True
+2026-01-04 06:24:28,196.188.168.148,100,Ethiopia,Bishoftu,Ethiotelecom,,Mobile,False
+2026-01-04 06:24:28,103.78.2.68,100,Vietnam,Thanh Xuân,RAICLOUD,Raicloud Company Limited,Residential/Business,True
+2026-01-04 06:24:28,146.190.18.90,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-04 06:24:28,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-04 06:24:28,111.70.22.153,100,Taiwan,Guishan,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
