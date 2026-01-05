@@ -799,3 +799,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-04 22:15:35,204.76.203.93,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
 2026-01-04 22:15:35,188.166.169.185,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
 2026-01-04 22:15:35,45.78.207.244,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 01:22:56,192.241.179.235,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-05 01:22:56,100.29.192.116,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-05 01:22:56,167.172.46.172,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,173.239.218.192,100,United States,Los Angeles,LogicWeb Inc,,Data Center,True
+2026-01-05 01:22:56,87.236.176.54,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-05 01:22:56,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-05 01:22:56,103.204.167.14,100,India,Mumbai,ABS BROADBAND SERVICES PVT LTD,ABS Broadband Services PVT LTD,Residential/Business,False
+2026-01-05 01:22:56,165.232.134.130,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-05 01:22:56,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 01:22:56,176.117.107.97,100,Iran,Tehran,Noavaran System Sarv Co.Ltd,Noavaran System Sarv Co.Ltd,Residential/Business,False
+2026-01-05 01:22:56,193.46.255.217,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 01:22:56,64.62.197.132,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-05 01:22:56,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-05 01:22:56,197.221.232.44,100,Zimbabwe,Harare,Telone PVT Ltd,,Mobile,False
+2026-01-05 01:22:56,104.208.99.34,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-05 01:22:56,170.64.239.224,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,138.68.169.29,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,143.110.215.84,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 01:22:56,91.231.89.130,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-05 01:22:56,193.163.125.72,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-05 01:22:56,181.48.153.43,100,Colombia,Barranquilla,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-01-05 01:22:56,159.223.94.178,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,116.118.47.98,100,Vietnam,Hanoi,SPT,,Residential/Business,False
+2026-01-05 01:22:56,152.200.205.179,100,Colombia,San José del Guaviare,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-01-05 01:22:56,159.223.209.114,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,45.161.165.2,100,Brazil,Aracaju,Voa Internet,Voa Internet,Residential/Business,False
+2026-01-05 01:22:56,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 01:22:56,95.214.54.147,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-05 01:22:56,164.90.192.56,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,45.142.193.207,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-05 01:22:56,96.44.159.120,100,Canada,Toronto,HostPapa,HostPapa,Data Center,False
+2026-01-05 01:22:56,120.48.31.239,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-05 01:22:56,101.126.89.144,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
+2026-01-05 01:22:56,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 01:22:56,199.45.155.74,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-05 01:22:56,139.59.83.111,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,161.35.157.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 01:22:56,158.94.208.52,100,Germany,Frankfurt am Main,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-05 01:22:56,213.177.179.91,100,Iran,Tehran,Ali Moradi,Ali Moradi,Residential/Business,False
+2026-01-05 01:22:56,84.239.45.140,100,United States,Burlington,Datacamp Limited,BINBOX Burlington,Data Center,True
+2026-01-05 01:22:56,14.103.117.88,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-05 01:22:56,87.236.176.22,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-05 01:22:56,103.55.216.2,100,Indonesia,Sungguminasa,Universitas Islam Negeri Alauddin Makasar,Universitas Islam Negeri Alauddin Makasar,Residential/Business,False
+2026-01-05 01:22:56,13.89.124.213,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
