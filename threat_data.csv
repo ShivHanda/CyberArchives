@@ -1069,3 +1069,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-05 10:19:56,64.227.180.11,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-01-05 10:19:56,61.58.156.82,100,Taiwan,Taichung,tinp,,Residential/Business,False
 2026-01-05 10:19:56,20.168.120.251,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-05 12:36:07,213.35.118.186,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-05 12:36:07,52.141.42.203,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-05 12:36:07,142.93.234.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,65.49.1.142,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-05 12:36:07,68.183.14.189,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,78.153.140.224,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-05 12:36:07,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-05 12:36:07,190.89.22.25,100,Brazil,São Luís,RDS TECNOLOGIA-ME,RDS TECNOLOGIA-ME,Residential/Business,False
+2026-01-05 12:36:07,45.78.228.189,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 12:36:07,112.163.119.199,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-05 12:36:07,164.92.150.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,209.97.177.115,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,45.78.217.71,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 12:36:07,118.193.64.15,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-05 12:36:07,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 12:36:07,168.90.223.8,100,Chile,Colina,COMPAÑÍA CHILENA DE COMUNICACIONES PARALLEL S.A.,COMPAÑÍA CHILENA DE COMUNICACIONES PARALLEL S.A,Residential/Business,False
+2026-01-05 12:36:07,199.45.154.187,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-05 12:36:07,137.184.54.116,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-05 12:36:07,146.190.128.199,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,171.231.179.229,100,Vietnam,Pleiku,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-05 12:36:07,160.242.96.43,100,Namibia,Windhoek,Paratus Telecommunications Limited,Paratus Telecommunications Limited,Residential/Business,False
+2026-01-05 12:36:07,45.78.226.118,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-05 12:36:07,199.45.154.130,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-05 12:36:07,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 12:36:07,188.170.40.231,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-01-05 12:36:07,171.231.176.241,100,Vietnam,Pleiku,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-05 12:36:07,162.240.109.153,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-05 12:36:07,45.78.217.134,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 12:36:07,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 12:36:07,149.54.51.230,100,Afghanistan,Kandahar,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-01-05 12:36:07,206.189.71.71,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 12:36:07,170.64.163.192,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,140.238.186.185,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-01-05 12:36:07,156.245.248.226,100,Hong Kong,Hong Kong,HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED,HK Unite Telecommunications Development Limited,Data Center,False
+2026-01-05 12:36:07,146.148.33.27,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-05 12:36:07,134.122.50.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,178.173.148.220,100,Iran,Shiraz,Nabic,Shiraz Hamyar Co,Residential/Business,False
+2026-01-05 12:36:07,152.42.140.156,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-05 12:36:07,100.29.192.118,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-05 12:36:07,155.4.244.179,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-01-05 12:36:07,194.26.192.112,100,The Netherlands,Oude Meer,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-01-05 12:36:07,206.168.34.143,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-05 12:36:07,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-05 12:36:07,206.189.96.190,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 12:36:07,209.38.104.63,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
