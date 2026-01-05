@@ -1304,3 +1304,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-05 20:19:54,64.62.197.17,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
 2026-01-05 20:19:54,157.230.117.167,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-05 20:19:54,45.78.216.191,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 22:16:24,182.42.104.32,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-05 22:16:24,45.177.210.193,100,Brazil,Santana do Livramento,Fronteira Internet,Fronteira Internet,Residential/Business,False
+2026-01-05 22:16:24,180.93.96.222,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-01-05 22:16:24,50.47.37.18,100,United States,Lynnwood,Wholesail networks LLC,Ziply Fiber,Residential/Business,False
+2026-01-05 22:16:24,129.212.176.252,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 22:16:24,27.188.184.13,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-01-05 22:16:24,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 22:16:24,74.208.226.147,100,United States,Chicago,IONOS SE,IONOS Inc,Data Center,False
+2026-01-05 22:16:24,34.138.33.132,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-01-05 22:16:24,104.236.84.173,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 22:16:24,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 22:16:24,194.187.176.42,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-01-05 22:16:24,101.126.55.95,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-05 22:16:24,202.157.176.29,100,Indonesia,Jakarta,EXBCOID,,Data Center,True
+2026-01-05 22:16:24,130.250.191.230,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-01-05 22:16:24,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 22:16:24,195.184.76.80,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-05 22:16:24,77.81.120.183,100,The Netherlands,Amsterdam,KnownSRV Ltd.,KnownSRV Ltd,Residential/Business,False
+2026-01-05 22:16:24,36.91.81.195,100,Indonesia,Jakarta,PT Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-01-05 22:16:24,102.165.48.100,100,United States,Washington,Cogent Communications,Freedomtech Solutions Limited,Residential/Business,True
+2026-01-05 22:16:24,87.191.206.92,100,Germany,Unna,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-01-05 22:16:24,190.221.50.123,100,Argentina,Buenos Aires,Telmex Argentina S.A,Aguas Riojanas S.A.P.E.M,Residential/Business,False
+2026-01-05 22:16:24,176.65.132.95,100,The Netherlands,Eygelshoven,Pfcloud UG,VMHeaven.io,Residential/Business,False
+2026-01-05 22:16:24,139.144.239.78,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-05 22:16:24,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-05 22:16:24,217.160.7.83,100,Spain,Madrid,IONOS SE,,Data Center,False
+2026-01-05 22:16:24,193.163.125.86,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-05 22:16:24,189.183.0.24,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-05 22:16:24,45.136.118.105,100,United States,Redondo Beach,Enzu Inc,ENZU Inc,Data Center,False
+2026-01-05 22:16:24,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-05 22:16:24,51.75.27.166,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-05 22:16:24,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-05 22:16:24,125.18.99.10,100,India,Bengaluru,BHARTI,Bharti Infotel Ltd.,Mobile,False
+2026-01-05 22:16:24,66.240.223.230,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-05 22:16:24,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 22:16:24,139.99.9.163,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-01-05 22:16:24,173.236.163.157,100,United States,Ashburn,New Dream Network,DreamHost,Data Center,False
+2026-01-05 22:16:24,34.128.77.56,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,True
+2026-01-05 22:16:24,45.78.219.24,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 22:16:24,20.15.200.1,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-05 22:16:24,78.142.18.40,100,The Netherlands,Amsterdam,ColocaTel Inc.,Colocatel Inc,Residential/Business,False
+2026-01-05 22:16:24,192.3.105.24,100,United States,Dallas,HostPapa,,Data Center,False
+2026-01-05 22:16:24,185.196.9.22,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-05 22:16:24,91.204.158.194,100,Bulgaria,Pazardzhik,Elcomp 68 Ltd,Elcomp 68 Ltd,Residential/Business,False
+2026-01-05 22:16:24,110.16.108.122,100,China,Zhangzhou,China Unicom CHINA169 Neimeng Province Network,,Residential/Business,False
+2026-01-05 22:16:24,201.49.108.245,100,Brazil,Itaguaí,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-01-05 22:16:24,101.47.140.190,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-05 22:16:24,91.199.163.52,100,Lithuania,Vilnius,any issues please contact us via email: noc@digi-cloud.net,UAB Linama,Residential/Business,True
+2026-01-05 22:16:24,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-05 22:16:24,14.103.152.56,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
