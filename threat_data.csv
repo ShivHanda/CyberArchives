@@ -1024,3 +1024,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-05 08:26:29,167.172.38.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-05 08:26:29,203.228.30.198,100,South Korea,Daegu,KORNET,bagjunhyun,Residential/Business,False
 2026-01-05 08:26:29,159.65.195.248,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,186.31.95.163,100,Colombia,Medellín,ETB - Colombia,ETB - Colombia,Residential/Business,False
+2026-01-05 10:19:56,45.78.198.204,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 10:19:56,50.47.37.18,100,United States,Lynnwood,Wholesail networks LLC,Ziply Fiber,Residential/Business,False
+2026-01-05 10:19:56,116.236.43.254,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-05 10:19:56,27.188.184.13,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-01-05 10:19:56,45.177.210.193,100,Brazil,Santana do Livramento,Fronteira Internet,Fronteira Internet,Residential/Business,False
+2026-01-05 10:19:56,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 10:19:56,180.93.96.222,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-01-05 10:19:56,181.115.147.5,100,Bolivia,Santa Cruz,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-01-05 10:19:56,157.245.74.48,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 10:19:56,101.47.140.216,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-05 10:19:56,182.253.238.235,100,Indonesia,Jakarta,Biznet Networks,Tisi,Residential/Business,False
+2026-01-05 10:19:56,206.189.100.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,159.223.194.87,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-05 10:19:56,101.47.140.212,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-05 10:19:56,193.23.199.238,100,Germany,Frankfurt am Main,Denis Pyatkov,Kyonix Hosting Network,Residential/Business,False
+2026-01-05 10:19:56,162.191.73.38,100,United States,Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.",Mobile,False
+2026-01-05 10:19:56,45.78.227.246,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 10:19:56,14.29.238.151,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-05 10:19:56,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 10:19:56,89.250.213.157,100,Russia,Berezniki,Perm Internet Company LLC,PermLink,Residential/Business,False
+2026-01-05 10:19:56,111.57.17.172,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-05 10:19:56,64.23.139.220,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 10:19:56,182.66.218.26,100,India,Vellore,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-05 10:19:56,182.95.223.114,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-05 10:19:56,77.83.39.58,100,Ukraine,Kharkiv,Pitline Ltd,Pitline Ltd,Residential/Business,False
+2026-01-05 10:19:56,178.170.251.33,100,Russia,Naro-Fominsk,Best Line Ltd.,Best Line Ltd,Residential/Business,False
+2026-01-05 10:19:56,60.18.139.82,100,China,Shenyang,CHINA UNICOM China169 Backbone,Unicom LN,Residential/Business,False
+2026-01-05 10:19:56,115.190.245.176,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-05 10:19:56,165.245.140.79,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-05 10:19:56,183.245.232.31,100,China,Hangzhou,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-05 10:19:56,139.59.67.247,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,70.183.221.168,100,United States,Baton Rouge,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-01-05 10:19:56,103.144.28.85,100,Hong Kong,Kwun Tong,Yisu Cloud LTD,"JIMEI INTERNATIONAL TECHNOLOGY (HK) CO., LIMITED",Residential/Business,False
+2026-01-05 10:19:56,196.251.100.242,100,France,Marseille,internet-secuirty,Internet Secuirty,Residential/Business,True
+2026-01-05 10:19:56,81.16.164.76,100,Sweden,Köping,Kopings Kabel-TV,Kopings Kabel-TV AB,Residential/Business,False
+2026-01-05 10:19:56,156.54.170.192,100,Italy,Reggio Emilia,Telecom Italia S.p.A.,Telecom Italia S.p.A.,Residential/Business,False
+2026-01-05 10:19:56,199.229.220.185,100,Canada,Brandon,RF Now Inc.,RF Now Inc,Residential/Business,False
+2026-01-05 10:19:56,134.122.44.40,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,172.236.228.208,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-05 10:19:56,167.99.219.75,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 10:19:56,64.227.180.11,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 10:19:56,61.58.156.82,100,Taiwan,Taichung,tinp,,Residential/Business,False
+2026-01-05 10:19:56,20.168.120.251,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
