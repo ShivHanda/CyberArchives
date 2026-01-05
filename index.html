@@ -116,10 +116,7 @@
                             plotData.push({
                                 lat: loc.lat,
                                 lon: loc.lon,
-                                // CHANGE 1: Label ab sirf City hai
-                                label: loc.city, 
-                                // CHANGE 2: Height calculation kam kar di (0.12 instead of 0.4)
-                                alt: (parseInt(row.Confidence_Score || 50) / 100) * 0.12 
+                                label: loc.city
                             });
                         }
                         await new Promise(r => setTimeout(r, 100)); 
@@ -132,8 +129,8 @@
                          .pointLat(d => d.lat)
                          .pointLng(d => d.lon)
                          .pointColor(() => '#ff0000')
-                         .pointAltitude(d => d.alt)
-                         .pointRadius(0.15); // CHANGE 3: Radius patla kar diya (Thin Beams)
+                         .pointAltitude(0)
+                         .pointRadius(0.5); // CHANGE 3: Radius patla kar diya (Thin Beams)
 
                     world.labelsData(plotData)
                          .labelLat(d => d.lat)
@@ -142,7 +139,7 @@
                          .labelSize(0.6) // Font size thoda chota
                          .labelDotRadius(0.2)
                          .labelColor(() => '#ffaaaa')
-                         .labelAltitude(d => d.alt + 0.01);
+                         .labelAltitude(0.01);
 
                     setTimeout(() => {
                         document.getElementById('loader-screen').style.opacity = '0';
