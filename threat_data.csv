@@ -934,3 +934,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-05 04:53:01,113.214.18.234,100,China,Hangzhou,Huashu media&Network Limited,Huashu media&Network Limited,Residential/Business,False
 2026-01-05 04:53:01,94.102.49.22,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
 2026-01-05 04:53:01,134.199.194.127,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 06:32:05,2.55.126.88,100,Israel,Atzmon,Partner Communications,,Mobile,False
+2026-01-05 06:32:05,65.49.1.109,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-05 06:32:05,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-05 06:32:05,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 06:32:05,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 06:32:05,164.92.221.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 06:32:05,52.176.217.57,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-05 06:32:05,200.196.50.91,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-01-05 06:32:05,20.163.33.220,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-05 06:32:05,41.89.227.161,100,Kenya,Nyeri,KENET,Dedan Kimathi University of Technology - Main campus,Residential/Business,False
+2026-01-05 06:32:05,118.193.69.177,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-05 06:32:05,199.192.19.152,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc",Data Center,False
+2026-01-05 06:32:05,91.219.196.17,100,Russia,Moscow,Private Enterprise Tron Vitaliy Vladimirovich,PLANETA,Residential/Business,False
+2026-01-05 06:32:05,172.236.228.208,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-05 06:32:05,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-05 06:32:05,142.93.138.149,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 06:32:05,43.157.22.57,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-05 06:32:05,103.49.238.134,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV Salka Kolaborasi Indonesia,Data Center,False
+2026-01-05 06:32:05,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-01-05 06:32:05,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 06:32:05,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 06:32:05,14.225.3.79,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-05 06:32:05,98.187.167.234,100,United States,Fayetteville,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-01-05 06:32:05,182.75.216.74,100,India,Mumbai,Bharti Airtel,IBT Media Private Limited,Mobile,False
+2026-01-05 06:32:05,139.59.92.253,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-01-05 06:32:05,52.169.217.234,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-05 06:32:05,40.124.173.206,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-05 06:32:05,20.163.15.174,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-05 06:32:05,121.73.168.252,100,New Zealand,Wellington,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-05 06:32:05,162.243.204.125,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-05 06:32:05,195.184.76.68,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-05 06:32:05,202.140.38.110,100,India,Mangaluru,Karuturi Telecom Pvt Ltd,D-VoiS Communications Private Limited,Residential/Business,False
+2026-01-05 06:32:05,78.128.112.74,100,Bulgaria,Sopot,noc@dotdash.host,4media,Residential/Business,True
+2026-01-05 06:32:05,103.118.156.2,100,Malaysia,Kuala Lumpur,MT Microtel Technology Sdn Bhd,MT Microtel Technology Sdn Bhd,Residential/Business,False
+2026-01-05 06:32:05,178.128.243.225,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-05 06:32:05,4.241.208.50,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-05 06:32:05,167.71.79.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 06:32:05,78.89.154.59,100,Kuwait,Kuwait City,WTC Mobile IP,,Mobile,False
+2026-01-05 06:32:05,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-05 06:32:05,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 06:32:05,195.184.76.168,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-05 06:32:05,50.37.231.46,100,United States,Rathdrum,Wholesail networks LLC,Ziply Fiber,Residential/Business,False
+2026-01-05 06:32:05,103.143.238.173,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-05 06:32:05,5.189.134.70,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-05 06:32:05,20.14.75.6,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
