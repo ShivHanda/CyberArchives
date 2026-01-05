@@ -1114,3 +1114,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-05 12:36:07,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
 2026-01-05 12:36:07,206.189.96.190,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-05 12:36:07,209.38.104.63,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,154.26.138.49,100,Singapore,Singapore,Cogent Communications,Contabo Asia Private Limited,Residential/Business,False
+2026-01-05 14:20:23,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-05 14:20:23,170.64.146.131,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 14:20:23,77.83.240.70,100,The Netherlands,Wormer,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-05 14:20:23,134.209.235.25,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,223.22.241.32,100,Taiwan,Neihu District,Asia Pacific On-Line,Asia Pacific On-Line Service Inc.,Mobile,False
+2026-01-05 14:20:23,45.56.66.67,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-05 14:20:23,68.218.64.76,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-05 14:20:23,45.78.217.203,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 14:20:23,101.47.163.173,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-05 14:20:23,51.81.14.24,100,United States,Sterling,OVH US LLC,"TFG, Group",Data Center,False
+2026-01-05 14:20:23,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 14:20:23,36.111.82.135,100,China,Hangzhou,China Telecom,Chinanet ZJ,Residential/Business,False
+2026-01-05 14:20:23,161.35.208.183,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,31.129.22.109,100,Portugal,Viana do Castelo,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,True
+2026-01-05 14:20:23,95.214.55.71,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-05 14:20:23,184.105.247.214,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-05 14:20:23,204.76.203.83,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,True
+2026-01-05 14:20:23,139.59.33.85,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 14:20:23,165.173.21.144,100,Singapore,Singapore,Myrepublic Limited,Myrepublic Limited,Residential/Business,False
+2026-01-05 14:20:23,222.110.147.56,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-05 14:20:23,45.78.198.228,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-05 14:20:23,134.199.204.19,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,138.68.169.29,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 14:20:23,93.88.200.45,100,The Netherlands,Dronten,"Closed Joint Stock Company ""AbkhazMedia""",New Hosting Technologies LLC,Residential/Business,False
+2026-01-05 14:20:23,122.175.193.205,100,India,Indore,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-01-05 14:20:23,221.226.24.62,100,China,Nanjing,CHINANET jiangsu province network,,Residential/Business,False
+2026-01-05 14:20:23,135.237.127.94,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-05 14:20:23,193.46.255.217,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 14:20:23,82.156.29.15,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-01-05 14:20:23,138.197.98.69,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-05 14:20:23,64.227.131.199,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-05 14:20:23,165.22.54.16,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-05 14:20:23,72.144.12.31,100,Germany,Frankfurt am Main,BellSouth.net Inc.,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-01-05 14:20:23,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-05 14:20:23,14.63.166.91,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-05 14:20:23,144.31.255.21,100,United States,Orem,"Ace Data Centers II, L.L.C.","Ace Data Centers II, LLC",Residential/Business,False
+2026-01-05 14:20:23,45.156.128.77,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-05 14:20:23,45.156.128.79,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-05 14:20:23,65.49.1.144,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-05 14:20:23,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-05 14:20:23,65.49.1.58,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-05 14:20:23,115.78.136.144,100,Vietnam,Ho Chi Minh City,VIETELftth,,Residential/Business,False
+2026-01-05 14:20:23,119.96.173.30,100,China,Hefei,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-01-05 14:20:23,138.124.158.147,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-01-05 14:20:23,199.188.205.87,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Data Center,True
+2026-01-05 14:20:23,111.248.220.142,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-05 14:20:23,143.110.215.84,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
