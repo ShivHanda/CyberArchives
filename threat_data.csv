@@ -1689,3 +1689,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-06 12:34:25,177.234.157.232,100,Brazil,João Pessoa,Dimenoc Servicos De Informatica Ltda,HostDime,Data Center,False
 2026-01-06 12:34:25,134.199.204.19,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-06 12:34:25,143.198.60.26,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 14:18:03,95.84.238.90,100,Russia,Moscow,National Cable Networks,,Residential/Business,False
+2026-01-06 14:18:03,183.107.190.230,100,South Korea,Daejeon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-06 14:18:03,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 14:18:03,36.50.63.131,100,Vietnam,Cầu Giấy,AS,44+ Technology Company Limited,Residential/Business,False
+2026-01-06 14:18:03,61.28.144.154,100,Philippines,Makati City,"Eastern Telecommunications Philippines, Inc.","Eastern Telecommunications Philippines, Inc",Residential/Business,False
+2026-01-06 14:18:03,123.195.40.20,100,Taiwan,Hsinchu,kbro CO. Ltd.,KBRO,Residential/Business,False
+2026-01-06 14:18:03,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 14:18:03,13.220.80.123,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-06 14:18:03,35.240.174.82,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-01-06 14:18:03,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-06 14:18:03,103.177.232.33,100,India,Hyderabad,Ishan's Network,Safal Solutions,Residential/Business,False
+2026-01-06 14:18:03,107.158.145.98,100,United States,New York,Eonix Corporation,ServerHub Miami,Data Center,False
+2026-01-06 14:18:03,101.47.161.75,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-06 14:18:03,121.171.79.121,100,South Korea,Seoul,Korea Telecom,,Residential/Business,False
+2026-01-06 14:18:03,20.127.244.67,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-06 14:18:03,51.89.166.236,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,True
+2026-01-06 14:18:03,218.161.90.126,100,Taiwan,Hsinchu County,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-06 14:18:03,103.214.112.160,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,PT Denbe Anugerah Solusindo,Data Center,False
+2026-01-06 14:18:03,120.48.31.239,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-06 14:18:03,37.59.110.4,100,France,Roubaix,OVH ISP,VPS static ips,Data Center,False
+2026-01-06 14:18:03,165.245.130.3,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-06 14:18:03,8.222.210.184,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-06 14:18:03,65.49.1.52,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-06 14:18:03,14.103.37.34,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-06 14:18:03,181.215.182.230,100,Brazil,Porto Seguro,SV INTERNET,SV PROVEDOR DE INTERNET LTDA - ME,Residential/Business,True
+2026-01-06 14:18:03,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 14:18:03,112.216.120.67,100,South Korea,Hwaseong-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-06 14:18:03,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-06 14:18:03,72.53.210.82,100,Canada,Nepean,Carrytel,Carrytel,Residential/Business,False
+2026-01-06 14:18:03,103.161.170.12,100,Vietnam,Cầu Diễn,VINABISON,Vina-bison International Trading Company Limited,Residential/Business,False
+2026-01-06 14:18:03,170.64.209.121,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 14:18:03,45.78.219.126,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 14:18:03,202.165.22.246,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-01-06 14:18:03,45.78.222.188,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 14:18:03,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 14:18:03,64.62.156.214,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-06 14:18:03,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-06 14:18:03,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-06 14:18:03,165.245.134.156,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-06 14:18:03,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-06 14:18:03,64.62.197.107,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-06 14:18:03,81.192.46.35,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-01-06 14:18:03,192.155.90.220,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-06 14:18:03,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-06 14:18:03,104.248.27.246,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
