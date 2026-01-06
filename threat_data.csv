@@ -1734,3 +1734,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-06 14:18:03,192.155.90.220,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-01-06 14:18:03,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-06 14:18:03,104.248.27.246,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 16:21:43,168.228.127.7,100,Colombia,Neiva,Columbus Networks de Colombia Limitada,Liberty Networks De Colombia,Residential/Business,False
+2026-01-06 16:21:43,20.196.88.169,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-06 16:21:43,79.174.63.10,100,Russia,Odintsovo,"JSC ""Ufanet""","JSC ""Ufanet""",Residential/Business,False
+2026-01-06 16:21:43,95.130.227.106,100,Uzbekistan,Tashkent,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,False
+2026-01-06 16:21:43,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-06 16:21:43,118.194.231.130,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-06 16:21:43,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-06 16:21:43,46.101.83.215,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-06 16:21:43,45.78.194.222,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 16:21:43,109.237.96.77,100,Germany,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited",Residential/Business,True
+2026-01-06 16:21:43,114.66.38.155,100,China,Beijing,China Telecom,"Beijing Yunlin Network Technology Co., Ltd",Residential/Business,False
+2026-01-06 16:21:43,192.241.141.144,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-06 16:21:43,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-06 16:21:43,118.193.59.227,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-06 16:21:43,101.47.142.2,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-06 16:21:43,103.170.255.132,100,Vietnam,Hanoi,Vietserver Services Technology Company Limited,Sunsea Informatics Company Limited,Residential/Business,False
+2026-01-06 16:21:43,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 16:21:43,66.132.153.159,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-06 16:21:43,103.26.136.173,100,Bangladesh,Dhaka,Grameen Communications,Grameen Communications,Residential/Business,False
+2026-01-06 16:21:43,45.78.219.157,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 16:21:43,64.227.136.96,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 16:21:43,122.166.70.14,100,India,Bengaluru,Bharti Airtel Ltd.,BHARTI,Residential/Business,False
+2026-01-06 16:21:43,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-06 16:21:43,178.16.54.155,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-06 16:21:43,182.42.125.63,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-06 16:21:43,133.167.43.48,100,Japan,Osaka,SAKURA Internet Inc.,SAKURA-OSAKA,Data Center,False
+2026-01-06 16:21:43,87.120.191.13,100,The Netherlands,Amsterdam,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-01-06 16:21:43,113.249.101.220,100,China,Chongqing,Chongqing Telecom,Chinanet CQ,Residential/Business,False
+2026-01-06 16:21:43,157.245.0.167,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 16:21:43,86.54.42.197,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-06 16:21:43,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-06 16:21:43,14.55.144.22,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,False
+2026-01-06 16:21:43,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 16:21:43,115.244.45.193,100,India,Hyderabad,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-01-06 16:21:43,12.182.125.210,100,United States,Houston,"AT&T Enterprises, LLC","EVERON, LLC",Residential/Business,False
+2026-01-06 16:21:43,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-06 16:21:43,179.43.133.154,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-01-06 16:21:43,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-06 16:21:43,218.207.25.249,100,China,Beijing,China Mobile,CQ JiangWeiNet,Mobile,False
+2026-01-06 16:21:43,66.132.153.157,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-06 16:21:43,116.193.191.159,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-06 16:21:43,45.153.34.158,100,The Netherlands,Eygelshoven,Pfcloud UG,VMHeaven.io,Residential/Business,False
+2026-01-06 16:21:43,122.165.121.195,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-01-06 16:21:43,45.82.13.170,100,Sweden,Stockholm,Dmitry Vorozhtsov,Dmitry Vorozhtsov,Residential/Business,False
+2026-01-06 16:21:43,115.231.78.11,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,True
