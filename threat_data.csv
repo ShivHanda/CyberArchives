@@ -1874,3 +1874,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-06 20:18:43,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
 2026-01-06 20:18:43,138.199.35.10,100,United States,Los Angeles,Datacamp Limited,Cdnext LAX,Data Center,True
 2026-01-06 20:18:43,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-06 22:16:36,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-01-06 22:16:36,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 22:16:36,64.62.197.106,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-06 22:16:36,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 22:16:36,139.59.110.139,100,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-01-06 22:16:36,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-06 22:16:36,195.24.236.155,100,The Netherlands,Amsterdam,Netiface Limited,Jafar Naderlo,Residential/Business,False
+2026-01-06 22:16:36,123.58.213.126,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-06 22:16:36,141.98.10.40,100,Lithuania,Kaunas,UAB Host Baltic,,Residential/Business,False
+2026-01-06 22:16:36,71.6.232.28,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-06 22:16:36,178.16.53.94,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-06 22:16:36,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-06 22:16:36,45.78.227.29,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 22:16:36,45.135.194.87,100,Germany,Langen,Pfcloud UG,Pfcloud UG,Residential/Business,False
+2026-01-06 22:16:36,178.62.112.236,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-06 22:16:36,117.50.71.117,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-06 22:16:36,14.195.19.75,100,India,Faridabad,Ttsl-isp Division,Tata Teleservices Limited -GSM Division,Residential/Business,False
+2026-01-06 22:16:36,51.83.71.110,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-06 22:16:36,159.65.162.121,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 22:16:36,52.187.162.248,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-06 22:16:36,206.168.34.218,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-06 22:16:36,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 22:16:36,178.128.242.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-06 22:16:36,64.227.172.126,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 22:16:36,41.185.65.86,100,South Africa,Cape Town,1 GRID (PTY) LTD,Grid,Residential/Business,False
+2026-01-06 22:16:36,65.49.1.61,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-06 22:16:36,185.247.137.87,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-06 22:16:36,107.150.104.184,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-01-06 22:16:36,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 22:16:36,45.142.154.98,100,Hong Kong,Hong Kong,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-06 22:16:36,118.193.47.114,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-06 22:16:36,128.1.132.137,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-06 22:16:36,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-06 22:16:36,101.47.141.125,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-06 22:16:36,146.190.232.186,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 22:16:36,155.4.244.169,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-01-06 22:16:36,139.59.159.209,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-01-06 22:16:36,43.133.156.8,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-06 22:16:36,92.205.185.174,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Residential/Business,False
+2026-01-06 22:16:36,20.163.5.243,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-06 22:16:36,187.16.96.250,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-01-06 22:16:36,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 22:16:36,152.32.140.188,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-01-06 22:16:36,51.75.194.10,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-01-06 22:16:36,45.142.154.10,100,Hong Kong,Hong Kong,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-06 22:16:36,103.164.20.42,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-06 22:16:36,20.169.107.26,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-06 22:16:36,152.32.245.196,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-06 22:16:36,201.103.234.89,100,Mexico,Cuauhtémoc,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-01-06 22:16:36,213.209.159.63,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
