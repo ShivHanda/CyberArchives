@@ -1399,3 +1399,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-06 01:16:32,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
 2026-01-06 01:16:32,202.46.155.230,100,Indonesia,Mataram,PT Blip Integrator Provider,Blip,Residential/Business,False
 2026-01-06 01:16:32,3.130.96.91,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-01-06 03:25:21,2.59.22.234,100,Austria,Vienna,Cogent Communications,Black HOST Ltd,Mobile,False
+2026-01-06 03:25:21,116.237.207.234,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-06 03:25:21,213.209.159.63,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-06 03:25:21,222.131.53.249,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-06 03:25:21,14.63.166.91,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-06 03:25:21,45.78.206.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 03:25:21,49.124.151.76,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-06 03:25:21,60.166.31.198,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-06 03:25:21,83.227.192.114,100,Sweden,Särö,Bredbandsbolaget,B2 Bredband AB,Residential/Business,False
+2026-01-06 03:25:21,101.32.102.110,100,Japan,Yokohama,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,False
+2026-01-06 03:25:21,103.226.138.241,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-06 03:25:21,144.126.217.19,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,170.64.209.72,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,193.112.246.228,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-01-06 03:25:21,220.246.43.109,100,Hong Kong,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-06 03:25:21,20.168.120.251,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-06 03:25:21,65.21.96.11,100,Finland,Helsinki,Hetzner Online GmbH,,Data Center,False
+2026-01-06 03:25:21,71.6.232.30,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-06 03:25:21,74.208.99.137,100,United States,Washington,IONOS SE,IONOS Inc,Data Center,False
+2026-01-06 03:25:21,134.209.206.135,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,146.190.18.64,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,170.64.138.9,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,194.113.236.217,100,Russia,Moscow,MTS PJSC,MTS PJSC,Mobile,False
+2026-01-06 03:25:21,82.223.83.53,100,Spain,Níjar,arsys.es,,Data Center,False
+2026-01-06 03:25:21,95.214.55.71,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-06 03:25:21,135.237.126.205,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-06 03:25:21,146.190.25.84,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,171.231.193.65,100,Vietnam,Pleiku,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-06 03:25:21,206.189.98.180,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,35.216.195.77,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-01-06 03:25:21,45.149.173.203,100,United States,Los Angeles,Clouvider Limited,Los Angeles Network,Data Center,True
+2026-01-06 03:25:21,203.150.140.143,100,Thailand,Si Racha,Internet Thailand Company Ltd,INEXT Broadband Company Limited,Residential/Business,False
+2026-01-06 03:25:21,204.76.203.213,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-06 03:25:21,159.65.193.9,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,20.46.228.199,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-06 03:25:21,134.199.198.136,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,165.245.138.243,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-06 03:25:21,104.206.108.18,100,United States,Oak Brook,Eonix Corporation,Eonix Corporation,Data Center,False
+2026-01-06 03:25:21,116.196.71.115,100,China,Beijing,"IDC, China Telecommunications Corporation","Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-06 03:25:21,167.99.49.89,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-06 03:25:21,205.185.117.108,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-06 03:25:21,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-06 03:25:21,218.69.115.74,100,China,Tianjin,CNC Group CHINA169 Tianjin Province Network,,Residential/Business,True
+2026-01-06 03:25:21,36.133.1.162,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-06 03:25:21,45.78.225.21,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-06 03:25:21,77.83.39.77,100,Ukraine,Kharkiv,Pitline Ltd,Pitline Ltd,Residential/Business,False
+2026-01-06 03:25:21,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-06 03:25:21,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-06 03:25:21,134.209.95.224,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-06 03:25:21,209.141.52.88,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
