@@ -2434,3 +2434,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 20:19:19,184.105.247.194,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-01-07 20:19:19,64.227.74.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-07 20:19:19,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-07 22:16:06,65.49.1.145,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 22:16:06,45.78.201.131,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 22:16:06,174.90.161.78,100,Canada,Toronto,Bell Canada,"Bell Mobility, Inc.",Mobile,False
+2026-01-07 22:16:06,65.49.1.138,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 22:16:06,65.49.1.142,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 22:16:06,123.139.116.184,100,China,Xi'an,CNC Group CHINA169 Shanni Province Network,,Residential/Business,False
+2026-01-07 22:16:06,160.251.121.70,100,Japan,Chiyoda City,"GMO Internet Group, Inc.",interQ,Data Center,True
+2026-01-07 22:16:06,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-07 22:16:06,172.96.182.111,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-01-07 22:16:06,45.78.216.106,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 22:16:06,103.181.143.232,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-07 22:16:06,65.49.1.128,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 22:16:06,45.61.184.133,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-07 22:16:06,45.78.218.104,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 22:16:06,167.172.39.73,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 22:16:06,218.205.95.161,100,China,Hangzhou,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-07 22:16:06,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-07 22:16:06,43.227.185.238,100,India,Noida,i2k2 Networks Pvt Ltd,Curemed Solutions Private Limited,Residential/Business,False
+2026-01-07 22:16:06,44.202.20.23,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-07 22:16:06,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-07 22:16:06,213.177.179.61,100,Iran,Tehran,Ali Moradi,Ali Moradi,Residential/Business,False
+2026-01-07 22:16:06,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 22:16:06,104.248.207.78,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 22:16:06,193.163.125.109,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-07 22:16:06,64.82.206.194,100,United States,Sainte Genevieve,Big River Telephone,Big River Telephone,Residential/Business,False
+2026-01-07 22:16:06,177.136.248.118,100,Brazil,Taboão da Serra,EVEO Serviços de Internet Ltda.,Eveo S.A,Residential/Business,False
+2026-01-07 22:16:06,23.97.62.146,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-07 22:16:06,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-07 22:16:06,45.78.217.8,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 22:16:06,101.47.51.24,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-07 22:16:06,64.23.139.220,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-07 22:16:06,104.152.40.8,100,United States,Jasper,Aeneas Internet Services,"Cyber Broadband, Inc",Residential/Business,False
+2026-01-07 22:16:06,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-07 22:16:06,77.74.229.158,100,Spain,Madrid,Istqrar for Servers Services Ltd,Ipxo Limited,Residential/Business,False
+2026-01-07 22:16:06,51.159.18.215,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-07 22:16:06,64.62.197.88,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-07 22:16:06,64.62.197.82,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-07 22:16:06,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-07 22:16:06,172.210.9.231,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-07 22:16:06,4.194.138.63,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-07 22:16:06,64.62.197.77,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-01-07 22:16:06,64.62.197.81,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-07 22:16:06,209.38.78.160,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 22:16:06,110.93.25.38,100,South Korea,Ansan-si,Gyeonggi Technopark,GTP,Residential/Business,False
+2026-01-07 22:16:06,118.145.201.53,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
