@@ -2389,3 +2389,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 18:25:09,137.184.113.202,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
 2026-01-07 18:25:09,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
 2026-01-07 18:25:09,185.247.137.4,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-07 20:19:19,146.190.17.124,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-07 20:19:19,158.69.213.129,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-07 20:19:19,204.76.203.8,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-07 20:19:19,59.98.41.27,100,India,Sivakasi,BSNL Internet,,Residential/Business,False
+2026-01-07 20:19:19,91.231.89.242,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-07 20:19:19,23.97.62.146,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-07 20:19:19,176.65.149.76,100,The Netherlands,Eygelshoven,Pfcloud UG,Pfcloud UG,Residential/Business,False
+2026-01-07 20:19:19,164.92.213.130,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 20:19:19,137.184.113.202,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-07 20:19:19,101.47.161.85,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-07 20:19:19,34.91.0.68,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,True
+2026-01-07 20:19:19,159.65.206.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 20:19:19,177.44.220.67,100,Brazil,Mariópolis,Dataware Telecomunicações LTDA. - EPP,Dataware Telecomunicações LTDA. - EPP,Residential/Business,False
+2026-01-07 20:19:19,182.95.223.142,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-07 20:19:19,187.115.144.103,100,Brazil,Recife,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-01-07 20:19:19,14.103.175.138,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-07 20:19:19,45.78.217.45,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 20:19:19,3.86.241.49,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-07 20:19:19,52.224.71.115,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-07 20:19:19,111.70.23.240,100,Taiwan,Guishan,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-07 20:19:19,178.128.255.229,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-07 20:19:19,178.128.250.59,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-07 20:19:19,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 20:19:19,103.105.176.66,100,India,Hyderabad,Rohan Media Private Ltd,Rohan Media Private Ltd,Residential/Business,False
+2026-01-07 20:19:19,119.27.166.31,100,China,Chengdu,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-01-07 20:19:19,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-07 20:19:19,140.245.121.8,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-07 20:19:19,49.0.38.130,100,Bangladesh,Dhaka,Always On Network Bangladesh Ltd.,Always On Network Bangladesh Ltd,Residential/Business,False
+2026-01-07 20:19:19,209.38.46.224,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 20:19:19,140.238.186.185,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-01-07 20:19:19,167.172.39.200,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 20:19:19,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-07 20:19:19,110.166.71.39,100,China,Xining,CHINANET Qinghai province IDC network,Chinanet QH,Residential/Business,True
+2026-01-07 20:19:19,204.76.203.18,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-07 20:19:19,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-07 20:19:19,66.132.153.118,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-07 20:19:19,109.205.179.120,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-07 20:19:19,64.23.139.220,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-07 20:19:19,14.103.127.75,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-07 20:19:19,45.156.128.164,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-07 20:19:19,185.196.8.253,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-07 20:19:19,195.218.157.226,100,Russia,St Petersburg,EDN Sovintel,,Residential/Business,False
+2026-01-07 20:19:19,184.105.247.194,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 20:19:19,64.227.74.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 20:19:19,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
