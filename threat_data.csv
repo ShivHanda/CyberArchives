@@ -2204,3 +2204,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 10:19:06,144.7.76.178,100,China,Jinan,China Telecom,Chinanet SD,Residential/Business,False
 2026-01-07 10:19:06,220.81.148.22,100,South Korea,Yeongju,Korea Telecom,Korea Telecom,Residential/Business,False
 2026-01-07 10:19:06,77.83.39.128,100,Ukraine,Kharkiv,Pitline Ltd,Pitline Ltd,Residential/Business,False
+2026-01-07 12:35:19,91.224.92.150,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-07 12:35:19,39.129.119.45,100,China,Guangzhou,China Mobile,China Mobile,Mobile,False
+2026-01-07 12:35:19,182.90.248.108,100,China,Liuzhou,China Unicom Guangxi Province Network,,Residential/Business,False
+2026-01-07 12:35:19,183.179.164.210,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-01-07 12:35:19,103.154.123.19,100,Indonesia,Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-01-07 12:35:19,182.95.62.126,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-07 12:35:19,188.247.43.42,100,Russia,Zhirnovsk,Unico network,,Residential/Business,False
+2026-01-07 12:35:19,203.129.217.70,100,India,Noida,Software Technology Parks of India - Bangalore,Ganga Software,Residential/Business,False
+2026-01-07 12:35:19,46.151.182.137,100,Ukraine,Kyiv,Demenin B.V,Demenin B.V,Residential/Business,False
+2026-01-07 12:35:19,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 12:35:19,104.248.68.94,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 12:35:19,14.29.198.25,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-07 12:35:19,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 12:35:19,171.231.190.9,100,Vietnam,Pleiku,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-07 12:35:19,92.205.175.29,100,Germany,Cologne,Host Europe GmbH,Host Europe GmbH,Residential/Business,False
+2026-01-07 12:35:19,176.65.132.5,100,The Netherlands,Eygelshoven,Pfcloud UG,VMHeaven.io,Residential/Business,False
+2026-01-07 12:35:19,57.131.18.138,100,Italy,Milan,OVH SAS,OVH Srl,Data Center,False
+2026-01-07 12:35:19,109.237.96.187,100,Germany,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited",Residential/Business,False
+2026-01-07 12:35:19,211.62.61.190,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-07 12:35:19,78.128.112.74,100,Bulgaria,Sopot,noc@dotdash.host,4media,Residential/Business,True
+2026-01-07 12:35:19,152.32.145.111,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-07 12:35:19,20.65.194.162,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-07 12:35:19,45.78.205.7,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 12:35:19,198.177.122.156,100,United States,Phoenix,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
+2026-01-07 12:35:19,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-07 12:35:19,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
+2026-01-07 12:35:19,37.46.17.63,100,Germany,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited",Residential/Business,False
+2026-01-07 12:35:19,165.154.227.66,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-01-07 12:35:19,45.78.222.250,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 12:35:19,176.32.195.85,100,Armenia,Yerevan,Ucom CJSC,Interactive TV LLC,Residential/Business,False
+2026-01-07 12:35:19,45.78.219.144,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 12:35:19,164.92.158.2,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 12:35:19,193.163.125.150,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-07 12:35:19,37.255.198.73,100,Iran,Isfahan,Iran Telecommunication Company PJS,Telecomadsl,Residential/Business,False
+2026-01-07 12:35:19,92.204.67.73,100,France,Strasbourg,GD MASS Network,Go Daddy Netherlands B.V,Residential/Business,False
+2026-01-07 12:35:19,65.49.1.12,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-07 12:35:19,86.54.42.199,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-07 12:35:19,178.128.180.170,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-07 12:35:19,171.243.148.214,100,Vietnam,Ho Chi Minh City,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-07 12:35:19,101.47.49.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-07 12:35:19,45.236.242.202,100,Brazil,Manaus,SIDI SERVIÇOS DE COMUNICAÇÃO LTDA-ME,SIDI SERVIÇOS DE COMUNICAÇÃO LTDA-ME,Residential/Business,False
+2026-01-07 12:35:19,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-07 12:35:19,103.189.235.93,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-07 12:35:19,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-07 12:35:19,45.135.194.33,100,Germany,Langen,Pfcloud UG,Pfcloud UG,Residential/Business,False
