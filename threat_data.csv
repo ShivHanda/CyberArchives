@@ -2154,3 +2154,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 08:23:53,47.251.75.26,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
 2026-01-07 08:23:53,135.237.126.12,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
 2026-01-07 08:23:53,182.95.222.186,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-07 10:19:06,134.209.104.238,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 10:19:06,167.71.76.241,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 10:19:06,219.92.8.45,100,Malaysia,Kuala Lumpur,TMnet,,Residential/Business,False
+2026-01-07 10:19:06,84.213.191.100,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-07 10:19:06,152.42.181.18,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-07 10:19:06,178.232.194.231,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-07 10:19:06,62.133.169.58,100,Russia,Ufa,DSL,Bashinformsvyaz Company,Residential/Business,False
+2026-01-07 10:19:06,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-07 10:19:06,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 10:19:06,24.232.114.16,100,Argentina,Córdoba,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-01-07 10:19:06,81.29.142.50,100,Russia,St Petersburg,Data-center IMAQLIQ Ltd.,IMAQLIQ SERVICE Ltd,Data Center,False
+2026-01-07 10:19:06,122.170.98.139,100,India,Mumbai,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-01-07 10:19:06,182.95.226.82,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-07 10:19:06,181.49.50.6,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-01-07 10:19:06,187.226.12.98,100,Mexico,Jiutepec,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-01-07 10:19:06,101.47.49.134,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-07 10:19:06,164.92.210.222,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 10:19:06,183.224.122.114,100,China,Dali,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-07 10:19:06,62.212.70.129,100,The Netherlands,Amsterdam,LeaseWeb Netherlands B.V.,LeaseWeb Netherlands B.V.,Data Center,False
+2026-01-07 10:19:06,134.209.81.146,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 10:19:06,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-07 10:19:06,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-07 10:19:06,45.78.219.19,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 10:19:06,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-07 10:19:06,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 10:19:06,112.30.7.45,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-07 10:19:06,170.233.29.175,100,Argentina,Río Gallegos,Sebastian Souto,Sebastian Souto,Residential/Business,False
+2026-01-07 10:19:06,77.106.78.215,100,Russia,Barnaul,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Barnaul Branch",Residential/Business,False
+2026-01-07 10:19:06,82.19.12.103,100,United Kingdom,Bromley,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-01-07 10:19:06,178.217.108.153,100,Russia,Nekrasovka,Obyedinyonniye Lokalniye Seti Ltd,U-LAN,Residential/Business,False
+2026-01-07 10:19:06,20.163.13.196,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-07 10:19:06,103.49.238.251,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV Salka Kolaborasi Indonesia,Data Center,False
+2026-01-07 10:19:06,134.209.253.56,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 10:19:06,91.230.168.161,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-07 10:19:06,152.42.135.223,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-07 10:19:06,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-01-07 10:19:06,120.198.61.146,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-07 10:19:06,218.95.73.31,100,China,Yichun,Chinanet,Chinanet JX,Residential/Business,False
+2026-01-07 10:19:06,2001:470:1:c84::27,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-07 10:19:06,95.57.63.23,100,Kazakhstan,Aktau,JSC Kazakhtelecom,Megaline Karaganda,Residential/Business,False
+2026-01-07 10:19:06,104.243.245.4,100,Mexico,Mexico City,Ipxo LLC,,Residential/Business,True
+2026-01-07 10:19:06,180.184.183.66,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-07 10:19:06,220.80.223.144,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-01-07 10:19:06,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-07 10:19:06,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 10:19:06,218.90.120.53,100,China,Shanghai,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-07 10:19:06,14.103.201.7,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-07 10:19:06,144.7.76.178,100,China,Jinan,China Telecom,Chinanet SD,Residential/Business,False
+2026-01-07 10:19:06,220.81.148.22,100,South Korea,Yeongju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-07 10:19:06,77.83.39.128,100,Ukraine,Kharkiv,Pitline Ltd,Pitline Ltd,Residential/Business,False
