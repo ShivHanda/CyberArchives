@@ -2064,3 +2064,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 04:36:34,189.238.29.242,100,Mexico,Centro Municipality,Uninet S.A. de C.V.,Uninet S.A. de C.V.,Residential/Business,False
 2026-01-07 04:36:34,45.142.193.183,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
 2026-01-07 04:36:34,216.10.242.161,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
+2026-01-07 06:26:23,206.189.103.58,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 06:26:23,147.50.103.212,100,Thailand,Phaya Thai,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-01-07 06:26:23,58.228.105.192,100,South Korea,Mapo-gu,SK Broadband Co Ltd,broadNnet,Mobile,False
+2026-01-07 06:26:23,213.177.179.12,100,Iran,Tehran,Ali Moradi,Ali Moradi,Residential/Business,False
+2026-01-07 06:26:23,80.94.127.19,100,Italy,Milan,Retelit Digital Services S.p.A.,Devp00,Residential/Business,False
+2026-01-07 06:26:23,101.47.143.185,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-07 06:26:23,59.13.196.77,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-07 06:26:23,179.43.139.58,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-01-07 06:26:23,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-07 06:26:23,77.87.40.114,100,Ukraine,Kyiv,Zubko Volodymyr Viktorovych,ISP ZNet,Residential/Business,False
+2026-01-07 06:26:23,68.183.176.190,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 06:26:23,218.149.235.152,100,South Korea,Yeongcheon-si,Korea Telecom,,Residential/Business,False
+2026-01-07 06:26:23,176.65.149.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Pfcloud UG,Residential/Business,False
+2026-01-07 06:26:23,27.111.32.174,100,Indonesia,Jakarta,INET-ISP,,Mobile,False
+2026-01-07 06:26:23,103.215.140.205,100,China,Shiqi,Cloud Computing Corporation,"Shenzhen Yunjie Network Co., Ltd.",Data Center,False
+2026-01-07 06:26:23,180.173.121.100,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-07 06:26:23,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 06:26:23,45.93.168.13,100,The Netherlands,Amsterdam,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi,,Mobile,False
+2026-01-07 06:26:23,118.193.57.185,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-07 06:26:23,203.150.162.250,100,Thailand,Vadhana,Internet Thailand Company Ltd,INEXT Broadband Company Limited,Residential/Business,False
+2026-01-07 06:26:23,161.35.88.229,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 06:26:23,60.242.172.202,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd.,Residential/Business,False
+2026-01-07 06:26:23,90.189.219.80,100,Russia,Novosibirsk,Rostelecom networks,OJSC Sibirtelecom,Residential/Business,False
+2026-01-07 06:26:23,163.44.102.59,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-07 06:26:23,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 06:26:23,14.103.116.74,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-07 06:26:23,71.6.199.65,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-07 06:26:23,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 06:26:23,162.243.22.228,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-07 06:26:23,159.203.173.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-07 06:26:23,199.45.154.185,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-07 06:26:23,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-07 06:26:23,134.199.204.19,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-07 06:26:23,162.243.204.125,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-07 06:26:23,185.196.11.128,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-07 06:26:23,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-07 06:26:23,118.194.250.47,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-07 06:26:23,14.225.216.240,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,True
+2026-01-07 06:26:23,20.173.116.24,100,Qatar,Doha,Microsoft Corporation,Microsoft Azure Cloud (qatarcentral),Data Center,False
+2026-01-07 06:26:23,45.78.206.15,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-07 06:26:23,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-07 06:26:23,160.250.187.1,100,Vietnam,Ho Chi Minh City,VNONE,VNONE Vietnam Company Limited,Residential/Business,False
+2026-01-07 06:26:23,20.241.133.19,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-07 06:26:23,66.132.153.120,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-07 06:26:23,59.36.211.132,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
