@@ -2569,3 +2569,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-08 03:25:44,149.54.62.118,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
 2026-01-08 03:25:44,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
 2026-01-08 03:25:44,165.154.10.175,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 04:35:19,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 04:35:19,95.66.178.169,100,Russia,Vladimir,"Limited Liability Company ""Infocentre""",Limited Liability Company,Residential/Business,False
+2026-01-08 04:35:19,195.184.76.116,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-08 04:35:19,188.138.102.156,100,France,Strasbourg,velia.net Internetdienste GmbH,,Data Center,False
+2026-01-08 04:35:19,183.167.198.31,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-08 04:35:19,183.107.190.230,100,South Korea,Daejeon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-08 04:35:19,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-01-08 04:35:19,172.245.177.139,100,United States,Buffalo,Electro Nebula LLC,Sunil Mirpuri,Data Center,False
+2026-01-08 04:35:19,78.70.41.67,100,Sweden,Lidköping,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-01-08 04:35:19,88.210.63.190,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,FOP Dmytro Nedilskyi,Residential/Business,False
+2026-01-08 04:35:19,125.228.47.114,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-08 04:35:19,185.40.30.168,100,Russia,Moscow,Start2 LLC,NetRack STD,Data Center,False
+2026-01-08 04:35:19,64.62.156.182,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-08 04:35:19,185.177.72.10,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-01-08 04:35:19,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-08 04:35:19,45.78.194.213,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 04:35:19,196.204.240.61,100,Egypt,Abū an Numrus,Vodafone Data - Egypt,Mentor,Residential/Business,False
+2026-01-08 04:35:19,45.142.193.7,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,True
+2026-01-08 04:35:19,101.47.162.19,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-08 04:35:19,185.156.73.181,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-01-08 04:35:19,218.202.91.147,100,China,Guangzhou,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-08 04:35:19,103.171.85.219,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-08 04:35:19,20.38.32.246,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-08 04:35:19,218.145.181.48,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-08 04:35:19,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-08 04:35:19,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-08 04:35:19,77.90.185.52,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-08 04:35:19,187.16.96.250,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-01-08 04:35:19,45.78.224.109,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 04:35:19,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-08 04:35:19,211.21.191.179,100,Taiwan,Hsinchu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-08 04:35:19,198.23.177.138,100,United States,Buffalo,HostPapa,Eric Lee,Data Center,False
+2026-01-08 04:35:19,173.252.167.60,100,United States,Wilmington,OrangeHost,OrangeHost,Residential/Business,True
+2026-01-08 04:35:19,171.243.149.78,100,Vietnam,Ho Chi Minh City,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-08 04:35:19,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-08 04:35:19,130.250.191.228,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-01-08 04:35:19,43.131.57.179,100,Germany,Frankfurt am Main,Aceville Pte.ltd,,Data Center,False
+2026-01-08 04:35:19,109.205.211.63,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-08 04:35:19,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 04:35:19,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 04:35:19,206.168.34.159,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-08 04:35:19,64.62.156.104,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-08 04:35:19,69.197.191.106,100,United States,Kansas City,WholeSale Internet,danggeshuju,Data Center,False
+2026-01-08 04:35:19,78.109.200.147,100,Iran,Tehran,Afranet,Afranet,Data Center,False
+2026-01-08 04:35:19,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 04:35:19,201.183.225.156,100,Ecuador,Quito,Ecuadortelecom S.A.,Ecuadortelecom S.A,Residential/Business,False
+2026-01-08 04:35:19,93.123.109.165,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-08 04:35:19,129.212.181.84,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 04:35:19,116.255.159.84,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,"Zhengzhou Gainet Computer Network Technology Co., Ltd.",Residential/Business,False
+2026-01-08 04:35:19,51.15.34.47,100,The Netherlands,Haarlem,Online SAS NL,SCALEWAY,Data Center,False
