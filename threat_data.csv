@@ -2664,3 +2664,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-08 06:27:09,121.228.31.181,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
 2026-01-08 06:27:09,8.209.219.74,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-01-08 06:27:09,134.209.92.248,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,114.100.49.20,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-08 08:24:04,190.153.249.99,100,Chile,Santiago,Gtd Internet S.A.,Manquehuenet,Residential/Business,False
+2026-01-08 08:24:04,20.168.121.238,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-08 08:24:04,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-08 08:24:04,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-01-08 08:24:04,62.141.107.204,100,Russia,Solnechnogorsk,"PJSC ""Vimpelcom""",BeeLine ORL KViKFuD,Residential/Business,False
+2026-01-08 08:24:04,212.11.64.162,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-08 08:24:04,20.168.99.52,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-08 08:24:04,164.92.208.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,178.128.255.88,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-08 08:24:04,45.78.216.142,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 08:24:04,162.214.92.14,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-08 08:24:04,154.198.162.75,100,Hong Kong,Hong Kong,Scloud Pteltd,,Residential/Business,False
+2026-01-08 08:24:04,182.239.78.124,100,Hong Kong,Kwai Chung,China Mobile Hong Kong Company Limited,China Mobile Hong Kong Company Limited,Mobile,False
+2026-01-08 08:24:04,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 08:24:04,161.35.218.223,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,86.54.42.186,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-08 08:24:04,101.47.163.3,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-08 08:24:04,79.124.56.226,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-08 08:24:04,45.78.219.99,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 08:24:04,51.38.225.46,100,France,Gravelines,OVH SAS,OVH,Data Center,True
+2026-01-08 08:24:04,109.205.211.68,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-08 08:24:04,134.209.205.151,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,193.24.211.203,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-08 08:24:04,156.238.252.133,100,United States,Los Angeles,High Family Technology Co,"High Family Technology Co., Limited",Residential/Business,False
+2026-01-08 08:24:04,76.190.155.43,100,United States,Cleveland,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-01-08 08:24:04,159.65.201.221,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-08 08:24:04,118.26.39.178,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 08:24:04,118.194.250.47,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 08:24:04,79.175.176.177,100,Iran,Tehran,AFranet Co,Afranet,Data Center,False
+2026-01-08 08:24:04,134.209.197.236,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,71.6.232.23,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-08 08:24:04,114.220.238.30,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-08 08:24:04,164.92.146.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 08:24:04,138.68.110.53,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-08 08:24:04,35.240.174.82,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-01-08 08:24:04,80.94.92.65,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-08 08:24:04,58.98.100.91,100,Japan,Sanjō,NTT-ME Corporation,NTT-ME Corporation,Residential/Business,False
+2026-01-08 08:24:04,64.23.240.89,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-08 08:24:04,118.145.155.245,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-01-08 08:24:04,181.46.131.55,100,Argentina,San Justo,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-01-08 08:24:04,222.239.56.211,100,South Korea,Yeosu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-08 08:24:04,69.5.189.190,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-08 08:24:04,223.75.204.39,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-08 08:24:04,171.231.190.26,100,Vietnam,Pleiku,Viettel Corporation,VIETEL,Residential/Business,False
