@@ -2479,3 +2479,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-07 22:16:06,209.38.78.160,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-07 22:16:06,110.93.25.38,100,South Korea,Ansan-si,Gyeonggi Technopark,GTP,Residential/Business,False
 2026-01-07 22:16:06,118.145.201.53,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-01-08 01:17:42,85.217.149.12,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-08 01:17:42,103.178.231.51,100,Vietnam,Da Nang,DATHANH,Da Thanh Service and Trade Company Limited,Residential/Business,True
+2026-01-08 01:17:42,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 01:17:42,78.128.114.126,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-08 01:17:42,89.185.84.93,100,United Kingdom,London,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-08 01:17:42,101.47.142.8,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-08 01:17:42,135.222.40.118,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-08 01:17:42,45.249.245.22,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 01:17:42,175.206.113.91,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-08 01:17:42,45.142.193.35,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,True
+2026-01-08 01:17:42,52.165.89.103,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-08 01:17:42,103.91.90.103,100,India,Pune,Primenet Web Technologies Pvt Ltd,Primenet Web Technologies Pvt Ltd,Residential/Business,False
+2026-01-08 01:17:42,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-08 01:17:42,66.132.153.134,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-08 01:17:42,103.47.184.2,100,Myanmar,Insein,Myanma Post & Telecommunication,"Myanmar Technology Gateway Co., Ltd",Residential/Business,False
+2026-01-08 01:17:42,111.4.120.19,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-08 01:17:42,135.222.40.117,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-08 01:17:42,202.184.77.218,100,Malaysia,Puchong Batu Dua Belas,TT DOTCOM SDN BHD,TT DOTCOM SDN BHD,Residential/Business,False
+2026-01-08 01:17:42,139.9.142.25,100,China,Beijing,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-01-08 01:17:42,206.189.12.86,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 01:17:42,172.174.248.115,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-08 01:17:42,220.158.233.246,100,Cambodia,Phnom Penh,BUCT,"VIETTEL (CAMBODIA) PTE., LTD",Mobile,False
+2026-01-08 01:17:42,144.217.241.75,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-08 01:17:42,185.65.202.184,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Mobile,False
+2026-01-08 01:17:42,218.78.131.154,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-08 01:17:42,159.203.64.207,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-08 01:17:42,20.193.141.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-01-08 01:17:42,45.78.194.58,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 01:17:42,195.199.212.141,100,Hungary,Budapest,KIFU (Governmental Info Tech Development Agency),Sulinet E5934,Residential/Business,False
+2026-01-08 01:17:42,93.123.109.165,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-08 01:17:42,101.47.50.183,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-08 01:17:42,157.20.32.166,100,Indonesia,Jakarta,PT Intercloud Digital Inovasi,PT Intercloud Digital Inovasi,Residential/Business,False
+2026-01-08 01:17:42,34.75.78.49,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-01-08 01:17:42,165.245.132.48,100,United States,Broomfield,DigitalOcean,"DigitalOcean, LLC",Residential/Business,False
+2026-01-08 01:17:42,51.178.134.66,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-01-08 01:17:42,103.85.180.229,100,India,Arambol,Dataexpress Pvt Ltd,NIXI,Residential/Business,False
+2026-01-08 01:17:42,146.88.241.179,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-01-08 01:17:42,200.89.159.59,100,Argentina,Buenos Aires,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-01-08 01:17:42,1.64.107.137,100,Hong Kong,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-08 01:17:42,77.222.100.142,100,Russia,Chelyabinsk,INTERSV,JSC Net,Residential/Business,False
+2026-01-08 01:17:42,98.191.229.175,100,United States,Tulsa,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-01-08 01:17:42,119.160.166.237,100,Brunei,Bandar Seri Begawan,espeed - Broadband DSL,,Residential/Business,False
+2026-01-08 01:17:42,154.125.120.7,100,Senegal,Dakar,Sonatel,,Residential/Business,False
+2026-01-08 01:17:42,173.239.218.192,100,United States,Los Angeles,LogicWeb Inc,,Data Center,True
+2026-01-08 01:17:42,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
