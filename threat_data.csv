@@ -2754,3 +2754,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-08 10:19:34,185.165.29.95,100,Iran,Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),,Data Center,False
 2026-01-08 10:19:34,14.103.159.174,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
 2026-01-08 10:19:34,104.248.204.60,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-08 12:35:32,186.233.118.22,100,Brazil,Rio de Janeiro,Golden Link,Golden Link,Mobile,False
+2026-01-08 12:35:32,143.44.144.224,100,Philippines,Olongapo City,ComClark Network & Technology Corp,Converge ICT Network,Residential/Business,False
+2026-01-08 12:35:32,45.78.193.188,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 12:35:32,117.50.183.49,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-08 12:35:32,37.19.221.23,100,United States,Houston,Datacamp Limited,Cdnext HOU,Data Center,False
+2026-01-08 12:35:32,115.133.68.171,100,Malaysia,Cyberjaya,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-01-08 12:35:32,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-08 12:35:32,51.89.38.21,100,United Kingdom,London,OVH SAS,OVH BV,Data Center,False
+2026-01-08 12:35:32,94.247.172.129,100,Sweden,Falkenberg,GleSYS Internet Services AB,,Residential/Business,True
+2026-01-08 12:35:32,185.102.115.120,100,United States,Philadelphia,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-01-08 12:35:32,103.170.255.132,100,Vietnam,Hanoi,Vietserver Services Technology Company Limited,Sunsea Informatics Company Limited,Residential/Business,False
+2026-01-08 12:35:32,159.223.209.122,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,134.209.80.127,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,66.132.153.155,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-08 12:35:32,120.78.184.236,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-08 12:35:32,118.26.104.212,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 12:35:32,145.239.10.137,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-01-08 12:35:32,212.73.148.3,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-08 12:35:32,54.145.186.166,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-08 12:35:32,45.78.217.207,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 12:35:32,167.172.42.78,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,5.252.22.11,100,Germany,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,Residential/Business,True
+2026-01-08 12:35:32,109.205.211.62,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-08 12:35:32,111.172.230.224,100,China,Wuhan,China Telecom,Chinanet HB,Residential/Business,False
+2026-01-08 12:35:32,2001:470:1:fb5::2a0,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-08 12:35:32,58.34.174.90,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-01-08 12:35:32,101.47.140.243,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-08 12:35:32,118.193.36.149,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-08 12:35:32,157.245.78.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,162.240.100.50,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-08 12:35:32,101.47.161.217,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-08 12:35:32,45.78.217.17,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 12:35:32,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-08 12:35:32,103.90.225.195,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-01-08 12:35:32,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-08 12:35:32,188.166.83.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-08 12:35:32,135.237.126.36,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-08 12:35:32,142.93.214.217,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,137.59.55.50,100,India,Indore,Emax Global Media Pvt. LTD,Emax Global Media Pvt. Ltd.,Residential/Business,False
+2026-01-08 12:35:32,164.90.151.212,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,193.46.255.244,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-08 12:35:32,142.93.138.189,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-08 12:35:32,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-08 12:35:32,45.78.218.109,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-08 12:35:32,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
