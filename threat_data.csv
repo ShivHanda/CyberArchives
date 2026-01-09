@@ -3539,3 +3539,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-09 20:19:35,61.191.140.79,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
 2026-01-09 20:19:35,101.47.162.12,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
 2026-01-09 20:19:35,178.128.254.165,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-09 22:16:40,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-09 22:16:40,68.218.11.70,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-09 22:16:40,103.59.95.12,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-09 22:16:40,85.11.167.11,100,Bulgaria,Sofia,ColocaTel Inc.,Sofcompany,Residential/Business,False
+2026-01-09 22:16:40,119.18.52.5,100,India,Nashik,HGINDIA,,Data Center,False
+2026-01-09 22:16:40,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-01-09 22:16:40,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-09 22:16:40,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-09 22:16:40,45.56.69.60,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-09 22:16:40,202.169.56.221,100,Indonesia,Jakarta,Biznet - PSN-NAP,,Residential/Business,False
+2026-01-09 22:16:40,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-09 22:16:40,103.183.74.130,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-09 22:16:40,190.223.53.234,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Mobile,False
+2026-01-09 22:16:40,43.133.157.163,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-09 22:16:40,165.22.184.62,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 22:16:40,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-09 22:16:40,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-09 22:16:40,134.199.205.25,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 22:16:40,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-09 22:16:40,115.190.63.151,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-09 22:16:40,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-09 22:16:40,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-09 22:16:40,129.212.186.117,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 22:16:40,45.142.154.98,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-09 22:16:40,134.112.56.47,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-01-09 22:16:40,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-09 22:16:40,45.78.219.238,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-09 22:16:40,41.33.172.40,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-01-09 22:16:40,101.47.142.55,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-09 22:16:40,4.230.25.164,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-09 22:16:40,118.99.80.55,100,Indonesia,Jakarta,BIZNET,,Residential/Business,False
+2026-01-09 22:16:40,81.226.154.146,100,Sweden,Stallarholmen,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-01-09 22:16:40,218.0.56.78,100,China,Hangzhou,China Telecom,,Residential/Business,False
+2026-01-09 22:16:40,45.78.227.2,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-09 22:16:40,200.195.162.70,100,Brazil,Curitiba,Ligga Telecomunicações S.A,ATZ Renovadora de Pneus Ltda,Residential/Business,False
+2026-01-09 22:16:40,185.217.0.181,100,Sweden,Stockholm,w1n ltd,W1n,Data Center,False
+2026-01-09 22:16:40,41.74.172.237,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-01-09 22:16:40,72.144.12.31,100,Germany,Frankfurt am Main,BellSouth.net Inc.,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-01-09 22:16:40,14.139.107.146,100,India,Gandhinagar,National Knowledge Network,National institute of Naturopathy,Residential/Business,False
+2026-01-09 22:16:40,79.124.56.114,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-09 22:16:40,79.49.191.245,100,Italy,Trevi,INTERBUSINESS,,Residential/Business,False
+2026-01-09 22:16:40,101.47.49.224,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-09 22:16:40,170.254.229.191,100,Colombia,Cartago,Media Commerce Partners S.A,MACESAMOTOS,Residential/Business,False
+2026-01-09 22:16:40,189.178.26.161,100,Mexico,Guadalajara,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-09 22:16:40,181.46.131.55,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
