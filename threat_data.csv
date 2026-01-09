@@ -3309,3 +3309,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-09 10:18:03,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
 2026-01-09 10:18:03,121.171.95.112,100,South Korea,Seoul,Korea Telecom,Sudogwonseobubonbu,Residential/Business,False
 2026-01-09 10:18:03,52.175.145.68,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-09 12:34:26,23.91.96.123,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-09 12:34:26,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 12:34:26,115.190.206.74,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-09 12:34:26,161.35.88.104,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 12:34:26,164.92.250.53,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 12:34:26,3.149.59.26,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-09 12:34:26,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-09 12:34:26,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-09 12:34:26,172.208.24.217,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-09 12:34:26,176.65.148.70,100,The Netherlands,Eygelshoven,Pfcloud UG,Pfcloud UG,Residential/Business,False
+2026-01-09 12:34:26,125.31.2.160,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-01-09 12:34:26,45.78.219.255,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-09 12:34:26,199.45.154.182,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-09 12:34:26,221.161.235.168,100,South Korea,Busanjin-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-09 12:34:26,122.187.230.34,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-09 12:34:26,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-09 12:34:26,1.9.164.197,100,Malaysia,Bangsar,TM TECHNOLOGY SERVICES SDN BHD,"Tmnet, Telekom Malaysia Bhd",Residential/Business,False
+2026-01-09 12:34:26,65.49.1.82,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-09 12:34:26,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-09 12:34:26,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-09 12:34:26,142.93.233.196,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 12:34:26,13.86.113.74,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-09 12:34:26,193.32.162.82,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-09 12:34:26,206.168.34.49,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-09 12:34:26,185.200.116.58,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-09 12:34:26,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-09 12:34:26,194.163.133.9,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-01-09 12:34:26,199.45.154.176,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-09 12:34:26,212.33.235.243,100,Russia,Perm,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding""",Residential/Business,False
+2026-01-09 12:34:26,51.79.212.58,100,Singapore,Singapore,OVH Hosting,OVH Singapore PTE. LTD,Data Center,False
+2026-01-09 12:34:26,81.226.154.146,100,Sweden,Saltsjö-Boo,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-01-09 12:34:26,104.248.95.116,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 12:34:26,203.145.143.163,100,India,Chandīgarh,Bharti Airtel,Bharti Hexacom Limited,Mobile,False
+2026-01-09 12:34:26,210.183.21.53,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-09 12:34:26,152.32.192.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-09 12:34:26,188.166.88.143,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-09 12:34:26,54.38.25.221,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-09 12:34:26,139.170.104.137,100,China,Xining,China Unicom Qinghai Province Network,,Residential/Business,False
+2026-01-09 12:34:26,155.4.244.169,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-01-09 12:34:26,45.132.246.245,100,Germany,Nuremberg,netcup GmbH,netcup GmbH,Data Center,True
+2026-01-09 12:34:26,109.70.100.7,100,Austria,Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,Residential/Business,True
+2026-01-09 12:34:26,23.94.37.113,100,United States,Elk Grove Village,HostPapa,HostPapa,Data Center,False
+2026-01-09 12:34:26,110.25.109.52,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-01-09 12:34:26,79.49.191.245,100,Italy,Foligno,INTERBUSINESS,,Residential/Business,False
+2026-01-09 12:34:26,167.172.47.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
