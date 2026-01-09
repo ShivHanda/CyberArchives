@@ -3029,3 +3029,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-08 22:16:50,186.180.175.235,100,Colombia,Cali,Colombia Móvil,Colombia Móvil,Mobile,False
 2026-01-08 22:16:50,45.148.10.63,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-08 22:16:50,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-09 01:17:46,125.91.106.248,100,China,Shenzhen,China Telecom,,Residential/Business,False
+2026-01-09 01:17:46,117.50.71.117,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-09 01:17:46,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-09 01:17:46,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-09 01:17:46,41.33.91.226,100,Egypt,Al Mansurah,TE Data,,Residential/Business,False
+2026-01-09 01:17:46,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-09 01:17:46,221.156.126.1,100,South Korea,Jeollanam-do,Korea Telecom,Kornet,Residential/Business,False
+2026-01-09 01:17:46,101.47.50.76,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-09 01:17:46,213.209.159.159,100,Germany,Augsburg,Net Gate Telecom S.R.L.,Ipv4buyers,Residential/Business,False
+2026-01-09 01:17:46,8.211.47.177,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-09 01:17:46,45.78.219.33,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-09 01:17:46,45.117.83.212,100,Vietnam,Vinhomes Royal City,NhanHoa Software company,NHANHOA,Data Center,False
+2026-01-09 01:17:46,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-09 01:17:46,45.78.217.50,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-09 01:17:46,101.47.163.94,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-09 01:17:46,134.199.194.127,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 01:17:46,101.47.48.255,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-09 01:17:46,134.199.203.119,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 01:17:46,161.132.89.53,100,Peru,Lima,Optical Technologies S.A.C.,Red Cientifica Peruana,Residential/Business,False
+2026-01-09 01:17:46,190.181.27.22,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-01-09 01:17:46,95.68.245.30,100,Russia,Ulyanovsk,PJSC Rostelecom,Ulvt,Residential/Business,False
+2026-01-09 01:17:46,138.197.152.232,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 01:17:46,165.232.180.249,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 01:17:46,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-09 01:17:46,152.42.142.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-09 01:17:46,91.224.92.156,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-09 01:17:46,34.123.134.194,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-01-09 01:17:46,185.177.72.49,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-01-09 01:17:46,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-09 01:17:46,115.190.21.68,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-09 01:17:46,132.148.183.111,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-09 01:17:46,120.48.112.118,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-09 01:17:46,64.225.63.36,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-09 01:17:46,152.52.243.30,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Ltd,Mobile,False
+2026-01-09 01:17:46,182.43.235.75,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-01-09 01:17:46,185.114.175.11,100,Spain,Manises,Occentus Network SL,Edgewatch Security Intelligence,Residential/Business,False
+2026-01-09 01:17:46,93.174.95.106,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-01-09 01:17:46,94.190.68.54,100,Russia,Pervouralsk,"Interra TG, Ltd.","""Interra"" Ltd",Residential/Business,False
+2026-01-09 01:17:46,91.226.43.216,100,Ukraine,Pervomaisk,Foboss-Telecom Ltd.,Foboss-Telecom LLC,Residential/Business,False
+2026-01-09 01:17:46,35.233.24.129,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-09 01:17:46,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-09 01:17:46,115.190.12.52,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-09 01:17:46,152.32.189.21,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-09 01:17:46,178.63.119.125,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-01-09 01:17:46,43.133.146.37,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
