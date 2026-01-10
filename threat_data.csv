@@ -3679,3 +3679,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 03:20:14,5.182.83.231,100,Spain,Orihuela,URFO3,,Residential/Business,False
 2026-01-10 03:20:14,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-10 03:20:14,45.78.217.8,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 04:30:06,183.107.190.230,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-10 04:30:06,189.178.26.161,100,Mexico,Guadalajara,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-10 04:30:06,79.124.58.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-10 04:30:06,100.29.192.110,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-10 04:30:06,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 04:30:06,45.55.153.86,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-10 04:30:06,45.78.219.180,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 04:30:06,169.150.203.202,100,United States,Los Angeles,Datacamp Limited,Cdnext LAX,Data Center,True
+2026-01-10 04:30:06,45.33.94.76,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-10 04:30:06,194.190.153.226,100,Russia,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-01-10 04:30:06,220.166.134.9,100,China,Deyang,Chinanet,Chinanet SC,Residential/Business,False
+2026-01-10 04:30:06,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-10 04:30:06,115.163.105.31,100,Japan,Machida,Sony Network Communications Inc,Sony Network Communications Inc.,Residential/Business,False
+2026-01-10 04:30:06,159.65.216.50,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 04:30:06,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-10 04:30:06,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 04:30:06,87.236.176.151,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-10 04:30:06,137.184.75.250,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-10 04:30:06,173.255.220.133,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-10 04:30:06,81.177.136.68,100,Russia,Moscow,RTCOMM,Avguro Technologies Ltd.,Residential/Business,False
+2026-01-10 04:30:06,101.47.140.255,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 04:30:06,45.78.217.53,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 04:30:06,218.237.71.112,100,South Korea,Gangdong-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-10 04:30:06,45.78.216.127,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 04:30:06,128.203.202.233,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-10 04:30:06,185.247.137.135,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-10 04:30:06,206.168.34.41,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-10 04:30:06,87.236.176.234,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,True
+2026-01-10 04:30:06,103.172.204.4,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-10 04:30:06,117.50.185.16,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,True
+2026-01-10 04:30:06,49.124.151.71,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-10 04:30:06,105.27.148.94,100,Kenya,Nairobi,SEACOM Limited,Seacom Assignments,Residential/Business,True
+2026-01-10 04:30:06,60.188.249.64,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-01-10 04:30:06,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-10 04:30:06,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-10 04:30:06,87.236.176.205,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-10 04:30:06,176.65.151.22,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-10 04:30:06,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 04:30:06,198.199.90.47,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 04:30:06,82.223.35.148,100,Spain,Madrid,arsys.es,,Data Center,False
+2026-01-10 04:30:06,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-10 04:30:06,120.48.71.105,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-10 04:30:06,4.218.10.48,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-10 04:30:06,191.242.48.147,100,Brazil,Marília,WAY.COM PROVEDOR BANDA LARGA EIRELI,WAY.COM PROVEDOR BANDA LARGA EIRELI,Residential/Business,False
+2026-01-10 04:30:06,27.254.149.199,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,,Residential/Business,True
