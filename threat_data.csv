@@ -3634,3 +3634,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 01:14:45,112.213.91.18,100,Vietnam,Quận Ba,Vietnam Internet Network Information Center,Super Online Data Joint Stock Company,Data Center,True
 2026-01-10 01:14:45,182.76.204.237,100,India,Faridabad,Bharti Airtel,LOT Mobiles Private Limited,Mobile,False
 2026-01-10 01:14:45,80.94.92.67,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 03:20:14,112.102.48.125,100,China,Harbin,Chinanet,Chinanet HL,Residential/Business,False
+2026-01-10 03:20:14,89.67.37.8,100,Poland,Lublin,UPC.pl,UPC Polska Sp. z o.o.,Residential/Business,False
+2026-01-10 03:20:14,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-10 03:20:14,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-10 03:20:14,101.47.162.116,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 03:20:14,143.110.213.247,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 03:20:14,206.168.34.47,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-10 03:20:14,35.233.24.129,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-10 03:20:14,199.45.154.143,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-10 03:20:14,14.29.196.13,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-10 03:20:14,185.209.229.176,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-10 03:20:14,54.147.80.137,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-10 03:20:14,54.173.72.113,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-10 03:20:14,202.39.251.216,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-10 03:20:14,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-10 03:20:14,91.230.168.254,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-10 03:20:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 03:20:14,165.154.36.245,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-10 03:20:14,58.57.170.206,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-01-10 03:20:14,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-10 03:20:14,34.228.194.164,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-10 03:20:14,20.163.15.172,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-10 03:20:14,5.133.121.104,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-01-10 03:20:14,79.124.40.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-10 03:20:14,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-10 03:20:14,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-10 03:20:14,64.62.197.177,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-10 03:20:14,148.66.155.229,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-01-10 03:20:14,1.234.70.54,100,South Korea,Seocho-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-10 03:20:14,101.47.163.114,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 03:20:14,69.5.0.120,100,Indonesia,Banguntapan,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-01-10 03:20:14,80.94.92.169,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-10 03:20:14,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-10 03:20:14,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 03:20:14,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 03:20:14,14.103.63.16,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-01-10 03:20:14,189.47.10.10,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-01-10 03:20:14,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 03:20:14,118.145.212.127,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-10 03:20:14,144.31.254.176,100,Germany,Frankfurt am Main,u1host ltd,u1host ltd,Residential/Business,False
+2026-01-10 03:20:14,34.207.251.7,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-10 03:20:14,203.157.123.2,100,Thailand,Nonthaburi,PACIFIC INTERNET (S) PTE. LTD.,"Ministry of Public Health, Thailand",Residential/Business,False
+2026-01-10 03:20:14,5.182.83.231,100,Spain,Orihuela,URFO3,,Residential/Business,False
+2026-01-10 03:20:14,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-10 03:20:14,45.78.217.8,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
