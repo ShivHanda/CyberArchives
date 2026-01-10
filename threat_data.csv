@@ -3954,3 +3954,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 14:14:27,123.58.207.127,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-01-10 14:14:27,45.78.219.134,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-10 14:14:27,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 16:18:28,91.107.123.186,100,United Kingdom,Bromley,JSC IOT,JSCIOT,Data Center,True
+2026-01-10 16:18:28,45.78.217.199,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 16:18:28,103.183.75.60,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-10 16:18:28,4.194.28.132,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-10 16:18:28,4.189.120.199,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-10 16:18:28,196.189.155.89,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-01-10 16:18:28,106.75.184.33,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-10 16:18:28,103.218.241.7,100,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-01-10 16:18:28,128.1.38.169,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-10 16:18:28,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-10 16:18:28,185.247.119.89,100,United Kingdom,London,Kamatera Inc,Cloudwebmanage EU LO,Residential/Business,False
+2026-01-10 16:18:28,52.14.247.161,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-10 16:18:28,213.209.159.12,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-10 16:18:28,182.52.72.49,100,Thailand,Bangkok,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-01-10 16:18:28,20.64.104.20,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-10 16:18:28,165.154.227.66,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-01-10 16:18:28,40.83.96.65,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-10 16:18:28,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-10 16:18:28,165.154.36.245,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-10 16:18:28,143.198.96.196,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-10 16:18:28,152.32.203.205,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-10 16:18:28,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-10 16:18:28,221.229.216.1,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-10 16:18:28,45.78.206.234,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 16:18:28,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-10 16:18:28,157.10.252.119,100,Indonesia,Cicurug,PT Bumi Saka Asri,,Data Center,False
+2026-01-10 16:18:28,218.103.205.196,100,Hong Kong,Queen's Terrace,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-10 16:18:28,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-10 16:18:28,118.219.234.233,100,South Korea,Gwangjin-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-10 16:18:28,162.243.250.145,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-10 16:18:28,175.180.129.87,100,Taiwan,New Taipei City,Digital United Inc.,"New Century InfoComm Tech. Co., Ltd.",Residential/Business,False
+2026-01-10 16:18:28,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-10 16:18:28,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-10 16:18:28,45.134.79.95,100,France,Bordeaux,HostRoyale Technologies Pvt Ltd,,Residential/Business,True
+2026-01-10 16:18:28,3.221.222.168,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-10 16:18:28,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-10 16:18:28,123.139.118.21,100,China,Xi'an,CNC Group CHINA169 Shanni Province Network,,Residential/Business,False
+2026-01-10 16:18:28,209.15.119.12,100,Thailand,Vadhana,National Telecom Public Company Limited,catCloud,Residential/Business,False
+2026-01-10 16:18:28,216.180.127.200,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-01-10 16:18:28,176.65.148.29,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-10 16:18:28,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-10 16:18:28,101.47.163.137,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 16:18:28,141.98.11.48,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-01-10 16:18:28,122.177.93.21,100,India,Ahmedabad,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-10 16:18:28,103.160.212.122,100,Indonesia,Bekasi,PT Dewa Bisnis Digital,PT Dewabisnis Digital Indonesia,Residential/Business,False
