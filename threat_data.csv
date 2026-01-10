@@ -3904,3 +3904,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 12:30:06,185.93.89.45,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
 2026-01-10 12:30:06,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
 2026-01-10 12:30:06,185.180.141.47,100,United States,Dallas,Zenlayer Inc,ICG 1 ZEN DFW,Data Center,False
+2026-01-10 14:14:27,146.235.199.108,100,United States,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),Data Center,False
+2026-01-10 14:14:27,178.22.24.71,100,Russia,Moscow,Galeon LLC,Galeon LLC,Residential/Business,False
+2026-01-10 14:14:27,203.161.30.164,100,Indonesia,Wedoro,PT. Trimitra Usaha Sejahtera,,Residential/Business,False
+2026-01-10 14:14:27,101.47.48.147,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-10 14:14:27,82.156.38.68,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-01-10 14:14:27,87.251.19.5,100,Estonia,Tallinn,OC NETWORKS LIMITED,1Cent Host,Residential/Business,False
+2026-01-10 14:14:27,27.65.255.177,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-10 14:14:27,115.190.64.245,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-10 14:14:27,116.99.174.143,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-10 14:14:27,198.244.233.141,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
+2026-01-10 14:14:27,50.116.57.52,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-10 14:14:27,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-10 14:14:27,101.47.160.3,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 14:14:27,193.46.255.103,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 14:14:27,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 14:14:27,152.42.129.103,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-10 14:14:27,185.196.8.179,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-10 14:14:27,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-10 14:14:27,219.129.236.174,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-10 14:14:27,4.218.10.48,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-10 14:14:27,167.99.209.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 14:14:27,8.211.45.218,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-10 14:14:27,45.78.217.26,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 14:14:27,60.27.79.215,100,China,Tianjin,CNC Group CHINA169 Tianjin Province Network,,Residential/Business,False
+2026-01-10 14:14:27,103.23.199.49,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-10 14:14:27,14.103.31.218,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-10 14:14:27,95.214.55.246,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-10 14:14:27,101.47.50.203,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-10 14:14:27,81.226.154.146,100,Sweden,Stallarholmen,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-01-10 14:14:27,103.199.16.90,100,Vietnam,Vinhomes Times City,365 Online technology joint stock company,Greencloud Limited,Residential/Business,False
+2026-01-10 14:14:27,195.184.76.110,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-10 14:14:27,27.112.79.123,100,Indonesia,Kurungannyawa,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-10 14:14:27,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-10 14:14:27,122.187.234.54,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-10 14:14:27,91.224.92.99,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-10 14:14:27,101.47.143.205,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 14:14:27,219.248.65.30,100,South Korea,Anyang-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-10 14:14:27,182.151.41.228,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-01-10 14:14:27,14.103.115.80,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-10 14:14:27,41.216.178.119,100,Indonesia,Jakarta,FASTHOSTING (PTY) LTD,,Residential/Business,True
+2026-01-10 14:14:27,116.171.162.64,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-01-10 14:14:27,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 14:14:27,4.214.32.32,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-10 14:14:27,209.38.35.194,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 14:14:27,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 14:14:27,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 14:14:27,5.166.216.234,100,Russia,Nizhniy Novgorod,"CJSC ""ER-Telecom Holding"" Nizhny Novgorod branch","JSC ""ER-Telecom Holding"" Nizhny Novgorod",Residential/Business,False
+2026-01-10 14:14:27,123.58.207.127,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-10 14:14:27,45.78.219.134,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 14:14:27,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
