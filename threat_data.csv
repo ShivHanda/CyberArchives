@@ -4099,3 +4099,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 20:17:21,2001:41d0:33a:a00::40d,100,France,Gravelines,OVH SAS,OVH,Data Center,False
 2026-01-10 20:17:21,2a14:7c1::2,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
 2026-01-10 20:17:21,38.248.12.102,100,United States,Atlanta,Real Time Cloud Services LLC,"Real Time Cloud Services, LLC",Residential/Business,False
+2026-01-10 22:15:22,101.47.161.42,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-10 22:15:22,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-10 22:15:22,2a14:7c1::2,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-10 22:15:22,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-10 22:15:22,45.78.216.197,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 22:15:22,23.122.167.191,100,United States,Liberty,"AT&T Enterprises, LLC",AT&T Corp,Residential/Business,False
+2026-01-10 22:15:22,213.209.159.42,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-10 22:15:22,45.249.246.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-10 22:15:22,150.107.36.236,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-10 22:15:22,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 22:15:22,4.194.99.179,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-10 22:15:22,46.101.81.183,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-10 22:15:22,47.251.77.186,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-10 22:15:22,193.32.176.20,100,United Kingdom,London,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-01-10 22:15:22,45.78.217.136,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 22:15:22,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-10 22:15:22,45.78.219.44,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-10 22:15:22,209.38.43.73,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 22:15:22,46.23.108.215,100,Azerbaijan,Baku,Bullet Group LTD,Bullet Group LTD,Residential/Business,False
+2026-01-10 22:15:22,206.168.34.128,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-10 22:15:22,202.1.31.174,100,Singapore,Singapore,WebHorizon Internet Services,Vivstar Telecom (opc) Private Limited,Residential/Business,False
+2026-01-10 22:15:22,185.216.132.8,100,Syria,Damascus,Syrian Telecom,National Agency Network Services,Residential/Business,False
+2026-01-10 22:15:22,212.56.36.122,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Residential/Business,True
+2026-01-10 22:15:22,79.124.49.58,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-10 22:15:22,165.22.199.200,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 22:15:22,20.163.15.174,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-10 22:15:22,193.46.255.33,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 22:15:22,167.99.217.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 22:15:22,62.60.130.208,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-10 22:15:22,20.80.88.247,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-10 22:15:22,178.128.167.105,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-10 22:15:22,185.213.175.140,100,The Netherlands,Dronten,NextGenWebs,,Mobile,False
+2026-01-10 22:15:22,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-10 22:15:22,36.138.134.121,100,China,Hangzhou,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-10 22:15:22,81.226.154.146,100,Sweden,Stallarholmen,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-01-10 22:15:22,176.65.149.201,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-10 22:15:22,103.172.204.219,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-10 22:15:22,154.124.97.102,100,Senegal,Dakar,SONATEL-AS Autonomous System,,Residential/Business,False
+2026-01-10 22:15:22,77.83.39.156,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-10 22:15:22,64.62.197.11,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-10 22:15:22,125.75.108.168,100,China,Zhangyelu,China Telecom,Chinanet GS,Residential/Business,False
+2026-01-10 22:15:22,20.118.233.215,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-10 22:15:22,174.138.0.227,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-10 22:15:22,64.62.156.186,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-10 22:15:22,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-10 22:15:22,197.153.57.103,100,Morocco,Tangier,MEDITELECOM,,Residential/Business,False
+2026-01-10 22:15:22,193.46.255.217,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-10 22:15:22,79.49.191.245,100,Italy,Trevi,INTERBUSINESS,,Residential/Business,False
+2026-01-10 22:15:22,62.169.238.187,100,Greece,Thessaloniki,Nova Telecommunications & Media Single Member S.A,Evergy S.A.,Residential/Business,False
+2026-01-10 22:15:22,134.209.202.23,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
