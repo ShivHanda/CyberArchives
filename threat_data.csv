@@ -4374,3 +4374,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-11 08:20:49,118.145.177.248,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
 2026-01-11 08:20:49,177.207.250.1,100,Brazil,Maceió,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
 2026-01-11 08:20:49,166.173.60.22,100,United States,Allen,"AT&T Enterprises, LLC","AT&T Services, Inc",Mobile,False
+2026-01-11 10:16:24,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-11 10:16:24,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-11 10:16:24,85.217.140.4,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-11 10:16:24,37.114.50.18,100,Germany,Frankfurt am Main,Florian Kolb,Datalix,Residential/Business,True
+2026-01-11 10:16:24,98.204.134.124,100,United States,Essex,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-01-11 10:16:24,79.124.49.102,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-11 10:16:24,80.94.93.119,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 10:16:24,141.98.11.23,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,True
+2026-01-11 10:16:24,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 10:16:24,184.168.111.27,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-01-11 10:16:24,43.252.231.122,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,True
+2026-01-11 10:16:24,134.199.202.165,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 10:16:24,91.107.123.186,100,United Kingdom,Bromley,JSC IOT,JSCIOT,Data Center,True
+2026-01-11 10:16:24,134.199.201.207,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 10:16:24,193.46.255.159,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 10:16:24,4.194.99.179,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-11 10:16:24,1.214.42.172,100,South Korea,Songpa-gu,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-01-11 10:16:24,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 10:16:24,45.78.222.173,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 10:16:24,198.251.89.164,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-11 10:16:24,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-11 10:16:24,64.62.197.50,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-11 10:16:24,165.22.198.193,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 10:16:24,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-11 10:16:24,61.185.30.170,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-01-11 10:16:24,123.30.249.97,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-11 10:16:24,193.46.255.20,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 10:16:24,146.190.29.154,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 10:16:24,77.90.185.43,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-11 10:16:24,101.36.113.241,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-11 10:16:24,101.36.116.29,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-11 10:16:24,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Residential/Business,True
+2026-01-11 10:16:24,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-11 10:16:24,188.166.102.227,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-11 10:16:24,24.199.126.56,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-11 10:16:24,45.81.23.49,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,True
+2026-01-11 10:16:24,4.197.100.161,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-11 10:16:24,160.25.147.8,100,Vietnam,Đinh Công Hạ,TUANTU,Tuan TU Technology Company Limited,Residential/Business,False
+2026-01-11 10:16:24,45.33.52.85,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-11 10:16:24,45.78.219.216,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 10:16:24,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-11 10:16:24,122.165.121.195,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-01-11 10:16:24,134.209.31.5,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 10:16:24,141.98.11.48,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-01-11 10:16:24,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
