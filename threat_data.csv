@@ -4509,3 +4509,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-11 14:14:50,194.180.48.63,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
 2026-01-11 14:14:50,185.196.10.129,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
 2026-01-11 14:14:50,167.71.3.85,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,58.8.48.178,100,Thailand,Cha-am,True Internet Corporation CO. Ltd.,"True internet Co., Ltd.",Residential/Business,False
+2026-01-11 16:18:35,75.97.190.237,100,United States,Stroudsburg,PenTeleData Inc.,PenTeleData Inc.,Residential/Business,False
+2026-01-11 16:18:35,204.76.203.8,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-11 16:18:35,94.154.172.167,100,Seychelles,Victoria,IP Vendetta Inc.,IP Vendetta Inc,Residential/Business,False
+2026-01-11 16:18:35,192.3.179.41,100,United States,Buffalo,HostPapa,,Data Center,True
+2026-01-11 16:18:35,8.211.51.66,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-11 16:18:35,109.72.232.175,100,Russia,Moscow,MOSLINE,,Residential/Business,False
+2026-01-11 16:18:35,146.190.227.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,49.124.146.42,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-11 16:18:35,116.196.71.115,100,China,Beijing,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.","Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-11 16:18:35,197.211.55.20,100,Nigeria,Lagos,Globacom Limited,GLO,Mobile,False
+2026-01-11 16:18:35,141.147.62.42,100,Germany,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),Data Center,False
+2026-01-11 16:18:35,146.190.18.146,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,64.62.197.7,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-11 16:18:35,134.209.89.168,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-11 16:18:35,103.171.85.186,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-01-11 16:18:35,114.207.246.197,100,South Korea,Gyeyang-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-11 16:18:35,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-11 16:18:35,13.78.125.243,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-11 16:18:35,193.163.125.22,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-11 16:18:35,204.76.203.219,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-11 16:18:35,161.35.190.48,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-11 16:18:35,187.72.57.82,100,Brazil,Blumenau,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-01-11 16:18:35,193.46.255.7,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 16:18:35,104.28.246.112,100,United States,St Louis,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-01-11 16:18:35,178.128.227.120,100,Canada,Toronto,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-11 16:18:35,68.183.8.245,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,45.78.218.144,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 16:18:35,91.107.123.186,100,United Kingdom,Bromley,JSC IOT,JSCIOT,Data Center,True
+2026-01-11 16:18:35,79.124.40.134,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-11 16:18:35,79.124.49.102,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-11 16:18:35,117.50.51.119,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-11 16:18:35,193.46.255.217,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 16:18:35,85.203.21.86,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Residential/Business,True
+2026-01-11 16:18:35,220.158.233.50,100,Cambodia,Phnom Penh,BUCT,"VIETTEL (CAMBODIA) PTE., LTD",Mobile,True
+2026-01-11 16:18:35,91.92.241.2,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-11 16:18:35,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 16:18:35,45.78.217.49,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 16:18:35,68.183.11.76,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,92.118.39.152,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-11 16:18:35,101.126.54.36,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-11 16:18:35,79.124.40.118,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-11 16:18:35,15.235.163.237,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-01-11 16:18:35,103.203.57.11,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-01-11 16:18:35,134.209.25.199,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 16:18:35,42.123.126.29,100,China,Beijing,Cloud Computing Corporation,Cloud Computing Branch Corporation,Data Center,False
+2026-01-11 16:18:35,54.80.73.122,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-11 16:18:35,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-11 16:18:35,171.244.143.146,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-11 16:18:35,145.239.85.174,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
