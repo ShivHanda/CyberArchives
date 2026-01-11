@@ -4239,3 +4239,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-11 03:45:52,104.248.88.150,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-11 03:45:52,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
 2026-01-11 03:45:52,8.211.42.134,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-11 04:43:04,192.210.233.234,100,United States,Buffalo,HostPapa,Cloudserver,Data Center,False
+2026-01-11 04:43:04,65.49.1.70,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-11 04:43:04,121.167.56.61,100,South Korea,Gangdong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-11 04:43:04,144.126.204.227,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 04:43:04,41.193.5.58,100,South Africa,Randburg,Vox Telecommunications PTY Ltd,Vox Telecom (Pty) Ltd,Residential/Business,False
+2026-01-11 04:43:04,45.142.193.124,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-11 04:43:04,74.234.147.76,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,True
+2026-01-11 04:43:04,93.123.109.165,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-11 04:43:04,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-11 04:43:04,44.204.8.51,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-11 04:43:04,80.94.93.233,100,United Kingdom,Harrow,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 04:43:04,85.215.167.135,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-01-11 04:43:04,5.182.209.113,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V.,Residential/Business,False
+2026-01-11 04:43:04,45.194.92.17,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-01-11 04:43:04,52.14.247.161,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-11 04:43:04,20.171.8.42,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-11 04:43:04,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-11 04:43:04,102.88.137.145,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-01-11 04:43:04,164.90.143.236,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 04:43:04,104.236.13.198,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 04:43:04,161.132.53.88,100,Peru,Independencia,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-01-11 04:43:04,3.238.191.229,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-11 04:43:04,138.2.89.139,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-01-11 04:43:04,210.183.21.53,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-11 04:43:04,44.211.124.103,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-11 04:43:04,51.159.91.86,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-11 04:43:04,167.99.238.157,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-11 04:43:04,41.203.213.8,100,Kenya,Nairobi,Safaricom Limited,Fixed Wimax Nairobi,Mobile,False
+2026-01-11 04:43:04,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-11 04:43:04,4.197.236.122,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-11 04:43:04,68.151.1.196,100,Canada,Edmonton,Shaw Communications,Shaw Communications Inc.,Residential/Business,False
+2026-01-11 04:43:04,101.126.54.23,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-11 04:43:04,185.177.72.62,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-01-11 04:43:04,79.124.49.62,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-11 04:43:04,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-11 04:43:04,193.46.255.99,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-11 04:43:04,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-01-11 04:43:04,188.95.65.41,100,Germany,Frankfurt am Main,Clouvider Limited,Clouvider HB,Data Center,True
+2026-01-11 04:43:04,80.94.92.64,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-11 04:43:04,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-11 04:43:04,193.3.53.5,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-01-11 04:43:04,15.204.244.232,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-01-11 04:43:04,59.12.160.91,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-11 04:43:04,125.23.204.74,100,India,Hyderabad,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-01-11 04:43:04,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
