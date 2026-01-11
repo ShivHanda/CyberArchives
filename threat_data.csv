@@ -4149,3 +4149,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-10 22:15:22,79.49.191.245,100,Italy,Trevi,INTERBUSINESS,,Residential/Business,False
 2026-01-10 22:15:22,62.169.238.187,100,Greece,Thessaloniki,Nova Telecommunications & Media Single Member S.A,Evergy S.A.,Residential/Business,False
 2026-01-10 22:15:22,134.209.202.23,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,170.238.160.20,100,Brazil,Salvador,NCS-Fibra ( New Central Solutions ),NCS-Fibra ( New Central Solutions ),Residential/Business,False
+2026-01-11 01:23:54,50.6.193.137,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-11 01:23:54,134.199.203.119,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,193.163.125.252,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-11 01:23:54,170.39.218.254,100,France,Paris,FBW Reseaux Fibres inc.,,Residential/Business,False
+2026-01-11 01:23:54,45.78.227.39,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 01:23:54,152.32.254.184,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-11 01:23:54,152.200.139.118,100,Colombia,Chocontá,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-01-11 01:23:54,103.248.120.6,100,India,Meerut,Shivansh Infotech pvt Ltd,Shivansh Infotech pvt Ltd,Residential/Business,False
+2026-01-11 01:23:54,220.181.51.116,100,China,Beijing,"IDC, China Telecommunications Corporation",,Residential/Business,True
+2026-01-11 01:23:54,100.30.215.104,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-11 01:23:54,157.245.47.219,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-11 01:23:54,14.29.238.151,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-11 01:23:54,64.227.67.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,102.38.3.181,100,Libya,Tripoli,Giga for Telecommunication and Technology Limited,GKA,Residential/Business,False
+2026-01-11 01:23:54,14.103.127.199,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,True
+2026-01-11 01:23:54,60.172.52.101,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-11 01:23:54,161.35.86.214,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,193.233.231.93,100,Russia,Moscow,Aeza Group LLC,SPB,Residential/Business,False
+2026-01-11 01:23:54,185.14.31.48,100,The Netherlands,Amsterdam,Green Floid LLC,Green Floid LLC,Data Center,False
+2026-01-11 01:23:54,159.223.235.48,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-11 01:23:54,102.22.20.125,100,Ghana,Accra,Dimension Data Ltd,,Residential/Business,False
+2026-01-11 01:23:54,103.228.36.130,100,India,Mumbai,DXT,DXT Digital Transformation Technology Joint Stock Company,Residential/Business,False
+2026-01-11 01:23:54,123.58.203.194,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-11 01:23:54,193.24.211.203,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-11 01:23:54,194.74.196.10,100,United Kingdom,Hammersmith,British Telecommunications PLC,Btnet,Residential/Business,False
+2026-01-11 01:23:54,49.204.74.149,100,India,Bengaluru,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-01-11 01:23:54,144.31.165.144,100,Germany,Frankfurt am Main,Play2go International Limited,Play2go International Limited,Residential/Business,False
+2026-01-11 01:23:54,45.78.222.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-11 01:23:54,159.223.217.137,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,5.95.121.178,100,Italy,Naples,Vodafone,,Residential/Business,False
+2026-01-11 01:23:54,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-11 01:23:54,154.91.90.27,100,Singapore,Singapore,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-01-11 01:23:54,82.23.183.89,100,Germany,Frankfurt am Main,Ititan Hosting Solutions SRL,,Residential/Business,True
+2026-01-11 01:23:54,165.154.163.10,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-11 01:23:54,134.209.203.55,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-11 01:23:54,165.154.129.151,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-11 01:23:54,84.247.171.74,100,Germany,Düsseldorf,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-11 01:23:54,157.245.134.222,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,161.35.147.106,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-11 01:23:54,64.62.197.27,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-11 01:23:54,141.98.10.107,100,Lithuania,Kaunas,UAB Host Baltic,,Residential/Business,False
+2026-01-11 01:23:54,193.163.125.221,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
