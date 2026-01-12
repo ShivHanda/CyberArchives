@@ -4849,3 +4849,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-12 04:45:27,201.219.220.130,100,Colombia,Bogotá,ITELKOM,ITELKOM,Residential/Business,False
 2026-01-12 04:45:27,79.124.40.146,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
 2026-01-12 04:45:27,101.13.5.30,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-01-12 06:29:24,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-12 06:29:24,187.33.59.116,100,Brazil,Guapiaçu,R & F BASSAN COM?RCIO SERVI?OS E SISTEMA LTDA - ME,R & F BASSAN COMÉRCIO SERVIÇOS E SISTEMA LTDA - ME,Residential/Business,False
+2026-01-12 06:29:24,14.29.99.253,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-12 06:29:24,164.92.153.164,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,44.203.40.105,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-12 06:29:24,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-12 06:29:24,104.28.203.54,100,United States,Seattle,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-01-12 06:29:24,185.101.16.250,100,Lebanon,Beirut,Wave Net LLC,WaveNet,Residential/Business,False
+2026-01-12 06:29:24,213.209.159.63,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-12 06:29:24,104.248.142.112,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,164.92.219.227,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,51.15.202.158,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-12 06:29:24,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-12 06:29:24,172.215.145.207,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-12 06:29:24,199.45.154.129,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-12 06:29:24,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-12 06:29:24,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-12 06:29:24,46.210.95.5,100,Israel,Tiberias,Cellcom Fixed Line Communication L.P,Cellcom Fixed Line Communication L.P,Residential/Business,False
+2026-01-12 06:29:24,102.211.152.28,100,Brazil,Fortaleza,Angola Cables,TEL Cables SA,Residential/Business,False
+2026-01-12 06:29:24,3.232.108.37,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-12 06:29:24,45.78.219.226,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-12 06:29:24,14.103.206.145,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-12 06:29:24,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-12 06:29:24,103.133.215.141,100,India,Noida,Ewebguru,,Residential/Business,False
+2026-01-12 06:29:24,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-12 06:29:24,5.191.246.48,100,Azerbaijan,Baku,AzInTelecom LLC,AzInTelecom LLC,Residential/Business,False
+2026-01-12 06:29:24,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-12 06:29:24,179.191.94.2,100,Brazil,São Paulo,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-01-12 06:29:24,194.48.248.43,100,Moldova,Chisinau,Alexhost SRL,OvO Systems Ltd,Data Center,False
+2026-01-12 06:29:24,178.128.171.235,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-12 06:29:24,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-12 06:29:24,161.35.156.188,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,36.50.177.119,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-01-12 06:29:24,77.90.185.4,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,True
+2026-01-12 06:29:24,14.63.196.175,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-12 06:29:24,146.190.18.17,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,80.94.92.169,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-12 06:29:24,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-01-12 06:29:24,134.209.86.161,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-12 06:29:24,107.175.89.189,100,United States,Buffalo,HostPapa,ColoCrossing,Data Center,False
+2026-01-12 06:29:24,104.215.29.182,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-12 06:29:24,86.107.77.201,100,Germany,Eschborn,HostBet Cloud Technologies Private Limited,HostBet Cloud Technologies Private Limited,Residential/Business,False
+2026-01-12 06:29:24,45.78.219.61,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-12 06:29:24,122.187.186.26,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-01-12 06:29:24,182.73.176.186,100,India,Gurugram,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-01-12 06:29:24,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-12 06:29:24,4.194.99.179,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-12 06:29:24,165.232.95.208,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 06:29:24,79.3.96.178,100,Italy,Parma,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-01-12 06:29:24,135.237.126.148,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
