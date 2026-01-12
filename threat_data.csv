@@ -5084,3 +5084,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-12 14:20:56,123.58.213.118,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-01-12 14:20:56,46.44.40.82,100,Russia,Fryazino,Fryazino.net,LLC Fryazinskiy Gorodskoy Informatstionniy Centr,Residential/Business,False
 2026-01-12 14:20:56,194.180.49.51,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-12 16:21:54,45.78.219.219,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-12 16:21:54,77.74.229.158,100,Spain,Madrid,Istqrar for Servers Services Ltd,Ipxo Limited,Residential/Business,False
+2026-01-12 16:21:54,66.154.124.165,100,United States,Washington,Multacom Corporation,ASSERTIVENET,Data Center,False
+2026-01-12 16:21:54,41.58.186.130,100,Nigeria,Lagos,Swift Networks Limited,,Residential/Business,False
+2026-01-12 16:21:54,14.29.179.121,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-12 16:21:54,186.80.18.158,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-01-12 16:21:54,4.193.43.78,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-12 16:21:54,23.242.166.38,100,United States,Westlake Village,Charter Communications,Spectrum,Residential/Business,False
+2026-01-12 16:21:54,89.44.137.176,100,Romania,Peregu Mic,Romarg SRL,Romarg SRL,Data Center,False
+2026-01-12 16:21:54,104.237.156.209,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-12 16:21:54,129.146.255.100,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-01-12 16:21:54,177.157.198.59,100,Brazil,Barbacena,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-01-12 16:21:54,68.218.9.28,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-12 16:21:54,45.78.227.155,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-12 16:21:54,108.85.73.156,100,United States,Miami,"AT&T Enterprises, LLC",Private Customer - AT&T Internet Services,Residential/Business,False
+2026-01-12 16:21:54,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-12 16:21:54,86.51.9.188,100,Saudi Arabia,Riyadh,Bayanat Al-Oula Network Services-C1,Mobily Broadband SA,Mobile,False
+2026-01-12 16:21:54,101.47.160.113,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-12 16:21:54,91.231.89.250,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-12 16:21:54,103.170.255.132,100,Vietnam,Hanoi,Vietserver Services Technology Company Limited,Sunsea Informatics Company Limited,Residential/Business,False
+2026-01-12 16:21:54,159.223.229.231,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-12 16:21:54,118.193.39.127,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-12 16:21:54,106.240.142.197,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-12 16:21:54,45.78.217.70,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-12 16:21:54,101.47.161.42,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-12 16:21:54,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-12 16:21:54,124.155.125.131,100,Japan,Kitazawa,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-01-12 16:21:54,217.154.185.97,100,Spain,Madrid,MISTRAL,,Data Center,False
+2026-01-12 16:21:54,186.87.166.141,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-01-12 16:21:54,179.32.207.251,100,Colombia,Cali,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-01-12 16:21:54,209.85.221.197,100,Belgium,Brussels,Google LLC,Google LLC,Data Center,False
+2026-01-12 16:21:54,18.208.11.93,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-12 16:21:54,38.147.184.22,100,United States,Los Angeles,Xnnet LLC,,Residential/Business,True
+2026-01-12 16:21:54,54.73.157.139,100,Ireland,Dublin,"Amazon.com, Inc.",AWS EC2 (eu-west-1),Data Center,False
+2026-01-12 16:21:54,196.251.100.116,100,Poland,Warsaw,"Optibounce, LLC",,Residential/Business,True
+2026-01-12 16:21:54,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-12 16:21:54,192.81.208.35,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-12 16:21:54,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-12 16:21:54,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-12 16:21:54,193.46.192.20,100,Spain,El Saucejo,Telecomunicaciones Publicas Andaluzas S.L.,Antonio Borrego Pineda,Residential/Business,False
+2026-01-12 16:21:54,20.196.88.31,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-12 16:21:54,81.0.107.76,100,Hungary,Nyíregyháza,Invitech ICT Services Kft.,Versanus Kft.,Residential/Business,False
+2026-01-12 16:21:54,46.105.42.96,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-01-12 16:21:54,200.124.160.2,100,Mexico,Cuautla,Jafica Telecomunicaciones,Jafica Telecomunicaciones,Residential/Business,False
+2026-01-12 16:21:54,168.119.213.48,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
