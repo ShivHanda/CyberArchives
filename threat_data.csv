@@ -4754,3 +4754,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-12 01:20:37,4.230.25.46,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
 2026-01-12 01:20:37,74.225.218.73,100,India,Pune,AT&T Corp.,Microsoft Azure Cloud (centralindia),Data Center,False
 2026-01-12 01:20:37,37.193.2.152,100,Russia,Novosibirsk,Novotelecom Ltd,Novotelecom ltd.,Residential/Business,False
+2026-01-12 03:45:02,129.212.181.84,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,12.150.243.22,100,United States,Birmingham,"AT&T Enterprises, LLC",E-BOX,Residential/Business,False
+2026-01-12 03:45:02,159.223.236.35,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,167.172.36.212,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,91.231.89.242,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-12 03:45:02,101.47.143.252,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-12 03:45:02,161.115.235.117,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,167.71.6.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,38.137.11.14,100,India,Chandigarh,Netplus Broadband Services Private Limited,Netplus Broadband Services Pvt ltd,Residential/Business,False
+2026-01-12 03:45:02,134.199.174.88,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,161.115.235.156,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,103.203.59.6,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-01-12 03:45:02,164.90.151.212,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,64.227.71.23,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,64.225.77.8,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,164.92.213.100,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,74.249.128.154,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-12 03:45:02,71.6.134.232,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-12 03:45:02,111.26.62.46,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-12 03:45:02,161.115.235.120,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,102.219.126.32,100,Angola,Luanda,Angola Cables,This network is used for Angola Cables Cloud Services.,Residential/Business,False
+2026-01-12 03:45:02,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-01-12 03:45:02,209.145.56.211,100,United States,St Louis,Contabo Inc,daniel hwang,Residential/Business,False
+2026-01-12 03:45:02,154.82.73.111,100,Hong Kong,Hong Kong,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-01-12 03:45:02,77.83.240.228,100,The Netherlands,Wormer,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-12 03:45:02,43.133.157.163,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-12 03:45:02,161.115.235.126,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-12 03:45:02,118.194.231.130,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-12 03:45:02,59.98.83.57,100,India,Tirunelveli,BSNL Internet,,Residential/Business,False
+2026-01-12 03:45:02,45.142.154.99,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-12 03:45:02,203.190.10.105,100,Bangladesh,Netrakona,DAFFODILNET-SUB,,Residential/Business,False
+2026-01-12 03:45:02,4.197.100.161,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-12 03:45:02,103.183.74.130,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-12 03:45:02,161.115.235.138,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,101.126.146.27,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-12 03:45:02,139.170.104.137,100,China,Xining,China Unicom Qinghai Province Network,,Residential/Business,False
+2026-01-12 03:45:02,161.115.234.86,100,United States,Los Angeles,Server Mania Inc,"Flux Telecom, LLC",Residential/Business,False
+2026-01-12 03:45:02,20.102.116.25,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-12 03:45:02,14.103.107.26,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-12 03:45:02,27.185.41.20,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,True
+2026-01-12 03:45:02,103.179.57.150,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,Idnic,Data Center,True
+2026-01-12 03:45:02,159.65.200.237,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-12 03:45:02,4.197.236.122,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-12 03:45:02,84.247.171.74,100,Germany,Düsseldorf,Contabo GmbH,Contabo GmbH,Data Center,False
