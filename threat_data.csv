@@ -5129,3 +5129,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-12 16:21:54,46.105.42.96,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
 2026-01-12 16:21:54,200.124.160.2,100,Mexico,Cuautla,Jafica Telecomunicaciones,Jafica Telecomunicaciones,Residential/Business,False
 2026-01-12 16:21:54,168.119.213.48,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-01-12 18:25:40,103.229.125.91,100,Hong Kong,San Po Kong,Hosted in Cloudie Limited,Dingke human resource co.LTD,Data Center,True
+2026-01-12 18:25:40,119.198.191.180,100,South Korea,Saha-gu,KORNET,busanbonbujang(kones),Residential/Business,False
+2026-01-12 18:25:40,47.236.255.52,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-12 18:25:40,50.6.202.106,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-12 18:25:40,74.235.203.125,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-12 18:25:40,79.124.40.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-12 18:25:40,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-12 18:25:40,74.235.185.122,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-12 18:25:40,150.241.68.99,100,Netherlands,Amsterdam,xorek.cloud International LTD,xorek.cloud International LTD,Residential/Business,False
+2026-01-12 18:25:40,4.194.28.132,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-12 18:25:40,103.37.60.104,100,Vietnam,Quận Tân Phú,Gofiber Software Technology Company Limited,GOFIBER-SOFTWARE,Residential/Business,False
+2026-01-12 18:25:40,103.187.147.214,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,True
+2026-01-12 18:25:40,138.204.127.54,100,Brazil,Cabo Frio,Costa Do Sol TV a cabo,Costa Do Sol TV a cabo,Residential/Business,False
+2026-01-12 18:25:40,64.62.156.178,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-12 18:25:40,64.62.197.98,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-12 18:25:40,45.153.34.87,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-01-12 18:25:40,74.235.104.219,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-12 18:25:40,122.187.230.116,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-12 18:25:40,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-12 18:25:40,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-12 18:25:40,4.189.120.199,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-12 18:25:40,45.78.194.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-12 18:25:40,47.251.93.118,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-12 18:25:40,223.82.91.196,100,China,Jinrongjie,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-12 18:25:40,188.124.139.77,100,Norway,Oslo,Get,,Residential/Business,False
+2026-01-12 18:25:40,5.135.41.82,100,France,Roubaix,OVH SAS,Ovh Hosting,Data Center,False
+2026-01-12 18:25:40,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-12 18:25:40,74.207.253.22,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-12 18:25:40,173.212.228.191,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-12 18:25:40,80.94.92.169,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-12 18:25:40,193.233.86.73,100,Germany,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited",Residential/Business,False
+2026-01-12 18:25:40,46.151.182.230,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,True
+2026-01-12 18:25:40,125.17.124.75,100,India,Delhi,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-01-12 18:25:40,74.102.3.42,100,United States,Ridgefield Park,Verizon Business,Verizon Business,Residential/Business,False
+2026-01-12 18:25:40,79.124.49.58,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-12 18:25:40,183.237.164.194,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-12 18:25:40,212.11.64.178,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-12 18:25:40,185.196.10.2,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-12 18:25:40,95.40.66.189,100,Hong Kong,Hong Kong,"Amazon.com, Inc.",AWS EC2 (ap-east-1),Data Center,False
+2026-01-12 18:25:40,5.182.33.212,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-12 18:25:40,111.26.95.122,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-12 18:25:40,13.93.203.231,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-01-12 18:25:40,172.172.196.177,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-12 18:25:40,180.76.243.197,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-12 18:25:40,218.59.201.12,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
