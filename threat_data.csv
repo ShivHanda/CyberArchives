@@ -5799,3 +5799,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 20:19:24,45.78.219.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-13 20:19:24,111.50.70.34,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
 2026-01-13 20:19:24,196.28.226.124,100,Mozambique,Maputo,"TMCEL - Moçambique Telecom, SA","TMCEL - Moçambique Telecom, SA",Residential/Business,False
+2026-01-13 22:17:24,35.243.68.66,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,True
+2026-01-13 22:17:24,195.184.76.81,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 22:17:24,65.49.20.77,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 22:17:24,162.19.11.250,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-01-13 22:17:24,3.85.184.110,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 22:17:24,45.79.109.130,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-13 22:17:24,65.49.1.226,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 22:17:24,103.187.147.24,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-13 22:17:24,43.224.124.253,100,Sri Lanka,Sri Jayewardenepura Kotte,Information and Communication Technology Agency of Sri Lanka,Lgc2,Residential/Business,True
+2026-01-13 22:17:24,159.65.195.19,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 22:17:24,181.188.176.245,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-01-13 22:17:24,123.58.207.140,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 22:17:24,193.163.125.234,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 22:17:24,91.196.152.39,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 22:17:24,193.163.125.101,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 22:17:24,43.204.54.62,100,India,Mumbai,"Amazon.com, Inc.",AWS EC2 (ap-south-1),Data Center,False
+2026-01-13 22:17:24,212.154.234.9,100,Kazakhstan,Almaty,JSC Kazakhtelecom,"Co-location, LLC",Residential/Business,False
+2026-01-13 22:17:24,64.62.197.169,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-13 22:17:24,65.49.1.77,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 22:17:24,92.124.132.245,100,Russia,Omsk,OJSC Sibirtelecom,OJSC Sibirtelecom,Residential/Business,False
+2026-01-13 22:17:24,141.98.11.98,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-01-13 22:17:24,116.255.208.96,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,"Zhengzhou Gainet Computer Network Technology Co., Ltd.",Residential/Business,False
+2026-01-13 22:17:24,167.86.82.58,100,Germany,Nuremberg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-13 22:17:24,176.65.148.231,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-13 22:17:24,104.248.95.216,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 22:17:24,36.154.237.94,100,China,Nanjing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-13 22:17:24,114.132.160.176,100,China,Guangzhou,CNC Group CHINA169 Hebei Province network,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-01-13 22:17:24,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-13 22:17:24,101.99.12.154,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMC Telecom Infrastructure Company,Residential/Business,False
+2026-01-13 22:17:24,217.154.113.158,100,France,Paris,IONOS SE,IONOS SE,Data Center,False
+2026-01-13 22:17:24,74.82.47.13,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 22:17:24,91.215.147.69,100,Ukraine,Vilniansk,Ukrainian Telecommunication Group LLC,Ukrainian Telecommunication Group LLC,Residential/Business,False
+2026-01-13 22:17:24,134.209.60.86,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 22:17:24,188.166.56.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 22:17:24,115.71.237.81,100,South Korea,Seongnam-si,Daou Technology,Daou,Residential/Business,True
+2026-01-13 22:17:24,216.218.206.88,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 22:17:24,24.105.160.100,100,United States,Greenwood Village,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-01-13 22:17:24,196.219.72.45,100,Egypt,Cairo,TE Data,TE Data,Residential/Business,False
+2026-01-13 22:17:24,206.168.34.202,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-13 22:17:24,129.212.191.155,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 22:17:24,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-01-13 22:17:24,64.62.197.139,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-13 22:17:24,74.208.177.56,100,United States,Kansas City,IONOS SE,IONOS Inc,Data Center,True
+2026-01-13 22:17:24,103.100.208.88,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,Ancent Group Limited,Residential/Business,False
+2026-01-13 22:17:24,111.61.229.78,100,China,Zaoqiang,China Mobile communications corporation,China Mobile,Mobile,False
