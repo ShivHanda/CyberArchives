@@ -5749,3 +5749,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 18:25:20,152.32.141.86,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-01-13 18:25:20,223.254.130.129,100,China,Shenyang,Cloudie Limited,The Media Network Ltd,Data Center,False
 2026-01-13 18:25:20,4.197.177.221,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-13 20:19:24,137.184.5.75,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-13 20:19:24,137.184.145.212,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 20:19:24,50.145.58.158,100,United States,Palo Alto,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-01-13 20:19:24,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 20:19:24,80.94.92.169,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 20:19:24,200.37.179.83,100,Peru,Lima,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
+2026-01-13 20:19:24,167.71.76.145,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 20:19:24,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 20:19:24,137.184.138.95,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 20:19:24,137.184.110.79,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 20:19:24,45.78.222.58,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,187.16.96.250,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-01-13 20:19:24,204.76.203.231,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-13 20:19:24,40.83.79.160,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-13 20:19:24,104.248.204.237,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-13 20:19:24,101.47.142.21,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 20:19:24,201.48.108.11,100,Brazil,Guarulhos,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-01-13 20:19:24,5.182.209.113,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V.,Residential/Business,False
+2026-01-13 20:19:24,66.132.153.125,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-13 20:19:24,195.184.76.119,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 20:19:24,72.167.47.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-01-13 20:19:24,45.78.203.65,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,155.93.89.195,100,Nigeria,Lagos,Vodacom Business Nigeria,Inq. Digital Nigeria,Data Center,False
+2026-01-13 20:19:24,79.124.49.58,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-13 20:19:24,134.209.197.127,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 20:19:24,40.127.67.83,100,Australia,Melbourne,Microsoft Corporation,Microsoft Azure Cloud (australiasoutheast),Data Center,False
+2026-01-13 20:19:24,90.161.217.228,100,Spain,Fuengirola,UNI2-ABI,,Residential/Business,False
+2026-01-13 20:19:24,43.130.53.252,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-13 20:19:24,138.124.30.225,100,Netherlands,Dronten,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-01-13 20:19:24,112.119.212.162,100,Hong Kong,Kwu Tung,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-13 20:19:24,78.134.49.171,100,Italy,Isola Vicentina,NGI,NGI Spa,Residential/Business,False
+2026-01-13 20:19:24,45.78.217.34,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,166.62.85.160,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,True
+2026-01-13 20:19:24,167.99.44.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 20:19:24,211.142.44.154,100,China,Liuxiang,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-13 20:19:24,188.168.86.6,100,Russia,Krasnokamensk,ChitaRoute-migrate,,Residential/Business,False
+2026-01-13 20:19:24,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-13 20:19:24,196.188.168.148,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-01-13 20:19:24,101.47.140.218,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 20:19:24,52.204.37.237,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-13 20:19:24,45.78.227.142,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,182.95.228.102,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-13 20:19:24,45.78.194.40,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,178.177.49.7,100,Russia,Moscow,MegaFon,,Mobile,False
+2026-01-13 20:19:24,187.6.121.246,100,Brazil,Brasília,V tal,V tal,Residential/Business,False
+2026-01-13 20:19:24,64.225.65.156,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 20:19:24,20.189.79.118,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-13 20:19:24,45.78.219.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 20:19:24,111.50.70.34,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-13 20:19:24,196.28.226.124,100,Mozambique,Maputo,"TMCEL - Moçambique Telecom, SA","TMCEL - Moçambique Telecom, SA",Residential/Business,False
