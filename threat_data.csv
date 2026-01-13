@@ -5654,3 +5654,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 14:21:00,45.78.216.158,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-13 14:21:00,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
 2026-01-13 14:21:00,114.220.238.30,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-13 16:25:04,135.237.123.203,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-13 16:25:04,202.108.48.228,100,China,Jinrongjie,China Unicom Beijing Province Network,Capital Network Ltd,Residential/Business,False
+2026-01-13 16:25:04,128.14.231.118,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-13 16:25:04,162.241.224.104,100,United States,Phoenix,Oracle Corporation,Unified Layer,Data Center,False
+2026-01-13 16:25:04,199.195.251.10,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-13 16:25:04,73.88.196.91,100,United States,Paducah,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-01-13 16:25:04,104.248.91.117,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 16:25:04,35.237.94.18,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-01-13 16:25:04,182.151.41.228,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-01-13 16:25:04,36.138.252.97,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-13 16:25:04,173.255.203.76,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-13 16:25:04,37.221.66.81,100,Moldova,Chisinau,AVA HOST SRL,Alexhost SRL,Residential/Business,False
+2026-01-13 16:25:04,101.47.140.243,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 16:25:04,121.228.31.181,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-01-13 16:25:04,181.188.172.6,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Residential/Business,False
+2026-01-13 16:25:04,103.170.255.132,100,Vietnam,Hanoi,Vietserver Services Technology Company Limited,Sunsea Informatics Company Limited,Residential/Business,False
+2026-01-13 16:25:04,167.99.214.78,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 16:25:04,45.78.222.19,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 16:25:04,4.190.192.23,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-13 16:25:04,172.245.208.136,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-01-13 16:25:04,79.124.58.18,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Data Center,False
+2026-01-13 16:25:04,141.98.82.26,100,Moldova,Chisinau,Flyservers S.A.,Vdsline,Residential/Business,False
+2026-01-13 16:25:04,103.207.99.1,100,Indonesia,Bangli,JKSNET,,Residential/Business,False
+2026-01-13 16:25:04,152.53.210.205,100,United States,Manassas,netcup GmbH,netcup GmbH,Residential/Business,False
+2026-01-13 16:25:04,186.103.169.12,100,Chile,Santiago,Telefonica Empresas,Telefonica Empresas Chile SA,Residential/Business,False
+2026-01-13 16:25:04,49.84.213.178,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-13 16:25:04,52.175.55.60,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-13 16:25:04,193.142.147.209,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,True
+2026-01-13 16:25:04,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 16:25:04,211.200.98.61,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-13 16:25:04,49.228.104.252,100,Thailand,Bangkok,Advanced Wireless Network Company Limited,AIS Fibre,Mobile,False
+2026-01-13 16:25:04,201.249.166.171,100,Venezuela,San Carlos del Zulia,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-01-13 16:25:04,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-13 16:25:04,125.94.106.195,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-13 16:25:04,209.141.52.88,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-13 16:25:04,87.121.84.38,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-13 16:25:04,44.209.89.189,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 16:25:04,223.244.22.213,100,China,Jiaxing,China Telecom,Chinanet AH,Residential/Business,False
+2026-01-13 16:25:04,78.153.140.203,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-13 16:25:04,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 16:25:04,5.188.206.66,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Residential/Business,False
+2026-01-13 16:25:04,45.78.194.59,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 16:25:04,109.199.116.70,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-13 16:25:04,45.78.219.74,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 16:25:04,118.193.37.10,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
