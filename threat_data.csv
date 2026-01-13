@@ -5264,3 +5264,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-12 22:15:03,45.78.220.115,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-12 22:15:03,130.250.191.229,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
 2026-01-12 22:15:03,81.88.49.42,100,Italy,Bergamo,Register.IT S.p.A,Register.IT S.p.A.,Data Center,False
+2026-01-13 01:13:50,204.76.203.35,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-13 01:13:50,100.29.192.65,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,165.154.108.3,100,United Arab Emirates,Dubai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-13 01:13:50,165.154.150.141,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 01:13:50,3.141.190.56,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-13 01:13:50,165.154.195.102,100,Taiwan,Taoyuan,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-01-13 01:13:50,91.230.168.191,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 01:13:50,100.29.192.62,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,162.243.91.172,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 01:13:50,177.8.166.171,100,Brazil,São Paulo,Grupohost Comunicacao Multimidia Ltda,Baalbek Cooperativa Habitacional,Residential/Business,False
+2026-01-13 01:13:50,206.168.34.130,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-13 01:13:50,164.92.215.249,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,164.77.85.244,100,Chile,Santiago,Entel Chile S.A.,Entel Chile S.A,Residential/Business,False
+2026-01-13 01:13:50,3.236.142.50,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,185.247.137.114,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 01:13:50,45.56.85.254,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-13 01:13:50,116.202.134.139,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-01-13 01:13:50,162.243.160.10,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-13 01:13:50,162.243.200.40,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 01:13:50,167.172.42.166,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,185.247.137.112,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 01:13:50,185.247.137.119,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 01:13:50,45.142.193.90,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-13 01:13:50,103.171.85.117,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-13 01:13:50,160.30.160.240,100,Vietnam,Hanoi,VIETSERVICE,Vietservice Technology Company Limited,Residential/Business,True
+2026-01-13 01:13:50,45.88.186.70,100,United States,Miami,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-01-13 01:13:50,100.29.192.59,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,176.65.148.158,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-13 01:13:50,162.243.119.166,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 01:13:50,170.64.140.52,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,14.103.158.69,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-13 01:13:50,45.78.194.63,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 01:13:50,159.65.40.220,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 01:13:50,159.89.51.122,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,161.35.117.177,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,27.123.113.10,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Limited,Mobile,False
+2026-01-13 01:13:50,159.89.37.201,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 01:13:50,43.135.139.165,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-13 01:13:50,100.29.192.51,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,100.29.192.121,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-13 01:13:50,121.165.84.80,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-13 01:13:50,139.144.239.72,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-13 01:13:50,203.56.46.78,100,China,Wenquan,Cloud Computing Corporation,Chinanet FJ,Data Center,False
+2026-01-13 01:13:50,100.29.192.52,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
