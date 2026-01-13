@@ -5459,3 +5459,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 06:26:52,91.196.152.30,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-01-13 06:26:52,188.166.32.22,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-01-13 06:26:52,116.118.47.98,100,Vietnam,Hanoi,SPT,,Residential/Business,False
+2026-01-13 08:24:00,101.47.163.137,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 08:24:00,20.65.195.126,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-13 08:24:00,161.132.53.88,100,Peru,Independencia,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-01-13 08:24:00,101.47.140.190,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 08:24:00,185.11.61.206,100,Russia,Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-13 08:24:00,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-13 08:24:00,187.230.77.213,100,Mexico,Nogales,UNINET,UNINET,Residential/Business,False
+2026-01-13 08:24:00,77.74.229.158,100,Spain,Madrid,Istqrar for Servers Services Ltd,Ipxo Limited,Residential/Business,False
+2026-01-13 08:24:00,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-13 08:24:00,117.236.138.210,100,India,Raipur,BSNL Internet,,Mobile,False
+2026-01-13 08:24:00,154.83.15.33,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-01-13 08:24:00,198.199.90.221,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 08:24:00,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-13 08:24:00,118.194.250.245,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 08:24:00,111.61.77.252,100,China,Zaoqiang,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-13 08:24:00,159.223.2.75,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 08:24:00,71.6.147.254,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-13 08:24:00,159.253.36.38,100,Turkey,Merkez,Veri Merkezi Teknolojileri,Server Internet Bilisim ve Bilgisayar Hizmetleri,Data Center,False
+2026-01-13 08:24:00,65.20.191.12,100,Iraq,Karbala,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-01-13 08:24:00,171.104.158.177,100,China,Liuchow,Chinanet,Chinanet GX,Residential/Business,False
+2026-01-13 08:24:00,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-13 08:24:00,199.45.155.68,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-13 08:24:00,102.205.237.2,100,Kenya,Nairobi,VOS AFRICA,,Residential/Business,False
+2026-01-13 08:24:00,4.197.236.122,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-13 08:24:00,20.169.104.253,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-13 08:24:00,42.112.20.235,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-01-13 08:24:00,103.187.146.196,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-13 08:24:00,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-13 08:24:00,134.199.198.136,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 08:24:00,40.77.167.41,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-13 08:24:00,186.13.24.118,100,Argentina,Olivos,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-01-13 08:24:00,202.29.225.206,100,Thailand,Phetchaburi,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-01-13 08:24:00,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 08:24:00,170.187.165.242,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-13 08:24:00,64.23.179.83,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-13 08:24:00,119.53.253.2,100,China,Changchun,CNC Group CHINA169 Jilin Province Network,,Residential/Business,False
+2026-01-13 08:24:00,185.11.61.214,100,Russia,Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-13 08:24:00,37.238.162.11,100,Iraq,Karbala,EarthLink Ltd. Communications&,Hulum,Residential/Business,False
+2026-01-13 08:24:00,93.92.233.214,100,Spain,Zaragoza,EFOR-MADRID,,Residential/Business,True
+2026-01-13 08:24:00,151.60.88.192,100,Italy,Turin,INFOSTRADA,WIND Telecomunicazioni S.p.A,Residential/Business,False
+2026-01-13 08:24:00,149.62.46.90,100,Hong Kong,Hong Kong,xTom Hong Kong Limited,Xtom,Data Center,False
+2026-01-13 08:24:00,65.49.1.197,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 08:24:00,182.79.83.98,100,India,Kolkata,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-13 08:24:00,218.78.60.105,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-13 08:24:00,162.243.204.125,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 08:24:00,51.77.145.80,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-13 08:24:00,27.71.27.54,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-13 08:24:00,85.11.183.6,100,United Kingdom,London,PebbleHost Ltd,Sofcompany speedy,Residential/Business,False
+2026-01-13 08:24:00,129.212.188.196,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 08:24:00,36.104.145.245,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
