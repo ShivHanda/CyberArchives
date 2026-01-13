@@ -5699,3 +5699,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 16:25:04,109.199.116.70,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
 2026-01-13 16:25:04,45.78.219.74,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-13 16:25:04,118.193.37.10,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 18:25:20,71.47.28.125,100,United States,Deltona,Charter Communications,Spectrum,Residential/Business,False
+2026-01-13 18:25:20,185.247.137.251,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-13 18:25:20,118.26.39.178,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 18:25:20,144.22.162.132,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-01-13 18:25:20,122.114.11.87,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
+2026-01-13 18:25:20,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 18:25:20,31.14.32.5,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-01-13 18:25:20,68.183.3.80,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 18:25:20,43.157.241.18,100,Indonesia,Jakarta,Aceville Pte.ltd,,Data Center,False
+2026-01-13 18:25:20,81.213.109.126,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-01-13 18:25:20,20.42.210.242,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-13 18:25:20,81.19.140.51,100,Canada,Toronto,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Mobile,False
+2026-01-13 18:25:20,92.118.39.203,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-13 18:25:20,77.83.39.205,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-13 18:25:20,161.35.92.3,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 18:25:20,81.10.3.174,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-01-13 18:25:20,4.214.32.32,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-13 18:25:20,164.90.201.133,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 18:25:20,91.224.74.138,100,Kazakhstan,Almaty,Newserverlife LLC,3HCLoud LLC,Residential/Business,False
+2026-01-13 18:25:20,51.77.145.80,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-13 18:25:20,195.184.76.90,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 18:25:20,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-13 18:25:20,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-13 18:25:20,101.47.140.216,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 18:25:20,152.32.251.174,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-13 18:25:20,34.123.134.194,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-01-13 18:25:20,101.47.142.206,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-13 18:25:20,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 18:25:20,80.94.92.12,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 18:25:20,52.224.240.74,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-13 18:25:20,155.94.150.238,100,United States,Buffalo,DataWagon LLC,HostPapa,Data Center,False
+2026-01-13 18:25:20,91.231.89.114,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 18:25:20,197.220.93.100,100,Somalia,Mogadishu,GICO,,Residential/Business,False
+2026-01-13 18:25:20,45.78.217.85,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-13 18:25:20,77.22.70.198,100,Germany,Berlin,Vodafone Kabel Deutschland,Kabel Deutschland Vertrieb und Service GmbH,Residential/Business,False
+2026-01-13 18:25:20,80.82.77.33,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-01-13 18:25:20,101.47.49.199,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-13 18:25:20,104.248.29.37,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 18:25:20,70.37.89.177,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,True
+2026-01-13 18:25:20,161.35.150.106,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 18:25:20,77.91.127.241,100,The Netherlands,Amsterdam,365.partners INC,365.partners INC,Residential/Business,False
+2026-01-13 18:25:20,38.19.156.18,100,Peru,Miraflores,Win Empresas S.A.C,Win Empresas S.A.C,Residential/Business,False
+2026-01-13 18:25:20,199.45.154.116,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-13 18:25:20,80.82.77.139,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-01-13 18:25:20,91.231.89.110,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-13 18:25:20,20.169.49.156,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-13 18:25:20,14.224.213.222,100,Vietnam,Ho Chi Minh City,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-13 18:25:20,152.32.141.86,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-13 18:25:20,223.254.130.129,100,China,Shenyang,Cloudie Limited,The Media Network Ltd,Data Center,False
+2026-01-13 18:25:20,4.197.177.221,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
