@@ -5509,3 +5509,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-13 08:24:00,85.11.183.6,100,United Kingdom,London,PebbleHost Ltd,Sofcompany speedy,Residential/Business,False
 2026-01-13 08:24:00,129.212.188.196,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-13 08:24:00,36.104.145.245,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
+2026-01-13 10:19:03,101.126.88.93,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-01-13 10:19:03,43.137.35.53,100,China,Nanjing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-01-13 10:19:03,152.52.243.30,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Ltd,Mobile,False
+2026-01-13 10:19:03,134.199.198.136,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 10:19:03,196.43.152.252,100,Uganda,Kampala,Young Men's Christian Association,Young Mens Christian Association,Residential/Business,False
+2026-01-13 10:19:03,2.132.181.70,100,Kazakhstan,Astana,JSC Kazakhtelecom,Kazakhtelecom Data Network Administration,Residential/Business,False
+2026-01-13 10:19:03,15.235.112.154,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc",Data Center,True
+2026-01-13 10:19:03,45.137.99.184,100,Romania,Orăştie,Internet Magnate (Pty) Ltd,Internet Magnate (Pty) Ltd,Residential/Business,False
+2026-01-13 10:19:03,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-13 10:19:03,2.55.88.152,100,Israel,Tel Aviv,Partner Communications,,Mobile,False
+2026-01-13 10:19:03,78.29.45.22,100,Russia,Chelyabinsk,Intersvyaz-2 JSC,Intersvyaz-2 JSC,Residential/Business,False
+2026-01-13 10:19:03,129.212.181.84,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 10:19:03,142.93.212.130,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 10:19:03,36.135.62.103,100,China,Jilin,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-13 10:19:03,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-13 10:19:03,67.83.30.199,100,United States,Edison,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-01-13 10:19:03,80.94.92.66,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 10:19:03,157.20.32.163,100,Indonesia,Jakarta,PT Intercloud Digital Inovasi,PT Intercloud Digital Inovasi,Residential/Business,False
+2026-01-13 10:19:03,49.36.115.152,100,India,Mumbai,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-01-13 10:19:03,103.38.182.49,100,India,Darbhanga,Reis Network Solutions,NIXI,Residential/Business,False
+2026-01-13 10:19:03,159.203.173.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-13 10:19:03,122.144.14.204,100,Bangladesh,Dhaka,Bangladesh Online Ltd,Bangladesh Online Ltd,Residential/Business,False
+2026-01-13 10:19:03,182.44.1.113,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-13 10:19:03,89.218.69.66,100,Kazakhstan,Astana,Kazakhtelecom Megaline Astana Network,,Residential/Business,False
+2026-01-13 10:19:03,115.190.127.7,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-13 10:19:03,122.187.226.240,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-13 10:19:03,135.237.126.221,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-13 10:19:03,5.251.179.129,100,Kazakhstan,Almaty,JSC Kazakhtelecom,Kazakhtelecom,Residential/Business,False
+2026-01-13 10:19:03,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-13 10:19:03,61.185.30.170,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-01-13 10:19:03,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 10:19:03,166.147.159.111,100,United States,Belmont,Verizon Business,Verizon Business,Mobile,False
+2026-01-13 10:19:03,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-13 10:19:03,2.57.122.85,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-13 10:19:03,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-13 10:19:03,120.48.147.111,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-13 10:19:03,221.151.181.65,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-13 10:19:03,62.97.170.54,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-13 10:19:03,46.14.24.50,100,Switzerland,Zurich,Swisscom (Schweiz) AG - SME/Cybernet,Swisscom (Schweiz) AG,Residential/Business,False
+2026-01-13 10:19:03,209.141.41.212,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-13 10:19:03,58.216.212.238,100,China,Nanjing,Chinanet,ChangZhou ZhongHao ChenGuang Chemicals CORP,Residential/Business,False
+2026-01-13 10:19:03,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-13 10:19:03,200.223.232.26,100,Brazil,Rio de Janeiro,V tal,Telemar Norte Leste S.A,Residential/Business,False
+2026-01-13 10:19:03,65.49.20.108,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-13 10:19:03,91.224.92.150,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
