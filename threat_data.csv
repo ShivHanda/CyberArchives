@@ -6039,3 +6039,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 06:27:10,103.200.25.129,100,Vietnam,Nguyễn Du,MAXDATA,,Data Center,False
 2026-01-14 06:27:10,118.139.164.171,100,Singapore,Singapore,Godaddy.com,,Data Center,False
 2026-01-14 06:27:10,191.243.56.131,100,Brazil,Pompéu,Netpeu Tecnologia e Internet Ltda,PANDA ENGENHARIA E CONSTRUÇÃO LTDA,Residential/Business,False
+2026-01-14 08:23:38,134.199.169.146,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 08:23:38,177.131.133.14,100,Brazil,São José dos Campos,L2K Informatica LTDA,L2K Informatica LTDA,Residential/Business,False
+2026-01-14 08:23:38,89.67.37.8,100,Poland,Lublin,UPC.pl,UPC Polska Sp. z o.o.,Residential/Business,False
+2026-01-14 08:23:38,212.193.5.8,100,Germany,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited",Residential/Business,False
+2026-01-14 08:23:38,1.162.24.98,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,154.12.238.43,100,United States,Orangeburg,Cogent Communications,Contabo Inc,Residential/Business,False
+2026-01-14 08:23:38,220.135.51.108,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,206.0.8.204,100,Brazil,Caxias do Sul,Brsulnet Telecom Ltda,Brsulnet Telecom Ltda,Residential/Business,False
+2026-01-14 08:23:38,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-14 08:23:38,36.229.69.240,100,Taiwan,Banqiao,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,185.11.61.210,100,Russia,Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-14 08:23:38,118.160.63.155,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,59.3.76.218,100,South Korea,Yeonggwang-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-01-14 08:23:38,157.173.124.93,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-14 08:23:38,167.99.223.169,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 08:23:38,165.22.151.42,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-14 08:23:38,160.242.96.43,100,Namibia,Windhoek,Paratus Telecommunications Limited,Paratus Telecommunications Limited,Residential/Business,False
+2026-01-14 08:23:38,71.6.232.29,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-14 08:23:38,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-14 08:23:38,64.62.197.17,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-14 08:23:38,3.223.3.166,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-14 08:23:38,86.80.235.177,100,The Netherlands,Amsterdam,KPN B.V.,Telfort,Residential/Business,False
+2026-01-14 08:23:38,172.111.9.98,100,United States,Washington,Cogent Communications,CloudSurph LLC,Residential/Business,False
+2026-01-14 08:23:38,178.62.133.230,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-14 08:23:38,136.119.125.131,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-14 08:23:38,43.129.41.91,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-14 08:23:38,157.20.32.212,100,Indonesia,Jakarta,PT Intercloud Digital Inovasi,PT Intercloud Digital Inovasi,Residential/Business,False
+2026-01-14 08:23:38,1.169.236.19,100,Taiwan,Hsinchu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,51.15.202.158,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-14 08:23:38,41.142.25.169,100,Morocco,Fes,ADSL Maroc telecom,,Residential/Business,False
+2026-01-14 08:23:38,93.123.109.114,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-14 08:23:38,197.5.145.8,100,Tunisia,Tunis,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-14 08:23:38,1.165.75.132,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 08:23:38,204.76.203.83,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,True
+2026-01-14 08:23:38,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 08:23:38,123.145.201.157,100,China,Chongqing,CNC Group CHINA169 Chongqing Province Network,,Residential/Business,False
+2026-01-14 08:23:38,34.40.30.195,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-01-14 08:23:38,107.174.27.207,100,United States,Los Angeles,ColoCrossing,PNV GROUP Ltd.,Data Center,False
+2026-01-14 08:23:38,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-14 08:23:38,200.90.8.90,100,Venezuela,Maripa,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-01-14 08:23:38,159.223.237.29,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 08:23:38,125.26.175.91,100,Thailand,Bangkok,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-01-14 08:23:38,34.75.172.3,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-01-14 08:23:38,95.214.55.71,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-14 08:23:38,158.69.19.127,100,Canada,Montreal,OVH SAS,,Data Center,False
