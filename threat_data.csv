@@ -6084,3 +6084,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 08:23:38,34.75.172.3,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
 2026-01-14 08:23:38,95.214.55.71,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
 2026-01-14 08:23:38,158.69.19.127,100,Canada,Montreal,OVH SAS,,Data Center,False
+2026-01-14 10:19:37,101.47.142.65,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-14 10:19:37,110.25.105.224,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-01-14 10:19:37,4.218.10.48,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-14 10:19:37,121.73.162.60,100,New Zealand,Katikati,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-14 10:19:37,39.152.120.40,100,China,Shenyang,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-01-14 10:19:37,103.187.146.107,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-14 10:19:37,200.32.52.150,100,Argentina,Buenos Aires,Telefonica de Argentina,Huawei Tech Investment CO LTD,Residential/Business,True
+2026-01-14 10:19:37,129.212.181.84,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 10:19:37,20.253.155.235,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-01-14 10:19:37,83.143.205.50,100,Ukraine,Sevastopol,PE Radashevsky Sergiy Oleksandrovich,ISP REEDLAN,Residential/Business,False
+2026-01-14 10:19:37,120.157.246.158,100,Australia,Melbourne,Telstra Internet,,Residential/Business,False
+2026-01-14 10:19:37,80.94.92.169,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 10:19:37,103.186.1.59,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-01-14 10:19:37,31.173.67.146,100,Russia,Moscow,PJSC MegaFon,Megafon Moscow Broadband,Mobile,False
+2026-01-14 10:19:37,103.147.242.68,100,Bangladesh,Dhaka,Bangladesh Research and Education Network (BdREN),Bangabandhu Sheikh Mujibur Rahman Digital University,Residential/Business,False
+2026-01-14 10:19:37,149.54.62.58,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-01-14 10:19:37,103.250.11.92,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-14 10:19:37,59.34.17.130,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-01-14 10:19:37,64.62.156.77,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 10:19:37,200.85.150.173,100,Bolivia,Tarija,Nuevatel PCS de Bolivia S.A.,Nuevatel PCS de Bolivia S.A,Mobile,False
+2026-01-14 10:19:37,194.36.87.185,100,Türkiye,Istanbul,TALIDODC,,Residential/Business,False
+2026-01-14 10:19:37,20.123.146.92,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-14 10:19:37,40.119.26.30,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-14 10:19:37,206.168.34.154,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-14 10:19:37,103.186.1.197,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-01-14 10:19:37,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-14 10:19:37,103.186.0.68,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-01-14 10:19:37,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-14 10:19:37,220.77.245.227,100,South Korea,Cheorwon-gun,Korea Telecom,,Residential/Business,False
+2026-01-14 10:19:37,180.168.60.146,100,China,Beijing,China Telecom (Group),"Shanghai Xianshang Trading Co., Ltd.",Residential/Business,False
+2026-01-14 10:19:37,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 10:19:37,91.230.168.13,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 10:19:37,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-14 10:19:37,101.47.161.133,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-14 10:19:37,111.70.3.106,100,Taiwan,Taichung,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-14 10:19:37,106.51.1.63,100,India,Chennai,ACT Fibernet,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-01-14 10:19:37,176.65.148.4,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-14 10:19:37,103.186.0.19,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-01-14 10:19:37,74.225.244.89,100,India,Pune,AT&T Corp.,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-14 10:19:37,77.222.100.142,100,Russia,Chelyabinsk,INTERSV,JSC Net,Residential/Business,False
+2026-01-14 10:19:37,91.230.168.189,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 10:19:37,106.245.246.26,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-14 10:19:37,14.103.206.196,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-14 10:19:37,59.22.68.213,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-14 10:19:37,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
