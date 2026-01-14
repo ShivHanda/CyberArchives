@@ -6364,3 +6364,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 20:16:14,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-14 20:16:14,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
 2026-01-14 20:16:14,190.202.7.114,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-01-14 22:17:50,130.12.181.60,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-14 22:17:50,193.123.245.198,100,South Korea,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),Data Center,False
+2026-01-14 22:17:50,181.188.176.245,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-01-14 22:17:50,143.198.176.113,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 22:17:50,87.251.77.103,100,Germany,Frankfurt Am Main,Miglovets Egor Andreevich,Miglovets Egor Andreevich,Residential/Business,False
+2026-01-14 22:17:50,142.93.35.172,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-14 22:17:50,185.224.128.136,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-14 22:17:50,159.183.224.104,100,Ireland,Dublin,"SendGrid, Inc.",Twilio SendGrid,Residential/Business,False
+2026-01-14 22:17:50,50.6.224.135,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-14 22:17:50,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-14 22:17:50,206.168.34.146,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-14 22:17:50,197.5.145.102,100,Tunisia,Tunis,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-14 22:17:50,101.47.163.3,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-14 22:17:50,200.196.41.84,100,Brazil,Conselheiro Lafaiete,CN TELECOM SERVICOS DE INTERNET LTDA,CN TELECOM SERVICOS DE INTERNET LTDA,Residential/Business,False
+2026-01-14 22:17:50,200.32.52.150,100,Argentina,Buenos Aires,Telefonica de Argentina,Huawei Tech Investment CO LTD,Residential/Business,True
+2026-01-14 22:17:50,45.78.216.189,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,45.78.217.131,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,66.116.204.232,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-14 22:17:50,117.72.35.203,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-14 22:17:50,152.32.131.195,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-14 22:17:50,111.70.48.26,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-14 22:17:50,50.6.249.92,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-14 22:17:50,101.47.140.130,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-14 22:17:50,194.226.49.149,100,Russia,Moscow,LLC ZTV CORP,ZTV CORP LLC,Residential/Business,True
+2026-01-14 22:17:50,47.250.43.160,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-01-14 22:17:50,218.190.8.165,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-01-14 22:17:50,77.83.39.253,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 22:17:50,84.213.189.27,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-14 22:17:50,193.163.125.105,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-14 22:17:50,103.90.227.98,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-01-14 22:17:50,138.68.104.233,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 22:17:50,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-14 22:17:50,182.151.61.36,100,China,Shanghai,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,False
+2026-01-14 22:17:50,45.78.219.61,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,216.180.127.201,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-01-14 22:17:50,125.19.138.74,100,India,Gurugram,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-01-14 22:17:50,45.78.217.61,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,172.90.128.97,100,United States,Compton,Charter Communications,Spectrum,Residential/Business,False
+2026-01-14 22:17:50,185.247.137.104,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-14 22:17:50,101.126.81.213,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
+2026-01-14 22:17:50,154.83.15.123,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-01-14 22:17:50,45.78.206.115,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,45.78.222.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 22:17:50,94.102.4.12,100,Turkey,Denizli,Netinternet Bilisim Teknolojileri AS,,Data Center,False
+2026-01-14 22:17:50,8.219.148.168,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
