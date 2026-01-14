@@ -6319,3 +6319,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 18:26:39,143.198.85.84,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-14 18:26:39,74.249.128.248,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-01-14 18:26:39,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-14 20:16:14,194.147.34.192,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-01-14 20:16:14,141.98.11.227,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-01-14 20:16:14,209.38.33.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 20:16:14,87.251.75.163,100,Russia,Barnaul,Gening Nikita Dmitrievich,Gening Nikita Dmitrievich,Residential/Business,False
+2026-01-14 20:16:14,43.224.124.253,100,Sri Lanka,Sri Jayewardenepura Kotte,Information and Communication Technology Agency of Sri Lanka,Lgc2,Residential/Business,True
+2026-01-14 20:16:14,206.168.34.210,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-14 20:16:14,20.65.195.47,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-14 20:16:14,170.64.188.115,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 20:16:14,14.63.2.243,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-14 20:16:14,101.47.49.224,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-14 20:16:14,222.110.147.56,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-14 20:16:14,115.129.158.83,100,Australia,Melbourne,IANA,Vodafone Australia Pty Ltd,Mobile,False
+2026-01-14 20:16:14,31.129.22.226,100,Portugal,Viana do Castelo,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-14 20:16:14,173.212.238.152,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-14 20:16:14,64.62.197.62,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-14 20:16:14,51.222.30.51,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,True
+2026-01-14 20:16:14,197.5.145.8,100,Tunisia,Tunis,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-14 20:16:14,120.48.112.208,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-14 20:16:14,212.154.234.9,100,Kazakhstan,Almaty,JSC Kazakhtelecom,"Co-location, LLC",Residential/Business,False
+2026-01-14 20:16:14,216.218.206.107,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 20:16:14,45.78.222.219,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 20:16:14,103.187.165.26,100,Indonesia,Depok,PT Amanusa Telemedia Mahardika,PT Amanusa Telemedia Mahardika,Residential/Business,False
+2026-01-14 20:16:14,38.175.197.208,100,Hong Kong,Hong Kong,NetLab Global,NetLab Global,Residential/Business,False
+2026-01-14 20:16:14,134.199.151.155,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 20:16:14,85.184.248.187,100,Germany,Frankfurt am Main,PROFITBRICKS,ProfitBricks GmbH,Data Center,False
+2026-01-14 20:16:14,173.212.196.41,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-14 20:16:14,164.92.159.121,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 20:16:14,118.193.43.141,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-14 20:16:14,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-14 20:16:14,117.1.28.49,100,Vietnam,Hanoi,VIETTEL,,Residential/Business,False
+2026-01-14 20:16:14,207.154.232.101,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-14 20:16:14,159.223.2.2,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 20:16:14,64.62.197.137,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-14 20:16:14,106.13.22.244,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-14 20:16:14,110.53.126.241,100,China,Changsha,China Unicom CHINA169 Hunan Province Network,,Residential/Business,True
+2026-01-14 20:16:14,157.20.207.165,100,Indonesia,Kudus,PT Erajaya Telco Indonesia,PT Erajaya Telco Indonesia,Residential/Business,False
+2026-01-14 20:16:14,45.78.204.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 20:16:14,185.216.214.42,100,Germany,Frankfurt am Main,Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k,Metaliance ISP Systems e.k,Residential/Business,False
+2026-01-14 20:16:14,91.238.181.92,100,France,Paris,Datacenter location PAR1 France,ThinkTech Technology Industrial CO. Limited,Data Center,False
+2026-01-14 20:16:14,188.166.120.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-14 20:16:14,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-14 20:16:14,107.174.55.72,100,United States,Los Angeles,HostPapa,ColoCrossing,Data Center,False
+2026-01-14 20:16:14,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 20:16:14,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-01-14 20:16:14,190.202.7.114,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
