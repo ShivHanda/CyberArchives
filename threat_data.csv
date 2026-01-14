@@ -6269,3 +6269,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 16:24:07,64.95.96.69,100,The Netherlands,Amsterdam,Internap Holding LLC,Internap Network Services Corporation,Data Center,False
 2026-01-14 16:24:07,116.34.14.135,100,South Korea,Eunpyeong-gu,LG POWERCOMM,Xpeed,Residential/Business,False
 2026-01-14 16:24:07,45.153.34.87,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-01-14 18:26:39,209.38.33.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,141.147.62.42,100,Germany,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),Data Center,False
+2026-01-14 18:26:39,74.82.47.46,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 18:26:39,130.12.180.108,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-01-14 18:26:39,103.200.25.197,100,Vietnam,Nguyễn Du,MAXDATA,,Data Center,False
+2026-01-14 18:26:39,79.185.211.186,100,Poland,Choroszcz,Orange Polska Spolka Akcyjna,Orange Polska S.A.,Residential/Business,False
+2026-01-14 18:26:39,115.190.22.194,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-14 18:26:39,74.82.47.29,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 18:26:39,71.6.232.29,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-14 18:26:39,71.9.52.112,100,United States,Gilroy,Charter Communications,Spectrum,Residential/Business,False
+2026-01-14 18:26:39,183.234.64.3,100,China,Shenzhen,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-14 18:26:39,91.231.89.87,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 18:26:39,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-14 18:26:39,160.251.215.3,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-14 18:26:39,184.168.21.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-14 18:26:39,213.209.159.63,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-14 18:26:39,74.82.47.18,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 18:26:39,40.119.43.133,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-14 18:26:39,158.94.209.202,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,74.249.184.13,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 18:26:39,158.94.209.189,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,74.249.177.110,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 18:26:39,139.99.9.163,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-01-14 18:26:39,158.94.209.92,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,160.251.197.41,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-14 18:26:39,159.223.215.92,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,209.38.27.168,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,209.38.40.128,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,209.38.111.224,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,206.189.4.218,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,45.115.173.11,100,India,Guwahati,Mukand Infotel Pvt Ltd,Mukand Infotel Pvt Ltd.,Residential/Business,False
+2026-01-14 18:26:39,74.249.129.23,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 18:26:39,158.94.209.199,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,158.94.209.195,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,158.94.209.201,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,86.48.22.241,100,United States,Orangeburg,Contabo Inc.,Contabo GmbH,Residential/Business,False
+2026-01-14 18:26:39,74.249.128.83,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 18:26:39,158.94.209.186,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,True
+2026-01-14 18:26:39,158.94.209.197,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 18:26:39,187.140.204.135,100,Mexico,Celaya,UNINET,UNINET,Residential/Business,False
+2026-01-14 18:26:39,20.168.14.25,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-14 18:26:39,135.237.126.6,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-14 18:26:39,5.187.35.21,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,True
+2026-01-14 18:26:39,45.55.52.72,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-14 18:26:39,174.138.6.119,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,34.91.58.35,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-01-14 18:26:39,178.232.30.170,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-14 18:26:39,143.198.85.84,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 18:26:39,74.249.128.248,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 18:26:39,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
