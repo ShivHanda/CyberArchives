@@ -5894,3 +5894,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 01:20:01,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-14 01:20:01,103.176.78.228,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
 2026-01-14 01:20:01,113.164.142.144,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-14 03:43:10,206.168.34.58,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-14 03:43:10,208.109.34.86,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-14 03:43:10,143.110.177.53,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,13.93.203.231,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-01-14 03:43:10,65.49.1.46,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-14 03:43:10,40.113.227.212,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-14 03:43:10,216.180.127.200,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-01-14 03:43:10,101.126.24.58,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-14 03:43:10,103.52.115.189,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-14 03:43:10,220.93.167.144,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-14 03:43:10,45.135.194.98,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-14 03:43:10,20.163.15.131,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-14 03:43:10,91.196.152.5,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 03:43:10,93.152.230.150,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-14 03:43:10,172.191.197.110,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-01-14 03:43:10,142.93.135.35,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,74.48.63.24,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc.,Data Center,False
+2026-01-14 03:43:10,146.190.28.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,4.218.10.48,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-14 03:43:10,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-14 03:43:10,192.81.208.35,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-14 03:43:10,20.56.82.62,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-14 03:43:10,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-14 03:43:10,88.210.63.192,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,FOP Dmytro Nedilskyi,Residential/Business,False
+2026-01-14 03:43:10,34.91.58.35,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-01-14 03:43:10,61.1.105.105,100,India,Delhi,BSNL Internet,Nib-1 Infrastructure & Dialup  IP Pool,Residential/Business,False
+2026-01-14 03:43:10,101.126.157.138,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-14 03:43:10,209.126.127.194,100,United States,St Louis,velia.net,velia.net,Data Center,True
+2026-01-14 03:43:10,45.33.94.76,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-14 03:43:10,154.57.216.142,100,Pakistan,Karachi,Trans World Enterprise Services (Private) Limited,Trans World Enterprise Services (Private) Limited,Residential/Business,False
+2026-01-14 03:43:10,123.112.21.10,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-14 03:43:10,182.95.119.118,100,India,Mysuru,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-14 03:43:10,188.246.224.87,100,Russia,Moscow,JSC Selectel,,Data Center,False
+2026-01-14 03:43:10,159.89.143.86,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,184.105.247.206,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-14 03:43:10,188.166.61.243,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-14 03:43:10,209.38.102.159,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,152.32.128.85,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-14 03:43:10,45.135.232.92,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-14 03:43:10,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-14 03:43:10,195.184.76.211,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 03:43:10,124.219.108.4,100,Taiwan,Banqiao,"Asia Pacific Broadband Fixed Lines Co., Ltd.",Asia Pacific On-line Services Inc.,Residential/Business,False
+2026-01-14 03:43:10,4.190.190.129,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-14 03:43:10,45.56.84.110,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-14 03:43:10,103.153.68.170,100,Vietnam,Thanh Xuân,TAM,TAM Media Technology Joint Stock Company,Residential/Business,False
+2026-01-14 03:43:10,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-14 03:43:10,209.38.43.71,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 03:43:10,45.156.87.47,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-01-14 03:43:10,102.205.237.2,100,Kenya,Nairobi,VOS AFRICA,,Residential/Business,False
+2026-01-14 03:43:10,167.71.77.72,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
