@@ -6129,3 +6129,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-14 10:19:37,14.103.206.196,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
 2026-01-14 10:19:37,59.22.68.213,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
 2026-01-14 10:19:37,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-14 12:35:31,178.16.54.171,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-14 12:35:31,71.6.134.235,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,True
+2026-01-14 12:35:31,79.124.40.98,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-14 12:35:31,66.154.117.138,100,United States,St Louis,"CYBERCON, INC.",ASSERTIVENET,Data Center,False
+2026-01-14 12:35:31,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-14 12:35:31,171.231.193.163,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-14 12:35:31,193.163.125.82,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-14 12:35:31,46.151.182.230,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,True
+2026-01-14 12:35:31,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 12:35:31,120.48.115.122,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-14 12:35:31,45.79.225.32,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-14 12:35:31,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-14 12:35:31,36.67.56.52,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-01-14 12:35:31,182.75.45.1,100,India,Hyderabad,BHARTI,BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE,Mobile,True
+2026-01-14 12:35:31,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-14 12:35:31,207.180.234.98,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-14 12:35:31,142.171.126.50,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc,Data Center,False
+2026-01-14 12:35:31,172.235.173.150,100,The Netherlands,Amsterdam,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-14 12:35:31,103.52.115.25,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-14 12:35:31,59.126.224.134,100,Taiwan,Chang-hua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-14 12:35:31,85.203.23.220,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-01-14 12:35:31,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-14 12:35:31,14.103.165.147,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-14 12:35:31,101.47.143.184,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-14 12:35:31,23.242.166.38,100,United States,Westlake Village,Charter Communications,Spectrum,Residential/Business,False
+2026-01-14 12:35:31,92.118.39.101,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-14 12:35:31,45.93.168.44,100,The Netherlands,Amsterdam,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi,,Mobile,False
+2026-01-14 12:35:31,64.227.131.199,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 12:35:31,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-14 12:35:31,180.184.181.118,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-14 12:35:31,91.224.92.99,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-14 12:35:31,20.65.194.85,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-14 12:35:31,34.122.105.182,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-14 12:35:31,195.184.76.0,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 12:35:31,195.184.76.134,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-14 12:35:31,113.141.171.139,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,True
+2026-01-14 12:35:31,103.215.80.173,100,Hong Kong,San Po Kong,Cloudie Limited,Netads Online Limited,Data Center,False
+2026-01-14 12:35:31,45.78.194.97,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 12:35:31,209.141.53.124,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-14 12:35:31,159.223.218.165,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-14 12:35:31,107.173.51.83,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-01-14 12:35:31,45.78.198.115,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-14 12:35:31,14.103.180.72,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-14 12:35:31,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-14 12:35:31,140.84.188.140,100,Mexico,La Cañada,Oracle Corporation,Oracle Corporation,Data Center,True
