@@ -6499,3 +6499,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-15 03:26:41,167.172.89.117,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-01-15 03:26:41,161.132.53.88,100,Peru,Independencia,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
 2026-01-15 03:26:41,14.103.130.89,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-15 04:36:13,118.145.177.248,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-01-15 04:36:13,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-15 04:36:13,46.224.33.195,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-01-15 04:36:13,193.163.125.86,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-15 04:36:13,20.189.79.118,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-01-15 04:36:13,64.62.156.17,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-15 04:36:13,45.78.219.184,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 04:36:13,178.17.62.24,100,Switzerland,Zurich,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-01-15 04:36:13,103.165.130.26,100,Indonesia,Cileungsir,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-01-15 04:36:13,45.227.253.95,100,Bolivia,La Paz,Flyservers S.A,Nextcloud S.A,Residential/Business,False
+2026-01-15 04:36:13,103.176.79.117,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,True
+2026-01-15 04:36:13,91.192.81.53,100,Singapore,Singapore,Melbikomas UAB,Melbikomas UAB,Residential/Business,True
+2026-01-15 04:36:13,95.214.53.196,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-15 04:36:13,23.94.112.185,100,United States,Los Angeles,HostPapa,CloudIT Assets,Data Center,False
+2026-01-15 04:36:13,91.231.89.72,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-15 04:36:13,93.100.250.41,100,Russia,St Petersburg,SkyNet LLC,SkyNet Networks,Residential/Business,False
+2026-01-15 04:36:13,147.93.191.12,100,United States,Orangeburg,Contabo Inc.,Contabo GmbH,Residential/Business,False
+2026-01-15 04:36:13,165.232.119.77,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 04:36:13,185.228.135.197,100,Russia,Sochi,SYSTEMA,,Residential/Business,False
+2026-01-15 04:36:13,83.229.85.154,100,Germany,Frankfurt,Kamatera Inc,Cloudwebmanage EU FR,Residential/Business,False
+2026-01-15 04:36:13,62.171.134.145,100,Germany,Frankfurt am Main,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-15 04:36:13,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-15 04:36:13,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-15 04:36:13,45.140.17.124,100,Russia,St Petersburg,Proton66 OOO,Proton66 LLC,Residential/Business,True
+2026-01-15 04:36:13,161.35.41.214,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 04:36:13,45.169.128.70,100,Brazil,Rio Novo,THM Tecnologia Net Ltda,THM Tecnologia Net Ltda,Residential/Business,False
+2026-01-15 04:36:13,135.237.123.168,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-15 04:36:13,64.227.135.37,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 04:36:13,58.219.119.151,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-15 04:36:13,61.222.211.114,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-15 04:36:13,85.203.21.197,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Residential/Business,True
+2026-01-15 04:36:13,195.250.72.168,100,Armenia,Yerevan,GNC-Alfa CJSC,GNC-Alfa CJSC,Residential/Business,False
+2026-01-15 04:36:13,195.3.222.78,100,Poland,Warsaw,MEVSPACE sp. z o.o,SKYTECHNOLOGY,Residential/Business,False
+2026-01-15 04:36:13,91.196.152.213,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-15 04:36:13,80.94.95.115,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,True
+2026-01-15 04:36:13,185.196.11.210,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-15 04:36:13,103.52.114.250,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-15 04:36:13,174.138.70.162,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-15 04:36:13,91.196.152.177,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-15 04:36:13,94.198.40.126,100,Germany,Frankfurt am Main,M247 Europe SRL,M247 Ltd Frankfurt,Data Center,True
+2026-01-15 04:36:13,162.243.248.118,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-15 04:36:13,31.129.22.214,100,Portugal,Viana do Castelo,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-15 04:36:13,45.181.45.238,100,Argentina,Lobería,Generacion Wi-fi SA,Astesano Alfredo Mario,Residential/Business,False
+2026-01-15 04:36:13,80.94.95.116,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-01-15 04:36:13,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
