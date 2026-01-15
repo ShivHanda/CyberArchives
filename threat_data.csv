@@ -6864,3 +6864,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-15 18:29:53,122.115.225.109,100,China,Beijing,ZLLX,"Beijing Zhonglianlixin Technology Co., Ltd.",Residential/Business,True
 2026-01-15 18:29:53,182.95.224.102,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
 2026-01-15 18:29:53,135.237.125.160,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-15 20:19:40,57.154.41.242,100,United States,Phoenix,MICROSOFT,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-15 20:19:40,45.78.219.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 20:19:40,182.78.64.18,100,India,Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-01-15 20:19:40,206.168.34.125,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-15 20:19:40,188.166.1.90,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-15 20:19:40,199.231.163.19,100,United States,Dallas,"HIVELOCITY, Inc.","HIVELOCITY, Inc",Data Center,False
+2026-01-15 20:19:40,45.78.229.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 20:19:40,220.158.233.147,100,Cambodia,Phnom Penh,BUCT,"VIETTEL (CAMBODIA) PTE., LTD",Mobile,False
+2026-01-15 20:19:40,35.216.189.16,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-01-15 20:19:40,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-15 20:19:40,91.134.241.51,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-15 20:19:40,178.20.210.151,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-01-15 20:19:40,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-15 20:19:40,176.65.148.4,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-15 20:19:40,188.37.194.181,100,Portugal,Santo Tirso,Vodafone Portugal,,Mobile,False
+2026-01-15 20:19:40,222.87.139.44,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
+2026-01-15 20:19:40,1.227.228.131,100,South Korea,Seongdong-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-15 20:19:40,20.171.8.182,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-15 20:19:40,94.180.135.131,100,Russia,Kazan',"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Kazan' Branch",Residential/Business,False
+2026-01-15 20:19:40,101.47.161.217,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-15 20:19:40,172.236.123.208,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-15 20:19:40,52.177.169.196,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-15 20:19:40,45.207.201.221,100,Hong Kong,Hong Kong,Fastnet Data Inc,Vapeline Technology,Residential/Business,False
+2026-01-15 20:19:40,185.16.39.146,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-15 20:19:40,154.92.16.80,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-01-15 20:19:40,113.201.68.111,100,China,Xi'an,CNC Group CHINA169 Shannxi Province Network,,Mobile,False
+2026-01-15 20:19:40,8.221.136.6,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-15 20:19:40,87.121.84.156,100,United States,Las Vegas,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-15 20:19:40,101.47.161.204,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-15 20:19:40,66.132.153.124,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-15 20:19:40,152.32.133.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-15 20:19:40,138.68.150.31,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 20:19:40,152.32.215.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-15 20:19:40,161.35.151.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 20:19:40,1.55.33.86,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-01-15 20:19:40,20.173.116.24,100,Qatar,Doha,Microsoft Corporation,Microsoft Azure Cloud (qatarcentral),Data Center,False
+2026-01-15 20:19:40,120.79.146.148,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-15 20:19:40,20.168.120.227,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-15 20:19:40,92.118.39.84,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-15 20:19:40,103.187.147.24,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-15 20:19:40,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-15 20:19:40,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-15 20:19:40,164.92.216.151,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 20:19:40,182.95.124.174,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-15 20:19:40,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
