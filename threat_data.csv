@@ -6634,3 +6634,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-15 08:24:36,141.98.11.227,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
 2026-01-15 08:24:36,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
 2026-01-15 08:24:36,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-15 10:18:45,83.235.21.125,100,Greece,Athens,OTEnet,OTEnet S.A.,Residential/Business,False
+2026-01-15 10:18:45,103.91.246.101,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-01-15 10:18:45,57.151.105.154,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-15 10:18:45,111.32.36.226,100,China,Tianjin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-15 10:18:45,223.166.105.133,100,China,Shanghai,China Unicom Shanghai Province Network,,Residential/Business,False
+2026-01-15 10:18:45,14.18.113.233,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet GD,Residential/Business,False
+2026-01-15 10:18:45,112.119.212.162,100,Hong Kong,Kwu Tung,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-15 10:18:45,177.236.146.191,100,Mexico,Mexicali,Cablemas Telecomunicaciones SA de CV,Cablemas Telecomunicaciones SA de CV,Residential/Business,False
+2026-01-15 10:18:45,111.75.243.5,100,China,Taohua,Chinanet,Chinanet JX,Residential/Business,True
+2026-01-15 10:18:45,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-15 10:18:45,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-15 10:18:45,45.78.222.195,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 10:18:45,177.36.214.46,100,Brazil,Pirapora,NT Brasil Tecnologia Ltda. ME,NT Brasil Tecnologia Ltda. ME,Residential/Business,False
+2026-01-15 10:18:45,175.10.38.108,100,China,Changsha,Chinanet,Chinanet HN,Residential/Business,False
+2026-01-15 10:18:45,183.239.25.115,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-15 10:18:45,103.25.47.94,100,India,Salem,Rainbow communications India Pvt Ltd,Rainbow communications India Pvt Ltd,Residential/Business,False
+2026-01-15 10:18:45,1.180.62.41,100,China,Haoxinying,Chinanet,Chinanet NM,Residential/Business,False
+2026-01-15 10:18:45,115.190.108.231,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,True
+2026-01-15 10:18:45,206.168.34.38,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-15 10:18:45,45.78.194.236,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 10:18:45,77.74.229.158,100,Spain,Madrid,Istqrar for Servers Services Ltd,Ipxo Limited,Residential/Business,False
+2026-01-15 10:18:45,190.32.246.14,100,Panama,Panama City,Cable & Wireless Panama,Cable & Wireless Panama,Residential/Business,False
+2026-01-15 10:18:45,83.166.50.15,100,Estonia,Tallinn,Telia Eesti AS,,Residential/Business,False
+2026-01-15 10:18:45,177.207.250.1,100,Brazil,Maceió,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-01-15 10:18:45,49.0.38.130,100,Bangladesh,Dhaka,Always On Network Bangladesh Ltd.,Always On Network Bangladesh Ltd,Residential/Business,False
+2026-01-15 10:18:45,163.53.168.23,100,China,Guangzhou,China Unicom China169 Network,Guangdong LITONG Network Technology Limited,Residential/Business,False
+2026-01-15 10:18:45,45.143.203.239,100,Russia,Kemerovo,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,False
+2026-01-15 10:18:45,218.149.228.156,100,South Korea,Yeongcheon-si,Korea Telecom,hangugtongsindaegubonbu,Residential/Business,False
+2026-01-15 10:18:45,5.10.56.37,100,Germany,Mannheim,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-01-15 10:18:45,152.42.130.153,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-15 10:18:45,195.3.147.75,100,Latvia,Riga,RN DATA DC,RN Data SIA,Residential/Business,False
+2026-01-15 10:18:45,43.165.179.125,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-15 10:18:45,45.121.147.48,100,Malaysia,Kuala Lumpur,Gigabit Hosting Sdn Bhd,Invision Seven Solutions,Data Center,False
+2026-01-15 10:18:45,54.221.162.4,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-15 10:18:45,103.186.0.19,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-01-15 10:18:45,60.211.233.218,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-01-15 10:18:45,130.255.50.88,100,Russia,Kamensk-Uralsky,Closed Joint Stock Company Radiotelephone,CJSC Radiotelephone,Residential/Business,False
+2026-01-15 10:18:45,165.227.211.155,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 10:18:45,109.205.211.65,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-15 10:18:45,176.65.149.76,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-15 10:18:45,195.142.106.177,100,Turkey,Arnavutköy,Euronet Telekomunikasyon A.S.,SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticaret Ltd. Sti,Residential/Business,False
+2026-01-15 10:18:45,183.6.102.11,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-15 10:18:45,206.148.44.92,100,Australia,Melbourne,URL Networks,AGIS,Residential/Business,False
+2026-01-15 10:18:45,77.53.110.11,100,Sweden,Sundbyberg,Bredband2 AB,Bredband2,Residential/Business,False
+2026-01-15 10:18:45,112.160.73.63,100,South Korea,Daejeon,Korea Telecom,Kornet,Residential/Business,False
