@@ -6589,3 +6589,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-15 06:26:51,2.83.107.150,100,Portugal,Viana do Castelo,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
 2026-01-15 06:26:51,77.90.185.40,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
 2026-01-15 06:26:51,216.180.127.201,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-01-15 08:24:36,103.23.199.128,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-15 08:24:36,66.228.53.136,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-15 08:24:36,160.120.191.213,100,Ivory Coast,Abidjan,ORANGE COTE D'IVOIRE,Avisonet,Residential/Business,False
+2026-01-15 08:24:36,101.47.50.52,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-15 08:24:36,211.253.10.61,100,South Korea,Wŏnju,PUBNET,keumcheonkucheong,Residential/Business,False
+2026-01-15 08:24:36,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-15 08:24:36,130.12.181.59,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-15 08:24:36,175.173.169.124,100,China,Shenyang,China Unicom Liaoning Province Network,,Residential/Business,False
+2026-01-15 08:24:36,45.78.219.154,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 08:24:36,1.193.163.2,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-01-15 08:24:36,37.230.48.42,100,Germany,Frankfurt am Main,OVH SAS,,Data Center,False
+2026-01-15 08:24:36,128.203.204.25,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-15 08:24:36,222.232.176.7,100,South Korea,Busan,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-15 08:24:36,8.222.159.179,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-15 08:24:36,157.66.47.242,100,Vietnam,Hanoi,Jupiter Media Joint Stock Company,Jupiter Media Joint Stock Company,Mobile,False
+2026-01-15 08:24:36,101.47.140.255,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-15 08:24:36,161.35.41.214,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 08:24:36,103.90.227.98,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-01-15 08:24:36,94.254.16.10,100,Sweden,Byske,Bahnhof AB,General Private,Residential/Business,False
+2026-01-15 08:24:36,103.118.114.22,100,India,Gwalior,Pc Care Technologies Pvt. Ltd,Pc Care Technologies Pvt. Ltd.,Residential/Business,False
+2026-01-15 08:24:36,103.230.120.88,100,Thailand,Bangkok,Bangmod Enterprise Co,"Bangmod Enterprise Co., Ltd.",Mobile,True
+2026-01-15 08:24:36,45.78.206.159,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 08:24:36,152.53.188.144,100,Germany,Nuremberg,netcup GmbH,Netcup KVM,Data Center,True
+2026-01-15 08:24:36,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-15 08:24:36,20.171.9.108,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-15 08:24:36,45.78.217.85,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-15 08:24:36,178.17.62.24,100,Switzerland,Zurich,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-01-15 08:24:36,45.142.154.98,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-15 08:24:36,89.181.107.134,100,Portugal,Lisbon,NOS COMUNICACOES S.A,NOS Comunicacoes S.A.,Residential/Business,False
+2026-01-15 08:24:36,174.138.70.162,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-15 08:24:36,198.244.233.141,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
+2026-01-15 08:24:36,27.118.25.248,100,Vietnam,Hanoi,HANELCOM,,Data Center,False
+2026-01-15 08:24:36,103.59.160.146,100,Indonesia,Kediri,PT Gunung Sedayu Sentosa,PT Gunung Sedayu Sentosa,Residential/Business,False
+2026-01-15 08:24:36,159.89.20.223,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 08:24:36,31.6.212.12,100,Poland,Czchów,Multimedia Polska S.A.,MMP,Residential/Business,False
+2026-01-15 08:24:36,185.93.89.27,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-15 08:24:36,91.134.241.51,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-15 08:24:36,64.225.69.98,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-15 08:24:36,41.231.38.23,100,Tunisia,Tunis,ATI - ISP,ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-15 08:24:36,101.47.141.246,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-15 08:24:36,194.186.213.231,100,Russia,Moscow,"PJSC ""Vimpelcom""",SOVAM Tele Port p2p,Residential/Business,False
+2026-01-15 08:24:36,190.0.63.226,100,Colombia,Medellín,EPM Telecomunicaciones S.A. E.S.P.,UNE EPM TELECOMUNICACIONES S.A,Residential/Business,False
+2026-01-15 08:24:36,141.98.11.227,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-01-15 08:24:36,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-15 08:24:36,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
