@@ -7374,3 +7374,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-16 16:22:01,36.50.135.209,100,Vietnam,Ho Chi Minh City,Vpsttt Computer Company Limited,Lien Cloud Technology Company Limited,Residential/Business,False
 2026-01-16 16:22:01,47.254.207.44,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
 2026-01-16 16:22:01,117.50.70.125,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-16 18:25:36,147.139.174.104,100,Indonesia,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,Data Center,False
+2026-01-16 18:25:36,34.91.58.35,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-01-16 18:25:36,144.126.217.19,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-16 18:25:36,65.49.1.187,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,65.49.1.185,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,101.47.163.106,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 18:25:36,159.223.6.185,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 18:25:36,102.223.92.101,100,Ghana,Koforidua,Koforidua Technical University,Koforidua Technical University,Residential/Business,False
+2026-01-16 18:25:36,130.12.181.108,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-16 18:25:36,65.49.1.182,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,65.49.1.183,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,64.62.156.172,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,65.49.1.175,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,213.142.148.132,100,Türkiye,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Residential/Business,False
+2026-01-16 18:25:36,65.49.1.174,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,161.118.250.105,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-16 18:25:36,165.227.171.166,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 18:25:36,45.78.226.213,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-16 18:25:36,114.8.146.58,100,Indonesia,Jakarta,PT. INDOSAT Tbk,,Mobile,False
+2026-01-16 18:25:36,64.23.189.160,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-16 18:25:36,146.190.27.62,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-16 18:25:36,157.230.126.3,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 18:25:36,103.239.252.66,100,Bangladesh,Bhātāra,Carnival Internet,,Residential/Business,False
+2026-01-16 18:25:36,217.154.69.208,100,Germany,Berlin,MISTRAL,,Data Center,True
+2026-01-16 18:25:36,65.49.1.172,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,103.149.27.208,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 18:25:36,20.123.146.95,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-16 18:25:36,154.73.130.238,100,Libya,Tripoli,Bait Ashames for Data Communication,Bsisp,Residential/Business,False
+2026-01-16 18:25:36,45.78.219.206,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 18:25:36,152.42.160.18,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-16 18:25:36,209.141.43.77,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-16 18:25:36,65.49.1.17,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,45.78.219.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 18:25:36,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-16 18:25:36,223.221.36.42,100,China,Xining,China Telecom,Chinanet QH,Residential/Business,True
+2026-01-16 18:25:36,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-16 18:25:36,45.78.222.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 18:25:36,65.49.1.169,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,219.150.93.157,100,China,Beijing,ASN for TIANJIN Provincial Net of CT,Tianjin Xinxiban LTD,Residential/Business,False
+2026-01-16 18:25:36,101.47.51.22,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-16 18:25:36,107.189.2.131,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-01-16 18:25:36,65.49.1.167,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,65.49.1.166,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 18:25:36,84.247.128.226,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-16 18:25:36,45.142.193.92,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
