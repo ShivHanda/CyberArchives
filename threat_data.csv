@@ -6954,3 +6954,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-15 22:17:39,209.38.35.85,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-15 22:17:39,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
 2026-01-15 22:17:39,86.54.42.186,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-16 01:17:53,142.79.227.70,100,India,Mumbai,LEE,Netmagic IT Services Pvt Ltd,Data Center,False
+2026-01-16 01:17:53,118.194.231.208,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-16 01:17:53,152.32.206.87,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-16 01:17:53,193.163.125.122,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-16 01:17:53,154.70.102.114,100,Cameroon,Douala,MTN Network Solutions (Cameroon),DataCenter Douala,Mobile,False
+2026-01-16 01:17:53,168.119.33.187,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-01-16 01:17:53,115.190.34.72,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-16 01:17:53,134.199.203.119,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 01:17:53,103.203.59.1,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-01-16 01:17:53,172.234.192.95,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-16 01:17:53,91.230.168.84,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 01:17:53,45.78.221.89,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 01:17:53,172.234.25.187,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-16 01:17:53,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-16 01:17:53,45.78.194.186,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 01:17:53,45.78.219.184,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 01:17:53,45.78.217.65,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 01:17:53,148.66.155.24,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-01-16 01:17:53,165.154.187.159,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-16 01:17:53,77.223.214.21,100,Germany,Frankfurt am Main,"Limestone Networks, Inc.",Ethernet Servers,Data Center,False
+2026-01-16 01:17:53,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-16 01:17:53,118.219.255.169,100,South Korea,Gwangjin-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-16 01:17:53,182.180.154.234,100,Pakistan,Lahore,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-01-16 01:17:53,172.234.25.61,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-16 01:17:53,20.12.240.184,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-16 01:17:53,196.188.120.232,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-01-16 01:17:53,72.17.34.38,100,United States,Winter Park,Spectrum,Hilton Grand Vacations Seaworld,Residential/Business,False
+2026-01-16 01:17:53,121.189.226.81,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-16 01:17:53,193.24.211.200,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-16 01:17:53,172.174.225.60,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-16 01:17:53,196.188.168.148,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-01-16 01:17:53,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-16 01:17:53,123.56.90.35,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-16 01:17:53,58.225.220.117,100,South Korea,Hwaseong-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-16 01:17:53,203.205.37.233,100,Vietnam,Ho Chi Minh City,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-01-16 01:17:53,81.170.248.221,100,Sweden,Norsborg,Bahnhof AB,General Corporate NET A980,Residential/Business,False
+2026-01-16 01:17:53,95.56.194.254,100,Kazakhstan,Astana,JSC Kazakhtelecom,Megaline Almaty,Residential/Business,False
+2026-01-16 01:17:53,211.57.200.145,100,South Korea,Dalseo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-16 01:17:53,172.110.223.3,100,Czechia,Prague,Superhub Limited,Superhub Limited,Residential/Business,False
+2026-01-16 01:17:53,129.212.187.131,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 01:17:53,147.135.214.2,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-16 01:17:53,170.39.218.254,100,France,Paris,FBW Reseaux Fibres inc.,,Residential/Business,False
+2026-01-16 01:17:53,103.98.176.164,100,Indonesia,Rejosari,Universitas PGRI Semarang,Universitas PGRI Semarang,Residential/Business,False
+2026-01-16 01:17:53,218.84.40.37,100,China,Xingfulu,Chinanet,Chinanet XJ,Residential/Business,False
+2026-01-16 01:17:53,94.230.136.33,100,Russia,Bishtyubinka,KTEL,,Residential/Business,False
