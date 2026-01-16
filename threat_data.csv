@@ -7044,3 +7044,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-16 03:26:01,46.6.7.241,100,Spain,Madrid,XFERA Moviles S.A,Xfera Moviles SA,Residential/Business,False
 2026-01-16 03:26:01,88.214.25.123,100,Hong Kong,Royal Peninsula,NOC EMAIL: noc@one-host.net,ThinkTech Technology Industrial CO. Limited,Residential/Business,False
 2026-01-16 03:26:01,14.103.164.204,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-16 04:35:56,101.47.163.59,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 04:35:56,106.75.144.106,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-16 04:35:56,195.3.222.78,100,Poland,Warsaw,MEVSPACE sp. z o.o,SKYTECHNOLOGY,Residential/Business,False
+2026-01-16 04:35:56,179.126.184.243,100,Brazil,Pará de Minas,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-01-16 04:35:56,223.93.164.218,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-16 04:35:56,152.32.188.207,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 04:35:56,200.196.41.84,100,Brazil,Conselheiro Lafaiete,CN TELECOM SERVICOS DE INTERNET LTDA,CN TELECOM SERVICOS DE INTERNET LTDA,Residential/Business,False
+2026-01-16 04:35:56,108.30.14.221,100,United States,New York,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",Residential/Business,False
+2026-01-16 04:35:56,193.163.125.201,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-16 04:35:56,162.240.154.125,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-16 04:35:56,185.242.226.91,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-01-16 04:35:56,60.191.125.35,100,China,Hangzhou,Chinanet,"Hangzhou Shentong Investment Co., LTD",Residential/Business,False
+2026-01-16 04:35:56,185.200.116.79,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-16 04:35:56,103.176.79.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-01-16 04:35:56,121.43.178.245,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-16 04:35:56,45.78.217.251,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 04:35:56,162.240.54.168,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-16 04:35:56,92.241.102.90,100,Russia,Smolensk,SMOLTELECOM,,Residential/Business,False
+2026-01-16 04:35:56,91.147.92.31,100,Kazakhstan,Almaty,PS Internet Company LLP,PS Internet Company LLP,Data Center,False
+2026-01-16 04:35:56,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-16 04:35:56,20.118.225.19,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-16 04:35:56,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-16 04:35:56,101.36.119.50,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 04:35:56,14.34.157.138,100,South Korea,Pyeongtaek-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-16 04:35:56,149.54.30.114,100,Afghanistan,Kabul,Government Communications Network,GCN DCN,Residential/Business,False
+2026-01-16 04:35:56,217.154.167.36,100,Germany,Berlin,MISTRAL,,Data Center,False
+2026-01-16 04:35:56,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-16 04:35:56,118.232.124.19,100,Taiwan,Chang-hua,kbro CO. Ltd.,KBRO,Residential/Business,False
+2026-01-16 04:35:56,206.168.34.153,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-16 04:35:56,45.78.216.136,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 04:35:56,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-16 04:35:56,188.166.169.185,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-16 04:35:56,95.167.225.76,100,Russia,Omsk,Rostelecom Nets,Tuapse Svyaz Ug,Residential/Business,False
+2026-01-16 04:35:56,202.21.38.198,100,India,Bidadi,NxtGen Datacenter & Cloud Technologies Pvt. Ltd.,NxtGen Datacenter & Cloud Technologies Pvt. Ltd,Data Center,False
+2026-01-16 04:35:56,195.184.76.24,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 04:35:56,106.13.70.73,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-16 04:35:56,118.193.61.170,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 04:35:56,63.65.203.86,100,United States,New York,Verizon Business,Verizon Business,Residential/Business,False
+2026-01-16 04:35:56,115.190.108.231,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,True
+2026-01-16 04:35:56,195.184.76.83,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 04:35:56,83.97.24.41,100,Bulgaria,Sofia,A1 Bulgaria EAD,A1 Bulgaria EAD,Residential/Business,False
+2026-01-16 04:35:56,80.94.95.116,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-01-16 04:35:56,91.230.168.24,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 04:35:56,152.32.162.42,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 04:35:56,34.79.124.224,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-16 04:35:56,121.204.156.72,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-01-16 04:35:56,103.172.205.208,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-16 04:35:56,194.180.49.101,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-16 04:35:56,124.198.131.37,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-01-16 04:35:56,61.245.11.87,100,Philippines,Manila,Infinivan Incorporated,,Residential/Business,True
