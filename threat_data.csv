@@ -7284,3 +7284,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-16 12:33:57,45.78.206.146,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-16 12:33:57,146.59.17.183,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
 2026-01-16 12:33:57,186.122.177.140,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-01-16 14:19:10,158.69.194.34,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc",Data Center,False
+2026-01-16 14:19:10,101.47.161.128,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 14:19:10,132.220.107.88,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-16 14:19:10,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-16 14:19:10,185.156.73.2,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-01-16 14:19:10,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-01-16 14:19:10,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-16 14:19:10,65.49.1.123,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-16 14:19:10,45.78.204.222,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 14:19:10,79.124.60.146,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Data Center,False
+2026-01-16 14:19:10,64.227.166.74,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 14:19:10,45.135.194.48,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-16 14:19:10,37.98.253.231,100,Russia,Nizhny Tagil,MiraLogic Telecommunication Systems,LLC KOMTEHCENTR FTTB Customers,Residential/Business,False
+2026-01-16 14:19:10,52.230.120.92,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-16 14:19:10,18.97.9.103,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,True
+2026-01-16 14:19:10,206.168.34.143,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-16 14:19:10,94.26.106.110,100,Germany,Kriftel,SAS GENIUSWEER,,Residential/Business,False
+2026-01-16 14:19:10,45.78.224.109,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 14:19:10,209.38.38.125,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 14:19:10,5.188.206.66,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Residential/Business,False
+2026-01-16 14:19:10,101.47.142.27,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
+2026-01-16 14:19:10,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-16 14:19:10,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-16 14:19:10,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-16 14:19:10,20.123.146.95,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-16 14:19:10,195.184.76.91,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 14:19:10,61.72.55.130,100,South Korea,Seongbuk-gu,Korea Telecom,,Residential/Business,False
+2026-01-16 14:19:10,79.32.190.134,100,Italy,Perugia,INTERBUSINESS,,Residential/Business,False
+2026-01-16 14:19:10,187.212.27.187,100,Mexico,Puebla City,UNINET,UNINET,Residential/Business,False
+2026-01-16 14:19:10,45.78.207.204,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 14:19:10,173.212.238.152,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-16 14:19:10,134.209.185.104,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 14:19:10,2.56.152.243,100,Turkey,Şişli,CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI,CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI,Residential/Business,False
+2026-01-16 14:19:10,196.188.120.232,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-01-16 14:19:10,58.176.148.38,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-16 14:19:10,85.184.248.187,100,Germany,Frankfurt am Main,PROFITBRICKS,ProfitBricks GmbH,Data Center,False
+2026-01-16 14:19:10,125.20.16.22,100,India,Bengaluru,BHARTI,Bharti Televentures Limited,Mobile,False
+2026-01-16 14:19:10,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-16 14:19:10,8.138.223.159,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-16 14:19:10,31.14.32.4,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-01-16 14:19:10,47.86.33.61,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-01-16 14:19:10,117.72.35.203,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-16 14:19:10,160.251.215.3,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-16 14:19:10,62.133.61.220,100,The Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-16 14:19:10,14.1.107.115,100,Pakistan,Lahore,Cyber Internet Services Pakistan,Cyber,Residential/Business,False
