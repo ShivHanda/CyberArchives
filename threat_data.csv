@@ -7189,3 +7189,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-16 08:23:19,121.52.147.5,100,Pakistan,Peshawar,HEC,PERN IPV4 Allocation for Air University,Residential/Business,False
 2026-01-16 08:23:19,91.230.168.133,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-01-16 08:23:19,3.140.188.89,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-16 10:18:29,84.111.137.5,100,Israel,Kfar Saba,Pelephone Communications Ltd.,Pelephone Communications Ltd,Mobile,False
+2026-01-16 10:18:29,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-16 10:18:29,45.78.217.174,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 10:18:29,38.224.32.12,100,Venezuela,Valera,"SPEEDNET, C.A",Fi-ven Speednet C.A,Residential/Business,False
+2026-01-16 10:18:29,95.24.33.254,100,Russia,Moscow,"PJSC ""Vimpelcom""",Beeline Broadband,Residential/Business,False
+2026-01-16 10:18:29,91.214.84.37,100,Ukraine,Brovary,Skoruk Andriy Oleksandrovych,Skynet,Residential/Business,False
+2026-01-16 10:18:29,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-16 10:18:29,128.1.131.163,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-16 10:18:29,204.76.203.93,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-16 10:18:29,161.35.167.231,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 10:18:29,159.203.59.222,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-16 10:18:29,45.78.227.47,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 10:18:29,103.91.246.101,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-01-16 10:18:29,125.22.116.94,100,India,New Delhi,Bharti Airtel Limited,Bharti -sng,Mobile,False
+2026-01-16 10:18:29,91.122.195.12,100,Russia,Arkhangelsk,"OJSC ""North-West Telecom""",JSC North-West Telecom,Residential/Business,False
+2026-01-16 10:18:29,101.47.141.125,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 10:18:29,64.62.197.29,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-16 10:18:29,203.193.137.250,100,India,Patna,Software Technology Parks of India,"Software Technology Parks of India, Society",Residential/Business,False
+2026-01-16 10:18:29,64.225.66.13,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 10:18:29,157.7.200.152,100,Japan,Chiyoda City,"GMO Internet Group, Inc.","GMO Internet Group, Inc.",Data Center,True
+2026-01-16 10:18:29,5.32.22.218,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company PJSC,Residential/Business,False
+2026-01-16 10:18:29,78.89.154.59,100,Kuwait,Kuwait City,WTC Mobile IP,,Mobile,False
+2026-01-16 10:18:29,195.184.76.128,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 10:18:29,73.128.151.92,100,United States,Upper Marlboro,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-01-16 10:18:29,180.94.74.122,100,Afghanistan,Kandahar,Government Communications Network,GCN/DCN Networks,Residential/Business,False
+2026-01-16 10:18:29,45.78.193.174,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 10:18:29,103.72.147.99,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-01-16 10:18:29,154.113.10.34,100,Nigeria,Lagos,Mainone Cable Company,,Residential/Business,False
+2026-01-16 10:18:29,194.163.152.27,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-01-16 10:18:29,59.48.93.218,100,China,Jinzhong,Chinanet,Chinanet SX,Residential/Business,False
+2026-01-16 10:18:29,46.212.110.237,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-16 10:18:29,121.73.168.34,100,New Zealand,Whangarei,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-16 10:18:29,61.186.136.36,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-01-16 10:18:29,125.19.138.74,100,India,Gurugram,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-01-16 10:18:29,125.23.183.98,100,India,Chak Bīrampur,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-01-16 10:18:29,20.235.35.123,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-01-16 10:18:29,92.124.133.35,100,Russia,Omsk,OJSC Sibirtelecom,OJSC Sibirtelecom,Residential/Business,False
+2026-01-16 10:18:29,152.52.236.2,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-16 10:18:29,209.38.39.74,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 10:18:29,189.169.81.15,100,Mexico,Celaya,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-16 10:18:29,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-16 10:18:29,122.170.100.253,100,India,Mumbai,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-01-16 10:18:29,27.72.31.207,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-16 10:18:29,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-16 10:18:29,61.1.105.105,100,India,Delhi,BSNL Internet,Nib-1 Infrastructure & Dialup  IP Pool,Residential/Business,False
+2026-01-16 10:18:29,103.120.116.162,100,Pakistan,Tando Adam,Broadband Business Ideas (PVT.) Limited,Broadband Business Ideas (PVT.) Limited,Residential/Business,False
+2026-01-16 10:18:29,122.175.193.205,100,India,Indore,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-01-16 10:18:29,95.214.55.246,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-16 10:18:29,103.27.36.4,100,Indonesia,Gamping Lor,PT Aseli Dagadu Djokdja,PT Aseli Dagadu Djokdja,Residential/Business,False
+2026-01-16 10:18:29,117.146.60.6,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
