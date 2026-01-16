@@ -7464,3 +7464,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-16 20:18:00,45.78.217.211,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-16 20:18:00,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
 2026-01-16 20:18:00,80.94.95.115,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,True
+2026-01-16 22:16:44,101.47.160.165,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 22:16:44,206.168.34.152,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-16 22:16:44,146.70.160.222,100,Germany,Frankfurt am Main,M247 Europe Infra,M247 Ltd Frankfurt,Data Center,True
+2026-01-16 22:16:44,114.111.54.188,100,Hong Kong,Hong Kong,Meteverse Limited.,CDNETWORKS,Residential/Business,True
+2026-01-16 22:16:44,101.47.48.72,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-16 22:16:44,212.11.64.145,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-16 22:16:44,101.47.143.252,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-16 22:16:44,103.218.243.223,100,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-01-16 22:16:44,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-16 22:16:44,206.168.34.209,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-16 22:16:44,134.65.30.157,100,Brazil,Vinhedo,Oracle Corporation,Oracle Cloud Infrastructure (sa-vinhedo-1),Mobile,True
+2026-01-16 22:16:44,139.99.9.163,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-01-16 22:16:44,130.12.181.102,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-16 22:16:44,77.83.39.156,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-16 22:16:44,209.38.100.44,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-16 22:16:44,146.190.253.191,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-16 22:16:44,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-01-16 22:16:44,217.160.207.42,100,Spain,Madrid,IONOS SE,Es Lgr Pl Ngcs Public,Data Center,False
+2026-01-16 22:16:44,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-01-16 22:16:44,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-16 22:16:44,193.163.125.101,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-16 22:16:44,14.29.170.54,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-16 22:16:44,81.177.101.45,100,Russia,Moscow,PJSC Rostelecom,Rostelecom Nets,Residential/Business,False
+2026-01-16 22:16:44,51.79.54.139,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-01-16 22:16:44,20.65.217.70,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-16 22:16:44,45.78.229.74,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 22:16:44,40.76.167.156,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-16 22:16:44,45.78.222.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-16 22:16:44,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
+2026-01-16 22:16:44,171.220.244.134,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-01-16 22:16:44,143.92.33.104,100,Hong Kong,Sheung Wan,CTG Server Ltd.,Rackip Consultancy Pte. LTD,Residential/Business,False
+2026-01-16 22:16:44,45.144.233.56,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-01-16 22:16:44,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-01-16 22:16:44,195.178.110.68,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-16 22:16:44,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-16 22:16:44,87.121.84.15,100,United States,New York,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-16 22:16:44,91.231.89.153,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-16 22:16:44,40.124.175.188,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-16 22:16:44,213.177.179.62,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-16 22:16:44,100.42.177.198,100,Germany,Karlsruhe,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-16 22:16:44,152.32.215.226,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-16 22:16:44,130.12.181.106,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-16 22:16:44,101.47.50.95,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-16 22:16:44,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-16 22:16:44,80.94.92.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
