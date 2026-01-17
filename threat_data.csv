@@ -7789,3 +7789,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-17 10:16:22,64.62.197.135,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
 2026-01-17 10:16:22,45.135.194.98,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
 2026-01-17 10:16:22,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-17 12:30:14,20.168.109.236,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-17 12:30:14,172.104.11.46,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-01-17 12:30:14,89.252.157.42,100,Turkey,Denizli,Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.,Netinternet,Residential/Business,False
+2026-01-17 12:30:14,196.190.180.19,100,Ethiopia,Addis Ababa,EthioNet,Ethio Telecom,Residential/Business,False
+2026-01-17 12:30:14,185.200.116.71,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-17 12:30:14,161.35.144.249,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 12:30:14,45.78.217.1,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 12:30:14,167.71.224.14,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 12:30:14,78.128.114.126,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-17 12:30:14,95.214.55.246,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-17 12:30:14,41.77.220.188,100,DR Congo,Kinshasa,Orange RDC,,Mobile,False
+2026-01-17 12:30:14,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-17 12:30:14,64.62.156.188,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-17 12:30:14,84.210.219.80,100,Norway,Oslo,Get AS,,Residential/Business,False
+2026-01-17 12:30:14,124.7.227.98,100,India,Chennai,Sify Limited,Sify space,Residential/Business,False
+2026-01-17 12:30:14,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-17 12:30:14,51.15.34.47,100,The Netherlands,Haarlem,Online SAS NL,SCALEWAY,Data Center,False
+2026-01-17 12:30:14,103.161.170.12,100,Vietnam,Mai Dich,VINABISON,Vina-bison International Trading Company Limited,Residential/Business,False
+2026-01-17 12:30:14,68.183.13.116,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 12:30:14,107.173.51.83,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-01-17 12:30:14,130.12.180.88,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-01-17 12:30:14,118.194.249.72,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-17 12:30:14,205.185.125.150,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-17 12:30:14,213.225.7.122,100,Austria,Vienna,A1 Telekom Austria AG,A1 Telekom Austria AG,Mobile,False
+2026-01-17 12:30:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-17 12:30:14,38.47.94.55,100,Indonesia,Jakarta,PT. Datacomm Diangraha,PT. Datacomm Diangraha,Residential/Business,False
+2026-01-17 12:30:14,52.174.67.71,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-17 12:30:14,92.118.39.37,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-17 12:30:14,159.65.199.211,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 12:30:14,182.42.64.60,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-17 12:30:14,102.219.126.32,100,Angola,Luanda,Angola Cables,This network is used for Angola Cables Cloud Services.,Residential/Business,False
+2026-01-17 12:30:14,80.94.92.66,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-17 12:30:14,165.154.100.252,100,Philippines,Manila,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 12:30:14,43.165.62.189,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-17 12:30:14,182.244.5.153,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-01-17 12:30:14,75.80.65.214,100,United States,Kahului,Spectrum,"Road Runner, VoIP Residential",Residential/Business,False
+2026-01-17 12:30:14,152.32.157.173,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 12:30:14,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-17 12:30:14,103.171.85.186,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-01-17 12:30:14,111.238.174.6,100,Japan,Edogawa,Kddi Corporation,KDDI,Residential/Business,False
+2026-01-17 12:30:14,14.103.142.184,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-17 12:30:14,185.16.39.146,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-17 12:30:14,123.58.212.133,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 12:30:14,154.221.17.42,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-01-17 12:30:14,117.232.85.78,100,India,Coimbatore,BSNL Internet,NIB,Residential/Business,False
