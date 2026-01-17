@@ -7929,3 +7929,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-17 16:17:51,109.206.241.199,100,Estonia,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
 2026-01-17 16:17:51,190.167.90.67,100,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
 2026-01-17 16:17:51,148.76.116.62,100,United States,Hicksville,Optimum Online,CMLP,Residential/Business,False
+2026-01-17 18:21:51,8.148.31.143,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-17 18:21:51,86.54.31.42,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-01-17 18:21:51,101.47.50.56,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-17 18:21:51,95.133.243.231,100,United Kingdom,London,Packet Star Networks Limited,Onlyservers Hosted,Residential/Business,False
+2026-01-17 18:21:51,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-17 18:21:51,86.54.31.40,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-01-17 18:21:51,162.243.0.207,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-17 18:21:51,142.93.230.17,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 18:21:51,176.65.149.45,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-17 18:21:51,86.54.31.38,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-01-17 18:21:51,14.43.137.90,100,South Korea,Gimhae,Korea Telecom,Kornet,Residential/Business,False
+2026-01-17 18:21:51,103.210.22.17,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,True
+2026-01-17 18:21:51,45.142.193.90,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-17 18:21:51,47.91.30.139,100,Japan,Tokyo,Alibaba.com LLC,ALICLOUD-JP,Data Center,False
+2026-01-17 18:21:51,199.45.154.145,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-17 18:21:51,209.38.166.221,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 18:21:51,177.223.158.236,100,Brazil,Porto Alegre,G NETWEB TELECOM LTDA - ME,G NETWEB TELECOM LTDA - ME,Residential/Business,False
+2026-01-17 18:21:51,86.54.31.34,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Global Gold Networks Ltd,Data Center,False
+2026-01-17 18:21:51,92.63.197.5,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-01-17 18:21:51,79.124.60.146,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Data Center,False
+2026-01-17 18:21:51,159.223.14.86,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 18:21:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-17 18:21:51,1.238.106.229,100,South Korea,Yongin-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-17 18:21:51,188.228.212.184,100,Italy,Silea,popwifi/17,,Mobile,False
+2026-01-17 18:21:51,212.47.103.61,100,Lithuania,Vilnius,Telia Lietuva,"Telia Lietuva, AB",Residential/Business,False
+2026-01-17 18:21:51,130.12.181.103,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-17 18:21:51,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-17 18:21:51,142.93.225.237,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 18:21:51,62.167.225.224,100,Switzerland,Zurich,Sunrise GmbH,GGSN use,Mobile,False
+2026-01-17 18:21:51,86.54.31.32,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Global Gold Networks Ltd,Data Center,False
+2026-01-17 18:21:51,159.65.199.70,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-17 18:21:51,3.93.173.184,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-17 18:21:51,159.203.59.222,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-17 18:21:51,187.251.123.104,100,Mexico,Iztapalapa,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-17 18:21:51,128.1.44.162,100,Thailand,Bangkok,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-17 18:21:51,66.132.153.130,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-17 18:21:51,101.47.140.127,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-17 18:21:51,185.196.11.128,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-17 18:21:51,112.6.11.184,100,China,Jinan,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-17 18:21:51,13.217.223.172,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-17 18:21:51,86.157.87.228,100,United Kingdom,City of London,BT Public Internet Service,,Residential/Business,False
+2026-01-17 18:21:51,14.103.123.16,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-17 18:21:51,8.148.22.190,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-17 18:21:51,20.81.47.184,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-17 18:21:51,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
