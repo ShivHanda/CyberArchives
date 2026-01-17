@@ -7654,3 +7654,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-17 04:28:36,202.165.15.132,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
 2026-01-17 04:28:36,176.215.254.77,100,Russia,Irkutsk,"CJSC ""ER-Telecom Holding"" Irkutsk branch","JSC ""ER-Telecom Holding"" Irkutsk Branch",Residential/Business,False
 2026-01-17 04:28:36,93.123.109.38,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-17 06:23:48,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-17 06:23:48,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-17 06:23:48,103.23.198.128,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-17 06:23:48,51.15.34.47,100,The Netherlands,Haarlem,Online SAS NL,SCALEWAY,Data Center,False
+2026-01-17 06:23:48,185.220.101.169,100,Germany,Brandenburg,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,Residential/Business,True
+2026-01-17 06:23:48,101.126.89.35,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-01-17 06:23:48,45.142.193.92,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-17 06:23:48,101.33.78.6,100,South Korea,Seoul,Aceville Pte.ltd,,Data Center,False
+2026-01-17 06:23:48,3.149.59.26,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-17 06:23:48,103.189.88.189,100,India,Mumbai,Micro Hosting Private Limited,Mind Over Matter Solutions PTE LTD,Data Center,False
+2026-01-17 06:23:48,193.24.211.200,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-17 06:23:48,91.231.89.177,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-17 06:23:48,107.150.104.184,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-01-17 06:23:48,68.129.251.97,100,United States,Brooklyn,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",Residential/Business,False
+2026-01-17 06:23:48,91.231.89.157,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-17 06:23:48,118.70.128.176,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-01-17 06:23:48,203.228.30.198,100,South Korea,Mungyeong,KORNET,bagjunhyun,Residential/Business,False
+2026-01-17 06:23:48,165.22.234.178,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 06:23:48,186.103.169.12,100,Chile,Santiago,Telefonica Empresas,Telefonica Empresas Chile SA,Residential/Business,False
+2026-01-17 06:23:48,64.62.156.65,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-17 06:23:48,118.193.44.169,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 06:23:48,18.189.178.153,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-17 06:23:48,45.78.217.86,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 06:23:48,103.249.84.18,100,Malaysia,Cyberjaya,Invision Seven Solutions,Hosting Services,Data Center,False
+2026-01-17 06:23:48,45.119.212.99,100,Vietnam,Dich Vong,LVHN,JSC - Hanoi,Residential/Business,False
+2026-01-17 06:23:48,170.187.163.133,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-17 06:23:48,203.251.202.80,100,South Korea,Hanam,Shinbiro,Shinbiro,Residential/Business,False
+2026-01-17 06:23:48,165.232.81.248,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 06:23:48,51.4.105.181,100,Israel,Tel Aviv,Microsoft Corporation,Microsoft Deutschland MCIO GmbH,Data Center,False
+2026-01-17 06:23:48,45.78.217.20,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 06:23:48,171.25.158.57,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-01-17 06:23:48,45.78.201.182,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 06:23:48,143.42.1.84,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-17 06:23:48,101.47.163.80,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-17 06:23:48,178.27.90.142,100,Germany,Bad Kreuznach,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-01-17 06:23:48,34.138.101.23,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-01-17 06:23:48,15.204.94.173,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-01-17 06:23:48,113.189.199.97,100,Vietnam,Nha Trang,VNPT,,Residential/Business,False
+2026-01-17 06:23:48,192.241.141.144,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-17 06:23:48,35.213.163.226,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-01-17 06:23:48,203.170.150.178,100,Thailand,Phaya Thai,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-01-17 06:23:48,23.91.96.70,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-17 06:23:48,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-17 06:23:48,103.170.255.132,100,Vietnam,Hanoi,Vietserver Services Technology Company Limited,Sunsea Informatics Company Limited,Residential/Business,False
+2026-01-17 06:23:48,101.47.162.20,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
