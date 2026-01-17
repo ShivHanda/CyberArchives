@@ -7609,3 +7609,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-17 03:18:50,211.46.177.174,100,South Korea,Buyeo-gun,Korea Telecom,Kornet,Residential/Business,False
 2026-01-17 03:18:50,20.65.194.81,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
 2026-01-17 03:18:50,186.215.204.109,100,Brazil,Recife,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-01-17 04:28:36,152.32.157.173,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 04:28:36,199.195.248.191,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-17 04:28:36,143.110.241.64,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-17 04:28:36,3.141.190.56,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-17 04:28:36,63.245.45.135,100,United States,North Miami Beach,Columbus Networks USA,Columbus Networks IP TRANSIT,Residential/Business,False
+2026-01-17 04:28:36,116.207.112.201,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-01-17 04:28:36,203.106.164.74,100,Malaysia,Shah Alam,TMnet,,Residential/Business,False
+2026-01-17 04:28:36,20.65.144.62,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-17 04:28:36,200.39.46.41,100,Brazil,Baixo Guandu,Terracel Provedor de Internet Ltda Me,Terracel Provedor de Internet Ltda Me,Residential/Business,False
+2026-01-17 04:28:36,82.196.25.62,100,France,Lyon,Datacenter DZ,Datacenter DZD,Data Center,True
+2026-01-17 04:28:36,146.88.241.60,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-01-17 04:28:36,137.59.55.50,100,India,Indore,Emax Global Media Pvt. LTD,Emax Global Media Pvt. Ltd.,Residential/Business,False
+2026-01-17 04:28:36,45.78.220.1,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 04:28:36,45.78.227.240,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 04:28:36,116.253.213.64,100,China,Liuchow,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
+2026-01-17 04:28:36,203.145.34.222,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,PT Tekstil Original Indonesia,Data Center,True
+2026-01-17 04:28:36,34.229.60.215,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-17 04:28:36,45.120.115.150,100,Bangladesh,Dhaka,Mazeda Networks Limited,Mazeda Networks Limited,Residential/Business,False
+2026-01-17 04:28:36,193.24.211.200,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-17 04:28:36,185.196.11.247,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-17 04:28:36,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-17 04:28:36,64.62.156.144,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-17 04:28:36,102.53.15.17,100,Morocco,Casablanca,Casa Marrakech 4G MarocTelecom,,Mobile,False
+2026-01-17 04:28:36,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-01-17 04:28:36,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-01-17 04:28:36,45.78.204.246,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-17 04:28:36,185.93.89.39,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-17 04:28:36,130.12.181.100,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-17 04:28:36,156.236.75.64,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-01-17 04:28:36,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-17 04:28:36,92.154.95.236,100,France,Saint-Lambert-la-Potherie,France Telecom Orange,,Residential/Business,False
+2026-01-17 04:28:36,201.124.170.234,100,Mexico,Cuauhtémoc,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-17 04:28:36,101.47.49.224,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-17 04:28:36,64.62.197.85,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-17 04:28:36,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-17 04:28:36,152.32.238.156,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-17 04:28:36,210.206.8.121,100,South Korea,Anyang-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-01-17 04:28:36,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-17 04:28:36,45.156.129.176,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-01-17 04:28:36,130.12.181.106,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-17 04:28:36,153.121.52.169,100,Japan,Tokyo,SAKURA Internet Inc.,SAKURA,Data Center,False
+2026-01-17 04:28:36,36.153.189.66,100,China,Chongqing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-17 04:28:36,202.165.15.132,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
+2026-01-17 04:28:36,176.215.254.77,100,Russia,Irkutsk,"CJSC ""ER-Telecom Holding"" Irkutsk branch","JSC ""ER-Telecom Holding"" Irkutsk Branch",Residential/Business,False
+2026-01-17 04:28:36,93.123.109.38,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
