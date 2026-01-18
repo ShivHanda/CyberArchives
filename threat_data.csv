@@ -8339,3 +8339,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-18 10:16:35,142.93.129.87,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-18 10:16:35,130.12.181.102,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
 2026-01-18 10:16:35,198.199.76.11,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,172.104.11.4,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-01-18 12:30:27,68.183.176.190,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-18 12:30:27,211.178.165.251,100,South Korea,Gangnam-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-18 12:30:27,178.62.224.98,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 12:30:27,188.166.84.181,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 12:30:27,104.236.84.173,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-01-18 12:30:27,104.248.81.255,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,46.151.182.45,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,False
+2026-01-18 12:30:27,36.95.194.53,100,Indonesia,South Tangerang,Telekomunikasi Indonesia,Astinet by Fulfillment,Residential/Business,False
+2026-01-18 12:30:27,103.160.5.81,100,Vietnam,Quận Mười,CSD Group Technology JSC.,CSD Group,Residential/Business,False
+2026-01-18 12:30:27,129.212.188.233,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,138.124.158.147,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-01-18 12:30:27,164.90.201.41,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,152.42.139.130,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 12:30:27,64.62.197.69,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-18 12:30:27,174.138.2.25,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,14.48.246.240,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-01-18 12:30:27,64.23.194.146,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-18 12:30:27,101.47.161.42,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-18 12:30:27,165.22.207.36,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-18 12:30:27,167.71.65.20,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,134.209.82.157,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,142.93.232.8,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,130.12.181.102,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-18 12:30:27,159.223.5.170,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,161.35.175.7,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,177.44.220.67,100,Brazil,Mariópolis,Dataware Telecomunicações LTDA. - EPP,Dataware Telecomunicações LTDA. - EPP,Residential/Business,False
+2026-01-18 12:30:27,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-18 12:30:27,208.109.188.137,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-18 12:30:27,167.71.79.128,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-18 12:30:27,45.78.229.174,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-18 12:30:27,159.89.175.190,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-18 12:30:27,138.91.107.7,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-18 12:30:27,142.93.169.231,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,59.24.133.197,100,South Korea,Gumi,Korea Telecom,,Residential/Business,False
+2026-01-18 12:30:27,116.118.2.113,100,Vietnam,Hanoi,SPT,,Residential/Business,False
+2026-01-18 12:30:27,206.189.98.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,103.27.206.120,100,Indonesia,Prapen,PT Beon Intermedia,,Data Center,False
+2026-01-18 12:30:27,188.166.58.172,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 12:30:27,104.248.87.125,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,209.38.107.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,159.223.234.12,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 12:30:27,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
