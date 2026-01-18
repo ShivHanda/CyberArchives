@@ -8574,3 +8574,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-18 20:17:25,45.78.218.102,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-18 20:17:25,213.209.159.63,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
 2026-01-18 20:17:25,165.22.200.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,185.218.84.15,100,United States,Ashburn,Netiface Limited,Netiface Limited,Residential/Business,False
+2026-01-18 22:15:12,102.140.97.134,100,Nigeria,Lagos,Accelon,Internet,Residential/Business,True
+2026-01-18 22:15:12,103.148.29.174,100,Indonesia,Palu,DEWATA,,Residential/Business,False
+2026-01-18 22:15:12,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-18 22:15:12,152.32.168.34,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-18 22:15:12,164.90.184.167,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,154.198.50.104,100,Hong Kong,Hong Kong,Antbox Networks Limited,Antbox Networks Limited,Residential/Business,False
+2026-01-18 22:15:12,178.27.90.142,100,Germany,Bad Kreuznach,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-01-18 22:15:12,80.94.92.64,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-18 22:15:12,103.255.134.61,100,India,Guwahati,Techno FAQ Digital Media,Quarter F 03 Indian Institute of Technology Guwahati,Residential/Business,True
+2026-01-18 22:15:12,123.129.245.249,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,True
+2026-01-18 22:15:12,209.38.46.167,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,194.233.74.228,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,Residential/Business,False
+2026-01-18 22:15:12,185.39.19.47,100,Russia,Moscow,Optima LLC,Prime LLC,Residential/Business,True
+2026-01-18 22:15:12,199.45.154.179,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-18 22:15:12,102.218.10.150,100,Somalia,Mogadishu,Bluecom Ltd,Bluecom Ltd,Residential/Business,False
+2026-01-18 22:15:12,78.128.112.74,100,Bulgaria,Sopot,noc@dotdash.host,4media,Residential/Business,True
+2026-01-18 22:15:12,103.149.170.125,100,Vietnam,Hanoi,MCT Technology Solution Joint Stock Company,MCT Technology Solution Joint Stock Company,Residential/Business,False
+2026-01-18 22:15:12,103.226.138.52,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-18 22:15:12,193.163.125.64,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-18 22:15:12,43.133.157.163,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-18 22:15:12,208.109.213.127,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-18 22:15:12,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-18 22:15:12,20.65.195.41,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-18 22:15:12,122.225.222.162,100,China,Beijing,Chinanet,Tianliweiye Ltd of Corp,Residential/Business,False
+2026-01-18 22:15:12,68.183.82.237,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,209.38.98.226,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,2001:41d0:33a:a00::402,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-01-18 22:15:12,103.117.56.152,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-18 22:15:12,173.249.45.217,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-18 22:15:12,171.25.158.68,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-01-18 22:15:12,47.106.140.4,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-18 22:15:12,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-18 22:15:12,23.146.236.248,100,United States,Miami,QXN CUSTOMERS SOCIETY,QUANTUM,Residential/Business,True
+2026-01-18 22:15:12,152.32.129.236,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-18 22:15:12,94.102.4.12,100,Turkey,Denizli,Netinternet Bilisim Teknolojileri AS,,Data Center,False
+2026-01-18 22:15:12,45.142.193.70,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-18 22:15:12,194.26.192.196,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-01-18 22:15:12,218.4.91.163,100,China,Changshu,Chinanet,,Residential/Business,False
+2026-01-18 22:15:12,43.153.96.233,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-18 22:15:12,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-18 22:15:12,134.209.80.137,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,152.42.139.96,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 22:15:12,134.122.51.106,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 22:15:12,208.109.38.143,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
