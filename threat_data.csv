@@ -8294,3 +8294,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-18 08:20:58,51.77.222.24,100,France,Roubaix,OVH SAS,OVH,Data Center,False
 2026-01-18 08:20:58,181.123.136.11,100,Paraguay,Luque,Telecel S.A.,Telecel S.A,Residential/Business,False
 2026-01-18 08:20:58,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-18 10:16:35,45.78.218.144,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-18 10:16:35,152.32.135.81,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-18 10:16:35,101.47.163.213,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-18 10:16:35,100.29.192.44,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-18 10:16:35,195.24.236.20,100,The Netherlands,Amsterdam,Netiface Limited,Jafar Naderlo,Residential/Business,False
+2026-01-18 10:16:35,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-18 10:16:35,171.231.193.244,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-18 10:16:35,104.248.206.220,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,176.134.13.115,100,France,Brétigny-sur-Orge,BOUYGUES Telecom,,Residential/Business,False
+2026-01-18 10:16:35,176.65.148.45,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-18 10:16:35,2001:470:1:c84::30,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-18 10:16:35,130.12.181.100,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-18 10:16:35,213.55.85.202,100,Ethiopia,Harar,Ethio Telecom,,Residential/Business,False
+2026-01-18 10:16:35,2001:470:2cc:1::1ff,100,United States,Minneapolis,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-18 10:16:35,91.107.216.252,100,Germany,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,Data Center,False
+2026-01-18 10:16:35,82.197.69.156,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-01-18 10:16:35,101.47.142.27,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
+2026-01-18 10:16:35,134.199.201.207,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,182.95.61.82,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-18 10:16:35,185.247.137.183,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-18 10:16:35,20.163.6.104,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-18 10:16:35,45.78.221.94,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-18 10:16:35,117.72.38.188,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-18 10:16:35,101.126.55.179,100,China,Chaowai,GHSX,,Residential/Business,True
+2026-01-18 10:16:35,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-18 10:16:35,20.169.107.113,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-18 10:16:35,101.47.142.83,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-18 10:16:35,146.190.23.157,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,206.189.107.253,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,64.62.197.55,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-18 10:16:35,122.186.255.50,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-01-18 10:16:35,20.65.195.117,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-18 10:16:35,161.8.241.171,100,Australia,Sydney,Wireline,,Residential/Business,False
+2026-01-18 10:16:35,193.163.125.159,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-18 10:16:35,197.5.145.8,100,Tunisia,Tunis,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-18 10:16:35,49.206.196.35,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-01-18 10:16:35,134.209.198.191,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,178.62.203.62,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 10:16:35,188.166.115.26,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-18 10:16:35,116.118.47.98,100,Vietnam,Hanoi,SPT,,Residential/Business,False
+2026-01-18 10:16:35,122.225.222.162,100,China,Beijing,Chinanet,Tianliweiye Ltd of Corp,Residential/Business,False
+2026-01-18 10:16:35,134.199.194.127,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,142.93.129.87,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-18 10:16:35,130.12.181.102,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-18 10:16:35,198.199.76.11,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
