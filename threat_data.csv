@@ -8944,3 +8944,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-19 12:38:27,189.47.10.164,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
 2026-01-19 12:38:27,64.62.197.195,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
 2026-01-19 12:38:27,113.161.237.125,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-19 14:22:34,216.189.157.132,100,United States,Washington,HostUS,HostUS,Data Center,False
+2026-01-19 14:22:34,45.78.219.173,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-19 14:22:34,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-19 14:22:34,20.84.60.216,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-19 14:22:34,61.171.98.81,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-19 14:22:34,142.93.120.13,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-19 14:22:34,138.68.25.32,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,68.183.48.238,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-19 14:22:34,43.163.123.45,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-19 14:22:34,152.32.168.34,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-19 14:22:34,3.220.70.171,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-19 14:22:34,165.232.84.51,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-19 14:22:34,167.172.43.43,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,142.93.132.154,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,178.217.173.50,100,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,KRENA Project,Residential/Business,False
+2026-01-19 14:22:34,101.47.161.160,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-19 14:22:34,150.241.87.73,100,Sweden,Stockholm,xorek.cloud International LTD,xorek.cloud International LTD,Residential/Business,False
+2026-01-19 14:22:34,103.210.22.17,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,True
+2026-01-19 14:22:34,138.197.198.106,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-19 14:22:34,134.199.206.113,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,27.112.78.223,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-19 14:22:34,47.251.142.10,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,True
+2026-01-19 14:22:34,188.166.37.212,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 14:22:34,118.201.253.206,100,Singapore,Singapore,SingNet Pte Ltd,Singtel Fibre,Residential/Business,False
+2026-01-19 14:22:34,64.62.197.84,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-19 14:22:34,103.195.238.44,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-01-19 14:22:34,91.92.242.178,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-19 14:22:34,45.78.222.174,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-19 14:22:34,52.228.72.212,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-01-19 14:22:34,85.217.140.16,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-19 14:22:34,164.92.158.8,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,34.92.81.41,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-01-19 14:22:34,212.73.148.15,100,Singapore,Singapore,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-19 14:22:34,167.99.217.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,103.31.39.72,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-19 14:22:34,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 14:22:34,165.232.119.77,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 14:22:34,79.6.181.195,100,Italy,Milan,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-01-19 14:22:34,156.245.239.180,100,Hong Kong,Chai Wan,Zillion Network Inc.,Hong Kong Meccaler Technology Co,Residential/Business,False
+2026-01-19 14:22:34,91.196.152.102,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-19 14:22:34,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-19 14:22:34,91.196.152.101,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-19 14:22:34,201.249.89.102,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-01-19 14:22:34,58.69.56.44,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
