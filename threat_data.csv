@@ -8849,3 +8849,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-19 08:26:30,185.93.89.48,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
 2026-01-19 08:26:30,193.163.125.97,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
 2026-01-19 08:26:30,85.203.21.47,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Residential/Business,True
+2026-01-19 10:22:44,152.32.251.174,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-19 10:22:44,97.178.43.84,100,United States,Houston,Verizon Business,Verizon Business,Mobile,False
+2026-01-19 10:22:44,45.156.129.97,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-01-19 10:22:44,188.166.29.226,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 10:22:44,223.241.214.127,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-01-19 10:22:44,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-19 10:22:44,94.154.34.130,100,Türkiye,Istanbul,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,Individual entrepreneur Dyachenko Valentina Ivanovna,Residential/Business,False
+2026-01-19 10:22:44,125.20.207.154,100,India,Noida,BHARTI,Bharti Televentures Limited,Mobile,False
+2026-01-19 10:22:44,64.227.64.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,5.167.175.11,100,Russia,Kirov,"CJSC ""ER-Telecom Holding"" Kirov branch","JSC ""ER-Telecom Holding"" Kirov Branch",Residential/Business,False
+2026-01-19 10:22:44,79.124.59.82,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-19 10:22:44,88.6.101.246,100,Spain,Zaragoza,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),Residential/Business,False
+2026-01-19 10:22:44,112.203.69.83,100,Philippines,Quezon City,Philippine Long Distance Telephone Co.,,Residential/Business,False
+2026-01-19 10:22:44,87.120.191.65,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-19 10:22:44,209.38.38.64,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,165.232.85.237,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,146.190.27.170,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-01-19 10:22:44,49.234.27.46,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-01-19 10:22:44,110.25.109.52,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-01-19 10:22:44,121.73.168.76,100,New Zealand,Whangarei,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-19 10:22:44,122.185.146.18,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-19 10:22:44,209.38.34.175,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,61.145.181.7,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-19 10:22:44,185.156.73.86,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-01-19 10:22:44,104.248.168.44,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,161.35.89.166,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,45.56.85.254,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-19 10:22:44,65.20.216.225,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-01-19 10:22:44,104.248.88.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,160.191.124.201,100,India,Ghaziabad,MAA VAISHNO BROADBAND PRIVATE LIMITED,MAA Vaishno Broadband Private Limited,Residential/Business,False
+2026-01-19 10:22:44,34.41.211.48,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-19 10:22:44,61.2.44.54,100,India,Kozhikode,BSNL Internet,,Residential/Business,False
+2026-01-19 10:22:44,64.227.76.136,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,66.171.162.222,100,Canada,Montreal,Beanfield Technologies Inc,Normal Studio,Residential/Business,False
+2026-01-19 10:22:44,79.124.58.150,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-19 10:22:44,162.243.56.10,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 10:22:44,45.156.129.96,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-01-19 10:22:44,81.71.96.41,100,China,Guangzhou,EuroNet Internet,Euronet Communications B.V.,Residential/Business,False
+2026-01-19 10:22:44,45.78.218.13,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-19 10:22:44,5.188.206.66,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Residential/Business,False
+2026-01-19 10:22:44,158.174.211.17,100,Sweden,Örebro,Bahnhof AB,General Private,Residential/Business,False
+2026-01-19 10:22:44,54.36.102.95,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-01-19 10:22:44,159.223.230.155,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 10:22:44,45.78.207.126,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-19 10:22:44,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-19 10:22:44,57.130.20.252,100,France,Paris,OVH SAS,OVH,Data Center,True
+2026-01-19 10:22:44,109.205.211.61,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-19 10:22:44,201.61.215.87,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-01-19 10:22:44,164.92.148.219,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
