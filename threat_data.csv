@@ -9129,3 +9129,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-19 20:18:53,45.78.219.87,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-19 20:18:53,103.187.147.24,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
 2026-01-19 20:18:53,159.65.141.23,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,20.64.104.89,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-19 22:16:51,218.78.60.105,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-19 22:16:51,172.178.115.83,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-19 22:16:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-19 22:16:51,68.183.5.180,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-19 22:16:51,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-19 22:16:51,165.245.131.226,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 22:16:51,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-19 22:16:51,178.22.24.60,100,Russia,Moscow,Galeon LLC,Galeon LLC,Residential/Business,True
+2026-01-19 22:16:51,213.209.159.142,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-19 22:16:51,45.142.154.10,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-19 22:16:51,40.69.27.251,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-19 22:16:51,118.193.57.59,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-19 22:16:51,193.163.125.137,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-19 22:16:51,2607:f298:6:c026::a74:a46a,100,United States,Hillsboro,New Dream Network,DreamHost,Data Center,False
+2026-01-19 22:16:51,5.61.209.92,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Data Center,False
+2026-01-19 22:16:51,165.154.120.223,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-19 22:16:51,149.50.103.48,100,Poland,Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,Residential/Business,False
+2026-01-19 22:16:51,194.195.215.98,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-01-19 22:16:51,159.65.201.142,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,154.82.111.18,100,Singapore,Singapore,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-01-19 22:16:51,79.124.40.82,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-19 22:16:51,162.240.156.34,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-19 22:16:51,167.71.10.255,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,174.138.5.18,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,95.85.238.19,100,Czechia,Prague,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-01-19 22:16:51,94.102.4.12,100,Turkey,Denizli,Netinternet Bilisim Teknolojileri AS,,Data Center,False
+2026-01-19 22:16:51,209.38.39.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,68.183.11.155,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,159.89.121.21,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,140.246.80.125,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-19 22:16:51,103.55.216.2,100,Indonesia,Sungguminasa,Universitas Islam Negeri Alauddin Makasar,Universitas Islam Negeri Alauddin Makasar,Residential/Business,False
+2026-01-19 22:16:51,118.26.36.195,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-19 22:16:51,45.119.81.249,100,Vietnam,Quận Một,Long Van System Solution,,Data Center,True
+2026-01-19 22:16:51,178.128.250.128,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-01-19 22:16:51,185.100.157.155,100,Sweden,Stockholm,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-01-19 22:16:51,61.220.235.10,100,Taiwan,Zhongli District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-19 22:16:51,87.251.67.15,100,The Netherlands,Naaldwijk,Shesternin Vladimir Anatolievich,Shesternin Vladimir Anatolievich,Residential/Business,False
+2026-01-19 22:16:51,194.180.49.220,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-19 22:16:51,64.227.64.105,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-19 22:16:51,188.166.112.96,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-19 22:16:51,213.142.148.132,100,Türkiye,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Residential/Business,False
+2026-01-19 22:16:51,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-01-19 22:16:51,4.197.167.136,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-19 22:16:51,161.35.93.24,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
