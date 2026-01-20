@@ -9509,3 +9509,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-20 12:38:49,24.234.202.117,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
 2026-01-20 12:38:49,64.62.156.95,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-01-20 12:38:49,143.42.0.97,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-20 14:26:11,45.78.217.78,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 14:26:11,195.24.236.20,100,The Netherlands,Amsterdam,Netiface Limited,Jafar Naderlo,Residential/Business,False
+2026-01-20 14:26:11,208.84.101.66,100,United States,North Kansas City,Fro LLC,,Residential/Business,True
+2026-01-20 14:26:11,68.155.153.190,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-01-20 14:26:11,45.78.217.203,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 14:26:11,27.254.149.199,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,,Residential/Business,True
+2026-01-20 14:26:11,50.19.79.213,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-20 14:26:11,80.94.92.64,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-20 14:26:11,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-20 14:26:11,62.60.130.243,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-20 14:26:11,188.166.2.144,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-20 14:26:11,13.93.203.231,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-01-20 14:26:11,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-20 14:26:11,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-20 14:26:11,103.144.2.208,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"XINRUIDE INTERNET CO, .LIMITED",Residential/Business,False
+2026-01-20 14:26:11,101.47.142.10,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-20 14:26:11,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-20 14:26:11,218.190.8.165,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-01-20 14:26:11,179.40.112.10,100,Argentina,Maipú,Telefonica de Argentina,Telefonica de Argentina,Residential/Business,False
+2026-01-20 14:26:11,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-20 14:26:11,103.143.238.207,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-20 14:26:11,165.101.23.39,100,Bangladesh,Dhaka,Daffodil Online Ltd.,Daffodil International University,Residential/Business,False
+2026-01-20 14:26:11,165.154.172.87,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-20 14:26:11,103.143.72.165,100,Japan,Chiyoda City,Gaaishing Industrial Holdings Limited,Gaaishing Industrial Holdings Limited,Residential/Business,True
+2026-01-20 14:26:11,165.232.138.158,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-20 14:26:11,204.76.203.30,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-20 14:26:11,51.159.110.167,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-20 14:26:11,193.163.125.34,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-20 14:26:11,101.47.161.75,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-20 14:26:11,3.21.233.225,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-20 14:26:11,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-20 14:26:11,49.245.20.98,100,Singapore,Singapore,M1 LIMITED,M1 Ltd,Residential/Business,False
+2026-01-20 14:26:11,20.193.146.159,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-20 14:26:11,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-20 14:26:11,103.143.238.173,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-20 14:26:11,188.166.79.218,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-20 14:26:11,47.251.92.0,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-20 14:26:11,185.202.223.214,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-20 14:26:11,83.239.53.250,100,Russia,Krasnodar,Macroregional South,OJSC Rostelecom Macroregional Branch South,Residential/Business,False
+2026-01-20 14:26:11,163.61.182.24,100,Vietnam,Ho Chi Minh City,MBC,Manh Bang ONE Member Company Limited,Residential/Business,False
+2026-01-20 14:26:11,45.78.216.116,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 14:26:11,218.13.152.23,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-20 14:26:11,184.105.247.244,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 14:26:11,103.143.10.79,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Residential/Business,True
+2026-01-20 14:26:11,181.104.58.194,100,Argentina,Tilcara,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
