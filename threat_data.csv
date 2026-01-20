@@ -9554,3 +9554,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-20 14:26:11,184.105.247.244,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-01-20 14:26:11,103.143.10.79,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Residential/Business,True
 2026-01-20 14:26:11,181.104.58.194,100,Argentina,Tilcara,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
+2026-01-20 16:28:46,222.214.141.12,100,China,Barkam,Chinanet,Chinanet SC,Residential/Business,False
+2026-01-20 16:28:46,36.255.223.75,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,,Data Center,False
+2026-01-20 16:28:46,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-20 16:28:46,154.19.37.154,100,France,Paris,PT. Beon Intermedia,PT. Beon Intermedia,Data Center,False
+2026-01-20 16:28:46,43.157.98.254,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-20 16:28:46,142.93.237.197,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 16:28:46,62.133.169.58,100,Russia,Ufa,DSL,Bashinformsvyaz Company,Residential/Business,False
+2026-01-20 16:28:46,43.157.158.178,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-01-20 16:28:46,194.39.67.229,100,Kazakhstan,Almaty,PS Internet Company LLP,Torgovaya Kompaniya ALA,Data Center,False
+2026-01-20 16:28:46,138.249.7.228,100,Uzbekistan,Sirdaryo,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,False
+2026-01-20 16:28:46,4.205.202.41,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-01-20 16:28:46,213.145.157.185,100,Kyrgyzstan,Bishkek,OJSC Kyrgyztelecom,,Residential/Business,False
+2026-01-20 16:28:46,122.187.230.213,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-20 16:28:46,43.154.32.153,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-20 16:28:46,200.196.41.84,100,Brazil,Conselheiro Lafaiete,CN TELECOM SERVICOS DE INTERNET LTDA,CN TELECOM SERVICOS DE INTERNET LTDA,Residential/Business,False
+2026-01-20 16:28:46,20.64.106.91,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-20 16:28:46,213.131.53.226,100,Georgia,Tbilisi,"JSC ""Silknet""",Various Internet,Residential/Business,False
+2026-01-20 16:28:46,194.180.48.63,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-20 16:28:46,161.35.153.91,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 16:28:46,45.154.35.133,100,The Netherlands,Meppel,Serverio technologijos MB,Serverio technologijos MB,Residential/Business,False
+2026-01-20 16:28:46,199.45.154.190,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-20 16:28:46,185.232.22.203,100,United States,New York,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-20 16:28:46,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-20 16:28:46,178.128.255.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-20 16:28:46,107.150.106.178,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-01-20 16:28:46,41.231.38.23,100,Tunisia,Tunis,ATI - ISP,ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-20 16:28:46,178.128.251.116,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-20 16:28:46,103.112.54.86,100,Bangladesh,Dhaka,Systems Solutions & development Technologies Limited,Carnival Internet,Residential/Business,False
+2026-01-20 16:28:46,170.254.229.191,100,Colombia,Cartago,Media Commerce Partners S.A,MACESAMOTOS,Residential/Business,False
+2026-01-20 16:28:46,142.93.224.126,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 16:28:46,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-20 16:28:46,14.103.127.58,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-20 16:28:46,159.223.218.10,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 16:28:46,40.124.172.78,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-20 16:28:46,14.103.120.242,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-20 16:28:46,204.76.203.219,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-20 16:28:46,4.205.210.172,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-01-20 16:28:46,45.78.216.212,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 16:28:46,68.183.13.228,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 16:28:46,130.12.181.105,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-20 16:28:46,195.184.76.155,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 16:28:46,102.210.148.92,100,South Africa,Johannesburg,THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY,NewIP First,Residential/Business,False
+2026-01-20 16:28:46,182.66.214.34,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-20 16:28:46,199.195.254.215,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-20 16:28:46,14.103.116.0,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-20 16:28:46,195.184.76.153,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 16:28:46,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Mobile,False
+2026-01-20 16:28:46,14.20.86.55,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-20 16:28:46,80.94.92.71,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-20 16:28:46,140.245.125.37,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
