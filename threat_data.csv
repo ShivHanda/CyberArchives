@@ -9414,3 +9414,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-20 08:25:29,45.78.218.116,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-20 08:25:29,45.194.37.246,100,Hong Kong,Hong Kong,Antbox Network Limited,Antbox Network Limited,Residential/Business,False
 2026-01-20 08:25:29,45.78.219.224,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 10:22:20,45.120.115.150,100,Bangladesh,Dhaka,Mazeda Networks Limited,Mazeda Networks Limited,Residential/Business,False
+2026-01-20 10:22:20,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-20 10:22:20,165.232.55.142,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,178.128.255.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-20 10:22:20,104.248.206.223,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,142.93.235.141,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,152.42.135.99,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-20 10:22:20,45.78.222.46,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 10:22:20,209.38.107.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,152.42.136.215,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-20 10:22:20,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-20 10:22:20,161.35.94.88,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,45.78.217.98,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-20 10:22:20,91.230.168.170,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 10:22:20,209.38.108.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,111.70.32.53,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-20 10:22:20,209.38.96.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,135.222.40.118,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-20 10:22:20,167.99.212.137,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,87.250.9.98,100,Russia,Izhevsk,MARK-ITT,,Residential/Business,False
+2026-01-20 10:22:20,200.223.232.26,100,Brazil,Rio de Janeiro,V tal,Telemar Norte Leste S.A,Residential/Business,False
+2026-01-20 10:22:20,209.38.105.220,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,167.71.0.174,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,45.78.229.172,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-20 10:22:20,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-20 10:22:20,193.163.125.167,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-20 10:22:20,148.230.134.112,100,Mexico,Benito Juarez,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-20 10:22:20,103.251.31.154,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-20 10:22:20,121.73.169.109,100,New Zealand,Whangarei,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-01-20 10:22:20,89.67.37.52,100,Poland,Lublin,UPC.pl,UPC Polska Sp. z o.o.,Residential/Business,False
+2026-01-20 10:22:20,125.140.145.62,100,South Korea,Cheongju-si,Korea Telecom,Chungbukbonbujang,Residential/Business,False
+2026-01-20 10:22:20,161.35.150.96,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,161.35.158.172,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-20 10:22:20,82.19.12.103,100,United Kingdom,Bromley,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-01-20 10:22:20,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-01-20 10:22:20,39.152.138.178,100,China,Shenyang,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-01-20 10:22:20,34.92.81.41,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-01-20 10:22:20,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-20 10:22:20,34.90.193.70,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-01-20 10:22:20,118.122.196.230,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-01-20 10:22:20,178.62.203.212,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-20 10:22:20,120.29.140.188,100,South Korea,Masan,CMB Kwangju Broadcasting,Cmbkwangjunet,Residential/Business,False
+2026-01-20 10:22:20,142.93.225.104,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 10:22:20,54.83.56.1,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
