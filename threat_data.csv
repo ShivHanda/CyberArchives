@@ -9459,3 +9459,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-20 10:22:20,120.29.140.188,100,South Korea,Masan,CMB Kwangju Broadcasting,Cmbkwangjunet,Residential/Business,False
 2026-01-20 10:22:20,142.93.225.104,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-20 10:22:20,54.83.56.1,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-20 12:38:49,31.179.137.46,100,Poland,Warsaw,P4 Sp. z o.o.,P4 Sp. z o.o,Mobile,False
+2026-01-20 12:38:49,216.218.206.78,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,64.62.197.124,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,172.234.199.134,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-20 12:38:49,31.220.90.166,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-20 12:38:49,31.208.1.179,100,Sweden,Umeå,Bredband2 AB,,Residential/Business,False
+2026-01-20 12:38:49,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-20 12:38:49,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-20 12:38:49,64.62.197.96,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,91.231.89.31,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 12:38:49,167.172.42.194,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 12:38:49,31.129.22.109,100,Portugal,Viana do Castelo,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-20 12:38:49,193.163.125.237,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-20 12:38:49,34.14.103.46,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-20 12:38:49,47.251.79.51,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-20 12:38:49,64.62.156.148,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,32.220.79.131,100,United States,Middletown,Southern New England Telephone Company and SNET America,Frontier Communications Solutions,Residential/Business,False
+2026-01-20 12:38:49,31.220.84.26,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-20 12:38:49,34.84.176.96,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-01-20 12:38:49,31.41.144.73,100,Poland,Ostrołęka,Ynet Management Pawel Skrodzki,Ynet Management Pawel Skrodzki,Residential/Business,False
+2026-01-20 12:38:49,91.196.152.159,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 12:38:49,172.212.224.44,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-20 12:38:49,206.189.100.15,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 12:38:49,27.223.217.104,100,China,Qingdao,China Unicom Shandong Province Network,,Residential/Business,False
+2026-01-20 12:38:49,64.62.197.140,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,64.62.197.206,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,84.25.230.152,100,The Netherlands,Beverwijk,ZIGGO,,Residential/Business,False
+2026-01-20 12:38:49,103.93.93.211,100,Indonesia,Kebomas,MYRISE,,Residential/Business,False
+2026-01-20 12:38:49,18.189.178.153,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-20 12:38:49,45.79.109.4,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-20 12:38:49,27.147.141.98,100,Bangladesh,Dhaka,Link3 Technologies Limited,Corporate Subscriber,Residential/Business,False
+2026-01-20 12:38:49,168.76.20.229,100,South Africa,Bloemfontein,Freenet,Free State Education Department,Residential/Business,False
+2026-01-20 12:38:49,64.62.197.70,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,79.124.40.98,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-20 12:38:49,178.16.55.63,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-20 12:38:49,172.237.156.206,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-20 12:38:49,27.155.92.28,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-01-20 12:38:49,64.62.156.193,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,64.62.197.20,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-20 12:38:49,91.230.168.144,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-20 12:38:49,159.223.7.195,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-20 12:38:49,24.242.36.121,100,United States,Waco,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-01-20 12:38:49,31.14.32.5,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-01-20 12:38:49,64.62.156.196,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,65.49.1.17,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,193.163.125.4,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-20 12:38:49,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-20 12:38:49,24.234.202.117,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-01-20 12:38:49,64.62.156.95,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-20 12:38:49,143.42.0.97,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
