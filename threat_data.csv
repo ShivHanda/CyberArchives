@@ -9789,3 +9789,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-21 01:19:30,138.97.64.146,100,Brazil,São Gonçalo,Westlink Tecnologia E Comunicacao Ltda. - ME,Westlink Tecnologia E Comunicacao Ltda. - ME,Residential/Business,False
 2026-01-21 01:19:30,184.70.122.98,100,Canada,Calgary,Shaw Communications,Shaw Communications,Residential/Business,False
 2026-01-21 01:19:30,34.22.151.18,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-01-21 03:29:39,159.223.236.56,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 03:29:39,115.227.24.227,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
+2026-01-21 03:29:39,200.32.52.150,100,Argentina,Buenos Aires,Telefonica de Argentina,Huawei Tech Investment CO LTD,Residential/Business,True
+2026-01-21 03:29:39,114.66.48.132,100,China,Beijing,China Telecom,"Beijing Yunlin Network Technology Co., Ltd",Residential/Business,False
+2026-01-21 03:29:39,189.150.53.120,100,Mexico,Tuxtla Gutiérrez,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-21 03:29:39,64.23.249.58,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-21 03:29:39,77.90.185.50,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-21 03:29:39,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-21 03:29:39,82.147.85.18,100,Russia,Noril'sk,Nerushenko Vyacheslav Nikolaevich,Nerushenko Vyacheslav Nikolaevich,Residential/Business,False
+2026-01-21 03:29:39,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-21 03:29:39,45.172.152.74,100,Dominican Republic,Santiago de los Caballeros,Tecnología Digital,Wireless Solutions Dominicana WSD S.R.L,Mobile,False
+2026-01-21 03:29:39,45.78.222.227,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 03:29:39,185.198.27.83,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-21 03:29:39,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-01-21 03:29:39,118.194.230.250,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-21 03:29:39,183.57.152.90,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-21 03:29:39,185.216.117.74,100,Hong Kong,Morrison Hill,ZANYUN,,Residential/Business,False
+2026-01-21 03:29:39,47.111.72.214,100,China,Hangzhou,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-21 03:29:39,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-21 03:29:39,45.190.86.24,100,Colombia,Miranda,Network Connexions SAS,Network Connexions,Residential/Business,False
+2026-01-21 03:29:39,199.45.155.99,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-21 03:29:39,43.156.19.37,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-21 03:29:39,51.158.205.47,100,The Netherlands,Haarlem,Online S.A.S.,Scaleway,Data Center,False
+2026-01-21 03:29:39,209.141.43.77,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-21 03:29:39,45.78.219.16,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 03:29:39,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-21 03:29:39,152.32.174.199,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-21 03:29:39,204.76.203.8,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-21 03:29:39,61.185.30.170,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-01-21 03:29:39,14.116.193.187,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet GD,Residential/Business,False
+2026-01-21 03:29:39,3.137.216.71,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-21 03:29:39,45.78.217.55,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 03:29:39,135.237.124.103,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-21 03:29:39,94.230.136.33,100,Russia,Bishtyubinka,KTEL,,Residential/Business,False
+2026-01-21 03:29:39,20.163.15.177,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-21 03:29:39,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-21 03:29:39,103.154.123.19,100,Indonesia,Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-01-21 03:29:39,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-21 03:29:39,221.147.115.58,100,South Korea,Seoul,Korea Telecom,KORNET,Residential/Business,False
+2026-01-21 03:29:39,195.33.199.59,100,Türkiye,Köseköy,Superonline RO,Yasar Holding A.S,Residential/Business,False
+2026-01-21 03:29:39,112.27.38.203,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-21 03:29:39,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-01-21 03:29:39,183.56.216.153,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,True
+2026-01-21 03:29:39,193.163.125.212,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-21 03:29:39,130.250.191.237,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
