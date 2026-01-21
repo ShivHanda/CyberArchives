@@ -10019,3 +10019,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-21 10:22:36,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
 2026-01-21 10:22:36,64.62.156.201,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-01-21 10:22:36,122.184.118.126,100,India,Gurugram,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-01-21 12:38:17,118.219.234.233,100,South Korea,Gwangjin-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-21 12:38:17,165.154.162.193,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-21 12:38:17,192.3.105.24,100,United States,Dallas,HostPapa,,Data Center,False
+2026-01-21 12:38:17,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 12:38:17,64.62.197.214,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-21 12:38:17,67.55.189.211,100,United States,Lake City,Aureon Network Services,Aureon Network Services,Residential/Business,False
+2026-01-21 12:38:17,174.138.10.123,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 12:38:17,45.174.162.68,100,Brazil,Cururupu,Nando NET Fibra,Nando NET Fibra,Residential/Business,False
+2026-01-21 12:38:17,185.196.8.199,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,True
+2026-01-21 12:38:17,71.6.167.142,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-21 12:38:17,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-21 12:38:17,103.143.238.173,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-21 12:38:17,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-21 12:38:17,174.138.8.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 12:38:17,77.90.185.50,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-21 12:38:17,8.210.217.227,100,Hong Kong,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-21 12:38:17,128.199.157.145,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-21 12:38:17,45.78.207.207,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 12:38:17,65.49.1.80,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-21 12:38:17,59.98.83.57,100,India,Tirunelveli,BSNL Internet,,Residential/Business,False
+2026-01-21 12:38:17,170.238.160.191,100,Brazil,Salvador,NCS-Fibra ( New Central Solutions ),NCS-Fibra ( New Central Solutions ),Residential/Business,True
+2026-01-21 12:38:17,203.59.224.59,100,Australia,Perth,iiNet Limited,iiNet Limited,Residential/Business,False
+2026-01-21 12:38:17,137.184.194.248,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-21 12:38:17,35.200.237.19,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-01-21 12:38:17,45.78.229.129,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-21 12:38:17,75.119.135.245,100,France,Lauterbourg,BroadbandONE,DIRECTPATH,Data Center,False
+2026-01-21 12:38:17,20.64.105.74,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-21 12:38:17,152.32.215.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-21 12:38:17,43.135.148.156,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-21 12:38:17,85.217.149.15,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-21 12:38:17,71.6.158.166,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-21 12:38:17,5.187.97.40,100,Guadeloupe,Pointe-à-Pitre,CANAL+ TELECOM ANTILLES,,Residential/Business,False
+2026-01-21 12:38:17,42.112.42.129,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-01-21 12:38:17,135.125.234.73,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-01-21 12:38:17,45.78.216.160,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 12:38:17,45.78.217.136,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 12:38:17,81.192.46.35,100,Morocco,Marrakesh,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-01-21 12:38:17,143.198.161.12,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 12:38:17,23.161.168.8,100,United States,Chicago,"Infraly, LLC","Infraly, LLC",Residential/Business,False
+2026-01-21 12:38:17,101.36.106.113,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-21 12:38:17,45.142.193.183,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-21 12:38:17,216.10.242.161,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
+2026-01-21 12:38:17,45.78.204.108,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 12:38:17,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-21 12:38:17,170.80.65.140,100,Brazil,Vespasiano,BTT TELECOMUNICACOES S.A.,BTT TELECOMUNICACOES S.A,Residential/Business,False
