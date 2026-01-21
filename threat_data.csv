@@ -10204,3 +10204,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-21 18:35:57,164.92.157.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-21 18:35:57,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
 2026-01-21 18:35:57,67.207.88.63,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-21 20:25:20,45.78.201.208,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 20:25:20,103.188.177.46,100,Indonesia,Jakarta,PEDEE,,Residential/Business,False
+2026-01-21 20:25:20,101.36.105.50,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-21 20:25:20,67.215.246.123,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-01-21 20:25:20,45.78.194.40,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 20:25:20,111.26.106.117,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-21 20:25:20,23.236.169.182,100,United States,Los Angeles,B2 Net Solutions Inc.,ServerMania Inc,Data Center,True
+2026-01-21 20:25:20,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-21 20:25:20,190.128.241.2,100,Paraguay,Asunción,Telecel S.A.,Telecel S.A,Residential/Business,False
+2026-01-21 20:25:20,101.33.81.73,100,South Korea,Seoul,Aceville Pte.ltd,,Data Center,True
+2026-01-21 20:25:20,185.59.209.143,100,Czechia,Prague,VSHosting s.r.o.,Dedicated,Data Center,False
+2026-01-21 20:25:20,197.13.24.157,100,Tunisia,Gabès,EO DATACENTER,ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-21 20:25:20,101.36.104.242,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,True
+2026-01-21 20:25:20,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-21 20:25:20,190.153.249.99,100,Chile,Santiago,Gtd Internet S.A.,Manquehuenet,Residential/Business,False
+2026-01-21 20:25:20,4.188.251.0,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-21 20:25:20,45.249.247.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-21 20:25:20,206.217.131.233,100,United States,Elk Grove Village,HostPapa,Cloudserver,Data Center,True
+2026-01-21 20:25:20,103.149.170.125,100,Vietnam,Hanoi,MCT Technology Solution Joint Stock Company,MCT Technology Solution Joint Stock Company,Residential/Business,False
+2026-01-21 20:25:20,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 20:25:20,103.249.84.18,100,Malaysia,Cyberjaya,Invision Seven Solutions,Hosting Services,Data Center,False
+2026-01-21 20:25:20,51.79.67.116,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc",Data Center,True
+2026-01-21 20:25:20,36.111.82.135,100,China,Hangzhou,China Telecom,Chinanet ZJ,Residential/Business,False
+2026-01-21 20:25:20,83.168.107.226,100,Poland,Wroclaw,SkyPass Solutions Sp. z.o.o.,SkyPass Solutions Sp. z.o.o,Residential/Business,False
+2026-01-21 20:25:20,91.191.209.74,100,Bulgaria,Sofia,L&L Investment Ltd.,L&L Investment Ltd,Residential/Business,True
+2026-01-21 20:25:20,101.33.80.42,100,South Korea,Seoul,Aceville Pte.ltd,,Data Center,True
+2026-01-21 20:25:20,101.33.66.34,100,South Korea,Seoul,Aceville Pte.ltd,,Data Center,True
+2026-01-21 20:25:20,86.111.189.27,100,United States,Los Angeles,"HostDime.com, Inc.",HostDime Limited,Data Center,False
+2026-01-21 20:25:20,144.22.162.132,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-01-21 20:25:20,14.177.234.24,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-21 20:25:20,190.153.241.123,100,Chile,Santiago,Gtd Internet S.A.,Gtd Internet S.A,Residential/Business,False
+2026-01-21 20:25:20,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-21 20:25:20,185.93.89.45,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-21 20:25:20,103.217.144.13,100,Indonesia,Cicurug,PT. GUNA BAHAN INTI,,Data Center,False
+2026-01-21 20:25:20,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-01-21 20:25:20,150.241.64.105,100,The Netherlands,Rotterdam,Maybe LLC,Biil RU LTD,Residential/Business,False
+2026-01-21 20:25:20,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-21 20:25:20,183.94.33.245,100,China,Wuhan,China Unicom Hubei Province Network,,Residential/Business,False
+2026-01-21 20:25:20,125.122.13.40,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-01-21 20:25:20,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 20:25:20,152.53.184.147,100,Germany,Karlsruhe,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-01-21 20:25:20,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-21 20:25:20,119.195.90.174,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-21 20:25:20,45.78.216.149,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 20:25:20,101.47.161.134,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-21 20:25:20,204.76.203.56,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-21 20:25:20,101.32.52.164,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-01-21 20:25:20,115.140.161.61,100,South Korea,Ulsan,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-01-21 20:25:20,34.236.41.241,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-21 20:25:20,52.231.68.47,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
