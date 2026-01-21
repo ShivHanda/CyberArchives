@@ -10254,3 +10254,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-21 20:25:20,115.140.161.61,100,South Korea,Ulsan,LG POWERCOMM,Xpeed,Residential/Business,False
 2026-01-21 20:25:20,34.236.41.241,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-01-21 20:25:20,52.231.68.47,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-21 22:19:55,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 22:19:55,142.93.212.130,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 22:19:55,85.29.197.188,100,Estonia,Tallinn,Telia Eesti AS,,Residential/Business,False
+2026-01-21 22:19:55,103.210.21.242,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-01-21 22:19:55,43.159.143.187,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-21 22:19:55,142.93.142.202,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 22:19:55,111.199.187.156,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-21 22:19:55,91.231.89.253,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-21 22:19:55,41.250.110.234,100,Morocco,Casablanca,ADSL Maroc telecom,,Residential/Business,False
+2026-01-21 22:19:55,103.172.236.241,100,Vietnam,Trung Liệt,HERAL,Heral Science and Technology Joint Stock Company,Residential/Business,True
+2026-01-21 22:19:55,14.98.28.43,100,India,Bengaluru,Ttsl BLR ILL,Tata Teleservices Limited,Residential/Business,False
+2026-01-21 22:19:55,183.56.196.118,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-01-21 22:19:55,102.218.89.110,100,Uganda,Kampala,Sprint Internet Limited,Sprint Internet Limited,Residential/Business,False
+2026-01-21 22:19:55,43.153.58.28,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-21 22:19:55,174.138.6.22,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 22:19:55,109.105.209.34,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-01-21 22:19:55,167.86.127.135,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-21 22:19:55,202.39.251.216,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-21 22:19:55,91.230.168.213,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-21 22:19:55,20.65.194.38,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-21 22:19:55,92.118.39.84,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-21 22:19:55,212.11.64.145,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-21 22:19:55,123.233.245.135,100,China,Jinan,CHINA UNICOM China169 Backbone,JN jnsxxcyj qxj,Residential/Business,False
+2026-01-21 22:19:55,130.12.181.59,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-21 22:19:55,125.22.49.10,100,India,Kalyani,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-21 22:19:55,218.78.132.164,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-21 22:19:55,93.174.93.12,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-01-21 22:19:55,64.227.98.100,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-21 22:19:55,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-21 22:19:55,91.230.168.214,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-21 22:19:55,85.203.23.184,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-01-21 22:19:55,185.218.4.92,100,United States,San Jose,HK CEDOC LIMITED,Kirino LLC,Residential/Business,False
+2026-01-21 22:19:55,50.232.189.209,100,United States,Alexandria,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-01-21 22:19:55,109.205.211.78,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-21 22:19:55,203.188.182.104,100,United Kingdom,Bradford,GTT Communications Inc.,"VPN Consumer London, United Kingdom",Mobile,True
+2026-01-21 22:19:55,51.83.71.110,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-21 22:19:55,191.37.72.46,100,Brazil,Nova Lima,CNT Fiber,CNT Fiber,Residential/Business,False
+2026-01-21 22:19:55,82.165.139.5,100,France,Courbevoie,IONOS,,Data Center,False
+2026-01-21 22:19:55,45.78.230.231,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-21 22:19:55,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-21 22:19:55,223.86.148.242,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-21 22:19:55,103.237.145.140,100,Vietnam,Quận Chín,LVSOFT,,Residential/Business,False
+2026-01-21 22:19:55,91.230.168.211,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-21 22:19:55,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 22:19:55,90.180.197.128,100,Czechia,Pardubice,"Telefonica O2 Czech Republic, a.s.",CZ.CZNET,Residential/Business,False
+2026-01-21 22:19:55,172.215.144.32,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-21 22:19:55,114.66.29.128,100,China,Beijing,China Telecom,"Beijing Yunlin Network Technology Co., Ltd",Residential/Business,False
+2026-01-21 22:19:55,85.11.183.6,100,United Kingdom,London,PebbleHost Ltd,Sofcompany speedy,Residential/Business,False
+2026-01-21 22:19:55,144.172.106.44,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Residential/Business,False
+2026-01-21 22:19:55,103.23.198.86,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,True
