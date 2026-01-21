@@ -10114,3 +10114,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-21 14:26:08,103.136.200.241,100,Bangladesh,Bhātāra,Polly IT,Md Dalowar Hossain,Residential/Business,False
 2026-01-21 14:26:08,54.174.234.236,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-01-21 14:26:08,58.56.23.210,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-01-21 16:35:32,175.43.184.243,100,China,Quanzhou,China Unicom Fujian Province Network,,Residential/Business,False
+2026-01-21 16:35:32,154.38.178.89,100,United States,Orangeburg,Contabo Inc.,Contabo Inc,Residential/Business,False
+2026-01-21 16:35:32,161.49.89.39,100,Philippines,Pasig,Converge ICT Solution Inc,Converge ICT Solution Inc,Residential/Business,False
+2026-01-21 16:35:32,20.164.21.26,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-01-21 16:35:32,185.247.137.28,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-21 16:35:32,45.142.193.121,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-21 16:35:32,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-01-21 16:35:32,45.78.194.215,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 16:35:32,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-21 16:35:32,115.190.13.99,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-21 16:35:32,194.180.49.51,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-21 16:35:32,45.78.203.65,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 16:35:32,41.63.62.103,100,Zambia,Lusaka,Zambia Research and Education Network,Zamren,Residential/Business,False
+2026-01-21 16:35:32,4.190.203.84,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-21 16:35:32,36.104.144.114,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
+2026-01-21 16:35:32,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-21 16:35:32,82.165.139.5,100,France,Courbevoie,IONOS,,Data Center,False
+2026-01-21 16:35:32,167.172.99.180,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 16:35:32,207.90.244.28,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-01-21 16:35:32,96.127.153.174,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-01-21 16:35:32,77.90.185.16,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-21 16:35:32,106.201.231.18,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Services Limited,Residential/Business,False
+2026-01-21 16:35:32,45.246.69.216,100,Egypt,Giza,LINKdotNET AS number,Link Egypt (Link.NET),Residential/Business,False
+2026-01-21 16:35:32,181.188.172.6,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Residential/Business,False
+2026-01-21 16:35:32,45.142.193.125,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-21 16:35:32,20.56.82.62,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-21 16:35:32,191.5.31.61,100,Brazil,Passo Fundo,RazaoInfo Internet Ltda,RazaoInfo Internet Ltda,Residential/Business,False
+2026-01-21 16:35:32,197.248.8.33,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-01-21 16:35:32,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-21 16:35:32,45.78.194.199,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-21 16:35:32,61.7.241.149,100,Thailand,Samut Sakhon,CAT-ISP,,Residential/Business,False
+2026-01-21 16:35:32,165.22.20.52,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-21 16:35:32,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-21 16:35:32,123.58.210.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-21 16:35:32,50.225.176.238,100,United States,Derry,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-01-21 16:35:32,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-21 16:35:32,187.174.238.116,100,Mexico,Azcapotzalco,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-01-21 16:35:32,20.168.122.17,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-21 16:35:32,45.61.187.220,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-21 16:35:32,199.45.154.181,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-21 16:35:32,103.187.146.90,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-21 16:35:32,103.211.200.18,100,Vietnam,Da Nang,Viet Digital Technology Liability Company,Nova Square Limited,Residential/Business,False
+2026-01-21 16:35:32,165.232.111.181,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-21 16:35:32,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-21 16:35:32,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
