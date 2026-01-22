@@ -10639,3 +10639,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-22 12:37:28,3.136.160.79,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
 2026-01-22 12:37:28,20.84.144.171,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-01-22 12:37:28,213.177.179.40,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-22 14:25:24,50.16.216.166,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-22 14:25:24,115.68.222.92,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-01-22 14:25:24,45.149.173.217,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-01-22 14:25:24,91.92.240.222,100,Germany,Frankfurt am Main,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-22 14:25:24,103.23.199.128,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-22 14:25:24,77.109.32.245,100,Ukraine,Dnipro,PJSC Telesystems of Ukraine,PEOPLEnet,Residential/Business,False
+2026-01-22 14:25:24,116.111.2.94,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-22 14:25:24,45.78.229.14,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 14:25:24,173.212.204.86,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-22 14:25:24,191.37.72.46,100,Brazil,Nova Lima,CNT Fiber,CNT Fiber,Residential/Business,False
+2026-01-22 14:25:24,43.159.134.163,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-22 14:25:24,20.89.192.33,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-22 14:25:24,45.249.247.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 14:25:24,118.219.255.169,100,South Korea,Gwangjin-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-22 14:25:24,101.47.49.107,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-22 14:25:24,217.154.185.97,100,Spain,Madrid,MISTRAL,,Data Center,False
+2026-01-22 14:25:24,47.74.48.165,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-01-22 14:25:24,188.166.119.175,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-22 14:25:24,115.190.75.164,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-22 14:25:24,188.166.121.111,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-22 14:25:24,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-22 14:25:24,94.102.4.12,100,Turkey,Denizli,Netinternet Bilisim Teknolojileri AS,,Data Center,False
+2026-01-22 14:25:24,177.75.6.242,100,Brazil,Brasília,Networld Provedor e Servicos de Internet Ltda,Networld Provedor e Servicos de Internet Ltda,Residential/Business,False
+2026-01-22 14:25:24,165.154.51.27,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 14:25:24,14.103.236.127,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-22 14:25:24,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-22 14:25:24,167.179.19.182,100,Cambodia,Mittakpheap,NeocomISP Limited,NeocomISP Limited,Residential/Business,False
+2026-01-22 14:25:24,185.242.226.87,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-01-22 14:25:24,101.47.50.52,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-22 14:25:24,165.154.41.213,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 14:25:24,167.99.211.248,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 14:25:24,113.196.185.120,100,Taiwan,Taichung,"New Century InfoComm Tech. Co., Ltd.",NCICNET,Residential/Business,False
+2026-01-22 14:25:24,14.225.217.138,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-22 14:25:24,195.184.76.246,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-22 14:25:24,45.78.219.130,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 14:25:24,114.33.12.13,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-01-22 14:25:24,209.38.107.83,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 14:25:24,43.130.53.252,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-22 14:25:24,51.222.30.51,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,True
+2026-01-22 14:25:24,115.190.110.197,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-22 14:25:24,123.58.213.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 14:25:24,210.183.21.53,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-22 14:25:24,98.193.112.85,100,United States,Machesney Park,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-01-22 14:25:24,114.10.47.206,100,Indonesia,Surabaya,PT. INDOSAT Tbk,IOH B2B,Residential/Business,False
+2026-01-22 14:25:24,165.227.170.186,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 14:25:24,92.118.39.120,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-22 14:25:24,189.190.136.4,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-22 14:25:24,157.245.75.68,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 14:25:24,13.222.178.162,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-22 14:25:24,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
