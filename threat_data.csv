@@ -10499,3 +10499,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-22 06:27:26,211.22.25.205,100,Taiwan,Xizhi District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-01-22 06:27:26,45.78.200.112,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-22 06:27:26,157.10.252.126,100,Indonesia,Cicurug,PT Bumi Saka Asri,,Data Center,False
+2026-01-22 08:25:19,40.74.115.25,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-22 08:25:19,103.171.85.117,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-22 08:25:19,165.232.55.142,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 08:25:19,101.36.106.89,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 08:25:19,65.49.1.47,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 08:25:19,170.187.165.218,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-22 08:25:19,165.154.18.124,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 08:25:19,45.78.194.215,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-22 08:25:19,91.224.92.114,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-22 08:25:19,176.65.134.42,100,Slovenia,Maribor,Netiface LLC,,Residential/Business,False
+2026-01-22 08:25:19,211.142.44.154,100,China,Liuxiang,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-22 08:25:19,94.230.136.33,100,Russia,Bishtyubinka,KTEL,,Residential/Business,False
+2026-01-22 08:25:19,168.167.228.123,100,Botswana,Gaborone,Botswana Telecommunications Corporation,,Residential/Business,False
+2026-01-22 08:25:19,194.180.49.219,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-22 08:25:19,199.45.154.149,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-22 08:25:19,221.159.150.85,100,South Korea,Iksan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-22 08:25:19,45.78.205.40,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-22 08:25:19,185.196.10.208,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-22 08:25:19,167.71.65.20,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 08:25:19,103.100.208.88,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,Ancent Group Limited,Residential/Business,False
+2026-01-22 08:25:19,65.20.211.96,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-01-22 08:25:19,216.155.93.75,100,Chile,Dalcahue,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-01-22 08:25:19,45.78.222.2,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,185.165.191.27,100,United States,Ashburn,BlackHOST,BlackHOST,Residential/Business,True
+2026-01-22 08:25:19,72.5.43.160,100,Romania,Bucharest,BL Networks,BL Networks,Residential/Business,False
+2026-01-22 08:25:19,45.194.92.35,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-01-22 08:25:19,45.78.222.46,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,121.136.87.130,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-22 08:25:19,45.78.222.150,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,86.54.42.197,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-22 08:25:19,165.22.204.77,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 08:25:19,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-22 08:25:19,101.36.97.88,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-22 08:25:19,101.47.142.207,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-22 08:25:19,199.231.163.19,100,United States,Dallas,"HIVELOCITY, Inc.","HIVELOCITY, Inc",Data Center,False
+2026-01-22 08:25:19,200.44.190.194,100,Venezuela,Ciudad Guayana,"CANTV Servicios, Venezuela",CANTV,Residential/Business,False
+2026-01-22 08:25:19,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-22 08:25:19,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-22 08:25:19,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-22 08:25:19,77.90.185.50,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-22 08:25:19,101.47.142.55,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-22 08:25:19,148.76.116.70,100,United States,Hicksville,Optimum Online,CMLP,Residential/Business,False
+2026-01-22 08:25:19,190.184.222.63,100,Argentina,General Pico,Corpico Ltda,Corpico Ltda,Residential/Business,False
+2026-01-22 08:25:19,128.1.132.137,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-22 08:25:19,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-22 08:25:19,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-22 08:25:19,45.78.222.23,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 08:25:19,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
