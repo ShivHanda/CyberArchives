@@ -10399,3 +10399,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-22 03:43:29,47.25.7.101,100,United States,Thibodaux,Charter Communications,Spectrum,Residential/Business,False
 2026-01-22 03:43:29,101.47.160.250,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
 2026-01-22 03:43:29,103.100.208.88,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,Ancent Group Limited,Residential/Business,False
+2026-01-22 04:43:30,58.23.192.149,100,China,Xiamen,CNCGroup CHINA169 FuJian province network,,Residential/Business,False
+2026-01-22 04:43:30,45.78.218.102,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 04:43:30,65.49.20.111,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.109,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.110,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.108,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,64.89.163.181,100,United States,Ripley,ISP Associates,"ISP Associates, Inc. DBA Dixie-Net",Residential/Business,False
+2026-01-22 04:43:30,65.49.20.107,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.106,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-22 04:43:30,51.83.71.110,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-22 04:43:30,65.49.20.105,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.102,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.103,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,82.115.40.190,100,Kazakhstan,Almaty,PS Internet Company LLP,Lux Binder service LLP,Data Center,False
+2026-01-22 04:43:30,20.80.88.160,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-22 04:43:30,92.63.197.210,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-01-22 04:43:30,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-22 04:43:30,138.68.155.239,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-22 04:43:30,13.74.146.113,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-22 04:43:30,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-22 04:43:30,65.49.20.98,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,1.214.42.172,100,South Korea,Songpa-gu,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-01-22 04:43:30,155.93.89.195,100,Nigeria,Lagos,Vodacom Business Nigeria,Inq. Digital Nigeria,Data Center,False
+2026-01-22 04:43:30,65.49.20.99,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,183.237.78.117,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-22 04:43:30,3.130.96.91,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-01-22 04:43:30,156.238.252.46,100,United States,Los Angeles,Fastnet Data Inc,cognetcloud INC,Residential/Business,False
+2026-01-22 04:43:30,65.49.20.100,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,176.32.195.85,100,Armenia,Yerevan,Ucom CJSC,Interactive TV LLC,Residential/Business,False
+2026-01-22 04:43:30,45.78.207.41,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 04:43:30,65.49.20.101,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-22 04:43:30,103.160.5.123,100,Vietnam,Quận Mười,CSD Group Technology JSC.,CSD Group,Residential/Business,False
+2026-01-22 04:43:30,65.49.20.93,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-22 04:43:30,45.78.216.148,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-22 04:43:30,157.245.101.12,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-22 04:43:30,65.49.20.94,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,65.49.20.95,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,152.32.213.170,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-22 04:43:30,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-01-22 04:43:30,203.145.34.222,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,PT Tekstil Original Indonesia,Data Center,True
+2026-01-22 04:43:30,65.49.20.92,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,204.76.203.93,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-22 04:43:30,93.152.230.160,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-22 04:43:30,65.49.20.90,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-22 04:43:30,101.47.135.95,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-22 04:43:30,61.7.241.149,100,Thailand,Samut Sakhon,CAT-ISP,,Residential/Business,False
+2026-01-22 04:43:30,65.49.20.88,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
