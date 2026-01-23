@@ -11249,3 +11249,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-23 14:21:04,14.63.196.175,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
 2026-01-23 14:21:04,135.125.174.140,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
 2026-01-23 14:21:04,65.49.1.80,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-23 16:23:31,194.163.170.99,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,True
+2026-01-23 16:23:31,20.65.195.113,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-23 16:23:31,203.146.21.153,100,Thailand,Phra Nakhon Si Ayutthaya,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-01-23 16:23:31,140.238.63.49,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-01-23 16:23:31,172.202.113.251,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-23 16:23:31,202.165.15.132,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
+2026-01-23 16:23:31,104.248.194.185,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 16:23:31,198.46.83.201,100,United States,Ashburn,"InMotion Hosting, Inc.","InMotion Hosting, Inc.",Data Center,False
+2026-01-23 16:23:31,20.118.217.181,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-23 16:23:31,4.217.217.16,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-23 16:23:31,222.253.40.231,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Ho Chi Minh City Post and Telecom Company,Residential/Business,False
+2026-01-23 16:23:31,221.154.79.202,100,South Korea,Incheon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-23 16:23:31,101.126.134.93,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-23 16:23:31,164.90.154.67,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-23 16:23:31,23.23.99.55,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-23 16:23:31,45.78.229.147,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 16:23:31,45.78.194.16,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 16:23:31,79.104.0.82,100,Russia,Moscow,EDN SOVINTEL,,Residential/Business,False
+2026-01-23 16:23:31,206.189.82.12,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-23 16:23:31,40.69.27.251,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-23 16:23:31,130.12.180.122,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-01-23 16:23:31,132.145.213.106,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
+2026-01-23 16:23:31,101.126.89.35,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-01-23 16:23:31,185.226.92.186,100,Türkiye,Istanbul,Big Core LLC,BIGCORE,Residential/Business,False
+2026-01-23 16:23:31,198.23.167.234,100,United States,Elk Grove Village,HostPapa,RackNerd LLC,Data Center,False
+2026-01-23 16:23:31,186.225.148.60,100,Brazil,Monte Azul Paulista,Sinal Br Telecom Ltda,IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE FERNAN,Residential/Business,False
+2026-01-23 16:23:31,45.78.217.42,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 16:23:31,58.33.97.119,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-23 16:23:31,45.78.217.54,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 16:23:31,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-23 16:23:31,20.118.240.192,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-23 16:23:31,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-23 16:23:31,152.53.35.119,100,Germany,Nuremberg,netcup GmbH,ANX,Data Center,False
+2026-01-23 16:23:31,173.236.193.46,100,United States,Ashburn,New Dream Network,DreamHost,Data Center,False
+2026-01-23 16:23:31,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-23 16:23:31,103.172.236.15,100,Vietnam,Trung Liệt,HERAL,Heral Science and Technology Joint Stock Company,Residential/Business,True
+2026-01-23 16:23:31,3.215.221.125,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-23 16:23:31,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-23 16:23:31,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-23 16:23:31,165.154.36.71,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-23 16:23:31,68.183.7.166,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 16:23:31,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-23 16:23:31,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-23 16:23:31,61.191.103.17,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-01-23 16:23:31,210.14.142.89,100,China,Beijing,"Beijing CNISP Technology Co., Ltd.","Cloud Mind Technology Co., Ltd.",Residential/Business,False
+2026-01-23 16:23:31,220.248.173.137,100,China,Jinrongjie,China Unicom China169 Network,,Residential/Business,False
+2026-01-23 16:23:31,89.1.29.153,100,Germany,Cologne,NetCologne Gesellschaft fur Telekommunikation mbH,Netcologne GmbH,Residential/Business,False
+2026-01-23 16:23:31,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-23 16:23:31,20.65.194.56,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-23 16:23:31,103.174.188.142,100,Bangladesh,Dhaka,Mars Compurter,Mars Computer,Residential/Business,False
