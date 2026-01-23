@@ -11389,3 +11389,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-23 20:20:04,38.20.0.90,100,Brazil,Barueri,EVEO Serviços de Internet Ltda.,EVEO Serviços de Internet Ltda.,Residential/Business,True
 2026-01-23 20:20:04,187.120.43.109,100,Brazil,Anchieta,ScherrerNet Informática Ltda ME,ScherrerNet Informática Ltda ME,Residential/Business,False
 2026-01-23 20:20:04,135.237.123.203,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-23 22:14:21,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 22:14:21,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-23 22:14:21,209.38.98.151,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 22:14:21,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-23 22:14:21,115.190.162.240,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-23 22:14:21,118.121.203.170,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-01-23 22:14:21,129.212.184.53,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 22:14:21,139.144.52.241,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-23 22:14:21,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 22:14:21,193.163.125.82,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-23 22:14:21,213.225.32.254,100,Austria,Ruden,A1 Telekom Austria AG,A1 Telekom Austria AG,Mobile,False
+2026-01-23 22:14:21,185.216.214.42,100,Germany,Frankfurt am Main,Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k,Metaliance ISP Systems e.k,Residential/Business,False
+2026-01-23 22:14:21,182.191.83.123,100,Pakistan,Islamabad,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-01-23 22:14:21,157.20.207.165,100,Indonesia,Kudus,PT Erajaya Telco Indonesia,PT Erajaya Telco Indonesia,Residential/Business,False
+2026-01-23 22:14:21,222.114.164.31,100,South Korea,Dong-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-23 22:14:21,45.151.91.78,100,Seychelles,Victoria,IP Vendetta Inc.,IP Vendetta Inc,Residential/Business,False
+2026-01-23 22:14:21,173.249.38.191,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,True
+2026-01-23 22:14:21,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-23 22:14:21,152.32.203.18,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-23 22:14:21,195.184.76.247,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-23 22:14:21,206.82.9.133,100,United States,Los Angeles,N963,XLC INC,Residential/Business,False
+2026-01-23 22:14:21,52.224.240.74,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-23 22:14:21,84.239.31.18,100,United States,Wichita,Datacamp Limited,,Data Center,True
+2026-01-23 22:14:21,85.217.140.6,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-23 22:14:21,14.103.147.55,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-23 22:14:21,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-23 22:14:21,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 22:14:21,176.65.132.218,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,True
+2026-01-23 22:14:21,171.25.158.57,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-01-23 22:14:21,23.21.119.232,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-23 22:14:21,43.133.157.26,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-23 22:14:21,45.78.217.64,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 22:14:21,193.163.125.95,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-23 22:14:21,36.50.177.119,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-01-23 22:14:21,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-23 22:14:21,91.230.168.178,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-23 22:14:21,106.13.169.174,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-23 22:14:21,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-23 22:14:21,152.42.215.181,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 22:14:21,185.91.69.136,100,United Kingdom,Redditch,Hostgnome LTD,Hostgnome LTD,Residential/Business,False
+2026-01-23 22:14:21,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-23 22:14:21,103.172.204.152,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-23 22:14:21,4.194.24.19,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-23 22:14:21,52.172.177.191,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-23 22:14:21,101.47.142.27,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
