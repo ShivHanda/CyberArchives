@@ -11344,3 +11344,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-23 18:26:23,151.252.84.225,100,Russia,Surgut,Tele-plus LLC,Tele-plus LLC,Residential/Business,False
 2026-01-23 18:26:23,110.43.37.72,100,China,Haidian,Beijing Kingsoft Cloud Internet Technology Co,"Beijing Kingsoft Cloud Internet Technology Co., Ltd.",Residential/Business,False
 2026-01-23 18:26:23,202.79.29.108,100,Cambodia,Phnom Penh,WiCAM Corporation Ltd,"WiCAM Corporation, LTD",Residential/Business,False
+2026-01-23 20:20:04,87.251.75.163,100,Russia,Barnaul,Gening Nikita Dmitrievich,Gening Nikita Dmitrievich,Residential/Business,False
+2026-01-23 20:20:04,112.221.175.214,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-23 20:20:04,91.196.152.127,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-23 20:20:04,45.78.218.109,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 20:20:04,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-01-23 20:20:04,61.76.112.4,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-23 20:20:04,158.178.141.16,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-01-23 20:20:04,182.43.235.75,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-01-23 20:20:04,115.191.27.238,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-23 20:20:04,172.211.56.214,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-23 20:20:04,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-23 20:20:04,144.91.87.55,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,True
+2026-01-23 20:20:04,197.248.104.19,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-01-23 20:20:04,183.62.69.212,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-23 20:20:04,191.6.25.239,100,Brazil,Presidente Dutra,Turbonett Telecomunicacoes Ltda. - ME,Turbonett Telecomunicacoes Ltda. - ME,Residential/Business,False
+2026-01-23 20:20:04,34.140.65.171,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-01-23 20:20:04,13.89.120.212,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-23 20:20:04,54.167.26.30,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-23 20:20:04,77.174.152.113,100,The Netherlands,Noordwijk aan Zee,Concepts ICT B.V,Concepts ICT Holding B.V.,Residential/Business,False
+2026-01-23 20:20:04,142.93.236.135,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 20:20:04,162.19.243.145,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-01-23 20:20:04,54.163.205.133,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-23 20:20:04,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-23 20:20:04,4.190.195.218,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-23 20:20:04,49.124.151.21,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-23 20:20:04,101.47.161.87,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-23 20:20:04,4.240.82.91,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-23 20:20:04,45.78.221.90,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 20:20:04,23.21.179.27,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-23 20:20:04,220.118.173.234,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-23 20:20:04,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-23 20:20:04,174.138.6.181,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 20:20:04,177.8.166.171,100,Brazil,São Paulo,Grupohost Comunicacao Multimidia Ltda,Baalbek Cooperativa Habitacional,Residential/Business,False
+2026-01-23 20:20:04,217.154.71.58,100,Germany,Berlin,MISTRAL,,Data Center,False
+2026-01-23 20:20:04,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-23 20:20:04,36.104.144.114,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
+2026-01-23 20:20:04,43.129.55.253,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-23 20:20:04,185.247.137.238,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-23 20:20:04,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-23 20:20:04,165.232.119.77,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 20:20:04,45.156.129.133,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-01-23 20:20:04,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-23 20:20:04,38.20.0.90,100,Brazil,Barueri,EVEO Serviços de Internet Ltda.,EVEO Serviços de Internet Ltda.,Residential/Business,True
+2026-01-23 20:20:04,187.120.43.109,100,Brazil,Anchieta,ScherrerNet Informática Ltda ME,ScherrerNet Informática Ltda ME,Residential/Business,False
+2026-01-23 20:20:04,135.237.123.203,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
