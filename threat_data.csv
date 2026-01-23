@@ -11009,3 +11009,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-23 04:38:20,154.92.14.191,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
 2026-01-23 04:38:20,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
 2026-01-23 04:38:20,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 06:27:35,14.103.205.40,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-23 06:27:35,103.76.120.70,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-23 06:27:35,116.110.1.235,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-23 06:27:35,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-23 06:27:35,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-23 06:27:35,13.215.220.218,100,Singapore,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),Data Center,False
+2026-01-23 06:27:35,89.252.169.182,100,Turkey,Denizli,Netinternet Bilisim Teknolojileri,Netinternet,Data Center,True
+2026-01-23 06:27:35,162.241.87.197,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-01-23 06:27:35,74.82.47.4,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-23 06:27:35,37.58.136.133,100,France,Paris,Adista SAS,Ogec Saint Joseph Lorient,Data Center,False
+2026-01-23 06:27:35,195.3.221.8,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-23 06:27:35,118.194.233.253,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-01-23 06:27:35,111.207.12.99,100,China,Jinrongjie,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-23 06:27:35,187.188.0.71,100,Mexico,Benito Juarez,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-23 06:27:35,157.230.126.3,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-23 06:27:35,67.205.185.159,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-23 06:27:35,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-23 06:27:35,45.78.217.47,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 06:27:35,34.66.72.251,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-01-23 06:27:35,221.159.150.85,100,South Korea,Iksan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-23 06:27:35,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-23 06:27:35,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 06:27:35,109.107.189.250,100,Russia,Moscow,Aeza Group LLC,AEZA GROUP Ltd,Residential/Business,False
+2026-01-23 06:27:35,172.200.228.35,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-23 06:27:35,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-23 06:27:35,103.89.240.251,100,Bangladesh,Tungipāra,IP Communications Limited,IP Communications Limited,Residential/Business,False
+2026-01-23 06:27:35,74.234.147.76,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,True
+2026-01-23 06:27:35,46.30.161.197,100,Ukraine,Kyiv,PrAT Industrial Media Networks,,Residential/Business,False
+2026-01-23 06:27:35,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-23 06:27:35,188.166.45.208,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-23 06:27:35,64.62.156.30,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-23 06:27:35,65.20.205.197,100,Iraq,Kirkuk,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-01-23 06:27:35,93.159.230.85,100,Russia,Moscow,Kaspersky Lab ZAO,,Residential/Business,False
+2026-01-23 06:27:35,194.180.49.115,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-23 06:27:35,77.74.177.114,100,Russia,Moscow,Kaspersky Lab Switzerland GmbH,Kaspersky Lab AO,Residential/Business,False
+2026-01-23 06:27:35,192.210.198.202,100,United States,Buffalo,HostPapa,Penghy66,Data Center,False
+2026-01-23 06:27:35,107.175.228.118,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-01-23 06:27:35,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-23 06:27:35,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-23 06:27:35,120.157.59.86,100,Australia,Melbourne,Telstra Internet,,Residential/Business,False
+2026-01-23 06:27:35,57.128.214.238,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-01-23 06:27:35,189.143.77.9,100,Mexico,Acapulco de Juárez,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-23 06:27:35,170.187.165.218,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-23 06:27:35,45.78.220.106,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-23 06:27:35,27.150.188.148,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
