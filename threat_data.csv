@@ -11664,3 +11664,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 08:20:54,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-24 08:20:54,189.47.10.100,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
 2026-01-24 08:20:54,64.225.40.238,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 10:16:43,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-24 10:16:43,164.92.151.227,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 10:16:43,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 10:16:43,191.6.25.239,100,Brazil,Presidente Dutra,Turbonett Telecomunicacoes Ltda. - ME,Turbonett Telecomunicacoes Ltda. - ME,Residential/Business,False
+2026-01-24 10:16:43,182.96.1.9,100,China,Nanchang,Chinanet,Chinanet JX,Residential/Business,True
+2026-01-24 10:16:43,69.163.140.2,100,United States,Hillsboro,New Dream Network,DreamHost,Data Center,False
+2026-01-24 10:16:43,1.238.106.229,100,South Korea,Yongin-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-24 10:16:43,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 10:16:43,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 10:16:43,196.92.7.246,100,Morocco,Casablanca,Itissalat Al-MAGHRIB,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-01-24 10:16:43,136.228.161.66,100,Myanmar,Yangon,Myanma Post & Telecommunication,,Mobile,False
+2026-01-24 10:16:43,185.196.10.208,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-24 10:16:43,64.23.241.193,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-24 10:16:43,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 10:16:43,72.17.34.38,100,United States,Winter Park,Spectrum,Hilton Grand Vacations Seaworld,Residential/Business,False
+2026-01-24 10:16:43,20.64.105.133,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-24 10:16:43,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 10:16:43,185.196.9.215,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-24 10:16:43,186.190.218.166,100,United States,Ogden,"objx.net, LLC","objx.net, LLC",Residential/Business,False
+2026-01-24 10:16:43,20.168.13.53,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-24 10:16:43,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 10:16:43,64.89.160.47,100,United States,Ripley,ISP Associates,"ISP Associates, Inc. DBA Dixie-Net",Residential/Business,False
+2026-01-24 10:16:43,45.78.201.182,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 10:16:43,106.246.224.218,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-24 10:16:43,218.90.138.78,100,China,Nanjing,Chinanet,,Residential/Business,False
+2026-01-24 10:16:43,45.142.193.183,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-24 10:16:43,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-24 10:16:43,118.193.40.191,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-24 10:16:43,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-01-24 10:16:43,209.59.168.220,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-01-24 10:16:43,103.59.163.135,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-01-24 10:16:43,59.3.76.218,100,South Korea,Yeonggwang-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-01-24 10:16:43,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-24 10:16:43,164.90.195.175,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 10:16:43,45.78.194.78,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 10:16:43,64.226.92.248,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 10:16:43,49.207.15.25,100,India,Hyderabad,Beam Telecom Pvt Ltd,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-01-24 10:16:43,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-24 10:16:43,92.205.57.72,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-01-24 10:16:43,115.190.147.157,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-01-24 10:16:43,54.87.62.248,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-24 10:16:43,156.224.140.2,100,United States,Los Angeles,LUOGELANG (FRANCE) LIMITED,CloudFly Net Inc,Residential/Business,False
+2026-01-24 10:16:43,176.53.96.208,100,Turkey,Istanbul,Radore Veri Merkezi Hizmetleri A.S.,Radore,Data Center,False
+2026-01-24 10:16:43,45.78.201.131,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 10:16:43,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
