@@ -11809,3 +11809,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 14:15:25,167.71.75.112,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-24 14:15:25,45.78.216.116,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-24 14:15:25,117.72.205.36,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-24 16:18:38,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 16:18:38,101.47.49.224,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-24 16:18:38,45.33.68.174,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-24 16:18:38,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-24 16:18:38,45.78.218.139,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 16:18:38,176.65.148.247,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-24 16:18:38,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-24 16:18:38,81.94.156.93,100,Russia,Moscow,OOO WestCall Ltd,West Call LTD,Residential/Business,False
+2026-01-24 16:18:38,85.208.96.206,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Residential/Business,False
+2026-01-24 16:18:38,101.36.108.158,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 16:18:38,193.163.125.190,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-24 16:18:38,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 16:18:38,20.70.170.217,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-24 16:18:38,118.193.58.20,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 16:18:38,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 16:18:38,27.79.4.41,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-24 16:18:38,45.78.220.112,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 16:18:38,101.47.140.82,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-24 16:18:38,172.202.117.213,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-24 16:18:38,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,UNE EPM TELECOMUNICACIONES S.A,Residential/Business,False
+2026-01-24 16:18:38,45.78.227.29,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 16:18:38,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 16:18:38,170.39.218.254,100,France,Paris,FBW Reseaux Fibres inc.,,Residential/Business,False
+2026-01-24 16:18:38,45.78.222.164,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 16:18:38,45.195.221.26,100,Russia,Moscow,Ucloud Information Technology HK Limited,Ucloud Information Technology HK Limited,Data Center,False
+2026-01-24 16:18:38,52.177.169.196,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-24 16:18:38,54.83.23.103,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-24 16:18:38,176.65.148.230,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-24 16:18:38,50.6.249.246,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-24 16:18:38,193.163.125.93,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-24 16:18:38,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 16:18:38,52.159.244.161,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-01-24 16:18:38,85.203.23.171,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-01-24 16:18:38,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-24 16:18:38,103.149.170.125,100,Vietnam,Hanoi,MCT Technology Solution Joint Stock Company,MCT Technology Solution Joint Stock Company,Residential/Business,False
+2026-01-24 16:18:38,143.110.186.36,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 16:18:38,154.82.113.13,100,Hong Kong,Hong Kong,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-01-24 16:18:38,20.65.195.59,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-24 16:18:38,164.90.129.146,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 16:18:38,43.157.98.254,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-24 16:18:38,85.87.1.47,100,Spain,Barcelona,EUSKALTEL,,Residential/Business,False
+2026-01-24 16:18:38,206.168.34.44,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-24 16:18:38,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
+2026-01-24 16:18:38,128.1.44.162,100,Thailand,Bangkok,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-24 16:18:38,46.151.182.45,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,False
