@@ -11529,3 +11529,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 03:23:10,206.189.105.208,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-24 03:23:10,144.22.162.132,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
 2026-01-24 03:23:10,59.36.78.66,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-24 04:31:58,103.229.125.91,100,Hong Kong,San Po Kong,Hosted in Cloudie Limited,Dingke human resource co.LTD,Data Center,True
+2026-01-24 04:31:58,200.44.190.194,100,Venezuela,Ciudad Guayana,"CANTV Servicios, Venezuela",CANTV,Residential/Business,False
+2026-01-24 04:31:58,45.156.87.246,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,True
+2026-01-24 04:31:58,61.185.96.156,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-01-24 04:31:58,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 04:31:58,82.37.253.145,100,United Kingdom,Barnsley,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-01-24 04:31:58,129.146.163.15,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-01-24 04:31:58,64.95.96.68,100,The Netherlands,Amsterdam,Internap Holding LLC,Internap Network Services Corporation,Data Center,False
+2026-01-24 04:31:58,147.50.231.135,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,False
+2026-01-24 04:31:58,165.154.151.176,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 04:31:58,175.100.24.139,100,Cambodia,Phnom Penh,"VIETTEL (CAMBODIA) PTE., LTD","Viettel (cambodia) Pte., Ltd.",Residential/Business,False
+2026-01-24 04:31:58,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-24 04:31:58,139.19.117.129,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,False
+2026-01-24 04:31:58,154.124.85.64,100,Senegal,Dakar,SONATEL-AS Autonomous System,,Residential/Business,False
+2026-01-24 04:31:58,50.116.43.120,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-24 04:31:58,178.54.78.190,100,Ukraine,Vyshhorod,SYNAPSE,"Private ""Stock company ""Sater""",Residential/Business,False
+2026-01-24 04:31:58,203.130.248.214,100,Indonesia,Jakarta,Telekomunikasi Indonesia,PT. TELKOM INDONESIA,Residential/Business,False
+2026-01-24 04:31:58,116.202.145.93,100,Germany,Falkenstein,Hetzner Online GmbH,,Data Center,False
+2026-01-24 04:31:58,170.64.193.216,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 04:31:58,181.46.131.55,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-01-24 04:31:58,24.187.213.29,100,United States,Paterson,Static IP Services,Tmesistm Esis,Residential/Business,False
+2026-01-24 04:31:58,206.81.27.245,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 04:31:58,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 04:31:58,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-24 04:31:58,151.243.213.125,100,The Netherlands,Amsterdam,Matteo Martelloni trading as DELUXHOST,DELUXHOST,Residential/Business,False
+2026-01-24 04:31:58,178.217.108.153,100,Russia,Nekrasovka,Obyedinyonniye Lokalniye Seti Ltd,U-LAN,Residential/Business,False
+2026-01-24 04:31:58,44.200.155.24,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-24 04:31:58,87.120.191.81,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-24 04:31:58,159.223.155.243,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 04:31:58,45.78.207.13,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 04:31:58,144.31.119.150,100,Finland,Helsinki,Senko Digital Ltd,Senko Digital Ltd,Residential/Business,False
+2026-01-24 04:31:58,165.154.172.88,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-24 04:31:58,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-24 04:31:58,85.217.140.10,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-24 04:31:58,103.183.62.2,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-01-24 04:31:58,172.249.150.82,100,United States,Monrovia,Charter Communications,Spectrum,Residential/Business,False
+2026-01-24 04:31:58,208.97.186.101,100,United States,Ashburn,"New Dream Network, LLC","New Dream Network, LLC",Data Center,False
+2026-01-24 04:31:58,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-24 04:31:58,123.31.41.118,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-24 04:31:58,199.195.248.191,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-24 04:31:58,200.59.147.207,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Mobile,False
+2026-01-24 04:31:58,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-01-24 04:31:58,189.15.39.175,100,Brazil,Conceição do Pará,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-01-24 04:31:58,115.247.214.210,100,India,Bengaluru,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-01-24 04:31:58,192.64.112.17,100,United States,Phoenix,Web-hosting.com,3402 East University,Data Center,True
