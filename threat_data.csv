@@ -11854,3 +11854,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 16:18:38,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
 2026-01-24 16:18:38,128.1.44.162,100,Thailand,Bangkok,Zenlayer Inc,UCLOUD,Data Center,False
 2026-01-24 16:18:38,46.151.182.45,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,False
+2026-01-24 18:23:08,221.229.220.180,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-24 18:23:08,34.128.77.56,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,True
+2026-01-24 18:23:08,36.91.166.34,100,Indonesia,Gandaria Utara,PT Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-01-24 18:23:08,61.41.146.42,100,South Korea,Yongsan-dong,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-24 18:23:08,74.82.47.8,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,96.92.63.243,100,United States,Bloomfield Hills,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-01-24 18:23:08,2.56.152.243,100,Turkey,Şişli,CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI,CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI,Residential/Business,False
+2026-01-24 18:23:08,74.82.47.9,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,74.82.47.54,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,111.68.107.91,100,Pakistan,Karachi,HEC,Pern,Residential/Business,False
+2026-01-24 18:23:08,172.206.225.82,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-24 18:23:08,185.243.5.22,100,United States,New York,ReliableSite.Net LLC,Dedires LLC,Data Center,False
+2026-01-24 18:23:08,190.221.50.123,100,Argentina,Buenos Aires,Telmex Argentina S.A,Aguas Riojanas S.A.P.E.M,Residential/Business,False
+2026-01-24 18:23:08,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-01-24 18:23:08,45.93.168.36,100,The Netherlands,Amsterdam,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi,,Mobile,False
+2026-01-24 18:23:08,170.233.113.33,100,Brazil,Foz do Iguaçu,CATARATAS,JHS TELECOMUNICAÇOES LTDA,Residential/Business,False
+2026-01-24 18:23:08,74.82.47.52,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,82.18.179.96,100,United Kingdom,Luton,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-01-24 18:23:08,49.49.230.84,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-01-24 18:23:08,45.153.34.158,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-01-24 18:23:08,91.92.241.35,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-24 18:23:08,185.39.207.3,100,Greece,Thessaloniki,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-01-24 18:23:08,200.210.71.34,100,Brazil,Ribeirão Preto,Claro S.A,Irmandade da Santa Casa de Misericórdia de Araraq,Residential/Business,False
+2026-01-24 18:23:08,48.214.54.34,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-24 18:23:08,62.192.226.83,100,Russia,Ukhta,PJSC Rostelecom,Arkhangelsk Television Company,Residential/Business,False
+2026-01-24 18:23:08,74.82.47.50,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,57.151.98.124,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-24 18:23:08,79.120.66.229,100,Russia,Moscow,PJSC MegaFon,Net By Net Holding LLC,Mobile,False
+2026-01-24 18:23:08,103.189.235.88,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,True
+2026-01-24 18:23:08,178.128.242.20,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-24 18:23:08,182.75.45.1,100,India,Hyderabad,BHARTI,BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE,Mobile,True
+2026-01-24 18:23:08,209.38.100.77,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 18:23:08,68.183.94.236,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 18:23:08,188.166.105.81,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 18:23:08,103.103.21.109,100,Indonesia,Bogor,PT Biznet Gio Nusantara,PT Kaisar Artha Putera,Data Center,False
+2026-01-24 18:23:08,74.82.47.48,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 18:23:08,209.42.21.53,100,United Kingdom,London,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,True
+2026-01-24 18:23:08,49.229.102.187,100,Thailand,Bangkok,Advanced Wireless Network Company Limited,HatYaiTeachnicalCollege,Mobile,False
+2026-01-24 18:23:08,42.150.154.189,100,Japan,Kego,"JCOM Co., Ltd.",Jupiter Telecommunication Co. Ltd,Residential/Business,False
+2026-01-24 18:23:08,178.16.55.63,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-24 18:23:08,143.110.241.64,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 18:23:08,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-24 18:23:08,91.231.89.25,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-24 18:23:08,139.162.113.212,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-24 18:23:08,60.241.212.36,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
