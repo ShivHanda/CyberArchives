@@ -11759,3 +11759,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 12:31:13,177.148.254.73,100,Brazil,Salvador,TIM S/A,Tim Celular S.A.,Residential/Business,False
 2026-01-24 12:31:13,45.78.220.155,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-24 12:31:13,69.5.189.81,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-24 14:15:25,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 14:15:25,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 14:15:25,45.156.128.59,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-24 14:15:25,162.214.101.10,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-24 14:15:25,158.178.141.16,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-01-24 14:15:25,45.156.128.58,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-24 14:15:25,64.62.156.28,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-24 14:15:25,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-24 14:15:25,45.156.128.56,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,True
+2026-01-24 14:15:25,101.47.140.127,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-24 14:15:25,103.117.56.152,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-24 14:15:25,210.187.129.100,100,Malaysia,Shah Alam,ADSL Streamyx Telekom Malaysia,,Residential/Business,False
+2026-01-24 14:15:25,45.156.128.57,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-24 14:15:25,167.99.78.165,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 14:15:25,182.8.182.14,100,Indonesia,Balikpapan,PT Telekomunikasi Selular Indonesia,,Residential/Business,False
+2026-01-24 14:15:25,103.159.51.214,100,Vietnam,Vinhomes Royal City,NHANHOASOLUTIONS,Nhan HOA Business Solutions Joint Stock Company,Data Center,True
+2026-01-24 14:15:25,185.93.89.114,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-24 14:15:25,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-24 14:15:25,104.248.204.15,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 14:15:25,109.205.211.61,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-24 14:15:25,223.18.216.211,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-01-24 14:15:25,183.167.193.127,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-01-24 14:15:25,213.142.151.19,100,Türkiye,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Residential/Business,False
+2026-01-24 14:15:25,104.248.242.212,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 14:15:25,188.166.42.194,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 14:15:25,91.106.47.250,100,Iraq,Baghdad,Hala Al Rafidain Company for Communications and Internet LTD.,Hala Al Rafidain Telecom Ltd,Residential/Business,False
+2026-01-24 14:15:25,193.36.225.176,100,United States,Los Angeles,F.N.S. HOLDINGS LIMITED,"VPN Consumer Los Angeles, United States",Residential/Business,True
+2026-01-24 14:15:25,103.149.27.208,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 14:15:25,109.173.108.188,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-01-24 14:15:25,171.243.151.72,100,Vietnam,Ho Chi Minh City,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-24 14:15:25,103.188.177.46,100,Indonesia,Jakarta,PEDEE,,Residential/Business,False
+2026-01-24 14:15:25,91.92.242.214,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-24 14:15:25,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-24 14:15:25,182.95.222.202,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-24 14:15:25,185.200.116.86,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-01-24 14:15:25,15.240.2.171,100,South Africa,Johannesburg,Amazon.com,AWS EC2 (af-south-1),Data Center,False
+2026-01-24 14:15:25,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-24 14:15:25,2.57.122.26,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 14:15:25,45.78.198.206,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 14:15:25,98.89.48.94,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-24 14:15:25,197.248.104.31,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-01-24 14:15:25,185.93.89.113,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-24 14:15:25,167.86.127.135,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-24 14:15:25,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 14:15:25,45.157.54.57,100,Iraq,Erbil,"Smart Link Company for Internet Service, special company and limited responsibi","Smart Link Company Internet Service, special company and limited responsibility",Residential/Business,False
+2026-01-24 14:15:25,92.118.39.37,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-24 14:15:25,178.62.192.183,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 14:15:25,167.71.75.112,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 14:15:25,45.78.216.116,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 14:15:25,117.72.205.36,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
