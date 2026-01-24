@@ -11944,3 +11944,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 20:16:52,142.93.227.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-24 20:16:52,36.50.55.18,100,Vietnam,Quận Hai,Interdigi Joint Stock Company,Interdigi Joint Stock Company,Residential/Business,False
 2026-01-24 20:16:52,5.182.209.113,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V.,Residential/Business,False
+2026-01-24 22:15:22,159.223.223.88,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 22:15:22,47.251.73.231,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-01-24 22:15:22,101.126.27.196,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-24 22:15:22,123.58.200.120,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-24 22:15:22,156.236.75.54,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-01-24 22:15:22,212.102.39.70,100,Czechia,Prague,Datacamp Limited,Cdnext PRG,Data Center,True
+2026-01-24 22:15:22,60.28.212.165,100,China,Tianjin,CNC Group CHINA169 Tianjin Province Network,21ViaNet,Residential/Business,False
+2026-01-24 22:15:22,94.26.106.137,100,Germany,Kriftel,SAS GENIUSWEER,,Residential/Business,False
+2026-01-24 22:15:22,14.103.114.136,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-24 22:15:22,50.114.48.34,100,Brazil,São Paulo,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-01-24 22:15:22,64.236.140.208,100,United States,Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-01-24 22:15:22,219.93.104.247,100,Malaysia,Bandar Utama,ADSL Streamyx Telekom Malaysia,,Residential/Business,False
+2026-01-24 22:15:22,4.194.24.19,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-24 22:15:22,49.51.245.241,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-01-24 22:15:22,13.73.111.251,100,Australia,Melbourne,Microsoft Corporation,Microsoft Azure Cloud (australiasoutheast),Data Center,False
+2026-01-24 22:15:22,77.83.39.177,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-24 22:15:22,123.48.142.249,100,Japan,Hamamatsu,"Chubu Telecommunications Company, Inc.","Chubu Telecommunications Co., Inc.",Residential/Business,False
+2026-01-24 22:15:22,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 22:15:22,101.44.203.241,100,Brazil,São Paulo,Huawei International Pte. LTD,,Data Center,False
+2026-01-24 22:15:22,152.42.128.4,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 22:15:22,42.96.20.16,100,Vietnam,Hanoi,HOALAC-VNNIC,HoaLac Software City Development Company,Residential/Business,False
+2026-01-24 22:15:22,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-24 22:15:22,89.32.41.85,100,Romania,Sânnicolau Mare,Hostmaze Inc Srl-d,Hostmaze Inc Srl-d,Data Center,False
+2026-01-24 22:15:22,106.13.39.89,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-24 22:15:22,178.62.242.197,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 22:15:22,20.163.32.211,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-24 22:15:22,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-24 22:15:22,42.115.115.61,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-01-24 22:15:22,106.104.162.212,100,Taiwan,New Taipei City,Digital United Inc.,"New Century InfoComm Tech. Co., Ltd.",Residential/Business,False
+2026-01-24 22:15:22,185.226.197.30,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Data Center,False
+2026-01-24 22:15:22,45.78.201.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 22:15:22,169.150.203.195,100,United States,Los Angeles,Datacamp Limited,Cdnext LAX,Data Center,True
+2026-01-24 22:15:22,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-24 22:15:22,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-24 22:15:22,45.78.193.188,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 22:15:22,185.156.73.2,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-01-24 22:15:22,41.111.162.34,100,Algeria,Algiers,Algerie Telecom,,Residential/Business,False
+2026-01-24 22:15:22,86.107.77.201,100,Germany,Eschborn,HostBet Cloud Technologies Private Limited,HostBet Cloud Technologies Private Limited,Residential/Business,False
+2026-01-24 22:15:22,95.214.53.196,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-24 22:15:22,176.65.151.22,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-24 22:15:22,52.178.176.146,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-24 22:15:22,181.214.218.165,100,Belgium,Brussels,Cogent Communications,Ipxo,Residential/Business,True
+2026-01-24 22:15:22,159.223.6.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 22:15:22,101.36.123.173,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 22:15:22,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-24 22:15:22,45.148.10.175,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 22:15:22,42.51.49.239,100,China,Zhengzhou,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Data Center,False
+2026-01-24 22:15:22,103.93.93.211,100,Indonesia,Kebomas,MYRISE,,Residential/Business,False
+2026-01-24 22:15:22,203.15.2.16,100,China,Guangzhou,Fuzhou,Chinanet GD,Residential/Business,False
+2026-01-24 22:15:22,203.159.90.20,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
