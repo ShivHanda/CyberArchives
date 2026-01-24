@@ -11899,3 +11899,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-24 18:23:08,91.231.89.25,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-01-24 18:23:08,139.162.113.212,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-01-24 18:23:08,60.241.212.36,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-01-24 20:16:52,209.38.84.182,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 20:16:52,14.199.114.134,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-24 20:16:52,45.78.219.195,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 20:16:52,183.205.142.184,100,China,Guancheng,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-24 20:16:52,43.135.148.156,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-24 20:16:52,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 20:16:52,142.93.126.22,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 20:16:52,164.90.134.127,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 20:16:52,188.166.27.224,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 20:16:52,103.232.121.71,100,Vietnam,Go Vap,VHOSTCORP,"Vhost Co., LTD",Data Center,True
+2026-01-24 20:16:52,132.248.12.235,100,Mexico,Mexico City,Universidad Nacional Autonoma de Mexico,Universidad Nacional Autonoma de Mexico,Residential/Business,False
+2026-01-24 20:16:52,109.105.210.55,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-01-24 20:16:52,187.120.37.254,100,Brazil,Anchieta,ScherrerNet Informática Ltda ME,ScherrerNet Informática Ltda ME,Residential/Business,False
+2026-01-24 20:16:52,101.47.162.116,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-24 20:16:52,103.165.130.26,100,Indonesia,Cileungsir,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-01-24 20:16:52,194.87.31.57,100,The Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-01-24 20:16:52,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-24 20:16:52,103.176.79.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-01-24 20:16:52,61.182.2.26,100,China,Chengde,CNC Group CHINA169 Hebei Province Network,,Residential/Business,False
+2026-01-24 20:16:52,177.75.6.242,100,Brazil,Brasília,Networld Provedor e Servicos de Internet Ltda,Networld Provedor e Servicos de Internet Ltda,Residential/Business,False
+2026-01-24 20:16:52,27.115.124.104,100,China,Shanghai,China Unicom Shanghai Province Network,,Residential/Business,False
+2026-01-24 20:16:52,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-24 20:16:52,152.32.135.217,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 20:16:52,101.36.107.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-24 20:16:52,109.68.214.59,100,Russia,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",Data Center,False
+2026-01-24 20:16:52,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-01-24 20:16:52,45.78.217.21,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-24 20:16:52,27.115.124.34,100,China,Shanghai,China Unicom Shanghai Province Network,,Residential/Business,False
+2026-01-24 20:16:52,109.205.211.62,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-24 20:16:52,185.247.137.91,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-24 20:16:52,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-24 20:16:52,20.81.183.82,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-24 20:16:52,45.55.149.23,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-24 20:16:52,67.215.246.123,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-01-24 20:16:52,101.227.203.162,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-01-24 20:16:52,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-24 20:16:52,148.76.116.70,100,United States,Hicksville,Optimum Online,CMLP,Residential/Business,False
+2026-01-24 20:16:52,154.16.49.28,100,United States,Washington,Cogent Communications,Freedomtech Solutions Limited,Mobile,True
+2026-01-24 20:16:52,1.238.106.229,100,South Korea,Yongin-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-24 20:16:52,14.225.253.26,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-24 20:16:52,27.115.124.113,100,China,Shanghai,China Unicom Shanghai Province Network,,Residential/Business,False
+2026-01-24 20:16:52,124.155.125.131,100,Japan,Kitazawa,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-01-24 20:16:52,142.93.227.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-24 20:16:52,36.50.55.18,100,Vietnam,Quận Hai,Interdigi Joint Stock Company,Interdigi Joint Stock Company,Residential/Business,False
+2026-01-24 20:16:52,5.182.209.113,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V.,Residential/Business,False
