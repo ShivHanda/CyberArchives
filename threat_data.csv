@@ -12469,3 +12469,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-25 18:22:51,45.78.222.202,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-25 18:22:51,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-25 18:22:51,14.103.172.199,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,True
+2026-01-25 20:18:47,45.78.222.46,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-25 20:18:47,18.212.242.29,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-25 20:18:47,218.78.24.117,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-25 20:18:47,18.212.240.67,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,2001:41d0:33a:a00::402,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-01-25 20:18:47,223.204.113.172,100,Thailand,Bang Lamung,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-01-25 20:18:47,146.190.236.223,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,43.173.125.185,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-25 20:18:47,164.92.106.89,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,38.110.46.241,100,United States,Atlanta,Georgia Institute of Technology,Sobo Networks,Residential/Business,False
+2026-01-25 20:18:47,77.90.185.50,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-25 20:18:47,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-01-25 20:18:47,180.76.170.245,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-25 20:18:47,206.189.105.208,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,41.86.34.139,100,Seychelles,Pointe La Rue,Cable & Wireless (Seychelles) Ltd,CWS Public Services,Residential/Business,False
+2026-01-25 20:18:47,103.168.135.187,100,Indonesia,Jakarta,PT Aplikanusa Lintasarta,,Residential/Business,False
+2026-01-25 20:18:47,182.117.232.238,100,China,Zhengzhou,China Unicom Henan Province Network,,Residential/Business,False
+2026-01-25 20:18:47,45.78.217.240,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-25 20:18:47,78.153.140.179,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-25 20:18:47,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-25 20:18:47,167.172.33.51,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,185.242.226.126,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-01-25 20:18:47,152.42.134.27,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 20:18:47,45.156.128.58,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-01-25 20:18:47,74.234.147.76,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,True
+2026-01-25 20:18:47,18.208.170.130,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,128.199.225.7,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-25 20:18:47,18.208.222.36,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-25 20:18:47,167.71.72.223,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,195.250.31.127,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,False
+2026-01-25 20:18:47,188.166.114.222,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 20:18:47,188.166.68.225,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 20:18:47,18.207.153.168,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,18.208.146.82,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-25 20:18:47,107.174.198.250,100,United States,Los Angeles,HostPapa,ColoCrossing,Data Center,False
+2026-01-25 20:18:47,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-25 20:18:47,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-25 20:18:47,177.11.196.84,100,Brazil,Feliz,BRASIL TECNOLOGIA E PARTICIPACOES S/A,BRASIL TECPAR | AMIGO | AVATO,Residential/Business,False
+2026-01-25 20:18:47,206.189.7.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,188.166.28.100,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 20:18:47,20.168.120.148,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-25 20:18:47,104.248.196.91,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 20:18:47,18.206.244.47,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
