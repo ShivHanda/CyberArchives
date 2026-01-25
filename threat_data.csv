@@ -12424,3 +12424,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-25 16:19:53,45.78.217.49,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-25 16:19:53,143.198.133.14,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-25 16:19:53,77.90.185.63,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-25 18:22:51,34.97.144.8,100,Japan,Osaka,Google LLC,Google Cloud (asia-northeast2),Data Center,False
+2026-01-25 18:22:51,74.249.192.232,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-25 18:22:51,167.172.35.243,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,103.115.252.63,100,Bangladesh,Burirchar,Star Internet Service,Star Internet Service,Residential/Business,False
+2026-01-25 18:22:51,45.232.73.84,100,Brazil,Londrina,Telefonarnet Telecomunicacoes,Telefonarnet Telecomunicacoes,Residential/Business,False
+2026-01-25 18:22:51,62.103.27.217,100,Greece,Athens,OTEnet,OTEnet S.A.,Residential/Business,False
+2026-01-25 18:22:51,165.227.138.150,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,40.124.172.100,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-25 18:22:51,74.249.192.21,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-25 18:22:51,81.10.79.119,100,Egypt,Giza,TE Data,,Residential/Business,False
+2026-01-25 18:22:51,107.173.255.82,100,United States,Santa Clara,HostPapa,RackNerd LLC,Data Center,True
+2026-01-25 18:22:51,101.47.161.72,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-25 18:22:51,165.22.205.198,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,128.199.184.19,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,74.249.178.45,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-25 18:22:51,74.249.178.154,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-25 18:22:51,164.92.88.55,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,14.103.110.123,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-25 18:22:51,74.249.178.114,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-25 18:22:51,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-25 18:22:51,95.90.13.168,100,Germany,Schwarzenbruck,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-01-25 18:22:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-25 18:22:51,14.103.127.80,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-25 18:22:51,101.47.160.235,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-25 18:22:51,103.191.208.118,100,India,Nashik,Digital Snap,Digisnap,Residential/Business,False
+2026-01-25 18:22:51,1.64.107.137,100,Hong Kong,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-25 18:22:51,172.200.23.65,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-01-25 18:22:51,47.245.61.200,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-01-25 18:22:51,143.110.213.72,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-25 18:22:51,66.96.239.187,100,Indonesia,South Tangerang,MYREPUBLIC,,Residential/Business,False
+2026-01-25 18:22:51,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-25 18:22:51,74.235.203.125,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-25 18:22:51,83.229.122.23,100,Singapore,Singapore,Lucidacloud Limited,L L IX,Data Center,False
+2026-01-25 18:22:51,103.140.127.215,100,China,Shiqi,Cloudie Limited,"Zhong Shan Shi Ba Ai Yun Ji Suan Co., Limited",Data Center,False
+2026-01-25 18:22:51,101.126.14.37,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-25 18:22:51,161.35.148.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,185.93.89.103,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-01-25 18:22:51,89.216.92.113,100,Serbia,Belgrade,Serbia Broadband,Serbia BroadBand-Srpske Kablovske mreze d.o.o.,Residential/Business,False
+2026-01-25 18:22:51,130.12.181.59,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-25 18:22:51,206.189.101.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 18:22:51,188.166.34.185,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 18:22:51,74.235.121.84,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-25 18:22:51,45.78.222.202,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-25 18:22:51,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-25 18:22:51,14.103.172.199,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,True
