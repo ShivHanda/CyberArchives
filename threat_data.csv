@@ -12139,3 +12139,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-25 04:48:20,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-01-25 04:48:20,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-25 04:48:20,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-25 06:25:08,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
+2026-01-25 06:25:08,157.173.99.154,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-25 06:25:08,80.64.28.82,100,Russia,Khabarovsk,Fsue Rtrn,Fsue Rtrn,Residential/Business,False
+2026-01-25 06:25:08,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-25 06:25:08,202.4.106.201,100,Bangladesh,Dhaka,Amber IT Limited,Dhakacom Limited,Residential/Business,False
+2026-01-25 06:25:08,207.174.30.108,100,The Netherlands,Amsterdam,Baxet Group Inc.,Ipfb LLC,Residential/Business,False
+2026-01-25 06:25:08,128.14.239.38,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-25 06:25:08,46.224.76.107,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-01-25 06:25:08,206.168.34.156,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-25 06:25:08,218.21.37.250,100,China,Beijing,Chinanet,Ltqwt BAR,Residential/Business,False
+2026-01-25 06:25:08,36.67.56.52,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-01-25 06:25:08,45.78.201.182,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-25 06:25:08,115.244.45.193,100,India,Hyderabad,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-01-25 06:25:08,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-25 06:25:08,185.191.171.12,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Residential/Business,False
+2026-01-25 06:25:08,45.78.217.238,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-25 06:25:08,203.83.231.93,100,China,Guangzhou,China Telecom,,Residential/Business,False
+2026-01-25 06:25:08,157.245.72.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 06:25:08,101.47.135.95,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-25 06:25:08,115.190.39.150,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-25 06:25:08,62.60.130.235,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-25 06:25:08,167.172.41.158,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 06:25:08,142.93.141.162,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 06:25:08,49.51.36.179,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-01-25 06:25:08,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-25 06:25:08,199.30.231.6,100,United States,Seattle,"DomainTools, LLC","DomainTools, LLC",Residential/Business,False
+2026-01-25 06:25:08,109.105.210.62,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-01-25 06:25:08,106.75.162.123,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-25 06:25:08,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-25 06:25:08,102.211.209.191,100,Tunisia,Tunis,OXAHOST,OXA TN 2 B,Residential/Business,False
+2026-01-25 06:25:08,178.128.248.186,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-01-25 06:25:08,81.71.96.41,100,China,Guangzhou,EuroNet Internet,Euronet Communications B.V.,Residential/Business,False
+2026-01-25 06:25:08,61.93.194.118,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,,Residential/Business,False
+2026-01-25 06:25:08,40.69.27.251,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-01-25 06:25:08,219.147.196.170,100,China,Harbin,Chinanet,Communication Corporation,Residential/Business,False
+2026-01-25 06:25:08,157.92.145.135,100,Argentina,Buenos Aires,Universidad Nacional de Buenos Aires,Universidad Nacional de Buenos Aires,Residential/Business,False
+2026-01-25 06:25:08,152.32.158.74,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-01-25 06:25:08,193.24.211.200,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-25 06:25:08,112.94.5.43,100,China,Guangzhou,China Unicom CHINA169 Guangdong Province Network,,Residential/Business,False
+2026-01-25 06:25:08,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-25 06:25:08,101.47.163.14,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-25 06:25:08,152.42.222.25,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-25 06:25:08,188.166.82.188,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-25 06:25:08,101.47.50.203,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-25 06:25:08,108.41.203.61,100,United States,Massapequa,Verizon Business,Verizon Online LLC,Residential/Business,False
+2026-01-25 06:25:08,185.114.175.11,100,Spain,Manises,Occentus Network SL,Edgewatch Security Intelligence,Residential/Business,False
+2026-01-25 06:25:08,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-25 06:25:08,94.154.34.130,100,Türkiye,Istanbul,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,Individual entrepreneur Dyachenko Valentina Ivanovna,Residential/Business,False
+2026-01-25 06:25:08,202.62.129.18,100,Australia,Perth,Vocus PTY LTD,Vocus PTY LTD,Residential/Business,False
+2026-01-25 06:25:08,103.115.252.87,100,Bangladesh,Burirchar,Star Internet Service,Star Internet Service,Residential/Business,False
