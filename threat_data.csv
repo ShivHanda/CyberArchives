@@ -12609,3 +12609,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-26 01:23:47,71.6.199.87,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
 2026-01-26 01:23:47,106.13.114.161,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
 2026-01-26 01:23:47,118.139.164.171,100,Singapore,Singapore,Godaddy.com,,Data Center,False
+2026-01-26 03:52:39,117.236.138.210,100,India,Raipur,BSNL Internet,,Mobile,False
+2026-01-26 03:52:39,209.38.98.180,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 03:52:39,64.62.197.167,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-26 03:52:39,94.102.49.193,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-01-26 03:52:39,103.51.216.210,100,India,Indore,Softearth Network Pvt Ltd,Softearth Network Pvt Ltd,Residential/Business,False
+2026-01-26 03:52:39,171.231.193.182,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-26 03:52:39,138.204.127.54,100,Brazil,Cabo Frio,Costa Do Sol TV a cabo,Costa Do Sol TV a cabo,Residential/Business,False
+2026-01-26 03:52:39,200.225.246.102,100,Brazil,Uberlândia,ALGAR TELECOM S/A,Companhia de Telecomunicacoes do Brasil Central,Residential/Business,False
+2026-01-26 03:52:39,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-26 03:52:39,45.78.194.166,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 03:52:39,45.142.193.106,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-26 03:52:39,45.142.193.247,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-01-26 03:52:39,74.82.47.4,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 03:52:39,64.62.156.172,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 03:52:39,43.162.112.12,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-26 03:52:39,45.33.40.18,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-26 03:52:39,176.65.148.29,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-26 03:52:39,62.169.19.161,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-26 03:52:39,64.62.156.52,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 03:52:39,188.166.120.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 03:52:39,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-01-26 03:52:39,87.121.84.51,100,United States,Los Angeles,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-26 03:52:39,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-26 03:52:39,178.62.218.70,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 03:52:39,177.23.227.72,100,Brazil,Xinguara,Jatimnet Telecom,Jatimnet Telecom,Residential/Business,False
+2026-01-26 03:52:39,101.47.142.56,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-26 03:52:39,103.236.75.87,100,China,Beijing,CHINANET SHAANXI province Cloud Base network,"Sichuan Xiaoteyun Technology Co., Ltd",Residential/Business,False
+2026-01-26 03:52:39,118.193.56.246,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-26 03:52:39,2001:470:1:c84::16,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 03:52:39,89.252.157.42,100,Turkey,Denizli,Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.,Netinternet,Residential/Business,False
+2026-01-26 03:52:39,104.28.251.139,100,The Netherlands,Amsterdam,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-01-26 03:52:39,109.123.253.48,100,France,Lauterbourg,Contabo GmbH,TerraTransit AG,Data Center,False
+2026-01-26 03:52:39,188.166.91.147,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 03:52:39,71.6.134.234,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-01-26 03:52:39,151.252.84.225,100,Russia,Surgut,Tele-plus LLC,Tele-plus LLC,Residential/Business,False
+2026-01-26 03:52:39,123.156.230.101,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,True
+2026-01-26 03:52:39,167.71.132.111,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 03:52:39,178.62.249.28,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 03:52:39,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 03:52:39,43.159.134.163,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-26 03:52:39,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-26 03:52:39,180.252.151.69,100,Indonesia,Jakarta,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-01-26 03:52:39,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 03:52:39,213.177.179.14,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-26 03:52:39,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
