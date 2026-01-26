@@ -12984,3 +12984,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-26 16:27:53,172.203.216.28,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
 2026-01-26 16:27:53,45.78.219.95,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-26 16:27:53,176.65.149.180,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-26 18:28:00,177.93.215.39,100,Brazil,Irecê,Holistica Provedor Internet Ltda,Holistica Provedor Internet Ltda,Residential/Business,False
+2026-01-26 18:28:00,65.49.1.200,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,14.103.112.100,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-26 18:28:00,45.78.222.234,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 18:28:00,136.228.161.66,100,Myanmar,Yangon,Myanma Post & Telecommunication,,Mobile,False
+2026-01-26 18:28:00,45.93.20.204,100,Russia,St Petersburg,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-26 18:28:00,31.169.125.6,100,United States,Secaucus,Baykov Ilya Sergeevich,,Mobile,False
+2026-01-26 18:28:00,65.49.1.20,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-26 18:28:00,57.128.239.139,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-01-26 18:28:00,121.237.176.2,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-01-26 18:28:00,27.123.92.202,100,India,Sindi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-26 18:28:00,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-26 18:28:00,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-26 18:28:00,178.62.213.242,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 18:28:00,188.166.30.195,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 18:28:00,4.190.195.218,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-26 18:28:00,117.216.211.19,100,India,Kanakapura,BSNL Internet,,Residential/Business,False
+2026-01-26 18:28:00,155.248.164.42,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,True
+2026-01-26 18:28:00,65.49.1.198,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,91.237.163.114,100,Russia,Moscow,Systematica LLC,Systematica LLC,Residential/Business,False
+2026-01-26 18:28:00,15.204.60.244,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-01-26 18:28:00,20.169.104.239,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-26 18:28:00,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-01-26 18:28:00,77.90.185.96,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,True
+2026-01-26 18:28:00,65.49.1.197,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,14.103.105.36,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-26 18:28:00,119.96.221.127,100,China,Shanghai,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-01-26 18:28:00,79.124.58.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-26 18:28:00,65.49.1.193,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,74.243.239.219,100,United Arab Emirates,Dubai,AT&T Corp.,Microsoft Azure Cloud (uaenorth),Data Center,False
+2026-01-26 18:28:00,86.181.208.252,100,United Kingdom,Swindon,BT Public Internet Service,,Residential/Business,False
+2026-01-26 18:28:00,80.94.92.70,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 18:28:00,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-26 18:28:00,65.49.1.191,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,65.49.1.189,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,87.236.176.89,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-26 18:28:00,167.71.53.255,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 18:28:00,20.123.146.94,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-26 18:28:00,65.49.1.184,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,182.18.139.237,100,India,Madhapur,CtrlS,CtrlS Datacenters Ltd.,Data Center,False
+2026-01-26 18:28:00,185.196.8.61,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-26 18:28:00,164.92.157.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 18:28:00,51.83.237.175,100,Poland,Ożarów Mazowiecki,OVH SAS,OVH Sp. z o. o,Data Center,True
+2026-01-26 18:28:00,161.118.219.168,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-26 18:28:00,44.202.30.64,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-26 18:28:00,103.176.78.213,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,True
+2026-01-26 18:28:00,65.49.1.18,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,51.158.205.203,100,The Netherlands,Haarlem,Online S.A.S.,Scaleway,Data Center,False
+2026-01-26 18:28:00,65.49.1.178,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 18:28:00,81.29.142.100,100,Russia,Moscow,LLC APPLIED COMPUTATIONAL TECHNOLOGIES,ApcoTeh,Residential/Business,False
