@@ -12704,3 +12704,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-26 04:52:07,109.205.211.63,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
 2026-01-26 04:52:07,156.236.75.54,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
 2026-01-26 04:52:07,197.248.34.233,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-01-26 06:30:00,120.48.154.88,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-26 06:30:00,193.110.189.45,100,The Netherlands,Amsterdam,A2B IP B.V.,Infra-Commerce Investments B.V,Data Center,False
+2026-01-26 06:30:00,222.107.156.227,100,South Korea,Gangnam-gu,Korea Telecom,(ju)emtiai,Residential/Business,False
+2026-01-26 06:30:00,91.231.89.80,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 06:30:00,135.237.127.94,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-26 06:30:00,64.23.194.146,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 06:30:00,45.78.203.166,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 06:30:00,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 06:30:00,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-26 06:30:00,146.190.23.35,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-01-26 06:30:00,157.230.12.183,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,128.14.237.120,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-26 06:30:00,172.174.244.189,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-26 06:30:00,174.138.15.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 06:30:00,13.89.124.214,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-26 06:30:00,45.78.222.220,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 06:30:00,45.78.224.149,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 06:30:00,134.122.56.255,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,167.172.128.105,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,217.154.167.36,100,Germany,Berlin,MISTRAL,,Data Center,False
+2026-01-26 06:30:00,139.59.41.239,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,104.248.92.59,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,220.246.43.172,100,Hong Kong,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-26 06:30:00,113.160.224.208,100,Vietnam,Da Nang,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-01-26 06:30:00,160.250.186.135,100,Vietnam,Ho Chi Minh City,VNONE,VNONE Vietnam Company Limited,Residential/Business,True
+2026-01-26 06:30:00,178.20.210.152,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-01-26 06:30:00,206.189.99.169,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-26 06:30:00,165.227.90.199,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,170.64.187.123,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 06:30:00,137.184.111.54,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 06:30:00,213.177.179.39,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-26 06:30:00,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-26 06:30:00,45.78.216.191,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 06:30:00,218.78.91.158,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-26 06:30:00,83.212.171.158,100,Greece,Athens,Deaggregated Space,Greek Research and Technology Network (GRNET) S.A.,Residential/Business,False
+2026-01-26 06:30:00,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 06:30:00,206.168.34.153,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-26 06:30:00,146.190.162.160,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 06:30:00,167.71.69.170,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 06:30:00,188.166.45.53,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 06:30:00,130.12.180.88,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-01-26 06:30:00,80.94.92.40,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 06:30:00,192.250.229.83,100,Germany,Frankfurt am Main,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,False
