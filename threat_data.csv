@@ -12794,3 +12794,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-26 08:26:01,189.8.108.39,100,Brazil,Balneário Camboriú,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA.,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA,Residential/Business,False
 2026-01-26 08:26:01,14.55.144.22,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,False
 2026-01-26 08:26:01,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-26 10:21:37,91.231.89.68,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 10:21:37,185.196.8.179,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-26 10:21:37,93.152.230.160,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-26 10:21:37,152.32.225.108,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-26 10:21:37,216.218.206.83,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-26 10:21:37,222.98.122.37,100,South Korea,Suwon,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-26 10:21:37,137.184.238.30,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-26 10:21:37,188.166.47.94,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 10:21:37,188.166.75.59,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 10:21:37,36.134.203.156,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-26 10:21:37,47.97.127.96,100,China,Hangzhou,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-26 10:21:37,91.230.168.201,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 10:21:37,112.20.185.158,100,China,Nanjing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-01-26 10:21:37,167.71.78.238,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 10:21:37,201.6.100.191,100,Brazil,São Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-01-26 10:21:37,81.94.150.158,100,Russia,Moscow,OOO WestCall Ltd,West Call LTD,Residential/Business,False
+2026-01-26 10:21:37,5.79.219.172,100,Russia,Chelyabinsk,Intersvyaz-2 JSC,,Residential/Business,False
+2026-01-26 10:21:37,175.6.179.51,100,China,Shanghai,"No.293, Wanbao Avenue",Chinanet HN,Residential/Business,False
+2026-01-26 10:21:37,212.88.48.17,100,United Kingdom,Frinton-on-Sea,Wavenet Limited,Wavenet Limited,Residential/Business,False
+2026-01-26 10:21:37,45.78.219.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 10:21:37,45.78.205.40,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 10:21:37,111.26.106.119,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-26 10:21:37,204.76.203.56,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-26 10:21:37,161.132.38.88,100,Peru,Santa,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-01-26 10:21:37,188.166.71.205,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 10:21:37,91.230.168.1,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 10:21:37,160.251.172.221,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-26 10:21:37,185.208.156.46,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-26 10:21:37,52.174.67.71,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-26 10:21:37,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-26 10:21:37,101.47.49.177,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-01-26 10:21:37,106.12.157.104,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-26 10:21:37,112.216.108.62,100,South Korea,Hwaseong-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-26 10:21:37,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-26 10:21:37,185.91.127.107,100,The Netherlands,Eygelshoven,Ferdinand Zink trading as Tube-Hosting,Tube VPS,Residential/Business,False
+2026-01-26 10:21:37,188.166.96.122,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 10:21:37,43.133.69.37,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-01-26 10:21:37,45.78.201.122,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 10:21:37,152.32.253.205,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-26 10:21:37,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-26 10:21:37,118.99.118.89,100,Indonesia,Pontianak,Biznet Metronet,,Residential/Business,False
+2026-01-26 10:21:37,45.78.219.216,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 10:21:37,117.72.185.3,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-26 10:21:37,134.199.199.6,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 10:21:37,188.166.55.83,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-26 10:21:37,91.230.168.108,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 10:21:37,13.89.125.18,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-26 10:21:37,161.35.157.152,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 10:21:37,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-01-26 10:21:37,103.49.238.251,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV Salka Kolaborasi Indonesia,Data Center,False
