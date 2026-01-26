@@ -13084,3 +13084,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-26 20:20:43,138.68.9.182,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-26 20:20:43,45.78.219.61,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-01-26 20:20:43,123.58.213.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-26 22:17:33,216.227.168.71,100,United States,Los Angeles,FDCservers.net,FDCservers.net,Residential/Business,False
+2026-01-26 22:17:33,20.29.23.130,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-26 22:17:33,45.142.154.88,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-01-26 22:17:33,45.78.219.79,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 22:17:33,91.231.89.145,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 22:17:33,91.231.89.206,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-26 22:17:33,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-26 22:17:33,204.76.203.233,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-26 22:17:33,5.253.59.68,100,The Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-01-26 22:17:33,77.90.185.28,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-26 22:17:33,194.180.49.216,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-26 22:17:33,211.187.7.14,100,South Korea,Eunpyeong-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-26 22:17:33,206.168.34.47,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-26 22:17:33,14.225.2.125,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-26 22:17:33,20.29.23.198,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-26 22:17:33,45.121.147.47,100,Malaysia,Kuala Lumpur,Gigabit Hosting Sdn Bhd,Invision Seven Solutions,Data Center,True
+2026-01-26 22:17:33,167.172.138.147,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 22:17:33,68.183.189.105,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 22:17:33,206.168.34.201,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-26 22:17:33,101.47.161.136,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-26 22:17:33,45.78.217.237,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 22:17:33,135.125.174.140,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-01-26 22:17:33,45.144.212.199,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
+2026-01-26 22:17:33,45.78.221.87,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 22:17:33,64.112.126.83,100,Sweden,Stockholm,Hostup AB,Dfdb LLC,Residential/Business,False
+2026-01-26 22:17:33,164.92.216.139,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-26 22:17:33,152.241.58.41,100,Brazil,Recife,Vivo,Latin American and Caribbean IP address Regional Registry,Residential/Business,False
+2026-01-26 22:17:33,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-26 22:17:33,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-26 22:17:33,161.248.201.228,100,Bangladesh,Dhaka,ExtentIT Solution Limited,ExtentIT Solution Limited,Residential/Business,False
+2026-01-26 22:17:33,128.199.103.139,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-26 22:17:33,199.195.254.215,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-26 22:17:33,87.121.84.14,100,United States,New York,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-01-26 22:17:33,179.43.174.100,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-01-26 22:17:33,51.89.1.86,100,United Kingdom,London,OVH SAS,OVH GmbH,Data Center,False
+2026-01-26 22:17:33,185.226.198.4,100,United States,San Jose,"NSEC - Sistemas Informaticos, S.A.",ICG Inap 1 Sclara,Residential/Business,False
+2026-01-26 22:17:33,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-26 22:17:33,92.118.39.115,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-26 22:17:33,109.205.211.76,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-26 22:17:33,3.19.14.190,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-26 22:17:33,118.61.43.103,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-26 22:17:33,101.47.140.25,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-26 22:17:33,121.227.31.13,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-01-26 22:17:33,36.50.177.119,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-01-26 22:17:33,45.78.217.226,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-26 22:17:33,103.82.22.235,100,Vietnam,Dich Vong,Vietnam Posts and Telecommunications Group,Unica Academy Joint Stock Company,Residential/Business,True
+2026-01-26 22:17:33,35.200.201.144,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-01-26 22:17:33,50.114.48.34,100,Brazil,São Paulo,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-01-26 22:17:33,77.87.40.114,100,Ukraine,Kyiv,Zubko Volodymyr Viktorovych,ISP ZNet,Residential/Business,False
+2026-01-26 22:17:33,103.62.152.245,100,Philippines,Cagayan de Oro,"Parasat Cable TV, Inc","Parasat Cable TV, Inc",Residential/Business,False
