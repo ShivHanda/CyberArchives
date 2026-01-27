@@ -13374,3 +13374,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-27 16:23:52,91.92.241.5,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
 2026-01-27 16:23:52,150.129.9.34,100,The Netherlands,Dronten,The Infrastructure Group B.V.,TIG,Data Center,False
 2026-01-27 16:23:52,162.240.154.77,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-27 18:31:20,167.172.219.235,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-27 18:31:20,64.62.156.59,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,80.64.28.82,100,Russia,Khabarovsk,Fsue Rtrn,Fsue Rtrn,Residential/Business,False
+2026-01-27 18:31:20,5.61.209.92,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Data Center,False
+2026-01-27 18:31:20,34.122.147.229,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-01-27 18:31:20,34.228.198.34,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-27 18:31:20,118.45.205.42,100,South Korea,Suseong-gu,Korea Telecom,,Residential/Business,False
+2026-01-27 18:31:20,213.165.74.202,100,Spain,Madrid,IONOS SE,IONOS SE,Data Center,False
+2026-01-27 18:31:20,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-27 18:31:20,64.62.156.57,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,212.11.64.130,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-27 18:31:20,183.84.16.100,100,China,Beijing,"IDC, China Telecommunications Corporation",21ViaNet,Residential/Business,False
+2026-01-27 18:31:20,157.230.247.11,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-27 18:31:20,27.79.46.101,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-27 18:31:20,35.171.4.46,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-27 18:31:20,64.62.156.54,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,51.195.138.37,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,True
+2026-01-27 18:31:20,64.62.156.51,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-27 18:31:20,64.62.156.49,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,116.104.50.190,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-27 18:31:20,64.62.156.45,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-27 18:31:20,113.141.70.64,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,False
+2026-01-27 18:31:20,135.119.112.115,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-27 18:31:20,181.104.58.194,100,Argentina,Tilcara,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
+2026-01-27 18:31:20,104.225.1.248,100,United States,Durham,"NetActuate, Inc","NetActuate, Inc",Data Center,False
+2026-01-27 18:31:20,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-27 18:31:20,130.12.181.59,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-27 18:31:20,209.38.34.88,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-27 18:31:20,64.62.156.44,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,43.252.231.122,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,True
+2026-01-27 18:31:20,220.247.224.226,100,Sri Lanka,Kandy,Sri Lanka Telecom Ltd,,Residential/Business,False
+2026-01-27 18:31:20,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-27 18:31:20,182.44.116.87,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-01-27 18:31:20,195.158.4.217,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-01-27 18:31:20,64.62.156.40,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,101.36.109.176,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-27 18:31:20,163.44.99.31,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-01-27 18:31:20,80.13.153.140,100,France,Fréjus,France Telecom,,Residential/Business,False
+2026-01-27 18:31:20,64.62.156.30,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,102.244.97.186,100,Cameroon,Douala,Orange CAM INTERNET,Orange Cameroun SA,Residential/Business,False
+2026-01-27 18:31:20,188.166.9.186,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-27 18:31:20,64.62.156.25,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-27 18:31:20,64.62.156.27,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
