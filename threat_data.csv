@@ -13834,3 +13834,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-28 12:38:09,185.196.11.54,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
 2026-01-28 12:38:09,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
 2026-01-28 12:38:09,20.29.23.176,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 14:25:10,20.212.241.39,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-01-28 14:25:10,203.123.219.137,100,South Korea,Seoul,SK Broadband Co Ltd,TBROAD SaeromNamdongSeohae,Residential/Business,False
+2026-01-28 14:25:10,77.222.100.142,100,Russia,Chelyabinsk,INTERSV,JSC Net,Residential/Business,False
+2026-01-28 14:25:10,65.49.20.73,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-28 14:25:10,85.62.117.67,100,Spain,Sax,UNI2,,Residential/Business,False
+2026-01-28 14:25:10,45.78.217.235,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 14:25:10,45.78.218.154,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 14:25:10,100.29.192.50,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-28 14:25:10,125.61.48.234,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-28 14:25:10,125.75.108.168,100,China,Zhangyelu,China Telecom,Chinanet GS,Residential/Business,False
+2026-01-28 14:25:10,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-28 14:25:10,139.59.73.106,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-28 14:25:10,203.83.231.93,100,China,Guangzhou,China Telecom,,Residential/Business,False
+2026-01-28 14:25:10,170.246.107.78,100,Brazil,Palmas,Nova Telecom Ltda,SUA INTERNET LTDA,Residential/Business,False
+2026-01-28 14:25:10,222.128.12.176,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-01-28 14:25:10,78.153.140.203,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-28 14:25:10,171.80.11.236,100,China,Shizishan,China Telecom,Chinanet HB,Residential/Business,False
+2026-01-28 14:25:10,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-28 14:25:10,8.221.136.154,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-28 14:25:10,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 14:25:10,78.109.200.147,100,Iran,Tehran,Afranet,Afranet,Data Center,False
+2026-01-28 14:25:10,118.194.230.231,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-28 14:25:10,116.110.159.247,100,Vietnam,Sơn Trà,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-28 14:25:10,194.107.115.65,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-01-28 14:25:10,182.95.182.130,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-01-28 14:25:10,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-28 14:25:10,86.54.42.176,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-28 14:25:10,40.124.173.234,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-28 14:25:10,34.95.197.36,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-01-28 14:25:10,172.202.118.21,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 14:25:10,123.58.207.81,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-28 14:25:10,173.56.2.161,100,United States,Woodmere,Verizon Business,Verizon Business,Residential/Business,False
+2026-01-28 14:25:10,172.234.219.59,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-28 14:25:10,103.66.63.1,100,Indonesia,Mendaha,PT Buana Visualnet Sentra,PT Sinar Jambi Baru Intermedia,Residential/Business,False
+2026-01-28 14:25:10,69.5.189.131,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-28 14:25:10,47.180.114.229,100,United States,Rancho Cucamonga,"Frontier Communications of America, Inc.",Frontier Communications Corporation,Residential/Business,False
+2026-01-28 14:25:10,165.232.178.116,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 14:25:10,2605:aa80:0:14:b6c0:e52e:f105:3876,100,United States,New York,DataWagon LLC,Frantech Solutions,Data Center,False
+2026-01-28 14:25:10,199.45.154.133,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-28 14:25:10,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 14:25:10,60.241.212.36,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-01-28 14:25:10,14.103.79.11,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-28 14:25:10,80.94.95.221,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-01-28 14:25:10,181.188.172.6,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Residential/Business,False
+2026-01-28 14:25:10,211.24.41.44,100,Malaysia,Kuala Lumpur,TT DOTCOM SDN BHD,TT DOTCOM SDN BHD,Residential/Business,False
