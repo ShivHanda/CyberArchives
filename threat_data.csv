@@ -13734,3 +13734,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-28 08:25:27,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
 2026-01-28 08:25:27,47.100.228.193,100,China,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
 2026-01-28 08:25:27,27.79.7.156,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-28 10:23:18,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-28 10:23:18,91.231.89.15,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-28 10:23:18,220.178.8.154,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-01-28 10:23:18,103.27.206.120,100,Indonesia,Prapen,PT Beon Intermedia,,Data Center,False
+2026-01-28 10:23:18,218.255.103.194,100,Hong Kong,Hong Kong,HKBN Enterprise Solutions HK Limited,HKBNES,Residential/Business,False
+2026-01-28 10:23:18,2600:1f14:3496:e000:d854:c694:adb0:4fd1,100,United States,Portland,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-01-28 10:23:18,202.165.15.132,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
+2026-01-28 10:23:18,185.196.11.83,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-28 10:23:18,8.221.138.135,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-28 10:23:18,178.128.224.71,100,Canada,Toronto,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-01-28 10:23:18,14.103.115.115,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-28 10:23:18,197.225.146.23,100,Mauritius,Rose Hill,telecomplus,,Residential/Business,False
+2026-01-28 10:23:18,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 10:23:18,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-28 10:23:18,194.164.59.59,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-01-28 10:23:18,161.118.193.239,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-01-28 10:23:18,45.78.217.43,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 10:23:18,45.78.218.120,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 10:23:18,62.141.107.204,100,Russia,Moscow,"PJSC ""Vimpelcom""",BeeLine ORL KViKFuD,Residential/Business,False
+2026-01-28 10:23:18,143.110.221.83,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 10:23:18,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-01-28 10:23:18,190.108.60.101,100,Argentina,Telén,Aguas Del Colorado Sapem,Eduardo Meneguzzi,Residential/Business,False
+2026-01-28 10:23:18,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-28 10:23:18,112.184.119.22,100,South Korea,Iksan,Korea Telecom,Kornet,Residential/Business,False
+2026-01-28 10:23:18,135.237.127.82,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-28 10:23:18,2607:ff10:c8:594::d,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc",Data Center,False
+2026-01-28 10:23:18,74.249.128.248,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 10:23:18,101.47.162.104,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-28 10:23:18,92.204.40.98,100,France,Strasbourg,velia.net Internetdienste GmbH,GD MASS Network,Data Center,False
+2026-01-28 10:23:18,78.153.140.128,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-28 10:23:18,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-01-28 10:23:18,143.110.215.118,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-28 10:23:18,178.217.173.50,100,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,KRENA Project,Residential/Business,False
+2026-01-28 10:23:18,93.123.109.225,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-28 10:23:18,20.40.73.192,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,True
+2026-01-28 10:23:18,39.107.67.158,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-28 10:23:18,64.225.99.151,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 10:23:18,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-01-28 10:23:18,50.6.224.135,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-01-28 10:23:18,107.189.2.131,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-01-28 10:23:18,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-28 10:23:18,62.3.56.187,100,Iraq,'Ayn Tamr,"Masarat Al-Iraq Information Technology Co., Ltd","Masarat Al-Iraq Information Technology Co., Ltd",Residential/Business,False
+2026-01-28 10:23:18,101.47.162.25,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-28 10:23:18,62.72.45.126,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-01-28 10:23:18,59.102.109.3,100,Australia,Sydney,TPG Internet Pty Ltd,AAPT Limited,Residential/Business,False
+2026-01-28 10:23:18,64.62.197.137,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-28 10:23:18,34.227.156.153,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-28 10:23:18,213.177.179.12,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-28 10:23:18,14.195.83.210,100,India,Kolkata,Tata Tele Services GSM,Tata Teleservices Limited -GSM Division,Residential/Business,False
+2026-01-28 10:23:18,85.217.140.2,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
