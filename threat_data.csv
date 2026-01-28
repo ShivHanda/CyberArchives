@@ -13644,3 +13644,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-28 04:40:16,65.49.20.98,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-01-28 04:40:16,180.184.176.74,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
 2026-01-28 04:40:16,77.90.185.235,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-28 06:29:14,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-28 06:29:14,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-28 06:29:14,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-28 06:29:14,144.48.8.10,100,Japan,Taitō City,Cloudie Limited,rainbow network corporation limited,Data Center,False
+2026-01-28 06:29:14,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-01-28 06:29:14,34.193.119.44,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-28 06:29:14,103.253.21.190,100,Vietnam,Quận Ba,PSG Joint Stock Company,PSG,Residential/Business,False
+2026-01-28 06:29:14,85.217.149.4,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-28 06:29:14,14.103.113.224,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-28 06:29:14,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-28 06:29:14,141.145.147.99,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Data Center,False
+2026-01-28 06:29:14,96.78.175.45,100,United States,Fremont,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-01-28 06:29:14,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-28 06:29:14,23.236.169.182,100,United States,Los Angeles,B2 Net Solutions Inc.,ServerMania Inc,Data Center,True
+2026-01-28 06:29:14,103.224.125.60,100,Indonesia,Parung,PT Curug Lintas Indonesia,PT Curug Lintas Indonesia,Residential/Business,False
+2026-01-28 06:29:14,45.78.222.23,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 06:29:14,49.124.142.132,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-28 06:29:14,129.212.176.157,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 06:29:14,64.62.156.115,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-28 06:29:14,194.163.144.25,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-01-28 06:29:14,64.62.156.217,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-28 06:29:14,91.239.148.70,100,Poland,Gdansk,Serva ONE LTD,Serva ONE LTD,Residential/Business,True
+2026-01-28 06:29:14,45.78.222.189,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 06:29:14,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-28 06:29:14,103.171.85.124,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-28 06:29:14,45.78.222.11,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 06:29:14,45.79.92.218,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-28 06:29:14,51.159.149.103,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-28 06:29:14,31.171.152.132,100,Albania,Tirana,Keminet Ltd,Keminet Shpk,Residential/Business,True
+2026-01-28 06:29:14,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-28 06:29:14,1.55.33.86,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-01-28 06:29:14,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-28 06:29:14,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-28 06:29:14,85.217.149.15,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-28 06:29:14,189.113.8.254,100,Brazil,São Paulo,Under Servicos de Internet Ltda,Under Servicos de Internet Ltda,Data Center,False
+2026-01-28 06:29:14,14.103.203.191,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-28 06:29:14,85.203.23.172,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-01-28 06:29:14,77.90.185.50,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-01-28 06:29:14,85.240.245.3,100,Portugal,Charneca de Caparica,PT Comunicacoes S.A.,PT Comunicacoes S.A.,Residential/Business,False
+2026-01-28 06:29:14,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-28 06:29:14,103.61.123.132,100,Vietnam,Thanh Liệt,H2 VIET NAM TECHNOLOGY SOLUTIONS COMPANY LIMITED,H2 Viet NAM Technology Solutions Company Limited,Residential/Business,False
+2026-01-28 06:29:14,165.232.119.77,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 06:29:14,184.105.247.244,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-28 06:29:14,193.163.125.93,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-28 06:29:14,45.78.202.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
