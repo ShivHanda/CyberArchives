@@ -13554,3 +13554,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-28 01:18:46,136.119.213.208,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
 2026-01-28 01:18:46,14.103.142.184,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
 2026-01-28 01:18:46,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 03:41:13,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 03:41:13,114.8.146.58,100,Indonesia,Jakarta,PT. INDOSAT Tbk,,Mobile,False
+2026-01-28 03:41:13,45.78.228.64,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-01-28 03:41:13,187.76.245.170,100,Brazil,São Paulo,V tal,V tal,Residential/Business,False
+2026-01-28 03:41:13,66.154.125.60,100,Canada,Vancouver,ASSERTIVENET,ASSERTIVENET,Data Center,False
+2026-01-28 03:41:13,101.36.109.130,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-28 03:41:13,143.202.208.242,100,Paraguay,Ciudad del Este,RED PARAGUAYA DE TELECOMUNICACIONES SA,RED PARAGUAYA DE TELECOMUNICACIONES SA,Residential/Business,False
+2026-01-28 03:41:13,162.240.39.179,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-28 03:41:13,175.126.123.231,100,South Korea,Seoul,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-01-28 03:41:13,13.89.125.255,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 03:41:13,20.15.164.68,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 03:41:13,101.47.140.253,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-28 03:41:13,172.232.143.135,100,Sweden,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-28 03:41:13,185.114.175.11,100,Spain,Manises,Occentus Network SL,Edgewatch Security Intelligence,Residential/Business,False
+2026-01-28 03:41:13,101.47.160.247,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-28 03:41:13,130.12.181.153,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-01-28 03:41:13,91.231.89.77,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-28 03:41:13,142.93.120.13,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-28 03:41:13,183.91.11.36,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-01-28 03:41:13,200.59.147.207,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Mobile,False
+2026-01-28 03:41:13,125.21.59.218,100,India,Mumbai,BHARTI,Bharti Televentures Limited,Mobile,False
+2026-01-28 03:41:13,130.131.161.148,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-28 03:41:13,155.94.150.238,100,United States,Buffalo,DataWagon LLC,HostPapa,Data Center,False
+2026-01-28 03:41:13,45.78.205.159,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 03:41:13,40.74.208.138,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-01-28 03:41:13,45.78.194.199,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-28 03:41:13,152.32.208.7,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-28 03:41:13,20.214.153.76,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-28 03:41:13,159.65.197.201,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 03:41:13,172.172.196.177,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-28 03:41:13,92.27.101.99,100,United Kingdom,Watford,TalkTalk,TalkTalk Communications Limited,Residential/Business,False
+2026-01-28 03:41:13,146.59.95.254,100,Poland,Torzym,OVH SAS,OVH Sp. z o. o,Data Center,True
+2026-01-28 03:41:13,185.209.229.176,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-28 03:41:13,14.103.201.200,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-28 03:41:13,52.21.227.35,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-28 03:41:13,125.23.203.138,100,India,New Delhi,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-01-28 03:41:13,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-28 03:41:13,14.63.196.175,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-28 03:41:13,116.75.218.103,100,India,Delhi,Hathway IP over Cable Internet Access,Hathway Cable and Datacom Limited,Residential/Business,False
+2026-01-28 03:41:13,154.82.111.18,100,Singapore,Singapore,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-01-28 03:41:13,88.147.30.59,100,Italy,Cefalù,NGI,NGI SpA,Residential/Business,False
+2026-01-28 03:41:13,101.47.143.255,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-28 03:41:13,164.92.148.140,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 03:41:13,167.172.32.18,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-28 03:41:13,209.38.34.46,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
