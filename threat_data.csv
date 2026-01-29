@@ -14109,3 +14109,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-29 01:28:34,114.205.139.254,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
 2026-01-29 01:28:34,2001:41d0:404:300::987,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
 2026-01-29 01:28:34,45.78.217.47,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 04:03:44,133.117.72.88,100,Japan,Chiyoda City,Toshiba Corporation,Toshiba Corporation,Data Center,False
+2026-01-29 04:03:44,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-29 04:03:44,177.174.106.155,100,Brazil,Santa Luzia,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-01-29 04:03:44,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-29 04:03:44,98.70.76.51,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-01-29 04:03:44,135.119.96.82,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-29 04:03:44,162.243.248.118,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-29 04:03:44,213.6.203.226,100,Palestine,Gaza,Palestine Telecommunications Company,Palestine Telecommunications Company,Residential/Business,False
+2026-01-29 04:03:44,222.170.255.146,100,China,Harbin,Chinanet,Chinanet HL,Residential/Business,False
+2026-01-29 04:03:44,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-29 04:03:44,45.78.218.13,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 04:03:44,65.49.1.46,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-29 04:03:44,159.203.173.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-29 04:03:44,135.233.96.197,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-29 04:03:44,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-29 04:03:44,27.128.170.160,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-01-29 04:03:44,45.78.228.165,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 04:03:44,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-01-29 04:03:44,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-29 04:03:44,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-29 04:03:44,185.196.10.182,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-29 04:03:44,101.47.142.105,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 04:03:44,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-29 04:03:44,46.31.79.13,100,Türkiye,Beylikduzu,Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.,Teknosos Bilisim Hizmetleri VE Tic. Ltd. STI,Residential/Business,False
+2026-01-29 04:03:44,64.62.197.138,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-29 04:03:44,193.163.125.174,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-29 04:03:44,200.118.150.20,100,Colombia,Cali,Telmex Colombia S.A.,Telmex Colombia S.A,Residential/Business,False
+2026-01-29 04:03:44,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-29 04:03:44,116.193.191.104,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-29 04:03:44,43.165.62.189,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-01-29 04:03:44,64.23.180.137,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 04:03:44,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-29 04:03:44,103.76.120.106,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-29 04:03:44,34.128.77.56,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,True
+2026-01-29 04:03:44,223.123.65.63,100,Pakistan,Islamabad,CMPak Limited,CMPak Limited,Residential/Business,False
+2026-01-29 04:03:44,114.220.238.30,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-29 04:03:44,184.105.139.92,100,United States,Frisco,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 04:03:44,91.230.168.21,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 04:03:44,45.78.194.32,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 04:03:44,103.49.238.104,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV Salka Kolaborasi Indonesia,Data Center,True
+2026-01-29 04:03:44,101.47.142.8,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 04:03:44,200.108.174.4,100,Brazil,Buriticupu,Vildonet Telecom,Vildonet Telecom,Residential/Business,False
+2026-01-29 04:03:44,47.236.171.142,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-29 04:03:44,123.187.241.160,100,China,Liaoyang,Chinanet,Chinanet LN,Residential/Business,True
+2026-01-29 04:03:44,185.242.226.13,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
