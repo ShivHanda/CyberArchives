@@ -14474,3 +14474,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-29 18:36:51,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-29 18:36:51,20.194.2.144,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
 2026-01-29 18:36:51,45.78.227.2,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 20:24:18,85.217.140.1,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-29 20:24:18,68.183.236.1,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 20:24:18,45.78.219.135,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 20:24:18,167.99.122.86,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-29 20:24:18,170.64.225.73,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 20:24:18,189.178.22.208,100,Mexico,Guadalajara,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-29 20:24:18,46.31.79.13,100,Türkiye,Beylikduzu,Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.,Teknosos Bilisim Hizmetleri VE Tic. Ltd. STI,Residential/Business,False
+2026-01-29 20:24:18,91.230.168.135,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 20:24:18,91.240.15.18,100,Uzbekistan,Tashkent,NANO TELECOM Ltd,NANOTELECOM,Residential/Business,False
+2026-01-29 20:24:18,139.19.117.132,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,False
+2026-01-29 20:24:18,23.94.37.113,100,United States,Elk Grove Village,HostPapa,HostPapa,Data Center,False
+2026-01-29 20:24:18,51.159.4.231,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-29 20:24:18,71.229.1.186,100,United States,Mobile,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-01-29 20:24:18,91.230.168.233,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 20:24:18,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 20:24:18,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-29 20:24:18,222.219.131.90,100,China,Shanghai,Chinanet,Chinanet YN,Residential/Business,False
+2026-01-29 20:24:18,117.72.87.116,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-01-29 20:24:18,5.181.87.80,100,Türkiye,Bursa,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,,Residential/Business,False
+2026-01-29 20:24:18,45.80.158.143,100,Poland,Warsaw,1337 Services GmbH,1337 Services GmbH,Residential/Business,True
+2026-01-29 20:24:18,195.184.76.215,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 20:24:18,98.191.229.175,100,United States,Tulsa,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-01-29 20:24:18,221.155.47.189,100,South Korea,Uijeongbu-si,Korea Telecom,,Residential/Business,False
+2026-01-29 20:24:18,3.90.73.206,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-01-29 20:24:18,20.27.221.169,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-29 20:24:18,185.247.137.251,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-29 20:24:18,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-29 20:24:18,128.14.229.76,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-29 20:24:18,171.244.37.103,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-29 20:24:18,8.133.194.64,100,China,Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-29 20:24:18,46.151.182.45,100,Ukraine,Kyiv,"Optibounce, LLC",Demenin B.V,Residential/Business,False
+2026-01-29 20:24:18,64.89.163.10,100,United States,Ripley,ISP Associates,"ISP Associates, Inc. DBA Dixie-Net",Residential/Business,False
+2026-01-29 20:24:18,36.137.79.219,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-01-29 20:24:18,46.253.45.10,100,Spain,Olesa de Bonesvalls,Anxanet Operadors de Xarxes,"Anxanet Operadors de Xarxes, S.L.",Residential/Business,False
+2026-01-29 20:24:18,165.232.87.193,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 20:24:18,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-01-29 20:24:18,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-29 20:24:18,8.221.139.48,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-29 20:24:18,88.135.37.241,100,Iran,Tehran,Sefroyek Pardaz Engineering PJSC,Sefroyek Pardaz Engineering Co. LTD,Residential/Business,False
+2026-01-29 20:24:18,23.82.99.105,100,United States,San Jose,"Leaseweb USA, Inc.","Leaseweb USA, Inc",Data Center,False
+2026-01-29 20:24:18,82.165.50.185,100,Germany,Berlin,IONOS SE ber.de,,Data Center,False
+2026-01-29 20:24:18,92.118.39.36,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-29 20:24:18,70.54.182.130,100,Canada,Toronto,Bell Canada,Sympatico HSE,Residential/Business,False
+2026-01-29 20:24:18,74.207.241.142,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-29 20:24:18,81.56.96.82,100,Italy,Milano,Iliad Italia,Broadband Pool Iliad Italia,Residential/Business,False
