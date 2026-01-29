@@ -14064,3 +14064,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-28 22:21:32,52.45.92.83,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-01-28 22:21:32,78.29.126.185,100,Russia,Saratov,SAN,CJSC NCC Saratov brench,Residential/Business,False
 2026-01-28 22:21:32,106.13.27.219,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-29 01:28:34,91.92.241.115,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-29 01:28:34,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-29 01:28:34,20.163.3.80,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-29 01:28:34,74.82.47.12,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 01:28:34,20.29.56.247,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-29 01:28:34,159.223.4.113,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 01:28:34,101.47.162.25,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 01:28:34,115.77.72.210,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-29 01:28:34,34.50.69.131,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-01-29 01:28:34,54.202.206.114,100,United States,Portland,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-01-29 01:28:34,8.210.28.151,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-01-29 01:28:34,91.92.241.35,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-29 01:28:34,206.42.14.196,100,Brazil,Juazeiro do Norte,Brisanet Prestacao De Servicos De Internet Ltda,Brisanet Prestacao De Servicos De Internet Ltda,Residential/Business,False
+2026-01-29 01:28:34,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 01:28:34,115.190.4.107,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-29 01:28:34,179.51.153.37,100,Brazil,Eunápolis,Eunapolis Telecom Ltda,Eunapolis Telecom Ltda,Residential/Business,False
+2026-01-29 01:28:34,220.181.172.243,100,China,Beijing,"IDC, China Telecommunications Corporation",,Residential/Business,False
+2026-01-29 01:28:34,103.23.198.201,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-29 01:28:34,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-01-29 01:28:34,3.135.238.81,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-01-29 01:28:34,65.49.1.229,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 01:28:34,67.10.185.103,100,United States,Round Rock,Charter Communications,Spectrum,Residential/Business,False
+2026-01-29 01:28:34,5.181.87.241,100,Türkiye,Bursa,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,,Residential/Business,False
+2026-01-29 01:28:34,175.0.69.233,100,China,Changsha,Chinanet,Chinanet HN,Residential/Business,False
+2026-01-29 01:28:34,134.209.190.10,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 01:28:34,20.168.120.227,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-29 01:28:34,64.225.69.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 01:28:34,45.78.231.192,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 01:28:34,199.45.154.179,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-29 01:28:34,62.60.130.76,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-29 01:28:34,14.225.192.195,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-01-29 01:28:34,203.193.137.250,100,India,Patna,Software Technology Parks of India,"Software Technology Parks of India, Society",Residential/Business,False
+2026-01-29 01:28:34,218.90.252.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-29 01:28:34,36.95.221.140,100,Indonesia,South Tangerang,PT. Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-01-29 01:28:34,165.154.29.144,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-29 01:28:34,168.167.228.74,100,Botswana,Gaborone,Botswana Telecommunications Corporation,,Residential/Business,False
+2026-01-29 01:28:34,216.10.242.161,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
+2026-01-29 01:28:34,124.114.98.182,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-01-29 01:28:34,160.25.7.215,100,Bangladesh,Natore,Payarozzaman Bhuiya,Fahin Online,Residential/Business,False
+2026-01-29 01:28:34,195.184.76.235,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 01:28:34,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 01:28:34,185.217.188.132,100,Kazakhstan,Karaganda,Optinet LLP,Optinet LLP,Residential/Business,False
+2026-01-29 01:28:34,114.205.139.254,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-01-29 01:28:34,2001:41d0:404:300::987,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-01-29 01:28:34,45.78.217.47,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
