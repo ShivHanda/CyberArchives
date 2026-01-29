@@ -14154,3 +14154,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-29 04:03:44,47.236.171.142,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
 2026-01-29 04:03:44,123.187.241.160,100,China,Liaoyang,Chinanet,Chinanet LN,Residential/Business,True
 2026-01-29 04:03:44,185.242.226.13,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-01-29 06:39:52,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-29 06:39:52,101.36.122.23,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-29 06:39:52,139.19.117.197,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,True
+2026-01-29 06:39:52,62.60.130.64,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-29 06:39:52,176.65.148.158,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-29 06:39:52,184.105.139.77,100,United States,Frisco,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 06:39:52,103.183.62.2,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-01-29 06:39:52,159.65.138.149,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 06:39:52,92.185.99.40,100,Spain,Mataró,UNI2-NET- Orange Spain Network,,Residential/Business,False
+2026-01-29 06:39:52,103.76.120.106,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-01-29 06:39:52,45.78.218.10,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 06:39:52,45.121.147.48,100,Malaysia,Kuala Lumpur,Gigabit Hosting Sdn Bhd,Invision Seven Solutions,Data Center,False
+2026-01-29 06:39:52,101.47.140.216,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 06:39:52,184.105.247.194,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 06:39:52,3.78.78.214,100,Germany,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),Data Center,False
+2026-01-29 06:39:52,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-29 06:39:52,101.47.162.73,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 06:39:52,60.199.224.2,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-01-29 06:39:52,116.48.143.166,100,Hong Kong,Lower Wong Tai Sin Estate,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-01-29 06:39:52,42.113.60.198,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-01-29 06:39:52,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-29 06:39:52,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-29 06:39:52,182.229.12.102,100,South Korea,Yeonsu-gu,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-01-29 06:39:52,20.168.0.47,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-29 06:39:52,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-29 06:39:52,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 06:39:52,165.245.139.101,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-29 06:39:52,172.190.142.176,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-29 06:39:52,179.209.140.66,100,Brazil,São Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-01-29 06:39:52,45.78.217.255,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 06:39:52,206.189.127.177,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 06:39:52,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-29 06:39:52,185.93.89.79,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,True
+2026-01-29 06:39:52,13.81.183.29,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-29 06:39:52,85.217.149.19,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-29 06:39:52,80.94.92.70,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-29 06:39:52,200.46.125.168,100,Panama,Panama City,Cable Onda,Cable Onda,Residential/Business,False
+2026-01-29 06:39:52,154.91.170.52,100,Germany,Frankfurt am Main,BitCommand LLC,BitCommand LLC,Residential/Business,False
+2026-01-29 06:39:52,5.161.253.75,100,United States,Ashburn,Hetzner Online GmbH,Hetzner Online GmbH,Residential/Business,False
+2026-01-29 06:39:52,77.83.240.70,100,The Netherlands,Wormer,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-01-29 06:39:52,45.78.204.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 06:39:52,104.248.186.131,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 06:39:52,187.141.71.166,100,Mexico,San Miguel de Cozumel,UNINET,UNINET,Residential/Business,False
+2026-01-29 06:39:52,204.76.203.73,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-29 06:39:52,109.205.211.64,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
