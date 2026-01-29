@@ -14339,3 +14339,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-29 12:44:06,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-29 12:44:06,203.150.107.244,100,Thailand,Bangkok,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
 2026-01-29 12:44:06,222.71.116.214,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-01-29 14:35:35,91.230.168.250,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 14:35:35,101.47.163.255,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-29 14:35:35,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 14:35:35,182.44.73.149,100,China,Jinan,CHINANET Fujian province Fuzhou IDC network,Chinanet SD,Residential/Business,False
+2026-01-29 14:35:35,14.53.61.63,100,South Korea,Uijeongbu-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-29 14:35:35,68.183.199.116,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 14:35:35,104.152.52.120,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-01-29 14:35:35,162.240.39.179,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-29 14:35:35,14.103.159.224,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-29 14:35:35,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-29 14:35:35,104.152.52.113,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-01-29 14:35:35,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 14:35:35,114.217.149.27,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-01-29 14:35:35,195.184.76.241,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 14:35:35,14.103.159.240,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-29 14:35:35,35.130.111.146,100,United States,Pigeon Forge,Spectrum,Mountain Breeze Motel 2926 Parkway,Residential/Business,False
+2026-01-29 14:35:35,220.181.172.243,100,China,Beijing,"IDC, China Telecommunications Corporation",,Residential/Business,False
+2026-01-29 14:35:35,45.61.184.133,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-29 14:35:35,211.105.129.57,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-29 14:35:35,78.153.140.171,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-01-29 14:35:35,78.128.114.86,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-01-29 14:35:35,64.62.197.239,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-29 14:35:35,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-29 14:35:35,103.23.198.220,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-29 14:35:35,199.45.154.180,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-29 14:35:35,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-29 14:35:35,165.154.214.145,100,Vietnam,Ho Chi Minh City,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-01-29 14:35:35,185.11.61.226,100,Russia,Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-29 14:35:35,180.76.190.167,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-29 14:35:35,95.214.54.147,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-29 14:35:35,106.245.246.26,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-01-29 14:35:35,107.189.31.222,100,Luxembourg,Luxembourg,FranTech Solutions,BuyVM,Data Center,True
+2026-01-29 14:35:35,45.78.219.119,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 14:35:35,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-01-29 14:35:35,88.210.63.192,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,FOP Dmytro Nedilskyi,Residential/Business,False
+2026-01-29 14:35:35,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-29 14:35:35,101.36.107.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-29 14:35:35,147.50.227.79,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,True
+2026-01-29 14:35:35,217.199.216.242,100,Russia,Moscow,OOO Suntel,OOO Suntel,Residential/Business,False
+2026-01-29 14:35:35,85.217.140.5,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-29 14:35:35,91.231.89.209,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-29 14:35:35,187.188.0.71,100,Mexico,Benito Juarez,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-29 14:35:35,20.173.116.24,100,Qatar,Doha,Microsoft Corporation,Microsoft Azure Cloud (qatarcentral),Data Center,False
+2026-01-29 14:35:35,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-29 14:35:35,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
