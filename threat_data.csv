@@ -14519,3 +14519,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-29 20:24:18,70.54.182.130,100,Canada,Toronto,Bell Canada,Sympatico HSE,Residential/Business,False
 2026-01-29 20:24:18,74.207.241.142,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-01-29 20:24:18,81.56.96.82,100,Italy,Milano,Iliad Italia,Broadband Pool Iliad Italia,Residential/Business,False
+2026-01-29 22:22:42,117.50.73.90,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-01-29 22:22:42,45.61.188.5,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-29 22:22:42,193.163.125.178,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-29 22:22:42,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-29 22:22:42,65.49.1.144,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 22:22:42,74.94.234.151,100,United States,Troy,Comcast Cable Communications,Corp PRK Rochester HIL,Residential/Business,False
+2026-01-29 22:22:42,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-29 22:22:42,177.174.16.55,100,Brazil,Belém,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-01-29 22:22:42,211.240.117.40,100,South Korea,Seodaemun-gu,"ELIMNET, INC.",elimnet,Residential/Business,False
+2026-01-29 22:22:42,185.68.184.66,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
+2026-01-29 22:22:42,14.103.118.212,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-01-29 22:22:42,211.253.37.225,100,South Korea,Goyang-si,Korea Telecom-PUBNET,(jae)hoseojeonsanjikeobjeonmunhakkyo,Residential/Business,False
+2026-01-29 22:22:42,14.55.144.22,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,False
+2026-01-29 22:22:42,41.203.213.8,100,Kenya,Nairobi,Safaricom Limited,Fixed Wimax Nairobi,Mobile,False
+2026-01-29 22:22:42,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-29 22:22:42,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-01-29 22:22:42,103.59.163.132,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-01-29 22:22:42,111.26.167.36,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-29 22:22:42,113.137.40.250,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,True
+2026-01-29 22:22:42,182.75.197.174,100,India,Bengaluru,Bharti Airtel,Devbhumi Broadcast Pvt Ltd,Residential/Business,False
+2026-01-29 22:22:42,45.78.204.221,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-29 22:22:42,14.103.142.227,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-29 22:22:42,27.254.185.64,100,Thailand,Phaya Thai,Super Broadband Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-01-29 22:22:42,65.49.1.142,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-29 22:22:42,34.41.156.241,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-01-29 22:22:42,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-29 22:22:42,43.156.109.106,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-01-29 22:22:42,199.195.248.191,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-29 22:22:42,193.163.125.176,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-29 22:22:42,111.19.212.140,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-01-29 22:22:42,103.1.210.25,100,Vietnam,Hanoi,VTDC,Viettel-CHT Company Ltd,Data Center,False
+2026-01-29 22:22:42,200.118.40.22,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A,Residential/Business,False
+2026-01-29 22:22:42,167.99.93.68,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-29 22:22:42,85.217.149.23,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-29 22:22:42,128.14.233.253,100,Indonesia,Jakarta,Zenlayer Inc,UCLOUD,Data Center,False
+2026-01-29 22:22:42,93.174.93.12,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-01-29 22:22:42,113.193.234.210,100,India,Bengaluru,Tikona Infinet Ltd.,Tikona Digital Networks Pvt.Ltd,Residential/Business,False
+2026-01-29 22:22:42,65.108.2.171,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,True
+2026-01-29 22:22:42,23.133.28.2,100,United States,Lexington-Fayette,"NTT America, Inc.",DataZone Networks LLC,Residential/Business,False
+2026-01-29 22:22:42,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-29 22:22:42,221.161.235.168,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-01-29 22:22:42,122.166.49.42,100,India,Bengaluru,BHARTI,ABTS (Karnataka),Residential/Business,False
+2026-01-29 22:22:42,201.242.113.188,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-01-29 22:22:42,62.210.113.184,100,France,Paris,Online S.A.S.,ONLINE,Data Center,True
+2026-01-29 22:22:42,180.76.190.171,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
