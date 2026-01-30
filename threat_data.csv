@@ -14899,3 +14899,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-30 14:31:59,193.46.192.20,100,Spain,El Saucejo,Telecomunicaciones Publicas Andaluzas S.L.,Antonio Borrego Pineda,Residential/Business,False
 2026-01-30 14:31:59,171.244.37.103,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
 2026-01-30 14:31:59,101.36.107.228,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-01-30 16:32:40,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-30 16:32:40,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-30 16:32:40,48.214.144.79,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-30 16:32:40,101.47.142.48,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-30 16:32:40,163.176.167.78,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-01-30 16:32:40,98.83.8.142,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-30 16:32:40,98.122.215.23,100,United States,Apex,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-01-30 16:32:40,101.47.163.93,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-30 16:32:40,45.78.218.111,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,117.247.111.70,100,India,Karur,BSNL Internet,,Residential/Business,False
+2026-01-30 16:32:40,128.1.34.69,100,Germany,Frankfurt am Main,Zenlayer Inc,Zenlayer Inc,Data Center,False
+2026-01-30 16:32:40,45.78.219.55,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,91.84.114.159,100,The Netherlands,Amsterdam,Servers Tech Fzco,Servers Tech Fzco,Residential/Business,False
+2026-01-30 16:32:40,103.103.245.7,100,Hong Kong,Tsuen Wan,Cnservers LLC,Shatin,Data Center,False
+2026-01-30 16:32:40,177.10.187.121,100,Honduras,Choloma,NewTek S. de R.L de C.V,NewTek S. de R.L de C.V,Residential/Business,False
+2026-01-30 16:32:40,101.47.161.250,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-30 16:32:40,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-01-30 16:32:40,135.237.81.94,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-30 16:32:40,180.149.32.80,100,United States,San Angelo,Cloudnium LLC,IPXO,Residential/Business,False
+2026-01-30 16:32:40,45.78.217.210,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,62.182.132.94,100,Russia,St Petersburg,PJSC MegaFon,Net By Net Holding LLC,Mobile,False
+2026-01-30 16:32:40,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-30 16:32:40,45.78.216.189,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,205.254.166.75,100,India,Bengaluru,Excitel Broadband Pvt Ltd,Excitel Broadband Pvt Ltd,Residential/Business,False
+2026-01-30 16:32:40,139.19.117.129,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,False
+2026-01-30 16:32:40,185.158.22.150,100,Iraq,Karbala,"Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",,Residential/Business,False
+2026-01-30 16:32:40,45.78.222.26,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-30 16:32:40,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-01-30 16:32:40,154.125.243.62,100,Senegal,Dakar,SONATEL-AS Autonomous System,SONATEL Societe Nationale Des Telecommunications Du Senegal,Residential/Business,False
+2026-01-30 16:32:40,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-30 16:32:40,103.113.105.228,100,India,New Delhi,Ekowebtech It Services Pvt Ltd,Ekowebtech It Services Pvt Ltd,Residential/Business,False
+2026-01-30 16:32:40,45.78.222.250,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,95.214.52.199,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-01-30 16:32:40,45.78.222.46,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,81.19.141.58,100,Germany,Frankfurt am Main,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-30 16:32:40,183.57.152.90,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-01-30 16:32:40,147.93.158.243,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-01-30 16:32:40,221.151.84.6,100,South Korea,Guro-gu,Korea Telecom,KORNET,Residential/Business,False
+2026-01-30 16:32:40,171.231.193.242,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-30 16:32:40,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-30 16:32:40,36.93.249.106,100,Indonesia,Jakarta,Telekomunikasi Indonesia,HSI Indihome,Residential/Business,False
+2026-01-30 16:32:40,45.78.217.85,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 16:32:40,123.202.14.178,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-01-30 16:32:40,198.46.146.200,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,True
