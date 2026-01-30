@@ -15044,3 +15044,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-30 20:23:29,66.132.153.113,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
 2026-01-30 20:23:29,202.4.106.201,100,Bangladesh,Dhaka,Amber IT Limited,Dhakacom Limited,Residential/Business,False
 2026-01-30 20:23:29,49.125.201.80,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-30 22:19:43,65.49.1.53,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-01-30 22:19:43,103.82.92.231,100,Indonesia,Padalarang,PT Cloud Hosting Indonesia,PT Situs Kreatif Indonesia,Data Center,False
+2026-01-30 22:19:43,189.56.0.19,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-01-30 22:19:43,111.70.22.154,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-01-30 22:19:43,189.80.146.46,100,Brazil,Teófilo Otoni,V tal,V tal,Residential/Business,False
+2026-01-30 22:19:43,164.92.103.174,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-30 22:19:43,20.78.152.240,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-01-30 22:19:43,122.187.230.144,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-30 22:19:43,193.24.211.200,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-01-30 22:19:43,189.190.136.4,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-30 22:19:43,188.59.178.45,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-01-30 22:19:43,189.169.81.15,100,Mexico,Celaya,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-30 22:19:43,64.62.197.60,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-30 22:19:43,135.237.125.135,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-30 22:19:43,45.78.216.197,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 22:19:43,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-30 22:19:43,202.165.16.198,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-01-30 22:19:43,122.187.230.116,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-01-30 22:19:43,183.123.27.87,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-30 22:19:43,101.205.122.213,100,China,Chengdu,China Unicom Sichuan Province Network,,Residential/Business,False
+2026-01-30 22:19:43,116.193.191.104,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-30 22:19:43,52.4.229.9,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-30 22:19:43,62.60.130.199,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-01-30 22:19:43,152.32.185.214,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-30 22:19:43,162.243.244.193,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-30 22:19:43,14.103.115.115,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-30 22:19:43,51.15.147.194,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-01-30 22:19:43,154.57.216.142,100,Pakistan,Karachi,Trans World Enterprise Services (Private) Limited,Trans World Enterprise Services (Private) Limited,Residential/Business,False
+2026-01-30 22:19:43,193.37.32.12,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-01-30 22:19:43,108.143.69.79,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-01-30 22:19:43,185.195.233.176,100,Sweden,Stockholm,31173 Services AB,31173 Services AB,Data Center,True
+2026-01-30 22:19:43,116.193.190.134,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-30 22:19:43,171.80.13.108,100,China,Shizishan,China Telecom,Chinanet HB,Residential/Business,False
+2026-01-30 22:19:43,189.178.22.208,100,Mexico,Guadalajara,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-01-30 22:19:43,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-30 22:19:43,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-30 22:19:43,203.189.195.8,100,China,Guangzhou,Cloud Computing Corporation,Chinanet GD,Data Center,False
+2026-01-30 22:19:43,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Residential/Business,True
+2026-01-30 22:19:43,64.62.156.190,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-30 22:19:43,103.171.85.115,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-30 22:19:43,47.236.198.50,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-01-30 22:19:43,178.132.220.218,100,Kosovo,Pristina,Kujtesa Network,Kujtesa Net Sh.p.k,Residential/Business,False
+2026-01-30 22:19:43,173.212.238.152,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-30 22:19:43,45.78.207.244,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-30 22:19:43,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-30 22:19:43,130.250.191.201,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-01-30 22:19:43,93.152.230.160,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-30 22:19:43,165.154.29.144,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-30 22:19:43,223.204.168.109,100,Thailand,Phitsanulok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-01-30 22:19:43,83.212.171.158,100,Greece,Athens,Deaggregated Space,Greek Research and Technology Network (GRNET) S.A.,Residential/Business,False
