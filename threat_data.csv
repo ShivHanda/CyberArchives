@@ -15334,3 +15334,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 10:19:02,68.52.119.193,100,United States,Brentwood,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
 2026-01-31 10:19:02,162.240.156.34,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
 2026-01-31 10:19:02,45.156.129.125,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-01-31 12:35:52,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 12:35:52,8.221.137.163,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-31 12:35:52,154.12.182.83,100,United States,San Jose,DMIT Cloud Services,,Residential/Business,False
+2026-01-31 12:35:52,103.187.147.165,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-01-31 12:35:52,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-31 12:35:52,133.117.74.174,100,Japan,Chiyoda City,Toshiba Corporation,Toshiba Corporation,Data Center,False
+2026-01-31 12:35:52,62.219.172.50,100,Israel,Petah Tikva,BEZEQ-INTERNATIONAL,Avnat Avtaha Netunim LTD,Residential/Business,False
+2026-01-31 12:35:52,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-31 12:35:52,59.23.3.146,100,South Korea,Gimcheon,Korea Telecom,Kornet,Residential/Business,False
+2026-01-31 12:35:52,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-01-31 12:35:52,35.200.237.19,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-01-31 12:35:52,101.47.161.118,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-31 12:35:52,202.79.29.108,100,Cambodia,Phnom Penh,WiCAM Corporation Ltd,"WiCAM Corporation, LTD",Residential/Business,False
+2026-01-31 12:35:52,64.62.197.91,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-01-31 12:35:52,65.49.1.144,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-31 12:35:52,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-31 12:35:52,1.212.225.99,100,South Korea,Anyang-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-01-31 12:35:52,193.163.125.215,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-01-31 12:35:52,124.163.255.210,100,China,Haidian,CNC Group CHINA169 Shan1xi Province Network,,Residential/Business,False
+2026-01-31 12:35:52,152.32.134.231,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-31 12:35:52,34.206.212.24,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-01-31 12:35:52,85.217.140.7,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-31 12:35:52,116.111.2.94,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-31 12:35:52,107.150.109.193,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-01-31 12:35:52,77.221.138.115,100,Sweden,Stockholm,Aeza International LTD,Aeza International LTD,Residential/Business,False
+2026-01-31 12:35:52,185.242.226.87,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-01-31 12:35:52,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-31 12:35:52,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-31 12:35:52,118.193.65.212,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-31 12:35:52,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 12:35:52,209.38.226.254,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-31 12:35:52,165.101.23.39,100,Bangladesh,Dhaka,Daffodil Online Ltd.,Daffodil International University,Residential/Business,False
+2026-01-31 12:35:52,45.148.10.244,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 12:35:52,101.126.22.12,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-01-31 12:35:52,190.12.109.162,100,Argentina,Buenos Aires,CPS,CPS,Residential/Business,False
+2026-01-31 12:35:52,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-31 12:35:52,14.103.233.27,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-31 12:35:52,45.78.235.65,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-31 12:35:52,109.205.211.63,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-01-31 12:35:52,161.248.147.74,100,Vietnam,Ho Chi Minh City,Viet Digital Technology Liability Company,Pow Pow LLC,Residential/Business,False
+2026-01-31 12:35:52,183.152.152.213,100,China,Zhoushan,Chinanet,,Residential/Business,False
+2026-01-31 12:35:52,173.212.238.152,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-31 12:35:52,159.223.6.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 12:35:52,151.80.118.222,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-01-31 12:35:52,175.201.0.7,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-01-31 12:35:52,171.244.37.103,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-31 12:35:52,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 12:35:52,103.53.231.159,100,Vietnam,Ho Chi Minh City,AOHOAVIET,"AO HOA Viet Co., ltd",Residential/Business,False
+2026-01-31 12:35:52,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-01-31 12:35:52,186.233.204.9,100,Brazil,Pitanga,"CARRARO, HAINOSZ & CIA LTDA - ME",JG CARRARO TELECOM LTDA,Residential/Business,False
