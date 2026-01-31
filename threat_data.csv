@@ -15239,3 +15239,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 06:32:07,78.187.21.105,100,Türkiye,Ankara,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
 2026-01-31 06:32:07,181.237.109.53,100,Colombia,Pereira,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP,Residential/Business,False
 2026-01-31 06:32:07,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-31 08:23:06,139.177.206.16,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-01-31 08:23:06,182.75.216.74,100,India,Delhi,Bharti Airtel,IBT Media Private Limited,Mobile,False
+2026-01-31 08:23:06,167.71.226.25,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 08:23:06,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 08:23:06,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 08:23:06,129.232.163.114,100,South Africa,Cape Town,xneelo-JHB,,Data Center,False
+2026-01-31 08:23:06,176.65.134.22,100,Slovenia,Maribor,Netiface LLC,,Residential/Business,False
+2026-01-31 08:23:06,171.243.149.253,100,Vietnam,Ho Chi Minh City,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-31 08:23:06,85.217.149.7,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-01-31 08:23:06,206.168.34.35,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-31 08:23:06,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-01-31 08:23:06,210.99.212.179,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-01-31 08:23:06,47.74.46.203,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-01-31 08:23:06,5.61.209.92,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Data Center,False
+2026-01-31 08:23:06,14.103.207.251,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-31 08:23:06,135.237.125.195,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-31 08:23:06,65.49.1.35,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-31 08:23:06,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-01-31 08:23:06,49.124.151.54,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-31 08:23:06,113.22.3.89,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-01-31 08:23:06,35.86.203.210,100,United States,Portland,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-01-31 08:23:06,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-31 08:23:06,192.241.150.89,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-31 08:23:06,101.47.140.130,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-31 08:23:06,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-31 08:23:06,59.3.76.218,100,South Korea,Yeonggwang-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-01-31 08:23:06,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-01-31 08:23:06,202.108.48.228,100,China,Jinrongjie,China Unicom Beijing Province Network,Capital Network Ltd,Residential/Business,False
+2026-01-31 08:23:06,45.156.87.127,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-01-31 08:23:06,101.36.97.88,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-31 08:23:06,184.105.139.90,100,United States,Frisco,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-01-31 08:23:06,45.135.194.48,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-01-31 08:23:06,45.78.235.68,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-31 08:23:06,165.154.163.10,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-01-31 08:23:06,185.228.135.197,100,Russia,Sochi,SYSTEMA,,Residential/Business,False
+2026-01-31 08:23:06,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,UNE EPM TELECOMUNICACIONES S.A,Residential/Business,False
+2026-01-31 08:23:06,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-31 08:23:06,24.163.114.60,100,United States,Raleigh,Charter Communications,Spectrum,Residential/Business,False
+2026-01-31 08:23:06,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 08:23:06,103.23.199.128,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-01-31 08:23:06,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-31 08:23:06,136.185.8.165,100,India,Chennai,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-01-31 08:23:06,123.58.213.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-31 08:23:06,103.181.143.99,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-01-31 08:23:06,159.203.173.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
