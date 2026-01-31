@@ -15534,3 +15534,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 18:24:53,8.221.136.6,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
 2026-01-31 18:24:53,165.232.82.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-31 18:24:53,154.83.197.47,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-01-31 20:19:46,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 20:19:46,172.212.200.29,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-31 20:19:46,5.196.196.207,100,France,Paris,OVH SAS,mohsen tavasouni,Data Center,True
+2026-01-31 20:19:46,14.103.98.184,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-31 20:19:46,62.133.61.220,100,The Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-01-31 20:19:46,103.239.252.132,100,Bangladesh,Dhaka,SSDTECH Object1,,Residential/Business,False
+2026-01-31 20:19:46,167.172.110.10,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,36.40.91.52,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,False
+2026-01-31 20:19:46,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-01-31 20:19:46,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-01-31 20:19:46,77.81.120.183,100,The Netherlands,Amsterdam,KnownSRV Ltd.,KnownSRV Ltd,Residential/Business,False
+2026-01-31 20:19:46,188.166.54.16,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-31 20:19:46,188.225.86.133,100,Russia,St Petersburg,Dedicated servers whitout administration,,Data Center,False
+2026-01-31 20:19:46,34.91.0.68,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,True
+2026-01-31 20:19:46,14.103.142.184,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-01-31 20:19:46,115.75.18.93,100,Vietnam,Ho Chi Minh City,VIETELxdsl,xDSL Services,Residential/Business,False
+2026-01-31 20:19:46,91.237.163.112,100,Russia,Moscow,Systematica LLC,Systematica LLC,Residential/Business,False
+2026-01-31 20:19:46,178.62.207.123,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-31 20:19:46,45.78.224.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-31 20:19:46,182.95.177.78,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-01-31 20:19:46,93.152.230.205,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-01-31 20:19:46,107.150.110.167,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-01-31 20:19:46,118.193.36.63,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-31 20:19:46,116.111.2.94,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-01-31 20:19:46,64.225.68.67,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,152.32.192.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-31 20:19:46,194.180.49.101,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-01-31 20:19:46,13.205.113.55,100,India,Mumbai,"Amazon.com, Inc.",AWS EC2 (ap-south-1),Data Center,False
+2026-01-31 20:19:46,194.163.166.21,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-01-31 20:19:46,167.172.38.127,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 20:19:46,92.255.85.72,100,Russia,Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,Residential/Business,True
+2026-01-31 20:19:46,167.172.79.172,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-31 20:19:46,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-31 20:19:46,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 20:19:46,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 20:19:46,177.0.225.215,100,Brazil,Criciúma,V tal,V tal,Residential/Business,False
+2026-01-31 20:19:46,47.90.178.26,100,United States,Charlottesville,Alibaba.com LLC,ALICLOUD-US,Data Center,False
+2026-01-31 20:19:46,44.202.159.217,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-01-31 20:19:46,171.244.61.137,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Data Center,False
+2026-01-31 20:19:46,36.99.46.101,100,China,Shanghai,China Telecom,Chinanet HA,Residential/Business,False
+2026-01-31 20:19:46,189.8.108.39,100,Brazil,Balneário Camboriú,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA.,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA,Residential/Business,False
+2026-01-31 20:19:46,165.227.61.120,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,188.166.34.232,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-01-31 20:19:46,167.99.33.175,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,45.149.173.193,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-01-31 20:19:46,141.98.11.169,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,True
+2026-01-31 20:19:46,164.92.148.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 20:19:46,103.82.22.235,100,Vietnam,Dich Vong,Vietnam Posts and Telecommunications Group,Unica Academy Joint Stock Company,Residential/Business,True
+2026-01-31 20:19:46,163.181.207.222,100,Thailand,Bangkok,"Zhejiang Taobao Network Co., Ltd",Alibaba.com LLC,Residential/Business,False
