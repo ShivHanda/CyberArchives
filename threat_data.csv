@@ -15189,3 +15189,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 04:01:19,191.5.31.61,100,Brazil,Passo Fundo,RazaoInfo Internet Ltda,RazaoInfo Internet Ltda,Residential/Business,False
 2026-01-31 04:01:19,206.168.34.45,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
 2026-01-31 04:01:19,45.78.220.115,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-01-31 06:32:07,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-01-31 06:32:07,101.47.141.71,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-01-31 06:32:07,134.33.73.66,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-01-31 06:32:07,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-01-31 06:32:07,216.45.53.140,100,United States,Ashburn,HostPapa,HostPapa,Data Center,True
+2026-01-31 06:32:07,221.156.126.1,100,South Korea,Jeollanam-do,Korea Telecom,Kornet,Residential/Business,False
+2026-01-31 06:32:07,149.72.120.130,100,United States,Denver,"SendGrid, Inc.","SendGrid, Inc.",Residential/Business,False
+2026-01-31 06:32:07,178.168.51.143,100,Moldova,Chisinau,SC STARNET SRL,SC Starnet SRL,Residential/Business,False
+2026-01-31 06:32:07,170.64.139.8,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 06:32:07,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 06:32:07,120.48.60.44,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-01-31 06:32:07,114.219.157.97,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-01-31 06:32:07,195.184.76.108,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-01-31 06:32:07,149.72.154.232,100,United States,Denver,"SendGrid, Inc.","SendGrid, Inc.",Residential/Business,False
+2026-01-31 06:32:07,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-31 06:32:07,20.203.139.29,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-01-31 06:32:07,103.66.63.1,100,Indonesia,Mendaha,PT Buana Visualnet Sentra,PT Sinar Jambi Baru Intermedia,Residential/Business,False
+2026-01-31 06:32:07,14.192.146.149,100,Pakistan,Karachi,Fariya Networks,Netsat (Pvt.) Ltd.,Residential/Business,False
+2026-01-31 06:32:07,207.90.244.2,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-01-31 06:32:07,185.243.218.231,100,Norway,Sandefjord,Gigahost,Gigahost,Data Center,True
+2026-01-31 06:32:07,77.83.39.128,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-01-31 06:32:07,199.45.154.177,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-01-31 06:32:07,135.237.127.207,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-01-31 06:32:07,172.214.209.153,100,United States,Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-01-31 06:32:07,72.167.150.128,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-01-31 06:32:07,2.136.133.126,100,Spain,Barcelona,RIMA (Red IP Multi Acceso),,Residential/Business,False
+2026-01-31 06:32:07,144.172.97.89,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Residential/Business,False
+2026-01-31 06:32:07,103.39.222.143,100,China,Guangzhou,China Telecom (Group),Shenzhen Qianhai bird cloud computing Co. Ltd.,Residential/Business,False
+2026-01-31 06:32:07,143.20.185.244,100,South Africa,Centurion,Internet Magnate (Pty) Ltd,Internet Magnate (Pty) Ltd,Residential/Business,False
+2026-01-31 06:32:07,143.198.225.197,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-31 06:32:07,134.209.203.194,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 06:32:07,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-01-31 06:32:07,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-01-31 06:32:07,37.151.240.91,100,Kazakhstan,Astana,JSC Kazakhtelecom,Megaline Petropavlovsk,Residential/Business,False
+2026-01-31 06:32:07,123.58.213.52,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-01-31 06:32:07,171.231.180.95,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-01-31 06:32:07,217.154.23.3,100,France,Paris,MISTRAL,ADSL: PC Express Ltd,Data Center,False
+2026-01-31 06:32:07,122.222.214.14,100,Japan,Sendai,ARTERIA Networks Corporation,"GMO Internet, Inc.",Residential/Business,False
+2026-01-31 06:32:07,159.203.39.57,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-01-31 06:32:07,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-01-31 06:32:07,103.59.94.62,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-01-31 06:32:07,103.139.193.31,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,PT. Halto Petirah Angrowangi,Data Center,False
+2026-01-31 06:32:07,45.144.212.47,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
+2026-01-31 06:32:07,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-01-31 06:32:07,134.199.201.207,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 06:32:07,165.227.152.183,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 06:32:07,13.86.105.19,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-01-31 06:32:07,78.187.21.105,100,Türkiye,Ankara,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-01-31 06:32:07,181.237.109.53,100,Colombia,Pereira,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP,Residential/Business,False
+2026-01-31 06:32:07,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
