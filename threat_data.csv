@@ -15484,3 +15484,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 16:21:19,161.35.95.82,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-01-31 16:21:19,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
 2026-01-31 16:21:19,101.206.107.244,100,China,Chengdu,China Unicom Sichuan Province Network,,Residential/Business,False
+2026-01-31 18:24:53,8.222.235.13,100,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-31 18:24:53,4.217.197.7,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-31 18:24:53,92.30.241.172,100,United Kingdom,Leeds,TalkTalk,Carphone Warehouse Broadband Services,Residential/Business,False
+2026-01-31 18:24:53,4.217.194.79,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-31 18:24:53,113.11.34.221,100,Bangladesh,Dhaka,BDCOM Online Limited,BDCOM Online Limited,Residential/Business,False
+2026-01-31 18:24:53,4.214.32.32,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-01-31 18:24:53,8.222.234.213,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-31 18:24:53,112.74.38.239,100,China,Shenzhen,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-01-31 18:24:53,185.208.175.164,100,Iran,Tehran,Pars Parva System Ltd,,Data Center,False
+2026-01-31 18:24:53,204.76.203.206,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-01-31 18:24:53,4.217.184.154,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-01-31 18:24:53,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-01-31 18:24:53,162.214.206.114,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-01-31 18:24:53,4.213.56.161,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-31 18:24:53,123.187.240.242,100,China,Liaoyang,Chinanet,Chinanet LN,Residential/Business,False
+2026-01-31 18:24:53,4.213.33.129,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-31 18:24:53,8.222.225.103,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-31 18:24:53,197.5.145.114,100,Tunisia,Tunis,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-01-31 18:24:53,138.197.153.44,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-01-31 18:24:53,4.213.160.187,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-01-31 18:24:53,4.213.181.235,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-31 18:24:53,8.222.203.202,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-01-31 18:24:53,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-01-31 18:24:53,49.125.201.90,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-01-31 18:24:53,54.38.52.18,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-01-31 18:24:53,213.32.29.234,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-01-31 18:24:53,167.99.36.244,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 18:24:53,45.61.187.220,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-01-31 18:24:53,170.233.151.14,100,Brazil,Marabá,PRGNET SERVIÇOS DE TELECOMUNICAÇÕES,PRGNET SERVIÇOS DE TELECOMUNICAÇÕES,Residential/Business,False
+2026-01-31 18:24:53,195.251.38.53,100,Greece,Tripoli,National Infrastructures for Research and Technology S.A.,Upelop,Residential/Business,False
+2026-01-31 18:24:53,4.213.136.62,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-31 18:24:53,185.196.10.226,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-01-31 18:24:53,46.24.47.94,100,Spain,Madrid,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-01-31 18:24:53,4.213.153.26,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-01-31 18:24:53,8.222.128.242,100,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-31 18:24:53,183.76.86.29,100,Japan,Toyonaka,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-01-31 18:24:53,101.199.254.208,100,China,Jinrongjie,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,Residential/Business,False
+2026-01-31 18:24:53,164.92.158.212,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 18:24:53,4.197.92.48,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-31 18:24:53,155.4.244.107,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-01-31 18:24:53,4.197.60.90,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-31 18:24:53,177.75.49.48,100,Brazil,Anápolis,Explorernet Infolink Tecnologia E Telecomunicacoes,Explorernet Infolink Tecnologia E Telecomunicacoes,Residential/Business,False
+2026-01-31 18:24:53,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-01-31 18:24:53,8.221.139.48,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-31 18:24:53,66.132.153.118,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-01-31 18:24:53,119.9.22.19,100,Australia,Sydney,Rackspace.com Hong Kong Limited,Rackspace,Data Center,False
+2026-01-31 18:24:53,4.197.248.250,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-01-31 18:24:53,8.221.136.6,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,True
+2026-01-31 18:24:53,165.232.82.192,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-01-31 18:24:53,154.83.197.47,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
