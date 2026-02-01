@@ -15629,3 +15629,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-01-31 22:17:09,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-01-31 22:17:09,23.94.182.194,100,United States,Buffalo,HostPapa,HostPapa,Data Center,False
 2026-01-31 22:17:09,20.219.8.79,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-01 01:52:44,152.42.134.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-01 01:52:44,184.174.39.48,100,France,Lauterbourg,Ipxo LLC,Ipxo LLC,Data Center,False
+2026-02-01 01:52:44,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-01 01:52:44,52.180.157.88,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-01 01:52:44,146.190.227.68,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,206.189.7.233,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,14.103.117.141,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-01 01:52:44,87.106.134.4,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
+2026-02-01 01:52:44,180.255.95.138,100,Singapore,Singapore,"Singapore Telecommunications Ltd, Magix Services",Singtel Fibre,Residential/Business,False
+2026-02-01 01:52:44,64.226.83.235,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,65.49.1.132,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-01 01:52:44,167.99.36.183,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,20.89.194.119,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-01 01:52:44,101.126.89.35,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-01 01:52:44,103.75.71.51,100,Japan,Tokyo,NexonHost Srl,Nexonhost,Residential/Business,False
+2026-02-01 01:52:44,146.88.241.25,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-02-01 01:52:44,34.207.138.123,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-01 01:52:44,101.47.161.151,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-01 01:52:44,103.191.14.210,100,Indonesia,Utan,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,Residential/Business,False
+2026-02-01 01:52:44,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-01 01:52:44,165.227.40.87,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-01 01:52:44,95.229.5.248,100,Italy,Rimini,Telecom Italia S.p.A.,INTERBUSINESS,Residential/Business,False
+2026-02-01 01:52:44,148.153.56.62,100,United States,Los Angeles,"CDS Global Cloud Co., Ltd","CDS Global Cloud Co., Ltd",Data Center,False
+2026-02-01 01:52:44,64.62.156.10,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-01 01:52:44,116.233.39.221,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-01 01:52:44,129.204.203.60,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-02-01 01:52:44,160.242.192.126,100,Togo,Lomé,TogoTelecom,MINISTERE DES POSTES ET DE L'ECONOMIE NUMERIQUE,Residential/Business,False
+2026-02-01 01:52:44,188.166.114.70,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-01 01:52:44,164.90.197.231,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,134.122.61.20,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,27.110.166.67,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-01 01:52:44,96.43.136.242,100,United States,Kansas City,"Joe's Datacenter, LLC",CyberCloud Professionals LLC,Data Center,True
+2026-02-01 01:52:44,103.59.163.133,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-02-01 01:52:44,149.62.187.236,100,Italy,Turin,Host SpA,Host SpA,Data Center,False
+2026-02-01 01:52:44,42.192.205.216,100,China,Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-02-01 01:52:44,165.232.86.195,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,178.62.228.79,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-01 01:52:44,83.229.122.23,100,Singapore,Singapore,Lucidacloud Limited,L L IX,Data Center,False
+2026-02-01 01:52:44,101.200.153.240,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-02-01 01:52:44,36.91.166.34,100,Indonesia,Gandaria Utara,PT Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-02-01 01:52:44,66.132.153.144,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-01 01:52:44,64.225.66.178,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,104.248.84.130,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-01 01:52:44,66.132.153.149,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-01 01:52:44,45.79.225.32,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-01 01:52:44,178.27.90.142,100,Germany,Bad Kreuznach,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-02-01 01:52:44,188.166.63.172,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-01 01:52:44,8.218.115.242,100,Hong Kong,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-01 01:52:44,217.216.34.160,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-02-01 01:52:44,167.99.43.29,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
