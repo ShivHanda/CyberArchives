@@ -16519,3 +16519,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-02 16:33:10,176.65.148.220,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
 2026-02-02 16:33:10,80.72.71.113,100,Bulgaria,Petrich,ULTRANET,UltraNET Ltd,Residential/Business,False
 2026-02-02 16:33:10,103.183.10.29,100,Indonesia,Madiun,PT Yasmin Amanah Media,,Residential/Business,False
+2026-02-02 18:36:06,47.251.93.227,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-02 18:36:06,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-02 18:36:06,78.42.241.233,100,Germany,Pforzheim,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-02-02 18:36:06,65.49.1.39,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 18:36:06,135.237.126.135,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-02 18:36:06,20.163.15.97,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-02 18:36:06,69.6.215.53,100,Brazil,São Paulo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-02 18:36:06,129.212.182.233,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-02 18:36:06,165.154.162.38,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-02 18:36:06,156.236.75.188,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-02-02 18:36:06,20.42.115.228,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-02 18:36:06,65.49.1.38,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 18:36:06,135.119.89.109,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-02 18:36:06,103.148.118.211,100,India,Palni,JOY SERVICES,Achievers Broadband,Residential/Business,False
+2026-02-02 18:36:06,20.194.29.45,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-02 18:36:06,195.184.76.241,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-02 18:36:06,40.124.186.157,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-02 18:36:06,65.49.1.33,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 18:36:06,94.26.106.109,100,Germany,Kriftel,SAS GENIUSWEER,,Residential/Business,False
+2026-02-02 18:36:06,65.49.1.31,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-02 18:36:06,118.163.178.146,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-02 18:36:06,152.32.252.65,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-02 18:36:06,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-02 18:36:06,65.49.1.28,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-02 18:36:06,152.32.145.111,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-02 18:36:06,49.207.241.203,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-02-02 18:36:06,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-02 18:36:06,103.67.78.202,100,Indonesia,Cileunyi,PT Cloud Hosting Indonesia,PT Fazza Multi Transportasi,Data Center,False
+2026-02-02 18:36:06,5.11.162.163,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-02-02 18:36:06,65.49.1.26,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-02 18:36:06,69.5.189.81,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-02 18:36:06,189.4.4.85,100,Brazil,Araucária,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-02-02 18:36:06,45.174.162.68,100,Brazil,Cururupu,Nando NET Fibra,Nando NET Fibra,Residential/Business,False
+2026-02-02 18:36:06,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-02 18:36:06,65.49.1.240,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 18:36:06,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-02 18:36:06,57.128.212.198,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-02 18:36:06,125.22.249.36,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-02-02 18:36:06,152.32.218.201,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-02 18:36:06,65.49.1.24,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 18:36:06,103.164.221.138,100,Indonesia,Jakarta,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-02-02 18:36:06,45.144.233.139,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-02-02 18:36:06,201.249.87.201,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-02 18:36:06,101.36.123.102,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-02 18:36:06,196.11.86.134,100,Malawi,Lilongwe,Simbanet Malawi Limited,,Residential/Business,False
