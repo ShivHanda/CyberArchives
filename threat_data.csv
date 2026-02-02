@@ -16189,3 +16189,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-02 01:45:46,209.38.105.136,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-02 01:45:46,45.148.10.196,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-02 01:45:46,14.103.107.26,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-02 04:19:52,104.236.145.128,100,United States,San Francisco,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-02 04:19:52,74.235.140.14,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-02 04:19:52,20.65.192.150,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-02 04:19:52,45.156.129.171,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-02 04:19:52,139.19.117.197,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,True
+2026-02-02 04:19:52,130.12.180.65,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-02-02 04:19:52,103.161.170.12,100,Vietnam,Mai Dich,VINABISON,Vina-bison International Trading Company Limited,Residential/Business,False
+2026-02-02 04:19:52,209.141.47.217,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-02 04:19:52,142.93.239.180,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-02 04:19:52,93.46.167.174,100,Italy,Fino Mornasco,Fastweb Networks,,Residential/Business,False
+2026-02-02 04:19:52,152.32.142.188,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-02 04:19:52,47.102.42.66,100,China,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-02-02 04:19:52,96.92.63.243,100,United States,Bloomfield Hills,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-02-02 04:19:52,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-02 04:19:52,81.213.109.126,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-02-02 04:19:52,178.20.210.151,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-02-02 04:19:52,192.227.159.123,100,United States,Buffalo,HostPapa,Green Value Server,Data Center,False
+2026-02-02 04:19:52,92.63.197.236,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-02-02 04:19:52,85.217.140.17,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-02 04:19:52,220.246.42.227,100,Hong Kong,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-02 04:19:52,104.211.72.80,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-02 04:19:52,103.164.221.138,100,Indonesia,Jakarta,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-02-02 04:19:52,20.205.96.233,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-02 04:19:52,47.236.128.234,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-02 04:19:52,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-02 04:19:52,66.132.153.159,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-02 04:19:52,85.18.236.229,100,Italy,Milan,Fastweb Networks,,Residential/Business,False
+2026-02-02 04:19:52,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-02 04:19:52,117.50.211.254,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-02 04:19:52,65.49.20.95,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 04:19:52,176.120.22.52,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-02 04:19:52,165.22.198.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-02 04:19:52,103.113.67.35,100,India,New Delhi,Dm Lot Infotech Solutions Private Limited,Dm Lot Infotech Solutions Private Limited,Residential/Business,False
+2026-02-02 04:19:52,193.163.125.170,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-02 04:19:52,45.137.172.116,100,Austria,Ostermiething,INTAC Services GmbH,INTAC Services GmbH,Residential/Business,False
+2026-02-02 04:19:52,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-02 04:19:52,13.86.105.19,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-02 04:19:52,154.82.113.13,100,Hong Kong,Hong Kong,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-02-02 04:19:52,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-02 04:19:52,138.124.67.230,100,The Netherlands,Eygelshoven,GCS SER,,Residential/Business,False
+2026-02-02 04:19:52,74.235.120.62,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-02 04:19:52,15.204.204.253,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-02-02 04:19:52,35.189.199.133,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-02 04:19:52,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-02 04:19:52,176.65.134.3,100,Slovenia,Maribor,Netiface LLC,,Residential/Business,False
