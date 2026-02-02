@@ -16329,3 +16329,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-02 08:36:40,31.177.95.217,100,Russia,Moscow,CENTER-HOSTING,JSC Ru-center,Data Center,False
 2026-02-02 08:36:40,14.103.247.214,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
 2026-02-02 08:36:40,176.65.139.7,100,United Kingdom,Hugh Town,ZeXoTeK IT-Services GmbH,ZeXoTeK IT-Services GmbH,Residential/Business,False
+2026-02-02 10:39:11,172.234.21.101,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-02 10:39:11,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-02 10:39:11,118.194.231.208,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-02 10:39:11,213.177.179.91,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-02 10:39:11,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-02 10:39:11,173.255.221.22,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-02 10:39:11,181.104.58.194,100,Argentina,Tilcara,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
+2026-02-02 10:39:11,79.124.40.82,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-02 10:39:11,103.244.207.187,100,Indonesia,Serpong,PT. Web Data Solusindo,PT Wahana Data Solusindo,Residential/Business,False
+2026-02-02 10:39:11,165.154.205.128,100,Singapore,Singapore,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-02 10:39:11,2.228.163.157,100,Italy,Rome,Fastweb Networks,,Residential/Business,False
+2026-02-02 10:39:11,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-02 10:39:11,155.248.164.42,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,True
+2026-02-02 10:39:11,46.188.119.26,100,Russia,Moscow,2COM,2COM Co ltd.,Residential/Business,False
+2026-02-02 10:39:11,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-02 10:39:11,167.250.118.12,100,Argentina,Bustinza,Coop. LTDA. de Cons. Pop. de Electricidad y Serv.Anexos de Bustinza,Coop. LTDA. de Cons. Pop. de Electricidad y Serv.Anexos de Bustinza,Residential/Business,False
+2026-02-02 10:39:11,45.151.91.78,100,Seychelles,Victoria,IP Vendetta Inc.,IP Vendetta Inc,Residential/Business,False
+2026-02-02 10:39:11,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-02 10:39:11,103.200.25.162,100,Vietnam,Nguyễn Du,MAXDATA,,Data Center,False
+2026-02-02 10:39:11,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-02 10:39:11,81.10.59.26,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-02-02 10:39:11,39.144.78.208,100,China,Jinrongjie,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-02-02 10:39:11,124.198.131.163,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-02 10:39:11,36.111.82.135,100,China,Hangzhou,China Telecom,Chinanet ZJ,Residential/Business,False
+2026-02-02 10:39:11,91.230.168.135,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-02 10:39:11,72.240.125.133,100,United States,Maumee,"Buckeye Cablevision, Inc.","Buckeye Cablevision, Inc.",Residential/Business,False
+2026-02-02 10:39:11,154.70.102.114,100,Cameroon,Douala,MTN Network Solutions (Cameroon),DataCenter Douala,Mobile,False
+2026-02-02 10:39:11,193.32.162.157,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-02 10:39:11,45.156.87.17,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-02-02 10:39:11,51.159.149.103,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-02-02 10:39:11,134.209.93.250,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-02 10:39:11,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-02 10:39:11,222.71.116.214,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-02 10:39:11,91.231.89.79,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-02 10:39:11,1.234.70.54,100,South Korea,Seocho-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-02-02 10:39:11,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-02 10:39:11,201.124.170.234,100,Mexico,Cuauhtémoc,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-02 10:39:11,203.251.202.80,100,South Korea,Hanam,Shinbiro,Shinbiro,Residential/Business,False
+2026-02-02 10:39:11,20.194.29.45,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-02 10:39:11,193.37.32.186,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-02-02 10:39:11,218.102.181.149,100,Hong Kong,Tai Po,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-02 10:39:11,64.227.139.157,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-02 10:39:11,4.221.162.168,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-02-02 10:39:11,14.103.173.254,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-02 10:39:11,64.62.156.35,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-02 10:39:11,204.76.203.25,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,True
+2026-02-02 10:39:11,130.49.216.252,100,The Netherlands,Naaldwijk,WorldStream B.V.,Hosting Quality Service,Data Center,False
+2026-02-02 10:39:11,164.177.31.66,100,France,Paris,BOUYGUES Telecom ISP,,Residential/Business,False
+2026-02-02 10:39:11,181.218.9.86,100,Brazil,Araranguá,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-02-02 10:39:11,184.105.247.220,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
