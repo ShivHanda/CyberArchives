@@ -16844,3 +16844,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-03 12:46:44,114.66.59.217,100,China,Beijing,China Telecom,"Beijing Yunlin Network Technology Co., Ltd",Residential/Business,False
 2026-02-03 12:46:44,72.144.12.31,100,Germany,Frankfurt am Main,BellSouth.net Inc.,Microsoft Azure Cloud (germanywestcentral),Data Center,False
 2026-02-03 12:46:44,159.203.173.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-03 14:40:33,87.236.176.99,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,True
+2026-02-03 14:40:33,45.142.193.122,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-03 14:40:33,206.189.4.124,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-03 14:40:33,170.64.224.249,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,187.207.45.136,100,Mexico,Tlalpan,UNINET,UNINET,Residential/Business,False
+2026-02-03 14:40:33,20.168.13.53,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-03 14:40:33,200.90.8.90,100,Venezuela,Maripa,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-03 14:40:33,23.227.147.163,100,United States,Piscataway,24Shells Inc.,Gold-networks.net,Data Center,True
+2026-02-03 14:40:33,161.35.147.97,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,101.47.48.65,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-03 14:40:33,36.50.55.18,100,Vietnam,Quận Hai,Interdigi Joint Stock Company,Interdigi Joint Stock Company,Residential/Business,False
+2026-02-03 14:40:33,164.90.201.112,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-03 14:40:33,45.135.194.48,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-03 14:40:33,65.49.1.113,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-03 14:40:33,122.187.222.54,100,India,Ahmedabad,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-02-03 14:40:33,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 14:40:33,101.36.118.248,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-03 14:40:33,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 14:40:33,152.52.199.126,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-03 14:40:33,166.171.122.252,100,United States,Van Nuys,"AT&T Enterprises, LLC","AT&T Services, Inc",Mobile,False
+2026-02-03 14:40:33,178.62.236.56,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-03 14:40:33,159.223.227.228,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,159.65.194.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-03 14:40:33,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-03 14:40:33,107.152.44.215,100,United States,Durham,Cloudfanatic.NET,Cloudfanatic,Data Center,False
+2026-02-03 14:40:33,5.181.87.241,100,Türkiye,Bursa,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,,Residential/Business,False
+2026-02-03 14:40:33,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 14:40:33,72.17.34.38,100,United States,Winter Park,Spectrum,Hilton Grand Vacations Seaworld,Residential/Business,False
+2026-02-03 14:40:33,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-03 14:40:33,209.85.222.197,100,United States,Mountain View,Google LLC,Google LLC,Data Center,False
+2026-02-03 14:40:33,162.243.204.125,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-03 14:40:33,174.138.70.162,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-03 14:40:33,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-03 14:40:33,103.18.229.242,100,Philippines,San Juan City,Bunny Communications,Bunny Communications LLC,Residential/Business,True
+2026-02-03 14:40:33,106.51.75.252,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-02-03 14:40:33,167.172.45.183,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 14:40:33,49.51.72.236,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-02-03 14:40:33,54.144.185.255,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-03 14:40:33,89.23.115.80,100,Russia,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",Data Center,False
+2026-02-03 14:40:33,188.166.50.128,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-03 14:40:33,4.194.25.75,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-03 14:40:33,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
