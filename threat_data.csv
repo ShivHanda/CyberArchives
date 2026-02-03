@@ -16654,3 +16654,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-03 04:10:29,101.47.142.215,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
 2026-02-03 04:10:29,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
 2026-02-03 04:10:29,101.47.141.6,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-03 06:43:04,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 06:43:04,188.166.218.64,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-03 06:43:04,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 06:43:04,3.236.46.46,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-03 06:43:04,160.174.129.232,100,Morocco,Rabat,pool Menara,,Residential/Business,False
+2026-02-03 06:43:04,20.169.107.109,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-03 06:43:04,89.248.167.131,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-02-03 06:43:04,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-02-03 06:43:04,116.110.156.98,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-02-03 06:43:04,101.36.97.131,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-03 06:43:04,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-03 06:43:04,3.225.10.85,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-03 06:43:04,40.124.120.52,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,True
+2026-02-03 06:43:04,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-02-03 06:43:04,81.30.212.94,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-02-03 06:43:04,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-03 06:43:04,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 06:43:04,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-03 06:43:04,64.62.156.99,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-03 06:43:04,95.79.34.101,100,Russia,Nizhniy Novgorod,"CJSC ""ER-Telecom Holding"" Nizhny Novgorod branch","CJSC ""ER-Telecom Holding"" Nizhny Novgorod",Residential/Business,False
+2026-02-03 06:43:04,165.154.172.249,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-03 06:43:04,101.47.141.128,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-03 06:43:04,91.231.89.253,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-03 06:43:04,158.94.210.93,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-03 06:43:04,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 06:43:04,94.26.106.114,100,Germany,Kriftel,SAS GENIUSWEER,,Residential/Business,False
+2026-02-03 06:43:04,195.184.76.155,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-03 06:43:04,47.107.155.150,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-02-03 06:43:04,45.84.107.54,100,Sweden,Sundbyberg,QuxLabs AB,R0CKET-CLOUD,Residential/Business,True
+2026-02-03 06:43:04,212.11.64.156,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-03 06:43:04,14.98.244.193,100,India,Hyderabad,Tata Teleservices LTD - Tata Indicom - Cdma Division,Tata Teleservices LTD Cdma,Mobile,False
+2026-02-03 06:43:04,195.184.76.77,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-03 06:43:04,48.216.243.151,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-03 06:43:04,51.15.56.200,100,The Netherlands,Haarlem,Online SAS NL,SCALEWAY,Data Center,False
+2026-02-03 06:43:04,129.212.189.231,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 06:43:04,182.37.93.222,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-02-03 06:43:04,43.139.112.219,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-02-03 06:43:04,13.89.125.27,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-03 06:43:04,45.40.57.23,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-03 06:43:04,190.57.251.10,100,Argentina,Buenos Aires,Gigared S.A.,Gigared S.A,Residential/Business,False
+2026-02-03 06:43:04,152.42.203.0,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 06:43:04,185.93.89.121,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-03 06:43:04,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-03 06:43:04,144.202.82.88,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-02-03 06:43:04,134.199.197.11,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
