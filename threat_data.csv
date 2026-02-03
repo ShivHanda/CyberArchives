@@ -16699,3 +16699,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-03 06:43:04,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
 2026-02-03 06:43:04,144.202.82.88,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
 2026-02-03 06:43:04,134.199.197.11,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 08:31:10,203.57.206.148,100,China,Wenquan,Cloud Computing Corporation,Chinanet FJ,Data Center,False
+2026-02-03 08:31:10,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 08:31:10,65.49.1.132,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-03 08:31:10,203.150.162.250,100,Thailand,Vadhana,Internet Thailand Company Ltd,INEXT Broadband Company Limited,Residential/Business,False
+2026-02-03 08:31:10,14.103.178.182,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-03 08:31:10,147.50.231.135,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,False
+2026-02-03 08:31:10,150.249.252.237,100,Japan,Tokyo,Sony Network Communications Inc,Sony Network Communications Inc.,Residential/Business,False
+2026-02-03 08:31:10,179.126.168.153,100,Brazil,Pará de Minas,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-02-03 08:31:10,45.138.158.114,100,Uzbekistan,Tashkent,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,False
+2026-02-03 08:31:10,152.69.212.11,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-03 08:31:10,201.76.120.30,100,Brazil,Montenegro,Vero S.A,Vero S.A,Residential/Business,False
+2026-02-03 08:31:10,34.131.197.40,100,India,New Delhi,Google LLC,Google Cloud (asia-south2),Data Center,False
+2026-02-03 08:31:10,37.111.53.110,100,Myanmar,Magway,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-02-03 08:31:10,51.89.166.236,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,True
+2026-02-03 08:31:10,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-03 08:31:10,103.199.16.90,100,Vietnam,Vinhomes Times City,365 Online technology joint stock company,Greencloud Limited,Residential/Business,False
+2026-02-03 08:31:10,123.52.202.92,100,China,Zhengzhou,Chinanet,,Residential/Business,False
+2026-02-03 08:31:10,45.158.59.14,100,Singapore,Singapore,MoeChuang Network Limited,WS Networks B V,Residential/Business,True
+2026-02-03 08:31:10,181.215.182.170,100,Brazil,Porto Seguro,SV INTERNET,SV PROVEDOR DE INTERNET LTDA - ME,Residential/Business,True
+2026-02-03 08:31:10,20.65.137.167,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-03 08:31:10,85.215.227.149,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-02-03 08:31:10,77.238.251.237,100,The Netherlands,Amsterdam,Servers Tech Fzco,,Residential/Business,False
+2026-02-03 08:31:10,132.248.55.4,100,Mexico,Mexico City,Universidad Nacional Autonoma de Mexico,Universidad Nacional Autonoma de Mexico,Residential/Business,False
+2026-02-03 08:31:10,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-03 08:31:10,20.194.29.45,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-03 08:31:10,34.56.168.230,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-03 08:31:10,20.63.209.182,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-03 08:31:10,80.253.31.232,100,Russia,Moscow,LLC SETEL,LLC Setel,Residential/Business,False
+2026-02-03 08:31:10,40.74.73.245,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-03 08:31:10,20.200.210.155,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-03 08:31:10,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-03 08:31:10,20.214.155.227,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-03 08:31:10,34.60.131.171,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-03 08:31:10,52.169.206.229,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-03 08:31:10,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 08:31:10,4.213.174.69,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-03 08:31:10,23.236.55.230,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-03 08:31:10,51.38.109.223,100,Germany,Limburg an der Lahn,OVH SAS,OVH BV,Data Center,False
+2026-02-03 08:31:10,51.89.25.52,100,United Kingdom,London,OVH SAS,OVH BV,Data Center,False
+2026-02-03 08:31:10,207.90.244.20,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-02-03 08:31:10,52.230.35.34,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-03 08:31:10,130.12.181.143,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-03 08:31:10,194.26.192.68,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-03 08:31:10,15.204.155.25,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-02-03 08:31:10,136.119.129.236,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
