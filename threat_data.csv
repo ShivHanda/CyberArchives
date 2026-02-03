@@ -16609,3 +16609,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-03 01:45:06,178.128.19.113,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
 2026-02-03 01:45:06,185.226.197.74,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Data Center,False
 2026-02-03 01:45:06,195.3.221.8,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-03 04:10:29,45.227.254.10,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-02-03 04:10:29,196.0.120.211,100,Uganda,Kampala,Uganda Telecom Ltd,UTL,Residential/Business,False
+2026-02-03 04:10:29,116.110.219.122,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-02-03 04:10:29,183.239.20.236,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-02-03 04:10:29,40.115.138.186,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-03 04:10:29,165.227.238.235,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 04:10:29,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 04:10:29,120.48.85.137,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-03 04:10:29,165.154.138.3,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-03 04:10:29,20.163.33.22,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-03 04:10:29,138.97.66.106,100,Brazil,Maricá,Westlink Tecnologia E Comunicacao Ltda. - ME,Westlink Tecnologia E Comunicacao Ltda. - ME,Residential/Business,False
+2026-02-03 04:10:29,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-03 04:10:29,52.202.233.37,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-03 04:10:29,85.217.140.8,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-03 04:10:29,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 04:10:29,172.190.42.55,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-03 04:10:29,45.195.75.36,100,Turkey,Istanbul,Bitwise Yazilim Internet Ve Ticaret Limited Sirketi,Bitwise Software Internet and Trade Limited Company,Residential/Business,False
+2026-02-03 04:10:29,64.62.197.28,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-03 04:10:29,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-03 04:10:29,176.53.96.10,100,Turkey,Istanbul,Radore Veri Merkezi Hizmetleri A.S.,Radore,Data Center,False
+2026-02-03 04:10:29,146.190.233.170,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 04:10:29,37.58.136.133,100,France,Paris,Adista SAS,Ogec Saint Joseph Lorient,Data Center,False
+2026-02-03 04:10:29,106.13.169.174,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-03 04:10:29,130.12.182.211,100,The Netherlands,Eygelshoven,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-03 04:10:29,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-03 04:10:29,85.217.140.3,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-03 04:10:29,187.16.96.250,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-02-03 04:10:29,101.47.142.206,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-03 04:10:29,115.247.214.210,100,India,Bengaluru,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-02-03 04:10:29,138.124.158.147,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-02-03 04:10:29,107.189.29.155,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-03 04:10:29,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-03 04:10:29,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 04:10:29,212.73.148.19,100,Singapore,Singapore,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-03 04:10:29,185.196.9.127,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-03 04:10:29,179.33.186.151,100,Colombia,Turbaná,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-02-03 04:10:29,218.17.113.148,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-03 04:10:29,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-03 04:10:29,185.226.197.49,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Data Center,False
+2026-02-03 04:10:29,101.126.55.95,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-02-03 04:10:29,93.152.230.35,100,Kazakhstan,Almaty,Shereverov Marat Ahmedovich,"""Euro Crypt"" EOOD",Residential/Business,True
+2026-02-03 04:10:29,86.54.42.205,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-03 04:10:29,101.47.142.215,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-03 04:10:29,91.224.92.74,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-03 04:10:29,101.47.141.6,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
