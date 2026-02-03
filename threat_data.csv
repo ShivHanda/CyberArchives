@@ -16744,3 +16744,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-03 08:31:10,194.26.192.68,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
 2026-02-03 08:31:10,15.204.155.25,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
 2026-02-03 08:31:10,136.119.129.236,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-03 10:34:28,211.254.212.59,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-03 10:34:28,103.139.192.90,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,PT. Halto Petirah Angrowangi,Data Center,False
+2026-02-03 10:34:28,220.118.173.234,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-03 10:34:28,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 10:34:28,87.228.27.214,100,Russia,St Petersburg,JSC Selectel,Selectel,Data Center,False
+2026-02-03 10:34:28,101.91.170.71,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-03 10:34:28,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 10:34:28,107.150.102.89,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-03 10:34:28,164.92.106.138,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 10:34:28,200.196.41.84,100,Brazil,Conselheiro Lafaiete,CN TELECOM SERVICOS DE INTERNET LTDA,CN TELECOM SERVICOS DE INTERNET LTDA,Residential/Business,False
+2026-02-03 10:34:28,161.248.162.15,100,India,Mumbai,JOY SERVICES,Joy Data Services,Residential/Business,False
+2026-02-03 10:34:28,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-03 10:34:28,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-03 10:34:28,180.184.52.206,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,True
+2026-02-03 10:34:28,34.79.185.164,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-03 10:34:28,15.204.155.25,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-02-03 10:34:28,103.164.20.29,100,Indonesia,Makassar,PT Malfi Karya Berkah,PT Malfi Karya Berkah,Residential/Business,False
+2026-02-03 10:34:28,168.75.78.99,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-02-03 10:34:28,34.29.72.165,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-03 10:34:28,77.83.39.253,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-03 10:34:28,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-03 10:34:28,118.141.173.5,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-02-03 10:34:28,218.37.207.187,100,South Korea,Ansan-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-03 10:34:28,125.124.42.183,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-02-03 10:34:28,158.174.211.17,100,Sweden,Örebro,Bahnhof AB,General Private,Residential/Business,False
+2026-02-03 10:34:28,209.38.21.252,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-03 10:34:28,103.248.43.99,100,Cambodia,Phnom Penh,Telecom Cambodia (T.C.),Camnet,Residential/Business,False
+2026-02-03 10:34:28,79.175.176.177,100,Iran,Tehran,AFranet Co,Afranet,Data Center,False
+2026-02-03 10:34:28,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-03 10:34:28,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-03 10:34:28,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-03 10:34:28,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-03 10:34:28,103.31.39.143,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-02-03 10:34:28,186.248.197.77,100,Brazil,Belo Horizonte,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,Residential/Business,False
+2026-02-03 10:34:28,193.106.245.20,100,Poland,Krakow,3S S.A. LIR,3S S.A,Mobile,False
+2026-02-03 10:34:28,128.199.225.7,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-03 10:34:28,100.24.167.60,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-03 10:34:28,206.168.34.63,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-03 10:34:28,41.58.186.130,100,Nigeria,Lagos,Swift Networks Limited,,Residential/Business,False
+2026-02-03 10:34:28,198.12.88.134,100,United States,Buffalo,HostPapa,,Data Center,True
+2026-02-03 10:34:28,184.105.247.238,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-03 10:34:28,212.11.64.164,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-03 10:34:28,45.12.237.61,100,Russia,St Petersburg,Beget LLC,Beget NET N,Data Center,False
+2026-02-03 10:34:28,64.62.197.136,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-03 10:34:28,199.47.82.18,100,United States,Portland,Turnitin LLC,Turnitin LLC,Residential/Business,True
+2026-02-03 10:34:28,2.59.119.152,100,Turkey,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam internet Hizmetleri,Residential/Business,False
+2026-02-03 10:34:28,119.92.70.82,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-03 10:34:28,94.154.172.26,100,Seychelles,Victoria,IP Vendetta Inc.,IP Vendetta Inc,Residential/Business,False
+2026-02-03 10:34:28,203.187.254.106,100,India,Bengaluru,YOU Broadband & Cable India Ltd,YOU Telecom India Pvt Ltd,Residential/Business,False
+2026-02-03 10:34:28,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
