@@ -17304,3 +17304,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-04 10:34:10,209.38.196.99,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-04 10:34:10,85.206.171.113,100,Lithuania,Šiauliai,"Informacines sistemos ir technologijos, UAB",GuruPrasan Sahu,Data Center,False
 2026-02-04 10:34:10,191.13.244.181,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-02-04 12:45:56,162.240.57.187,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-04 12:45:56,2.59.162.146,100,Lithuania,Vilnius,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-04 12:45:56,35.210.61.208,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-04 12:45:56,216.180.127.201,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-02-04 12:45:56,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-02-04 12:45:56,4.210.186.201,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-02-04 12:45:56,54.38.190.246,100,France,Strasbourg,OVH SAS,OVH,Data Center,True
+2026-02-04 12:45:56,84.201.243.44,100,Russia,Izhevsk,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Izhevsk branch",Residential/Business,False
+2026-02-04 12:45:56,176.65.148.66,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-04 12:45:56,64.62.156.120,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-04 12:45:56,142.93.239.240,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,185.227.135.215,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-02-04 12:45:56,146.190.26.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,195.184.76.134,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-04 12:45:56,190.167.210.83,100,Dominican Republic,Santo Domingo,Compañía Dominicana de Teléfonos S. A.,Banco Ahorro y Credito,Residential/Business,False
+2026-02-04 12:45:56,211.253.31.30,100,South Korea,Seocho-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-04 12:45:56,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-04 12:45:56,65.49.20.80,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-04 12:45:56,100.29.192.65,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-04 12:45:56,103.20.122.54,100,Singapore,Singapore,CyberWorld SG,,Residential/Business,False
+2026-02-04 12:45:56,216.172.112.222,100,United States,Roseau,Sjoberg's Inc,Sjoberg's Inc,Residential/Business,False
+2026-02-04 12:45:56,107.150.110.167,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-04 12:45:56,165.22.200.48,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-04 12:45:56,64.227.73.44,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-04 12:45:56,146.190.28.120,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-04 12:45:56,65.49.1.171,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-04 12:45:56,218.0.55.229,100,China,Hangzhou,China Telecom,,Residential/Business,False
+2026-02-04 12:45:56,3.145.48.255,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-04 12:45:56,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-04 12:45:56,194.107.115.2,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-02-04 12:45:56,159.223.13.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,65.49.1.26,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-04 12:45:56,57.134.214.95,100,Canada,Blenheim,Cogeco Connexion Inc.,Cogeco Connexion Inc,Residential/Business,False
+2026-02-04 12:45:56,46.29.238.171,100,Norway,Nordland,GIR SER,,Residential/Business,False
+2026-02-04 12:45:56,182.95.52.122,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-04 12:45:56,91.231.89.83,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-04 12:45:56,103.146.202.174,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-04 12:45:56,210.114.22.126,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-04 12:45:56,51.158.189.221,100,The Netherlands,Haarlem,Online S.A.S.,Scaleway,Data Center,False
+2026-02-04 12:45:56,159.223.2.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-04 12:45:56,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-04 12:45:56,45.179.193.82,100,Paraguay,Ciudad del Este,Saldivar Sosa Rodrigo Agustin,Saldivar Sosa Rodrigo Agustin,Residential/Business,False
