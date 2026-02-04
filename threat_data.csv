@@ -17399,3 +17399,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-04 14:38:20,129.212.176.157,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-04 14:38:20,176.120.22.52,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
 2026-02-04 14:38:20,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-02-04 16:40:03,103.37.60.30,100,Vietnam,Quận Tân Phú,Gofiber Software Technology Company Limited,GOFIBER-SOFTWARE,Residential/Business,False
+2026-02-04 16:40:03,172.105.128.11,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-02-04 16:40:03,109.105.209.8,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-02-04 16:40:03,139.19.117.197,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,True
+2026-02-04 16:40:03,198.96.88.236,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-02-04 16:40:03,76.105.66.240,100,United States,Jonesboro,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-02-04 16:40:03,157.97.107.143,100,Germany,Frankfurt am Main,IONOS SE,IONOS SE,Data Center,False
+2026-02-04 16:40:03,45.173.176.254,100,Brazil,São Paulo,Kobertura Telecom LTDA,Kobertura Telecom LTDA,Residential/Business,False
+2026-02-04 16:40:03,170.238.160.20,100,Brazil,Salvador,NCS-Fibra ( New Central Solutions ),NCS-Fibra ( New Central Solutions ),Residential/Business,False
+2026-02-04 16:40:03,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-02-04 16:40:03,45.94.31.26,100,Netherlands,Amsterdam,1337 Services GmbH,,Residential/Business,False
+2026-02-04 16:40:03,101.52.130.122,100,China,Chaowai,GDS CHANGAN SERVICES Ltd,GDS CHANGAN SERVICES Ltd.,Residential/Business,False
+2026-02-04 16:40:03,104.131.50.26,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-04 16:40:03,20.168.6.226,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-04 16:40:03,108.173.137.12,100,Canada,Hinton,TELUS Communications Inc,TELUS-FIBRE-HITNAB02,Residential/Business,False
+2026-02-04 16:40:03,203.57.70.191,100,China,Wenquan,Cloud Computing Corporation,Chinanet FJ,Data Center,False
+2026-02-04 16:40:03,91.231.89.70,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-04 16:40:03,152.67.110.201,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-02-04 16:40:03,221.232.240.26,100,China,Wuhan,Chinanet,Chinanet HB,Residential/Business,False
+2026-02-04 16:40:03,103.146.202.174,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-04 16:40:03,119.154.155.85,100,Pakistan,Bahawalpur,Pakistan Telecommuication company limited,Pakistan Telecommuication company limited,Residential/Business,False
+2026-02-04 16:40:03,185.165.191.26,100,United States,Ashburn,BlackHOST,BlackHOST,Residential/Business,True
+2026-02-04 16:40:03,41.186.188.69,100,Rwanda,Kigali,MTN Rwandacell,MTN Rwandacell,Residential/Business,False
+2026-02-04 16:40:03,85.217.140.14,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-04 16:40:03,100.29.128.75,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-04 16:40:03,50.6.224.234,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-02-04 16:40:03,187.107.88.97,100,Brazil,São Bernardo do Campo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-02-04 16:40:03,91.196.152.151,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-04 16:40:03,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-04 16:40:03,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-04 16:40:03,20.27.221.169,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-04 16:40:03,160.242.96.43,100,Namibia,Windhoek,Paratus Telecommunications Limited,Paratus Telecommunications Limited,Residential/Business,False
+2026-02-04 16:40:03,122.187.171.58,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-02-04 16:40:03,4.197.167.136,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-04 16:40:03,5.175.136.77,100,Türkiye,Istanbul,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,AltunHOST,Residential/Business,False
+2026-02-04 16:40:03,115.190.238.64,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-04 16:40:03,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-04 16:40:03,52.169.119.118,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-04 16:40:03,201.124.170.234,100,Mexico,Cuauhtémoc,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-04 16:40:03,104.131.3.211,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-04 16:40:03,128.14.231.72,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-04 16:40:03,203.25.208.110,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-02-04 16:40:03,116.48.143.166,100,Hong Kong,Lower Wong Tai Sin Estate,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-04 16:40:03,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-04 16:40:03,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
