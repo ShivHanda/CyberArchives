@@ -17764,3 +17764,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-05 08:36:55,34.91.58.35,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
 2026-02-05 08:36:55,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
 2026-02-05 08:36:55,162.241.131.0,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-02-05 10:35:27,45.156.87.246,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,True
+2026-02-05 10:35:27,101.126.68.11,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-05 10:35:27,212.11.64.164,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-05 10:35:27,36.99.46.101,100,China,Shanghai,China Telecom,Chinanet HA,Residential/Business,False
+2026-02-05 10:35:27,13.86.115.189,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-05 10:35:27,213.177.179.62,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-05 10:35:27,82.65.90.225,100,France,Montech,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-02-05 10:35:27,189.143.67.138,100,Mexico,Acapulco de Juárez,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-05 10:35:27,59.26.132.170,100,South Korea,Daejeon,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-05 10:35:27,119.1.156.50,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,True
+2026-02-05 10:35:27,13.65.188.99,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-05 10:35:27,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-05 10:35:27,107.150.96.184,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-05 10:35:27,154.83.197.30,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-05 10:35:27,213.176.16.157,100,The Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-05 10:35:27,98.122.215.23,100,United States,Apex,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-02-05 10:35:27,182.95.230.150,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-05 10:35:27,219.128.55.238,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-05 10:35:27,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-05 10:35:27,194.180.49.117,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-05 10:35:27,189.8.108.39,100,Brazil,Balneário Camboriú,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA.,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA,Residential/Business,False
+2026-02-05 10:35:27,185.249.40.156,100,The Netherlands,Wormerveer,MessageToTheMoon-Infra,Message To The Moon B.V.,Residential/Business,False
+2026-02-05 10:35:27,118.26.104.93,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-05 10:35:27,91.84.116.64,100,The Netherlands,Amsterdam,Servers Tech Fzco,Servers Tech Fzco,Residential/Business,False
+2026-02-05 10:35:27,189.8.108.156,100,Brazil,Balneário Camboriú,CST SERVIÇOS DE INFORMÁTICA E CALL CENTER LTDA,Betel Bar e Restaurante,Residential/Business,False
+2026-02-05 10:35:27,64.62.197.173,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-05 10:35:27,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-05 10:35:27,45.227.253.170,100,Bolivia,La Paz,Flyservers S.A,Nextcloud S.A,Residential/Business,False
+2026-02-05 10:35:27,91.231.89.248,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 10:35:27,8.221.137.196,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-05 10:35:27,68.183.94.236,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 10:35:27,45.55.43.145,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-05 10:35:27,91.196.152.230,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 10:35:27,103.176.79.117,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,True
+2026-02-05 10:35:27,118.219.255.169,100,South Korea,Gwangjin-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-05 10:35:27,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-05 10:35:27,185.156.73.166,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,True
+2026-02-05 10:35:27,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-05 10:35:27,150.129.20.234,100,Cambodia,Phnom Penh,"Mega Truenet Communication Co., Ltd.","Mega Truenet Communication Co., Ltd",Residential/Business,False
+2026-02-05 10:35:27,185.176.220.77,100,Latvia,Riga,2 Cloud Ltd,2CLOUD,Residential/Business,False
+2026-02-05 10:35:27,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-05 10:35:27,178.128.167.105,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-05 10:35:27,34.125.133.58,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-02-05 10:35:27,67.222.132.207,100,United States,Dallas,DFW Datacenter,DFW Datacenter,Residential/Business,True
+2026-02-05 10:35:27,85.217.149.26,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
