@@ -17899,3 +17899,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-05 14:40:03,134.199.194.127,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-05 14:40:03,174.138.70.162,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-05 14:40:03,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-05 16:40:37,185.196.9.92,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-05 16:40:37,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-05 16:40:37,89.44.137.176,100,Romania,Peregu Mic,Romarg SRL,Romarg SRL,Data Center,False
+2026-02-05 16:40:37,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-05 16:40:37,111.26.218.97,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-05 16:40:37,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-05 16:40:37,106.12.149.123,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-05 16:40:37,154.209.5.122,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-02-05 16:40:37,142.93.63.222,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,157.245.115.125,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-05 16:40:37,164.90.203.203,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,14.97.117.34,100,India,Ahmedabad,Tata Teleservices LTD - Tata Indicom - Cdma Division,Tata Teleservices LTD Cdma,Mobile,False
+2026-02-05 16:40:37,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-05 16:40:37,92.118.39.101,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-05 16:40:37,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-05 16:40:37,14.103.177.217,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-05 16:40:37,161.118.211.239,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-05 16:40:37,51.254.103.32,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-05 16:40:37,77.90.185.16,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-05 16:40:37,79.124.40.82,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-05 16:40:37,103.148.195.198,100,Indonesia,Tabanan,Dinas Komunikasi DAN Informatika Kabupaten Tabanan,Dinas Komunikasi DAN Informatika Kabupaten Tabanan,Residential/Business,False
+2026-02-05 16:40:37,85.217.140.10,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-05 16:40:37,146.190.17.206,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,183.84.16.100,100,China,Beijing,"IDC, China Telecommunications Corporation",21ViaNet,Residential/Business,False
+2026-02-05 16:40:37,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-05 16:40:37,129.212.176.95,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,94.74.93.193,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
+2026-02-05 16:40:37,101.44.27.211,100,Mexico,Ciudad De México,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Data Center,False
+2026-02-05 16:40:37,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-05 16:40:37,187.212.24.61,100,Mexico,Puebla City,UNINET,UNINET,Residential/Business,False
+2026-02-05 16:40:37,206.189.12.215,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,45.156.129.112,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-05 16:40:37,45.181.45.238,100,Argentina,Lobería,Generacion Wi-fi SA,Astesano Alfredo Mario,Residential/Business,False
+2026-02-05 16:40:37,45.221.74.234,100,Uganda,Kampala,Simbanet (U) 3,,Residential/Business,False
+2026-02-05 16:40:37,167.99.34.30,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 16:40:37,185.93.89.38,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-05 16:40:37,78.128.114.66,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-05 16:40:37,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-05 16:40:37,103.239.252.132,100,Bangladesh,Dhaka,SSDTECH Object1,,Residential/Business,False
+2026-02-05 16:40:37,150.158.107.162,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-02-05 16:40:37,45.227.254.10,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,False
+2026-02-05 16:40:37,195.184.76.141,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 16:40:37,192.99.169.99,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-02-05 16:40:37,199.195.253.116,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-05 16:40:37,211.110.44.117,100,South Korea,Bucheon-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
