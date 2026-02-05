@@ -17944,3 +17944,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-05 16:40:37,192.99.169.99,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
 2026-02-05 16:40:37,199.195.253.116,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
 2026-02-05 16:40:37,211.110.44.117,100,South Korea,Bucheon-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-02-05 18:40:53,65.49.20.93,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,115.190.130.137,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-05 18:40:53,176.120.22.52,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-05 18:40:53,94.154.172.26,100,Seychelles,Victoria,IP Vendetta Inc.,IP Vendetta Inc,Residential/Business,False
+2026-02-05 18:40:53,146.190.227.37,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 18:40:53,65.49.20.92,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,152.32.218.149,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-05 18:40:53,148.113.12.133,100,India,Mumbai,OVH SAS,OVHTECH R&D (INDIA) PRIVATE LIMITED,Data Center,False
+2026-02-05 18:40:53,92.205.57.72,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-02-05 18:40:53,159.223.231.139,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 18:40:53,91.231.89.82,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 18:40:53,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-05 18:40:53,65.49.20.90,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,79.143.42.170,100,Ukraine,Vinnytsia,Telecommunication Company Vinteleport Ltd.,Vinteleport company,Residential/Business,False
+2026-02-05 18:40:53,65.49.20.89,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,190.32.246.14,100,Panama,Panama City,Cable & Wireless Panama,Cable & Wireless Panama,Residential/Business,False
+2026-02-05 18:40:53,199.45.154.133,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-05 18:40:53,82.118.234.86,100,Bulgaria,Sofia,DA International Group Ltd.,DA International Group Ltd,Data Center,False
+2026-02-05 18:40:53,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-05 18:40:53,45.129.231.10,100,Germany,Berngau,ColocaTel Inc.,ColocationX,Mobile,False
+2026-02-05 18:40:53,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-05 18:40:53,65.49.20.88,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,185.196.10.226,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-05 18:40:53,70.174.160.66,100,United States,Chandler,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-02-05 18:40:53,60.52.49.159,100,Malaysia,Cyberjaya,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-02-05 18:40:53,23.94.235.137,100,United States,Los Angeles,HostPapa,ColoCrossing,Data Center,False
+2026-02-05 18:40:53,65.49.20.87,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,87.236.176.134,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-05 18:40:53,194.107.115.199,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-02-05 18:40:53,2001:41d0:33a:a00::403,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-02-05 18:40:53,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-05 18:40:53,51.79.134.28,100,Philippines,Quezon City,OVH SAS,Skyzone Hosting,Data Center,False
+2026-02-05 18:40:53,139.185.34.77,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Data Center,False
+2026-02-05 18:40:53,13.89.124.222,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-05 18:40:53,62.182.132.94,100,Russia,St Petersburg,PJSC MegaFon,Net By Net Holding LLC,Mobile,False
+2026-02-05 18:40:53,65.49.20.85,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-05 18:40:53,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-05 18:40:53,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-05 18:40:53,94.74.84.26,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
+2026-02-05 18:40:53,66.132.153.112,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-05 18:40:53,65.49.20.84,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 18:40:53,187.107.88.97,100,Brazil,São Bernardo do Campo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-02-05 18:40:53,91.230.168.217,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 18:40:53,212.11.64.122,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
