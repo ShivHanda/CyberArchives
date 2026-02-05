@@ -17624,3 +17624,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-05 01:28:57,95.81.123.222,100,Russia,Moscow,I-servers LTD,POWER-SERVERS-ROLE-ORG,Residential/Business,False
 2026-02-05 01:28:57,143.42.164.182,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-02-05 01:28:57,113.31.107.103,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-05 04:10:02,138.204.127.54,100,Brazil,Cabo Frio,Costa Do Sol TV a cabo,Costa Do Sol TV a cabo,Residential/Business,False
+2026-02-05 04:10:02,92.118.39.152,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-05 04:10:02,130.12.181.185,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-05 04:10:02,184.105.247.194,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 04:10:02,47.145.151.168,100,United States,Baldwin Park,Frontier Communications Corporation,Frontier Communications Solutions,Residential/Business,False
+2026-02-05 04:10:02,128.199.184.19,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,165.227.119.154,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,68.111.37.186,100,United States,Goleta,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-02-05 04:10:02,165.22.41.228,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-05 04:10:02,162.243.60.61,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-05 04:10:02,167.172.35.237,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,159.223.227.107,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-05 04:10:02,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-05 04:10:02,118.107.220.15,100,Malaysia,Cyberjaya,Gigabit Hosting Sdn Bhd,Gigabit Hosting Sdn Bhd,Data Center,False
+2026-02-05 04:10:02,91.92.242.215,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-05 04:10:02,13.89.120.212,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-05 04:10:02,142.93.126.22,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,200.32.52.150,100,Argentina,Buenos Aires,Telefonica de Argentina,Huawei Tech Investment CO LTD,Residential/Business,True
+2026-02-05 04:10:02,204.76.203.206,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-05 04:10:02,64.62.197.167,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-05 04:10:02,167.71.73.117,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,185.247.137.245,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-05 04:10:02,102.164.104.30,100,South Africa,Johannesburg,ALICOM (PTY) LTD,ALICOM (PTY) LTD,Residential/Business,False
+2026-02-05 04:10:02,161.35.145.131,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,152.42.141.75,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-05 04:10:02,20.12.240.9,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-05 04:10:02,185.18.59.118,100,Bulgaria,Varna,DigiCom.BG,Digital Communications Ltd.,Residential/Business,False
+2026-02-05 04:10:02,104.248.198.104,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-05 04:10:02,203.110.233.225,100,China,Wenquan,China Telecom,Chinanet FJ,Residential/Business,False
+2026-02-05 04:10:02,143.198.19.29,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,134.122.63.12,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,209.38.33.50,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,172.190.42.55,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-05 04:10:02,64.62.156.229,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 04:10:02,65.49.1.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-05 04:10:02,91.196.152.185,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-05 04:10:02,103.82.37.117,100,Vietnam,Thanh Khê,Cloudfly Corporation,Cloudfly Corporation,Residential/Business,False
+2026-02-05 04:10:02,103.176.79.24,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-02-05 04:10:02,205.185.126.121,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-05 04:10:02,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-05 04:10:02,31.14.32.6,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-02-05 04:10:02,139.59.33.34,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-05 04:10:02,100.29.192.117,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-05 04:10:02,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
