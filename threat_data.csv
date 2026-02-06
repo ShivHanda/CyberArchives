@@ -18274,3 +18274,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-06 08:35:09,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-06 08:35:09,170.79.37.88,100,Peru,Santa Anita - Los Ficus,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
 2026-02-06 08:35:09,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,164.92.213.24,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,164.90.204.147,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,146.59.95.254,100,Poland,Torzym,OVH SAS,OVH Sp. z o. o,Data Center,True
+2026-02-06 10:34:00,167.172.47.202,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,165.232.80.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-06 10:34:00,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-06 10:34:00,187.33.59.116,100,Brazil,Guapiaçu,R & F BASSAN COM?RCIO SERVI?OS E SISTEMA LTDA - ME,R & F BASSAN COMÉRCIO SERVIÇOS E SISTEMA LTDA - ME,Residential/Business,False
+2026-02-06 10:34:00,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-06 10:34:00,104.248.197.130,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-06 10:34:00,115.190.95.198,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-06 10:34:00,206.168.34.200,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-06 10:34:00,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-06 10:34:00,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 10:34:00,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 10:34:00,178.62.223.227,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 10:34:00,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-06 10:34:00,86.54.31.34,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Global Gold Networks Ltd,Data Center,False
+2026-02-06 10:34:00,152.42.128.97,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 10:34:00,103.72.147.99,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-02-06 10:34:00,157.245.76.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,180.247.127.16,100,Indonesia,Surabaya,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-02-06 10:34:00,44.221.37.41,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-06 10:34:00,120.224.42.108,100,China,Jinan,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-06 10:34:00,20.188.20.33,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-06 10:34:00,157.245.77.60,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,177.54.62.66,100,Brazil,Criciúma,Engeplus Informatica Ltda,Coan Industria Grafica Ltda,Residential/Business,False
+2026-02-06 10:34:00,193.24.211.202,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-02-06 10:34:00,103.172.205.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-06 10:34:00,78.153.140.250,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-02-06 10:34:00,185.93.89.48,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-06 10:34:00,178.128.242.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-06 10:34:00,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 10:34:00,54.156.248.117,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-06 10:34:00,77.90.185.75,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-06 10:34:00,80.64.28.82,100,Russia,Khabarovsk,Fsue Rtrn,Fsue Rtrn,Residential/Business,False
+2026-02-06 10:34:00,167.71.13.236,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,77.90.185.105,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-06 10:34:00,77.90.185.92,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-06 10:34:00,211.47.75.61,100,South Korea,Seoul,LG DACOM Corporation,GABIA Inc.,Residential/Business,False
+2026-02-06 10:34:00,193.163.125.38,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 10:34:00,64.227.153.102,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 10:34:00,170.39.218.251,100,France,Paris,FBW Reseaux Fibres inc.,,Residential/Business,False
+2026-02-06 10:34:00,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
