@@ -18364,3 +18364,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-06 12:46:26,161.35.157.102,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-06 12:46:26,159.65.202.201,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-06 12:46:26,188.166.34.216,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 14:37:19,187.107.88.97,100,Brazil,São Bernardo do Campo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-02-06 14:37:19,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-06 14:37:19,3.80.228.212,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-06 14:37:19,178.62.227.216,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 14:37:19,195.184.76.225,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-06 14:37:19,159.223.214.77,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,188.240.196.227,100,Iran,Tehran,Web Dadeh Paydar Co (Ltd),Padidar Technology PJSC,Residential/Business,False
+2026-02-06 14:37:19,36.50.84.157,100,Japan,Tokyo,xTom Japan Corporation,Hostsymbol Pte. Ltd,Residential/Business,False
+2026-02-06 14:37:19,64.62.156.222,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-06 14:37:19,103.250.11.156,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-06 14:37:19,109.75.40.243,100,Armenia,Yerevan,UCOM-SUBSCRIBERS,,Residential/Business,False
+2026-02-06 14:37:19,194.5.82.84,100,Singapore,Singapore,GSL Networks Pty LTD,,Residential/Business,True
+2026-02-06 14:37:19,178.62.226.51,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 14:37:19,102.219.126.32,100,Angola,Luanda,Angola Cables,This network is used for Angola Cables Cloud Services.,Residential/Business,False
+2026-02-06 14:37:19,179.48.68.85,100,Brazil,Serra,Villaggionet Telecomunicacoes,Villaggionet Telecomunicacoes,Residential/Business,False
+2026-02-06 14:37:19,20.220.62.160,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-06 14:37:19,206.168.34.125,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-06 14:37:19,69.5.23.113,100,Indonesia,Banguntapan,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-02-06 14:37:19,198.98.57.141,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-06 14:37:19,154.124.62.76,100,Senegal,Dakar,SONATEL-AS Autonomous System,,Residential/Business,False
+2026-02-06 14:37:19,92.101.128.251,100,Russia,Cherepovets,"OJSC ""North-West Telecom""",JSC North-West Telecom (Vologda),Residential/Business,False
+2026-02-06 14:37:19,165.227.60.64,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,20.65.194.112,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-06 14:37:19,77.90.185.80,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-06 14:37:19,192.64.112.17,100,United States,Phoenix,Web-hosting.com,3402 East University,Data Center,True
+2026-02-06 14:37:19,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-02-06 14:37:19,159.223.222.31,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,165.232.81.241,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,192.163.196.216,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-06 14:37:19,51.89.1.86,100,United Kingdom,London,OVH SAS,OVH GmbH,Data Center,False
+2026-02-06 14:37:19,62.14.96.56,100,Spain,Pozuelo de Alarcón,Orange Spain,Jazztel triple play services,Residential/Business,False
+2026-02-06 14:37:19,193.163.125.245,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 14:37:19,64.227.70.48,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,103.172.28.62,100,Bangladesh,Thakurgaon,Hamid Electronics & Automobiles,,Mobile,False
+2026-02-06 14:37:19,61.173.167.63,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-06 14:37:19,101.47.143.252,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-06 14:37:19,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-02-06 14:37:19,188.226.148.205,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 14:37:19,64.23.143.185,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-06 14:37:19,112.186.241.102,100,South Korea,Cheongju-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-06 14:37:19,193.35.154.169,100,Turkey,Beyoğlu,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Residential/Business,False
+2026-02-06 14:37:19,213.160.71.14,100,Germany,Aachen,Hosting.de GmbH,.net,Data Center,False
+2026-02-06 14:37:19,47.89.246.144,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-06 14:37:19,110.39.9.137,100,Pakistan,Lahore,Wateen Telecom Limited,Wateen Telecom Limited,Mobile,False
+2026-02-06 14:37:19,159.223.212.48,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 14:37:19,188.166.16.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 14:37:19,94.154.93.181,100,Russia,Glazov,PE Romankov,PE Romankov Dmitry Vladimirovich,Residential/Business,False
+2026-02-06 14:37:19,36.95.221.140,100,Indonesia,South Tangerang,PT. Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-02-06 14:37:19,182.60.214.33,100,India,Thiruvananthapuram,Mahanagar Telephone Nigam Limited,Mahanagar Telephone Nigam Limited,Residential/Business,False
+2026-02-06 14:37:19,193.163.125.8,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
