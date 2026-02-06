@@ -18464,3 +18464,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-06 16:37:49,183.84.16.100,100,China,Beijing,"IDC, China Telecommunications Corporation",21ViaNet,Residential/Business,False
 2026-02-06 16:37:49,190.184.222.63,100,Argentina,General Pico,Corpico Ltda,Corpico Ltda,Residential/Business,False
 2026-02-06 16:37:49,201.249.192.30,100,Venezuela,San Carlos del Zulia,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-06 18:41:19,87.236.176.174,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,52.165.82.26,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-06 18:41:19,185.247.137.18,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,45.77.246.163,100,Singapore,Singapore,The Constant Company,"Vultr Holdings, LLC",Data Center,True
+2026-02-06 18:41:19,185.114.175.11,100,Spain,Manises,Occentus Network SL,Edgewatch Security Intelligence,Residential/Business,False
+2026-02-06 18:41:19,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 18:41:19,20.64.106.29,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-06 18:41:19,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-06 18:41:19,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-06 18:41:19,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-06 18:41:19,85.111.68.98,100,Türkiye,Istanbul,Turk Telekomunikasyon Anonim Sirketi,TurkTelecom,Residential/Business,False
+2026-02-06 18:41:19,165.154.36.71,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-06 18:41:19,221.151.181.65,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-06 18:41:19,187.108.193.162,100,Brazil,Brooklin,EVEO Serviços de Internet Ltda.,Eveo S.A,Residential/Business,False
+2026-02-06 18:41:19,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 18:41:19,5.187.97.40,100,Guadeloupe,Pointe-à-Pitre,CANAL+ TELECOM ANTILLES,,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.172,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,103.210.22.17,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,True
+2026-02-06 18:41:19,117.245.248.47,100,India,Chidawa,BSNL Internet,,Residential/Business,False
+2026-02-06 18:41:19,190.181.44.194,100,Bolivia,Santa Cruz de la Sierra,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-02-06 18:41:19,162.240.39.179,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-06 18:41:19,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 18:41:19,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.168,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,91.231.89.64,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-06 18:41:19,20.203.201.174,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-06 18:41:19,27.79.6.57,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-06 18:41:19,46.62.143.176,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-02-06 18:41:19,115.220.157.41,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.167,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,104.248.198.18,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 18:41:19,20.102.42.78,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-06 18:41:19,202.29.225.206,100,Thailand,Phetchaburi,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-02-06 18:41:19,164.68.125.133,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-06 18:41:19,66.116.207.52,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-06 18:41:19,183.87.217.222,100,India,Mumbai,INPL's,,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.164,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,106.51.64.128,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.163,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,87.236.176.160,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-06 18:41:19,155.4.244.107,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-02-06 18:41:19,165.154.226.119,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-06 18:41:19,209.38.249.149,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-06 18:41:19,101.47.48.243,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-06 18:41:19,45.148.10.160,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
