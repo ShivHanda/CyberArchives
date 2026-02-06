@@ -18229,3 +18229,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-06 06:46:18,91.196.152.217,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-02-06 06:46:18,123.58.213.127,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-02-06 06:46:18,124.155.125.131,100,Japan,Kitazawa,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-02-06 08:35:09,102.218.89.110,100,Uganda,Kampala,Sprint Internet Limited,Sprint Internet Limited,Residential/Business,False
+2026-02-06 08:35:09,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 08:35:09,173.249.7.147,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-06 08:35:09,164.90.203.3,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,174.138.7.111,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,20.29.19.243,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-06 08:35:09,134.209.201.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-06 08:35:09,20.98.254.85,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-06 08:35:09,159.223.221.239,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,59.120.198.91,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-06 08:35:09,185.196.10.253,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-06 08:35:09,20.65.195.125,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-06 08:35:09,167.71.70.114,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,20.114.185.119,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-06 08:35:09,128.14.229.76,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-06 08:35:09,152.32.234.97,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-06 08:35:09,149.54.62.162,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-02-06 08:35:09,45.78.198.158,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-06 08:35:09,79.124.40.174,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-06 08:35:09,134.122.55.153,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,165.232.83.38,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-06 08:35:09,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Residential/Business,True
+2026-02-06 08:35:09,47.250.130.70,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-06 08:35:09,185.221.162.249,100,Russia,Moscow,First Server Limited,First Server Limited,Residential/Business,False
+2026-02-06 08:35:09,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-06 08:35:09,112.216.129.27,100,South Korea,Anyang-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-06 08:35:09,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-06 08:35:09,40.70.26.226,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-06 08:35:09,209.38.46.150,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,103.187.147.214,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,True
+2026-02-06 08:35:09,140.245.109.245,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-06 08:35:09,189.90.33.23,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
+2026-02-06 08:35:09,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-06 08:35:09,165.232.93.143,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-06 08:35:09,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-06 08:35:09,102.219.126.32,100,Angola,Luanda,Angola Cables,This network is used for Angola Cables Cloud Services.,Residential/Business,False
+2026-02-06 08:35:09,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-06 08:35:09,20.65.193.0,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-06 08:35:09,161.35.91.49,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-06 08:35:09,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 08:35:09,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-06 08:35:09,170.79.37.88,100,Peru,Santa Anita - Los Ficus,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
+2026-02-06 08:35:09,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
