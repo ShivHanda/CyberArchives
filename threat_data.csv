@@ -19064,3 +19064,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-07 20:20:49,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-07 20:20:49,43.166.242.149,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
 2026-02-07 20:20:49,103.250.11.25,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-07 22:20:04,65.49.1.116,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 22:20:04,73.144.27.228,100,United States,Grand Rapids,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-02-07 22:20:04,86.54.42.13,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-07 22:20:04,23.227.147.163,100,United States,Piscataway,24Shells Inc.,Gold-networks.net,Data Center,True
+2026-02-07 22:20:04,20.98.128.249,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 22:20:04,103.179.57.150,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,Idnic,Data Center,True
+2026-02-07 22:20:04,161.49.89.39,100,Philippines,Pasig,Converge ICT Solution Inc,Converge ICT Solution Inc,Residential/Business,False
+2026-02-07 22:20:04,206.189.2.175,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,142.93.232.242,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,142.93.137.9,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,134.122.49.68,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,208.109.34.86,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-02-07 22:20:04,81.192.46.45,100,Morocco,Marrakesh,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-07 22:20:04,189.178.54.81,100,Mexico,Guadalajara,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-07 22:20:04,61.155.106.101,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-02-07 22:20:04,14.225.255.140,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-02-07 22:20:04,52.205.222.214,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-07 22:20:04,167.172.41.249,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,27.223.98.117,100,China,Qingdao,China Unicom Shandong Province Network,,Residential/Business,True
+2026-02-07 22:20:04,109.205.211.61,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-02-07 22:20:04,202.165.22.246,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-02-07 22:20:04,41.83.203.55,100,Senegal,Dakar,aaaa Pool1-ADSL-IPP-bas5,,Residential/Business,False
+2026-02-07 22:20:04,178.62.225.206,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-07 22:20:04,61.77.88.90,100,South Korea,Gwangju,Korea Telecom,Kornet,Residential/Business,False
+2026-02-07 22:20:04,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-07 22:20:04,34.78.138.227,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-07 22:20:04,138.68.92.168,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,209.38.43.68,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,178.128.243.199,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-07 22:20:04,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-07 22:20:04,130.49.215.33,100,The Netherlands,Naaldwijk,Shesternin Vladimir Anatolievich,Shesternin Vladimir Anatolievich,Residential/Business,False
+2026-02-07 22:20:04,106.12.45.125,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-07 22:20:04,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 22:20:04,45.148.10.244,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 22:20:04,52.205.113.104,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-07 22:20:04,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-07 22:20:04,183.36.25.148,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-07 22:20:04,183.179.164.210,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-02-07 22:20:04,164.92.218.146,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 22:20:04,43.225.142.196,100,Thailand,Bangkok,Dragon Network Int'l Co. Ltd,Dragon Network Intl Co. Ltd,Data Center,False
+2026-02-07 22:20:04,40.124.175.136,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-07 22:20:04,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 22:20:04,178.20.210.135,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-02-07 22:20:04,92.118.39.36,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-07 22:20:04,194.180.48.63,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
