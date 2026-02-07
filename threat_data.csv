@@ -18784,3 +18784,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-07 08:24:46,122.114.113.177,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
 2026-02-07 08:24:46,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
 2026-02-07 08:24:46,51.38.128.145,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-07 10:20:09,20.46.235.137,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 10:20:09,128.199.184.19,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 10:20:09,136.119.213.208,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-07 10:20:09,52.21.227.35,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-07 10:20:09,35.154.252.47,100,India,Mumbai,Amazon Technologies Inc.,AWS EC2 (ap-south-1),Data Center,False
+2026-02-07 10:20:09,13.89.124.223,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 10:20:09,122.51.94.70,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,Guangzhou Haizhiguang communication technology Limited,Residential/Business,False
+2026-02-07 10:20:09,64.227.76.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 10:20:09,218.29.196.162,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,True
+2026-02-07 10:20:09,103.172.204.220,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-07 10:20:09,139.59.79.179,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 10:20:09,212.11.64.156,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-07 10:20:09,24.199.117.9,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-07 10:20:09,130.12.180.135,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-02-07 10:20:09,20.46.232.134,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 10:20:09,45.78.198.178,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-07 10:20:09,152.32.207.229,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-07 10:20:09,176.65.151.202,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-07 10:20:09,196.189.155.89,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-02-07 10:20:09,64.62.156.146,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 10:20:09,124.163.255.210,100,China,Haidian,CNC Group CHINA169 Shan1xi Province Network,,Residential/Business,False
+2026-02-07 10:20:09,122.186.154.250,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-02-07 10:20:09,178.173.248.96,100,Netherlands,Amsterdam,SIA VEESP,Nerocloud Inc,Data Center,False
+2026-02-07 10:20:09,45.79.153.51,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-07 10:20:09,119.148.49.82,100,Bangladesh,Dhaka,Agni Systems Limited,Agni Systems Ltd.,Mobile,False
+2026-02-07 10:20:09,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 10:20:09,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-07 10:20:09,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 10:20:09,20.46.231.161,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 10:20:09,80.94.92.66,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 10:20:09,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 10:20:09,103.184.155.242,100,India,Thāne,Beauty Infotech,,Residential/Business,False
+2026-02-07 10:20:09,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 10:20:09,154.83.197.167,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-07 10:20:09,187.107.88.97,100,Brazil,São Bernardo do Campo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-02-07 10:20:09,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-02-07 10:20:09,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-07 10:20:09,85.217.140.7,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-07 10:20:09,174.138.70.162,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-07 10:20:09,187.210.77.100,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Mobile,False
+2026-02-07 10:20:09,199.45.154.181,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-07 10:20:09,91.73.167.202,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications,Residential/Business,False
+2026-02-07 10:20:09,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-07 10:20:09,20.46.228.199,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-07 10:20:09,103.216.118.192,100,Vietnam,Tuy Hoa,INETSOFT,iNET software one member company limited,Residential/Business,False
