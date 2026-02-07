@@ -18644,3 +18644,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-07 01:27:53,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-07 01:27:53,146.88.241.57,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
 2026-02-07 01:27:53,49.247.31.241,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-02-07 04:03:56,100.29.192.83,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-07 04:03:56,78.128.114.162,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-07 04:03:56,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-07 04:03:56,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 04:03:56,209.141.33.240,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-07 04:03:56,192.155.84.194,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-07 04:03:56,206.168.34.159,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-07 04:03:56,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-07 04:03:56,69.5.189.131,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-07 04:03:56,178.178.222.62,100,Russia,Moscow,PJSC MegaFon,MF MB,Mobile,False
+2026-02-07 04:03:56,165.154.163.226,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-07 04:03:56,92.27.157.252,100,United Kingdom,Congleton,TalkTalk,TalkTalk Communications Limited,Residential/Business,False
+2026-02-07 04:03:56,212.33.235.243,100,Russia,Perm,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding""",Residential/Business,False
+2026-02-07 04:03:56,185.242.3.12,100,Ukraine,Khmelnytskyi,Podillia-hotel PJSC,Podillia-hotel PJSC,Residential/Business,False
+2026-02-07 04:03:56,118.194.229.98,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-07 04:03:56,185.93.89.43,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-07 04:03:56,146.190.17.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,152.32.189.21,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-07 04:03:56,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-07 04:03:56,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-02-07 04:03:56,185.93.89.71,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-07 04:03:56,138.197.162.64,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,68.183.2.198,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-07 04:03:56,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-07 04:03:56,80.253.31.232,100,Russia,Moscow,LLC SETEL,LLC Setel,Residential/Business,False
+2026-02-07 04:03:56,64.62.197.38,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-07 04:03:56,185.40.30.168,100,Russia,Moscow,Start2 LLC,NetRack STD,Data Center,False
+2026-02-07 04:03:56,85.217.149.14,100,United States,New York,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-07 04:03:56,115.231.78.10,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,False
+2026-02-07 04:03:56,161.35.88.216,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,18.218.81.94,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-07 04:03:56,177.126.130.163,100,Brazil,Artur Nogueira,Net Aki Internet Ltda,Net Aki Internet Ltda,Residential/Business,False
+2026-02-07 04:03:56,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 04:03:56,116.179.33.199,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-02-07 04:03:56,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 04:03:56,173.212.215.109,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-07 04:03:56,36.111.82.154,100,China,Hangzhou,China Telecom,Chinanet ZJ,Residential/Business,False
+2026-02-07 04:03:56,64.62.197.228,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-07 04:03:56,165.22.163.83,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,158.23.87.194,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-02-07 04:03:56,189.143.60.173,100,Mexico,Acapulco de Juárez,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-07 04:03:56,159.65.193.188,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 04:03:56,152.32.129.236,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-07 04:03:56,42.200.78.78,100,Hong Kong,Kadoorie,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
