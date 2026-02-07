@@ -18734,3 +18734,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-07 06:35:19,103.218.243.223,100,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,UCloud (HK) Holdings Group Limited,Data Center,False
 2026-02-07 06:35:19,179.125.24.202,100,Brazil,Mauá,G-LAB Telecom Informatica LTDA - ME,G-LAB Telecom Informatica LTDA - ME,Residential/Business,False
 2026-02-07 06:35:19,79.124.40.82,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-07 08:24:46,18.219.216.206,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-07 08:24:46,64.62.197.42,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-07 08:24:46,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-07 08:24:46,37.32.10.237,100,Iran,Tehran,Noyan Abr Arvan Co. ( Private Joint Stock),Noyan Abr Arvan Co. ( Private Joint Stock),Data Center,False
+2026-02-07 08:24:46,72.240.125.133,100,United States,Maumee,"Buckeye Cablevision, Inc.","Buckeye Cablevision, Inc.",Residential/Business,False
+2026-02-07 08:24:46,101.168.44.89,100,Australia,Sydney,Telstra Limited,Telstra Corporation,Mobile,False
+2026-02-07 08:24:46,103.42.57.149,100,Vietnam,Quận Ba,THEGIOISO,Digital world data online company,Residential/Business,False
+2026-02-07 08:24:46,103.175.16.86,100,Malaysia,Cyberjaya,Gigabit Hosting Sdn Bhd,Mondozedatacentre,Data Center,False
+2026-02-07 08:24:46,134.199.197.2,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 08:24:46,65.49.1.183,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 08:24:46,113.137.40.250,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,True
+2026-02-07 08:24:46,182.40.195.233,100,China,Jinan,China Telecom,Chinanet SD,Residential/Business,False
+2026-02-07 08:24:46,161.35.147.240,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-07 08:24:46,152.32.215.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-07 08:24:46,49.0.199.151,100,Thailand,Bangkok,Huawei International Pte. Ltd.,Huawei Cloud Thailand,Data Center,False
+2026-02-07 08:24:46,165.154.176.251,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-07 08:24:46,64.62.156.105,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 08:24:46,14.103.118.167,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-07 08:24:46,14.103.207.251,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-07 08:24:46,121.135.188.125,100,South Korea,Gangnam-gu,Korea Telecom,,Residential/Business,False
+2026-02-07 08:24:46,8.211.51.190,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-07 08:24:46,74.82.47.17,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 08:24:46,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-07 08:24:46,185.93.89.9,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-07 08:24:46,171.25.158.73,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-02-07 08:24:46,2001:470:1:fb5::280,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 08:24:46,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-07 08:24:46,47.251.91.25,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-07 08:24:46,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-07 08:24:46,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 08:24:46,213.177.179.79,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-07 08:24:46,164.68.125.133,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-07 08:24:46,79.124.49.102,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-07 08:24:46,103.74.116.253,100,Vietnam,Quận Tân Phú,TaDu Joint Stock Company,TADU,Data Center,False
+2026-02-07 08:24:46,92.118.39.115,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-07 08:24:46,103.189.234.9,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-07 08:24:46,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-07 08:24:46,87.236.176.154,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-07 08:24:46,222.124.250.234,100,Indonesia,Jakarta,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-02-07 08:24:46,101.47.49.98,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-07 08:24:46,103.90.232.170,100,Vietnam,Quận Mười Một,WEBPANDA,Web Panda Company Ltd,Data Center,False
+2026-02-07 08:24:46,172.94.9.19,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Data Center,True
+2026-02-07 08:24:46,65.49.1.125,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-07 08:24:46,72.132.32.143,100,United States,Palm Desert,Charter Communications,Spectrum,Residential/Business,False
+2026-02-07 08:24:46,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-07 08:24:46,64.62.197.224,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-07 08:24:46,66.132.153.123,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-07 08:24:46,122.114.113.177,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
+2026-02-07 08:24:46,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-07 08:24:46,51.38.128.145,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
