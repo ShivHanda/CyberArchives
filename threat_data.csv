@@ -19209,3 +19209,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 05:21:51,43.166.142.76,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
 2026-02-08 05:21:51,144.126.219.163,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-02-08 05:21:51,101.47.141.170,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-08 06:42:57,161.35.94.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,211.253.31.30,100,South Korea,Seocho-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-08 06:42:57,45.156.129.95,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-08 06:42:57,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-08 06:42:57,103.69.193.110,100,Vietnam,Thanh Xuân,SOHA,Soha Company Limited,Residential/Business,False
+2026-02-08 06:42:57,139.59.66.22,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,14.103.159.240,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-08 06:42:57,167.71.0.121,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,140.106.25.230,100,Canada,Dudswell,Cogeco Connexion inc,Cogeco Connexion inc,Residential/Business,False
+2026-02-08 06:42:57,185.193.157.179,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-02-08 06:42:57,95.90.13.168,100,Germany,Schwarzenbruck,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-02-08 06:42:57,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-02-08 06:42:57,130.12.180.52,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-02-08 06:42:57,36.50.177.119,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-02-08 06:42:57,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-08 06:42:57,49.0.194.34,100,Thailand,Bangkok,Huawei International Pte. Ltd.,Huawei Cloud Thailand,Data Center,False
+2026-02-08 06:42:57,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 06:42:57,77.83.39.50,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-08 06:42:57,52.169.217.131,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-08 06:42:57,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-08 06:42:57,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 06:42:57,134.209.195.51,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-08 06:42:57,172.172.186.3,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-08 06:42:57,65.49.20.108,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-08 06:42:57,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-08 06:42:57,134.209.82.153,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,77.90.185.237,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-08 06:42:57,82.49.142.175,100,Italy,Spoltore,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-02-08 06:42:57,206.189.105.242,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,167.71.3.75,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,134.199.195.169,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,167.71.64.99,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 06:42:57,103.82.37.34,100,Vietnam,Thanh Khê,Cloudfly Corporation,Cloudfly Corporation,Residential/Business,False
+2026-02-08 06:42:57,118.194.250.232,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 06:42:57,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-08 06:42:57,176.65.148.57,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-08 06:42:57,185.246.128.133,100,Sweden,Stockholm,w1n ltd,Dedicated Servers,Data Center,False
+2026-02-08 06:42:57,137.184.174.149,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-08 06:42:57,179.57.170.71,100,Chile,Port Montt,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-02-08 06:42:57,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 06:42:57,104.199.176.250,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-02-08 06:42:57,74.249.128.189,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-08 06:42:57,115.85.80.12,100,Indonesia,Jakarta,Sudirman Central Business District,,Residential/Business,False
+2026-02-08 06:42:57,20.164.21.26,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
