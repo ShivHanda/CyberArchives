@@ -19349,3 +19349,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 10:21:35,206.168.34.134,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
 2026-02-08 10:21:35,218.29.231.106,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
 2026-02-08 10:21:35,20.102.98.235,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-08 12:37:24,172.96.182.111,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-02-08 12:37:24,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-08 12:37:24,177.130.248.114,100,Brazil,Itajaí,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-08 12:37:24,190.16.194.197,100,Argentina,Pergamino,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-02-08 12:37:24,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 12:37:24,104.248.86.203,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,159.223.208.127,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,190.0.63.226,100,Colombia,Medellín,EPM Telecomunicaciones S.A. E.S.P.,UNE EPM TELECOMUNICACIONES S.A,Residential/Business,False
+2026-02-08 12:37:24,188.191.147.38,100,Israel,Tel Aviv,O.M.C. COMPUTERS & COMMUNICATIONS LTD,Cloudwebmanage IL PT,Data Center,False
+2026-02-08 12:37:24,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 12:37:24,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 12:37:24,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-08 12:37:24,84.195.165.136,100,Belgium,Pellenberg,Telenet Operaties N.V.,Telenet,Residential/Business,False
+2026-02-08 12:37:24,163.223.224.127,100,Vietnam,Quận Bình Thạnh,Viet Digital Technology Liability Company,GZ Core Company Limited,Residential/Business,False
+2026-02-08 12:37:24,148.113.12.133,100,India,Mumbai,OVH SAS,OVHTECH R&D (INDIA) PRIVATE LIMITED,Data Center,False
+2026-02-08 12:37:24,87.121.84.46,100,United States,Los Angeles,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-08 12:37:24,134.122.6.62,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,223.197.186.7,100,Hong Kong,Central,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-02-08 12:37:24,178.128.246.17,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-08 12:37:24,167.172.34.47,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,49.0.195.185,100,Thailand,Bangkok,Huawei International Pte. Ltd.,Huawei Cloud Thailand,Data Center,False
+2026-02-08 12:37:24,45.119.212.99,100,Vietnam,Dich Vong,LVHN,JSC - Hanoi,Residential/Business,False
+2026-02-08 12:37:24,144.91.73.85,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-08 12:37:24,198.211.96.215,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 12:37:24,89.187.187.87,100,United States,Los Angeles,Datacamp Limited,Cdn77 LAX,Data Center,True
+2026-02-08 12:37:24,178.20.210.32,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-02-08 12:37:24,181.49.8.57,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-02-08 12:37:24,187.188.191.252,100,Mexico,Torreón,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Mobile,False
+2026-02-08 12:37:24,154.83.197.54,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-08 12:37:24,165.154.225.20,100,Hong Kong,Hong Kong,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-08 12:37:24,91.92.241.232,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-08 12:37:24,91.224.92.129,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-08 12:37:24,101.126.54.95,100,China,Chaowai,GHSX,,Residential/Business,True
+2026-02-08 12:37:24,193.142.147.209,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,True
+2026-02-08 12:37:24,49.0.199.166,100,Thailand,Bangkok,Huawei International Pte. Ltd.,Huawei Cloud Thailand,Data Center,False
+2026-02-08 12:37:24,209.38.37.157,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,216.180.127.200,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-02-08 12:37:24,164.90.192.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,206.189.14.159,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,118.174.3.211,100,Thailand,Bangkok,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-02-08 12:37:24,61.156.218.5,100,China,Liaocheng,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-02-08 12:37:24,64.62.197.89,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-08 12:37:24,100.30.5.6,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-08 12:37:24,159.223.8.108,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 12:37:24,103.148.100.146,100,Indonesia,Denpasar,FLYNET,,Residential/Business,False
