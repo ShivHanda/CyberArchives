@@ -19299,3 +19299,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 08:27:21,64.52.161.203,100,United States,Tonica,"Metro Communications Company, Inc.",Leonore Mutual Telephone Company Inc,Residential/Business,False
 2026-02-08 08:27:21,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
 2026-02-08 08:27:21,165.154.6.69,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 10:21:35,66.132.153.129,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-08 10:21:35,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 10:21:35,166.108.234.1,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
+2026-02-08 10:21:35,159.65.196.167,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,165.22.203.152,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,20.168.122.6,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-08 10:21:35,167.71.3.56,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,34.231.118.144,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-08 10:21:35,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 10:21:35,176.65.149.17,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-08 10:21:35,133.117.73.236,100,Japan,Chiyoda City,Toshiba Corporation,Toshiba Corporation,Data Center,False
+2026-02-08 10:21:35,46.14.24.50,100,Switzerland,Zurich,Swisscom (Schweiz) AG - SME/Cybernet,Swisscom (Schweiz) AG,Residential/Business,False
+2026-02-08 10:21:35,74.249.178.154,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-08 10:21:35,185.93.89.121,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-08 10:21:35,82.165.66.87,100,Germany,Frankfurt am Main,IONOS SE,De Fra Ionos Cloud Fra,Data Center,False
+2026-02-08 10:21:35,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 10:21:35,178.20.210.135,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-02-08 10:21:35,193.142.147.209,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,True
+2026-02-08 10:21:35,167.172.40.22,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,130.12.181.192,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-08 10:21:35,172.184.174.144,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-02-08 10:21:35,103.161.207.2,100,Indonesia,Cimahi,PT Media Solusi Network,PT Media Solusi Network,Residential/Business,False
+2026-02-08 10:21:35,102.211.152.138,100,Brazil,Fortaleza,Angola Cables,TEL Cables SA,Residential/Business,False
+2026-02-08 10:21:35,118.194.229.98,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 10:21:35,87.20.188.31,100,Italy,Perugia,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-02-08 10:21:35,77.83.36.159,100,Seychelles,Victoria,Layer7 Networks GmbH,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-08 10:21:35,13.89.125.26,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-08 10:21:35,85.8.182.98,100,Hong Kong,Hong Kong,Bunny Communications,Bunny,Residential/Business,False
+2026-02-08 10:21:35,40.124.186.154,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-08 10:21:35,45.59.36.18,100,United States,Cincinnati,Cincinnati Bell Telephone Company LLC,Altafiber,Residential/Business,False
+2026-02-08 10:21:35,103.187.146.196,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-08 10:21:35,2001:41d0:33a:a00::401,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-02-08 10:21:35,103.59.161.78,100,Indonesia,Kediri,PT Gunung Sedayu Sentosa,PT Gunung Sedayu Sentosa,Residential/Business,False
+2026-02-08 10:21:35,223.197.186.7,100,Hong Kong,Central,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-02-08 10:21:35,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 10:21:35,113.108.63.207,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-08 10:21:35,156.236.75.178,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-02-08 10:21:35,43.225.142.128,100,Thailand,Bangkok,Dragon Network Int'l Co. Ltd,Dragon Network Intl Co. Ltd,Data Center,False
+2026-02-08 10:21:35,74.248.129.32,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-02-08 10:21:35,81.192.46.35,100,Morocco,Marrakesh,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-08 10:21:35,134.122.50.12,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,178.128.167.105,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-08 10:21:35,142.93.129.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 10:21:35,101.52.130.122,100,China,Chaowai,GDS CHANGAN SERVICES Ltd,GDS CHANGAN SERVICES Ltd.,Residential/Business,False
+2026-02-08 10:21:35,188.191.147.38,100,Israel,Tel Aviv,O.M.C. COMPUTERS & COMMUNICATIONS LTD,Cloudwebmanage IL PT,Data Center,False
+2026-02-08 10:21:35,167.99.33.228,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-08 10:21:35,121.229.5.171,100,China,Hangzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-08 10:21:35,206.168.34.134,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-08 10:21:35,218.29.231.106,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-02-08 10:21:35,20.102.98.235,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
