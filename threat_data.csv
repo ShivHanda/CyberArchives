@@ -19394,3 +19394,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 12:37:24,100.30.5.6,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
 2026-02-08 12:37:24,159.223.8.108,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-08 12:37:24,103.148.100.146,100,Indonesia,Denpasar,FLYNET,,Residential/Business,False
+2026-02-08 14:22:52,74.235.140.14,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-08 14:22:52,200.46.125.168,100,Panama,Panama City,Cable Onda,Cable Onda,Residential/Business,False
+2026-02-08 14:22:52,178.128.240.152,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-08 14:22:52,45.61.187.220,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-08 14:22:52,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-08 14:22:52,125.18.99.126,100,India,Chennai,Bharti Airtel,YOU Broadband & Cable India Ltd.,Mobile,False
+2026-02-08 14:22:52,149.54.51.82,100,Afghanistan,Spīn Bōldak,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-02-08 14:22:52,152.32.153.67,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 14:22:52,146.190.19.220,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,43.255.107.224,100,Thailand,Bangkok,Swift Cloud Network Technology Limited,Dragon Network Intl Co. Ltd,Data Center,False
+2026-02-08 14:22:52,185.242.226.91,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-08 14:22:52,125.46.38.18,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-02-08 14:22:52,20.97.198.240,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-08 14:22:52,198.211.96.215,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 14:22:52,92.118.39.115,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-08 14:22:52,70.174.160.63,100,United States,Chandler,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-02-08 14:22:52,129.212.176.157,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,159.223.8.43,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-08 14:22:52,20.28.217.101,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-08 14:22:52,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 14:22:52,49.125.201.74,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-08 14:22:52,111.39.206.23,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-08 14:22:52,164.90.192.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,34.129.156.65,100,Australia,Melbourne,Google LLC,Google Cloud (australia-southeast2),Data Center,False
+2026-02-08 14:22:52,103.82.92.82,100,Indonesia,Padalarang,PT Cloud Hosting Indonesia,PT Situs Kreatif Indonesia,Data Center,False
+2026-02-08 14:22:52,49.124.153.2,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-08 14:22:52,198.71.60.118,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-02-08 14:22:52,164.92.208.19,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,59.27.93.138,100,South Korea,Yuseong-gu,Korea Telecom,,Residential/Business,False
+2026-02-08 14:22:52,193.32.162.82,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-08 14:22:52,142.93.97.67,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,185.177.239.3,100,Sweden,Stockholm,Partner Hosting LTD,Partner Hosting LTD,Residential/Business,False
+2026-02-08 14:22:52,117.50.57.32,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-08 14:22:52,176.120.22.61,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-08 14:22:52,115.190.101.82,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-08 14:22:52,92.118.39.36,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-08 14:22:52,209.38.36.149,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 14:22:52,2.57.122.173,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 14:22:52,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 14:22:52,136.185.8.165,100,India,Chennai,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-08 14:22:52,177.130.248.114,100,Brazil,Itajaí,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-08 14:22:52,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-08 14:22:52,85.11.167.12,100,Bulgaria,Sofia,ColocaTel Inc.,Sofcompany,Residential/Business,False
+2026-02-08 14:22:52,122.53.133.167,100,Philippines,Guiguinto,Philippine Long Distance Telephone Co.,1-xkkze2_wide-wide World Express Corporation,Residential/Business,False
