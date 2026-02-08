@@ -19539,3 +19539,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 18:28:43,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
 2026-02-08 18:28:43,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
 2026-02-08 18:28:43,70.23.202.129,100,United States,Staten Island,Verizon Business,Verizon Business,Residential/Business,False
+2026-02-08 20:20:26,194.154.92.163,100,Russia,Moscow,"PJSC ""Vimpelcom""",GlasNet Computer Network User Association,Residential/Business,False
+2026-02-08 20:20:26,177.70.2.220,100,Brazil,Kobrasol,Under Servicos de Internet Ltda,ServerDo Serviços de Informática Ltda,Data Center,False
+2026-02-08 20:20:26,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-08 20:20:26,167.172.37.39,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,69.5.189.81,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-08 20:20:26,185.184.1.179,100,Spain,Cartagena,Cartago Telecom S. L.,ElectronicaMartinez,Residential/Business,False
+2026-02-08 20:20:26,134.122.59.208,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,101.36.123.102,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-08 20:20:26,134.122.50.99,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,64.225.79.104,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,104.248.200.207,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,86.54.42.68,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-08 20:20:26,113.164.234.27,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-08 20:20:26,152.32.140.22,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-02-08 20:20:26,167.99.212.131,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,14.63.2.243,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-08 20:20:26,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-08 20:20:26,20.169.105.48,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-08 20:20:26,164.90.206.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,165.154.135.73,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 20:20:26,101.36.119.50,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 20:20:26,211.252.42.171,100,South Korea,Siheung-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-08 20:20:26,218.157.127.39,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-08 20:20:26,104.248.95.124,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,209.38.96.51,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,103.90.225.210,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-02-08 20:20:26,201.217.143.51,100,Uruguay,Montevideo,Administracion Nacional de Telecomunicaciones,Cliente Antel Uruguay,Residential/Business,False
+2026-02-08 20:20:26,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-08 20:20:26,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-08 20:20:26,165.154.11.225,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 20:20:26,165.154.135.165,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-08 20:20:26,164.68.125.133,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-08 20:20:26,129.212.179.79,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 20:20:26,173.207.69.66,100,United States,Dyersburg,Cable ONE,Sparklight,Residential/Business,False
+2026-02-08 20:20:26,150.249.252.237,100,Japan,Tokyo,Sony Network Communications Inc,Sony Network Communications Inc.,Residential/Business,False
+2026-02-08 20:20:26,178.62.227.200,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 20:20:26,185.246.130.20,100,Sweden,Stockholm,w1n ltd,Icme Cloud,Data Center,True
+2026-02-08 20:20:26,165.245.133.153,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 20:20:26,92.118.39.101,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-08 20:20:26,122.187.221.130,100,India,Ahmedabad,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-02-08 20:20:26,115.79.36.23,100,Vietnam,Ho Chi Minh City,VIETELftth,,Residential/Business,False
+2026-02-08 20:20:26,178.62.238.97,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 20:20:26,152.42.135.8,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-08 20:20:26,203.150.162.250,100,Thailand,Vadhana,Internet Thailand Company Ltd,INEXT Broadband Company Limited,Residential/Business,False
+2026-02-08 20:20:26,185.180.207.248,100,Poland,Krakow,Cyber_Folks S.A.,CF VPS GD,Data Center,False
