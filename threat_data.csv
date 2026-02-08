@@ -19254,3 +19254,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-08 06:42:57,74.249.128.189,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-02-08 06:42:57,115.85.80.12,100,Indonesia,Jakarta,Sudirman Central Business District,,Residential/Business,False
 2026-02-08 06:42:57,20.164.21.26,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-02-08 08:27:21,129.205.16.34,100,Uganda,Kampala,ROKE Telkom Uganda,,Residential/Business,False
+2026-02-08 08:27:21,87.236.176.102,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-08 08:27:21,117.50.185.16,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,True
+2026-02-08 08:27:21,80.66.83.43,100,Kazakhstan,Almaty,Bashinskii Vadim Ruslanovich,Bashinskii,Residential/Business,False
+2026-02-08 08:27:21,187.50.226.182,100,Brazil,Curitiba,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-02-08 08:27:21,103.183.74.205,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-02-08 08:27:21,138.59.179.138,100,Honduras,San Pedro Sula,INET Communication,INET S de RL,Residential/Business,False
+2026-02-08 08:27:21,159.89.143.86,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 08:27:21,35.237.94.18,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-02-08 08:27:21,34.78.29.97,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-08 08:27:21,51.79.137.237,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-02-08 08:27:21,103.168.95.200,100,India,Kolkata,A S C S C Digital Private Limited,A S C S C Digital Private Limited,Residential/Business,False
+2026-02-08 08:27:21,186.233.204.9,100,Brazil,Pitanga,"CARRARO, HAINOSZ & CIA LTDA - ME",JG CARRARO TELECOM LTDA,Residential/Business,False
+2026-02-08 08:27:21,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-08 08:27:21,196.196.253.20,100,United Kingdom,City of London,Orion Network Limited,Fiber Grid,Residential/Business,True
+2026-02-08 08:27:21,82.29.72.176,100,United States,El Segundo,Hosteons Pte. Ltd.,Hosteons Pte. Ltd,Residential/Business,False
+2026-02-08 08:27:21,165.154.245.217,100,Hong Kong,Hong Kong,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-08 08:27:21,20.255.62.58,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-08 08:27:21,163.61.72.96,100,Vietnam,Dong Xoai,BXCLOUD,Bnix Cloud Company Limited,Residential/Business,False
+2026-02-08 08:27:21,203.198.173.137,100,Hong Kong,Sheung Wan,Hong Kong Telecommunications (HKT) Limited Mass Internet,VDSL Trial Cust : Excalibur Capital Ltd,Residential/Business,False
+2026-02-08 08:27:21,167.99.221.170,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 08:27:21,203.205.37.233,100,Vietnam,Ho Chi Minh City,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-02-08 08:27:21,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-08 08:27:21,116.50.179.74,100,Philippines,Manila,"Eastern Telecommunications Philippines, Inc.","Eastern Telecommunications Philippines, Inc",Residential/Business,False
+2026-02-08 08:27:21,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 08:27:21,146.103.122.47,100,The Netherlands,Amsterdam,Servers Tech Fzco,Servers Tech Fzco,Residential/Business,False
+2026-02-08 08:27:21,167.172.45.66,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 08:27:21,50.123.92.130,100,United States,Edmonds,Wholesail networks LLC,Ziply Fiber,Residential/Business,False
+2026-02-08 08:27:21,213.176.118.138,100,Sweden,Stockholm,Aeza International LTD,Hypercore Ltd,Residential/Business,False
+2026-02-08 08:27:21,161.35.86.204,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 08:27:21,27.128.240.75,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-02-08 08:27:21,103.189.235.176,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-08 08:27:21,167.172.34.78,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-08 08:27:21,68.221.72.62,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-02-08 08:27:21,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-08 08:27:21,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-08 08:27:21,165.154.172.200,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-08 08:27:21,117.158.66.137,100,China,Guancheng,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-08 08:27:21,135.119.96.21,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-08 08:27:21,122.187.230.34,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-02-08 08:27:21,152.32.157.92,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-08 08:27:21,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-08 08:27:21,64.52.161.203,100,United States,Tonica,"Metro Communications Company, Inc.",Leonore Mutual Telephone Company Inc,Residential/Business,False
+2026-02-08 08:27:21,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-02-08 08:27:21,165.154.6.69,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
