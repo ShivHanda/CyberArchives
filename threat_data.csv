@@ -19764,3 +19764,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-09 06:58:55,61.36.200.131,100,South Korea,Anyang-si,LG DACOM Corporation,Boranet,Residential/Business,False
 2026-02-09 06:58:55,20.238.51.51,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
 2026-02-09 06:58:55,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-09 08:43:30,14.103.139.5,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-09 08:43:30,165.245.141.74,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-09 08:43:30,101.36.98.91,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-09 08:43:30,91.196.152.52,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-09 08:43:30,104.248.199.162,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,106.51.75.252,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-02-09 08:43:30,94.183.172.143,100,Iran,Tehran,NovaNet LLC.,Tooba Web Gostar,Residential/Business,False
+2026-02-09 08:43:30,20.169.106.193,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-09 08:43:30,43.165.61.252,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-02-09 08:43:30,135.237.127.225,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-09 08:43:30,140.130.98.240,100,Taiwan,Tainan,National Chung Cheng University,T-YCRC.EDU.TW,Residential/Business,False
+2026-02-09 08:43:30,159.65.199.31,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-09 08:43:30,20.62.114.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-09 08:43:30,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-09 08:43:30,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-09 08:43:30,43.128.88.138,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-09 08:43:30,77.77.38.98,100,Bulgaria,Sandanski,UltraNET Ltd. C56,UltraNET Ltd,Residential/Business,False
+2026-02-09 08:43:30,122.53.133.167,100,Philippines,Guiguinto,Philippine Long Distance Telephone Co.,1-xkkze2_wide-wide World Express Corporation,Residential/Business,False
+2026-02-09 08:43:30,14.42.47.150,100,South Korea,Paju,Korea Telecom,Kornet,Residential/Business,False
+2026-02-09 08:43:30,222.73.56.10,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-02-09 08:43:30,167.99.214.41,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-09 08:43:30,65.20.132.172,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-09 08:43:30,101.126.14.37,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-02-09 08:43:30,157.245.78.54,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,220.179.120.26,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-02-09 08:43:30,139.59.66.222,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,49.247.24.89,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-02-09 08:43:30,47.88.104.124,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-09 08:43:30,80.66.83.43,100,Kazakhstan,Almaty,Bashinskii Vadim Ruslanovich,Bashinskii,Residential/Business,False
+2026-02-09 08:43:30,185.107.80.93,100,France,Sallenelles,NFOrce Entertainment BV,NForce Entertainment B.V,Data Center,True
+2026-02-09 08:43:30,87.121.84.15,100,United States,New York,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-09 08:43:30,104.248.85.217,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,167.71.78.184,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 08:43:30,64.62.197.6,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-09 08:43:30,45.148.10.124,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-09 08:43:30,182.75.35.82,100,India,Hyderabad,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-09 08:43:30,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-09 08:43:30,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-09 08:43:30,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-09 08:43:30,118.186.208.20,100,China,Beijing,XHXT,"Beijing xhxt technology development co., LTD",Residential/Business,False
+2026-02-09 08:43:30,23.94.211.156,100,United States,Seattle,ColoCrossing,ColoCrossing,Data Center,False
+2026-02-09 08:43:30,36.255.223.75,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,,Data Center,False
+2026-02-09 08:43:30,103.166.226.235,100,Indonesia,Soreang,PT Arta Flash Sintesa Nusantara,PT Arta Flash Sintesa Nusantara,Residential/Business,False
+2026-02-09 08:43:30,129.80.158.31,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
