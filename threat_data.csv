@@ -19954,3 +19954,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-09 14:47:40,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-09 14:47:40,185.156.73.218,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
 2026-02-09 14:47:40,54.167.11.4,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-09 21:59:40,148.153.56.170,100,United States,Los Angeles,"CDS Global Cloud Co., Ltd","CDS Global Cloud Co., Ltd",Data Center,True
+2026-02-09 21:59:40,37.59.110.4,100,France,Roubaix,OVH SAS,VPS static ips,Data Center,False
+2026-02-09 21:59:40,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-09 21:59:40,20.110.243.199,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-09 21:59:40,180.76.190.167,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-09 21:59:40,80.13.153.140,100,France,Fréjus,France Telecom,,Residential/Business,False
+2026-02-09 21:59:40,103.56.30.33,100,India,Warangal,Balaji Online,,Residential/Business,False
+2026-02-09 21:59:40,193.163.125.9,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-09 21:59:40,179.108.84.136,100,Brazil,Valinhos,Net Turbo Telecom,Net Turbo Telecom,Residential/Business,True
+2026-02-09 21:59:40,52.174.67.71,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-02-09 21:59:40,64.227.72.0,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-02-09 21:59:40,221.161.235.168,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-09 21:59:40,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-02-09 21:59:40,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-09 21:59:40,45.10.175.246,100,Hong Kong,Chai Wan,Cloudie Limited,8A Cloud computing Ltd,Data Center,False
+2026-02-09 21:59:40,115.190.216.185,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-09 21:59:40,195.178.191.5,100,Sweden,Avesta,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-02-09 21:59:40,186.249.192.96,100,Brazil,São José,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-09 21:59:40,14.103.114.136,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-09 21:59:40,23.95.236.27,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-02-09 21:59:40,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-09 21:59:40,68.183.4.101,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,43.165.127.205,100,United States,Ashburn,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-02-09 21:59:40,81.192.46.45,100,Morocco,Marrakesh,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-09 21:59:40,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-09 21:59:40,47.77.227.186,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-02-09 21:59:40,68.183.9.153,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,110.93.230.50,100,Pakistan,Karachi,TW RO,TRANSWORLD ASSOCIATES (PVT) LIMITED,Residential/Business,False
+2026-02-09 21:59:40,27.50.25.190,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-02-09 21:59:40,152.32.164.115,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-09 21:59:40,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-09 21:59:40,34.158.168.101,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-02-09 21:59:40,194.180.49.113,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-09 21:59:40,104.248.204.144,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,211.105.129.57,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-09 21:59:40,221.221.136.146,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-02-09 21:59:40,2.55.126.88,100,Israel,Atzmon,Partner Communications,,Mobile,False
+2026-02-09 21:59:40,152.32.158.74,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-02-09 21:59:40,165.232.86.249,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,210.71.231.7,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-09 21:59:40,64.95.96.68,100,The Netherlands,Amsterdam,Internap Holding LLC,Internap Network Services Corporation,Data Center,False
+2026-02-09 21:59:40,120.48.29.51,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-09 21:59:40,210.105.67.198,100,South Korea,Boryeong,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-09 21:59:40,223.82.92.114,100,China,Jinrongjie,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-09 21:59:40,159.65.196.31,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 21:59:40,20.163.60.228,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-09 21:59:40,36.103.243.179,100,China,Jiaxing,CHINANET NINGXIA province ZHONGWEI IDC network,Chinanet NX,Residential/Business,False
+2026-02-09 21:59:40,61.220.127.240,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-09 21:59:40,66.132.153.159,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
