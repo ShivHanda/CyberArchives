@@ -20004,3 +20004,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-09 21:59:40,36.103.243.179,100,China,Jiaxing,CHINANET NINGXIA province ZHONGWEI IDC network,Chinanet NX,Residential/Business,False
 2026-02-09 21:59:40,61.220.127.240,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-02-09 21:59:40,66.132.153.159,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-09 22:42:35,178.16.53.153,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,40.113.19.56,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-09 22:42:35,91.92.243.213,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,103.250.11.249,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-09 22:42:35,101.36.107.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-09 22:42:35,103.200.25.197,100,Vietnam,Nguyễn Du,MAXDATA,,Data Center,False
+2026-02-09 22:42:35,152.53.244.55,100,Germany,Karlsruhe,netcup GmbH,netcup GmbH,Data Center,False
+2026-02-09 22:42:35,20.194.29.45,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-09 22:42:35,44.195.145.102,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-09 22:42:35,92.98.154.231,100,United Arab Emirates,Fujairah,Emirates Telecommunications Corporation,Etisalat,Residential/Business,False
+2026-02-09 22:42:35,52.187.9.8,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,True
+2026-02-09 22:42:35,91.92.243.204,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-02-09 22:42:35,178.16.53.155,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,103.143.238.173,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-02-09 22:42:35,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-09 22:42:35,159.223.163.239,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 22:42:35,64.62.197.33,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-02-09 22:42:35,91.92.243.190,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,178.16.53.166,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-09 22:42:35,65.49.20.111,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-09 22:42:35,176.65.148.57,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-09 22:42:35,194.237.70.188,100,Sweden,Täby,TELIANET,,Residential/Business,False
+2026-02-09 22:42:35,62.60.130.228,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,True
+2026-02-09 22:42:35,91.92.243.207,100,United States,New York,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,103.121.89.157,100,Vietnam,Vinhomes Royal City,Cau Giay Branch of Bach Kim Network solutions Join stock company,BKNS-CG,Residential/Business,False
+2026-02-09 22:42:35,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-09 22:42:35,189.169.81.15,100,Mexico,Celaya,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-09 22:42:35,156.227.236.72,100,Japan,Osaka,Yisu Cloud Ltd,Yisu Cloud Ltd,Residential/Business,False
+2026-02-09 22:42:35,133.167.87.134,100,Japan,Osaka,SAKURA Internet Inc.,SAKURA-OSAKA,Data Center,False
+2026-02-09 22:42:35,20.65.192.214,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-09 22:42:35,43.228.157.16,100,Singapore,Singapore,Gaditek Associates,,Data Center,True
+2026-02-09 22:42:35,167.99.221.213,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 22:42:35,5.161.107.247,100,United States,Ashburn,Hetzner Online GmbH,Hetzner Online GmbH,Residential/Business,False
+2026-02-09 22:42:35,176.65.149.194,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-09 22:42:35,178.16.53.143,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-09 22:42:35,44.194.134.53,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-09 22:42:35,20.185.243.158,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-09 22:42:35,178.16.53.149,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,66.240.192.82,100,United States,San Diego,"CariNet, Inc.",Hochschule Esslingen University,Data Center,False
+2026-02-09 22:42:35,161.35.91.215,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-09 22:42:35,178.16.53.144,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-09 22:42:35,35.237.94.18,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-02-09 22:42:35,216.251.35.201,100,Canada,Waterloo,Internet Names For Business Inc.,Internet Names Business Inc,Data Center,False
+2026-02-09 22:42:35,156.245.239.180,100,Hong Kong,Chai Wan,Zillion Network Inc.,Hong Kong Meccaler Technology Co,Residential/Business,False
+2026-02-09 22:42:35,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-09 22:42:35,69.247.125.84,100,United States,Laurel,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-02-09 22:42:35,81.13.62.77,100,Russia,Nizhniy Novgorod,Access Telecom,Access Telecom Ltd,Residential/Business,False
