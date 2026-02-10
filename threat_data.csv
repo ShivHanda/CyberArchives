@@ -20239,3 +20239,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-10 08:44:19,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
 2026-02-10 08:44:19,47.251.126.144,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
 2026-02-10 08:44:19,85.217.140.22,100,France,Paris,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-10 10:51:16,103.59.161.78,100,Indonesia,Kediri,PT Gunung Sedayu Sentosa,PT Gunung Sedayu Sentosa,Residential/Business,False
+2026-02-10 10:51:16,119.206.62.88,100,South Korea,Jeonju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-10 10:51:16,128.185.254.162,100,India,Chandigarh,Bharti Airtel Limited,Bharti Airtel Ltd.,Mobile,False
+2026-02-10 10:51:16,157.151.189.44,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
+2026-02-10 10:51:16,50.188.204.213,100,United States,Perth Amboy,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-02-10 10:51:16,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-10 10:51:16,157.143.125.172,100,Switzerland,Zurich,iWay AG,iway AG,Residential/Business,False
+2026-02-10 10:51:16,103.23.198.244,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-02-10 10:51:16,208.69.84.112,100,United States,Buffalo,Crown Castle Fiber LLC,Delta Sonic,Residential/Business,False
+2026-02-10 10:51:16,45.144.233.139,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-02-10 10:51:16,156.54.170.192,100,Italy,Cornate d'Adda,Telecom Italia S.p.A.,Telecom Italia S.p.A.,Residential/Business,False
+2026-02-10 10:51:16,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-10 10:51:16,64.62.197.149,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-10 10:51:16,103.187.146.196,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-10 10:51:16,165.154.36.71,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-10 10:51:16,188.166.21.149,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-10 10:51:16,65.49.1.229,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-10 10:51:16,45.82.76.127,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-10 10:51:16,23.94.166.112,100,United States,Buffalo,HostPapa,ColoCrossing,Data Center,False
+2026-02-10 10:51:16,20.64.105.155,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-10 10:51:16,122.187.228.228,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-02-10 10:51:16,194.26.192.91,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-10 10:51:16,35.239.77.168,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-10 10:51:16,89.42.231.184,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-02-10 10:51:16,180.76.185.165,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-10 10:51:16,178.178.222.53,100,Russia,Moscow,PJSC MegaFon,MF MB,Mobile,False
+2026-02-10 10:51:16,135.149.172.122,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-10 10:51:16,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-10 10:51:16,156.54.108.185,100,Italy,Milan,Telecom Italia S.p.A.,Telecom Italia S.p.A,Residential/Business,False
+2026-02-10 10:51:16,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-10 10:51:16,45.82.76.130,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-10 10:51:16,158.158.72.156,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-02-10 10:51:16,172.232.27.232,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-10 10:51:16,184.105.247.226,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-10 10:51:16,13.89.125.23,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-10 10:51:16,64.62.156.156,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-10 10:51:16,116.193.191.209,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-10 10:51:16,156.233.233.96,100,United States,Los Angeles,cognetcloud INC,cognetcloud INC,Residential/Business,False
+2026-02-10 10:51:16,116.120.58.228,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-10 10:51:16,20.220.144.75,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-10 10:51:16,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-10 10:51:16,43.159.135.203,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-02-10 10:51:16,160.251.251.171,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-02-10 10:51:16,95.90.13.168,100,Germany,Schwarzenbruck,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-02-10 10:51:16,189.190.2.14,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-10 10:51:16,14.103.115.123,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,True
+2026-02-10 10:51:16,143.42.164.97,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-10 10:51:16,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-10 10:51:16,155.4.244.169,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-02-10 10:51:16,157.92.145.135,100,Argentina,Buenos Aires,Universidad Nacional de Buenos Aires,Universidad Nacional de Buenos Aires,Residential/Business,False
