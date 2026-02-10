@@ -20384,3 +20384,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-10 14:53:44,20.65.192.214,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
 2026-02-10 14:53:44,62.171.164.105,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
 2026-02-10 14:53:44,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
+2026-02-10 16:58:33,45.173.176.254,100,Brazil,São Paulo,Kobertura Telecom LTDA,Kobertura Telecom LTDA,Residential/Business,False
+2026-02-10 16:58:33,129.212.176.157,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 16:58:33,176.65.148.38,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-10 16:58:33,104.152.52.149,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-02-10 16:58:33,210.71.231.7,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-10 16:58:33,121.167.77.220,100,South Korea,Yongin-si,Korea Telecom,,Residential/Business,False
+2026-02-10 16:58:33,223.70.230.130,100,China,Beijing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-10 16:58:33,157.0.0.10,100,China,Nanjing,China Unicom Jiangsu Province Network,,Residential/Business,False
+2026-02-10 16:58:33,193.169.28.244,100,Russia,Petrovskiy,Golitsyno Telecom Ltd,inn361,Residential/Business,False
+2026-02-10 16:58:33,185.193.157.211,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-02-10 16:58:33,45.142.154.99,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-02-10 16:58:33,188.166.36.91,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-10 16:58:33,160.30.188.31,100,Bangladesh,Dhaka,Invision IT,MD ASRAFUL ISLAM,Residential/Business,False
+2026-02-10 16:58:33,69.64.69.141,100,United States,Phoenix,CyberCloud Professionals LLC,CyberCloud Professionals LLC,Data Center,False
+2026-02-10 16:58:33,103.195.236.96,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-02-10 16:58:33,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-10 16:58:33,213.135.168.228,100,North Macedonia,Prilep,KDS KabelNet,,Residential/Business,False
+2026-02-10 16:58:33,114.220.176.172,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-10 16:58:33,91.231.89.215,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-10 16:58:33,188.166.166.214,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-10 16:58:33,223.181.71.247,100,India,Ahmedabad,Bharti Airtel,Bharti Airtel Ltd.,Mobile,False
+2026-02-10 16:58:33,64.226.117.70,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 16:58:33,221.161.235.168,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-10 16:58:33,20.215.184.141,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-02-10 16:58:33,192.241.145.21,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-10 16:58:33,14.103.121.78,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-10 16:58:33,73.243.234.23,100,United States,Monument,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-02-10 16:58:33,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-10 16:58:33,134.185.115.34,100,South Korea,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),Data Center,False
+2026-02-10 16:58:33,20.78.168.185,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-10 16:58:33,194.180.49.70,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-10 16:58:33,160.187.165.218,100,Indonesia,Bekasi,PT Techchandra Solusi Telematika,Indonesia Network Information Center,Residential/Business,False
+2026-02-10 16:58:33,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-10 16:58:33,93.241.232.14,100,Germany,Nuremberg,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-02-10 16:58:33,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-02-10 16:58:33,135.225.84.187,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-02-10 16:58:33,103.172.236.241,100,Vietnam,Trung Liệt,HERAL,Heral Science and Technology Joint Stock Company,Residential/Business,True
+2026-02-10 16:58:33,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Mobile,False
+2026-02-10 16:58:33,167.71.251.47,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 16:58:33,147.50.103.212,100,Thailand,Phaya Thai,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-02-10 16:58:33,154.198.215.66,100,United States,Los Angeles,Cnservers LLC,CenturyNetworks LTD,Data Center,False
+2026-02-10 16:58:33,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-10 16:58:33,152.32.206.64,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-10 16:58:33,121.225.86.64,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-10 16:58:33,172.213.16.138,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
