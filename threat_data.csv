@@ -20339,3 +20339,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-10 13:01:07,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-10 13:01:07,216.180.127.201,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
 2026-02-10 13:01:07,113.83.130.218,100,China,Huizhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-10 14:53:44,164.92.221.58,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 14:53:44,103.175.206.22,100,Indonesia,Palembang,PT Hostingan Awan Indonesia,PT Hostingan Awan Indonesia,Residential/Business,False
+2026-02-10 14:53:44,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-10 14:53:44,64.89.161.103,100,United States,Ripley,ISP Associates,"ISP Associates, Inc. DBA Dixie-Net",Residential/Business,False
+2026-02-10 14:53:44,1.9.164.197,100,Malaysia,Batu Caves,TM TECHNOLOGY SERVICES SDN BHD,"Tmnet, Telekom Malaysia Bhd",Residential/Business,False
+2026-02-10 14:53:44,57.128.248.126,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-10 14:53:44,43.131.253.14,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-02-10 14:53:44,45.87.249.140,100,The Netherlands,Amsterdam,RAPIDSEEDBOX,,Residential/Business,True
+2026-02-10 14:53:44,177.92.162.245,100,Brazil,Manaus,SIDI SERVIÇOS DE COMUNICAÇÃO LTDA-ME,SIDI SERVIÇOS DE COMUNICAÇÃO LTDA-ME,Mobile,False
+2026-02-10 14:53:44,155.4.245.222,100,Sweden,Stockholm,Bahnhof AB,,Residential/Business,False
+2026-02-10 14:53:44,92.118.228.55,100,United States,San Jose,Sriyaan Technologies,Sriyaan technology,Residential/Business,False
+2026-02-10 14:53:44,20.102.116.25,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-10 14:53:44,172.96.179.9,100,Canada,Toronto,HostPapa,HostPapa,Residential/Business,False
+2026-02-10 14:53:44,47.247.99.155,100,India,Mohali,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-02-10 14:53:44,35.188.112.111,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-10 14:53:44,104.248.80.6,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 14:53:44,188.166.18.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-10 14:53:44,91.192.37.141,100,The Netherlands,Amsterdam,CJ2 Hosting B.V.,Colo,Data Center,False
+2026-02-10 14:53:44,210.91.73.167,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-10 14:53:44,4.235.103.62,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-02-10 14:53:44,83.220.232.212,100,Russia,Moscow,"JSC ""VimpelCom""",JSC VimpelCom 8 Marta st.,Mobile,False
+2026-02-10 14:53:44,128.241.228.121,100,United States,San Jose,NTT America,TianFeng (Hong Kong) Communications Ltd,Residential/Business,False
+2026-02-10 14:53:44,5.181.87.80,100,Türkiye,Bursa,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,,Residential/Business,False
+2026-02-10 14:53:44,24.170.49.54,100,United States,Grand Prairie,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-02-10 14:53:44,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-10 14:53:44,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-02-10 14:53:44,178.16.52.116,100,Germany,Frankfurt am Main,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-10 14:53:44,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-10 14:53:44,188.166.38.177,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-10 14:53:44,14.103.74.80,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-10 14:53:44,107.173.61.177,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-02-10 14:53:44,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-10 14:53:44,65.49.1.151,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-10 14:53:44,102.211.152.138,100,Brazil,Fortaleza,Angola Cables,TEL Cables SA,Residential/Business,False
+2026-02-10 14:53:44,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-10 14:53:44,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-10 14:53:44,91.99.165.31,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-02-10 14:53:44,58.209.82.184,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-02-10 14:53:44,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-10 14:53:44,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-10 14:53:44,80.94.95.242,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-02-10 14:53:44,209.38.109.22,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-10 14:53:44,20.65.192.214,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-10 14:53:44,62.171.164.105,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-10 14:53:44,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
