@@ -20809,3 +20809,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-11 10:43:35,152.32.141.217,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-02-11 10:43:35,158.178.231.159,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
 2026-02-11 10:43:35,45.170.50.50,100,Peru,Piura,Telefonica del Peru S.A.A.,TV NOR COMUNICACIONES S.A.C,Residential/Business,False
+2026-02-11 12:57:41,64.225.75.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-11 12:57:41,210.71.231.7,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-11 12:57:41,80.82.77.139,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-02-11 12:57:41,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-11 12:57:41,103.149.26.230,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-11 12:57:41,176.65.148.156,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-11 12:57:41,157.230.12.183,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 12:57:41,46.101.95.43,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-11 12:57:41,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-11 12:57:41,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-11 12:57:41,190.167.237.191,100,Dominican Republic,Santo Domingo,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
+2026-02-11 12:57:41,133.117.75.32,100,Japan,Chiyoda City,Toshiba Corporation,Toshiba Corporation,Data Center,False
+2026-02-11 12:57:41,64.62.156.142,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-11 12:57:41,35.200.237.19,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-11 12:57:41,65.49.1.171,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-11 12:57:41,207.90.244.6,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-02-11 12:57:41,164.132.215.208,100,France,Roubaix,OVH SAS,OVH Srl,Data Center,False
+2026-02-11 12:57:41,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-11 12:57:41,93.123.109.225,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-11 12:57:41,20.168.120.151,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-11 12:57:41,107.189.7.100,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-02-11 12:57:41,189.90.33.23,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
+2026-02-11 12:57:41,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 12:57:41,85.62.117.66,100,Spain,Sax,UNI2,,Residential/Business,False
+2026-02-11 12:57:41,206.189.8.15,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 12:57:41,113.164.66.10,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-11 12:57:41,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-11 12:57:41,78.30.250.62,100,Ukraine,Sevastopol,Lancom Ltd.,Lancom Ltd,Residential/Business,True
+2026-02-11 12:57:41,79.124.58.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-11 12:57:41,216.218.206.98,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-11 12:57:41,103.8.27.27,100,Malaysia,Subang Jaya,SKSATECH1,,Data Center,False
+2026-02-11 12:57:41,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-11 12:57:41,178.62.196.166,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 12:57:41,83.168.69.130,100,Poland,Wroclaw,SkyPass Solutions Sp. z.o.o.,SkillHost,Residential/Business,False
+2026-02-11 12:57:41,178.62.246.97,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 12:57:41,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-11 12:57:41,45.172.152.74,100,Dominican Republic,Santiago de los Caballeros,Tecnología Digital,Wireless Solutions Dominicana WSD S.R.L,Mobile,False
+2026-02-11 12:57:41,47.77.234.253,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-02-11 12:57:41,156.245.239.180,100,Hong Kong,Chai Wan,Zillion Network Inc.,Hong Kong Meccaler Technology Co,Residential/Business,False
+2026-02-11 12:57:41,51.13.121.91,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-02-11 12:57:41,202.165.16.9,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-02-11 12:57:41,78.42.241.233,100,Germany,Pforzheim,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-02-11 12:57:41,178.173.248.45,100,Netherlands,Amsterdam,SIA VEESP,Nerocloud Inc,Data Center,False
+2026-02-11 12:57:41,146.190.31.63,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 12:57:41,101.47.141.12,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
