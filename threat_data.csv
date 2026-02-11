@@ -20994,3 +20994,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-11 18:55:50,103.203.57.2,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
 2026-02-11 18:55:50,185.93.89.28,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
 2026-02-11 18:55:50,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-11 20:33:32,177.27.76.210,100,Brazil,Rio de Janeiro,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-02-11 20:33:32,77.90.185.237,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-11 20:33:32,167.99.223.93,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 20:33:32,162.144.61.200,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-11 20:33:32,97.74.89.71,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-02-11 20:33:32,77.90.185.61,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-11 20:33:32,200.44.190.194,100,Venezuela,Ciudad Guayana,"CANTV Servicios, Venezuela",CANTV,Residential/Business,False
+2026-02-11 20:33:32,203.145.143.163,100,India,Mohali,Bharti Airtel,Bharti Hexacom Limited,Mobile,False
+2026-02-11 20:33:32,103.100.208.88,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,Ancent Group Limited,Residential/Business,False
+2026-02-11 20:33:32,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-11 20:33:32,223.109.49.232,100,China,Chongqing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-11 20:33:32,92.205.128.246,100,France,Strasbourg,Host Europe GmbH,GCN SXB1,Residential/Business,False
+2026-02-11 20:33:32,196.92.7.247,100,Morocco,Casablanca,Itissalat Al-MAGHRIB,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-11 20:33:32,14.116.156.100,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-11 20:33:32,165.154.227.13,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-11 20:33:32,81.17.101.132,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-11 20:33:32,18.214.138.148,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-11 20:33:32,43.133.148.170,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-11 20:33:32,159.203.74.25,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 20:33:32,128.185.194.22,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-11 20:33:32,14.116.189.74,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-11 20:33:32,123.148.203.134,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,False
+2026-02-11 20:33:32,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-11 20:33:32,188.130.27.116,100,France,Paris,Celeste SAS,Magic OnLine,Residential/Business,False
+2026-02-11 20:33:32,134.209.92.120,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 20:33:32,14.103.117.81,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-11 20:33:32,101.47.49.205,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-11 20:33:32,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-11 20:33:32,50.6.225.58,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-02-11 20:33:32,167.172.44.154,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 20:33:32,134.122.55.134,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 20:33:32,20.83.49.34,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-11 20:33:32,216.155.93.75,100,Chile,Dalcahue,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-02-11 20:33:32,106.12.150.202,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-11 20:33:32,185.16.39.146,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-11 20:33:32,171.237.176.157,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Data Center,False
+2026-02-11 20:33:32,188.166.84.110,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 20:33:32,65.76.86.227,100,United States,Bellevue,"T-Mobile USA, Inc.","T-Mobile USA, Inc.",Mobile,False
+2026-02-11 20:33:32,188.166.27.123,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 20:33:32,212.154.119.3,100,Türkiye,Maltepe,TurkNet Iletisim Hizmetleri,TurkNet,Residential/Business,False
+2026-02-11 20:33:32,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-11 20:33:32,103.97.140.250,100,Indonesia,Bandung,PT Jembatan Data Pangrango,PT Apik Media Inovasi,Residential/Business,False
+2026-02-11 20:33:32,178.62.204.204,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 20:33:32,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 20:33:32,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
