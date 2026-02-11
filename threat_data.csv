@@ -21039,3 +21039,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-11 20:33:32,178.62.204.204,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-11 20:33:32,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
 2026-02-11 20:33:32,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 22:24:46,103.248.120.6,100,India,Meerut,Shivansh Infotech pvt Ltd,Shivansh Infotech pvt Ltd,Residential/Business,False
+2026-02-11 22:24:46,114.80.34.158,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-11 22:24:46,165.22.188.120,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 22:24:46,45.82.78.104,100,Singapore,Singapore,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-11 22:24:46,128.199.118.234,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-11 22:24:46,3.87.243.96,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-11 22:24:46,178.16.52.219,100,Germany,Frankfurt am Main,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-11 22:24:46,13.219.78.63,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-11 22:24:46,212.227.250.191,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
+2026-02-11 22:24:46,112.216.120.67,100,South Korea,Guri-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-11 22:24:46,20.118.216.147,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-11 22:24:46,74.249.128.108,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-11 22:24:46,206.82.6.194,100,United States,Los Angeles,N963,XLC INC,Residential/Business,False
+2026-02-11 22:24:46,178.128.241.122,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-02-11 22:24:46,212.227.169.132,100,Spain,Madrid,1&1 IONOS SE,IONOS,Data Center,False
+2026-02-11 22:24:46,165.154.227.13,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-11 22:24:46,212.11.64.25,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-11 22:24:46,116.55.245.26,100,China,Kunming,CHINANET Yunnan province IDC1 network,Chinanet YN,Residential/Business,True
+2026-02-11 22:24:46,45.55.57.187,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 22:24:46,128.185.220.90,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Limited,Mobile,False
+2026-02-11 22:24:46,210.79.191.178,100,Indonesia,Cicurug,PT KEBUN NARA SANTOSA,,Data Center,False
+2026-02-11 22:24:46,185.196.8.61,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-11 22:24:46,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 22:24:46,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-11 22:24:46,120.48.129.140,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-11 22:24:46,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-11 22:24:46,62.60.212.124,100,Iran,Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),Data Center,False
+2026-02-11 22:24:46,182.48.68.82,100,Bangladesh,Dhaka,Corporate Office,Equinix Singapore,Residential/Business,False
+2026-02-11 22:24:46,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-11 22:24:46,135.232.201.84,100,United States,Chicago,MICROSOFT,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-02-11 22:24:46,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-11 22:24:46,212.225.255.82,100,Spain,Calamonte,Procono S.A,"Procono, S.A.",Residential/Business,False
+2026-02-11 22:24:46,176.65.148.38,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-11 22:24:46,64.62.156.95,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-11 22:24:46,64.62.156.109,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-11 22:24:46,157.230.211.167,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-11 22:24:46,213.6.203.226,100,Palestine,Gaza,Palestine Telecommunications Company,Palestine Telecommunications Company,Residential/Business,False
+2026-02-11 22:24:46,216.225.204.193,100,United States,Chicago,IONOS SE,IONOS Inc,Data Center,False
+2026-02-11 22:24:46,35.216.156.249,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-02-11 22:24:46,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-11 22:24:46,138.197.153.44,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-11 22:24:46,3.80.221.65,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-11 22:24:46,86.54.42.68,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-11 22:24:46,41.86.34.139,100,Seychelles,Pointe La Rue,Cable & Wireless (Seychelles) Ltd,CWS Public Services,Residential/Business,False
+2026-02-11 22:24:46,206.168.34.130,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
