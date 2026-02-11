@@ -20904,3 +20904,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-11 14:49:09,167.99.215.9,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-11 14:49:09,176.32.195.85,100,Armenia,Yerevan,Ucom CJSC,Interactive TV LLC,Residential/Business,False
 2026-02-11 14:49:09,210.91.73.167,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-11 17:00:09,178.185.136.57,100,Russia,St Petersburg,JSC Rostelecom . Korporativniy Centr,OJSC Sibirtelecom,Residential/Business,False
+2026-02-11 17:00:09,210.0.90.82,100,Australia,Sydney,AAPT Limited,AAPT Limited,Residential/Business,False
+2026-02-11 17:00:09,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-11 17:00:09,172.174.225.60,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-11 17:00:09,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-11 17:00:09,165.154.231.129,100,Japan,Tokyo,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-11 17:00:09,185.242.226.2,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-11 17:00:09,87.236.176.74,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-11 17:00:09,91.196.152.221,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-11 17:00:09,144.202.82.88,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-02-11 17:00:09,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-11 17:00:09,218.67.123.202,100,China,Fuzhou,Chinanet,Chinanet FJ,Residential/Business,False
+2026-02-11 17:00:09,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 17:00:09,20.51.234.233,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-11 17:00:09,209.85.214.193,100,United States,Mountain View,Google LLC,Google LLC,Data Center,False
+2026-02-11 17:00:09,193.104.58.61,100,United Kingdom,London,Hydra Communications Ltd,"LLC ""TD Daily Trade""",Data Center,True
+2026-02-11 17:00:09,40.124.80.250,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-11 17:00:09,85.87.1.47,100,Spain,Barcelona,EUSKALTEL,,Residential/Business,False
+2026-02-11 17:00:09,102.88.10.10,100,Nigeria,Port Harcourt,MTN NIGERIA Communication limited,MTN Nigeria,Data Center,False
+2026-02-11 17:00:09,212.33.235.243,100,Russia,Perm,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding""",Residential/Business,False
+2026-02-11 17:00:09,42.115.115.61,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-02-11 17:00:09,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-11 17:00:09,45.55.210.210,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-11 17:00:09,154.125.64.32,100,Senegal,Dakar,Sonatel,,Residential/Business,False
+2026-02-11 17:00:09,176.65.148.205,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-11 17:00:09,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-11 17:00:09,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-11 17:00:09,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 17:00:09,94.231.206.252,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-11 17:00:09,94.231.206.129,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-11 17:00:09,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-11 17:00:09,49.124.154.175,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-11 17:00:09,78.128.114.66,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-11 17:00:09,124.198.132.119,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-11 17:00:09,20.168.122.6,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-11 17:00:09,138.118.203.66,100,Venezuela,San Francisco,Iguana Network Services C.A.,Iguana Network Services C.A,Residential/Business,False
+2026-02-11 17:00:09,183.63.218.104,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-11 17:00:09,86.54.42.25,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-11 17:00:09,167.86.106.79,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-11 17:00:09,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-11 17:00:09,94.231.206.0,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-11 17:00:09,4.217.217.16,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-11 17:00:09,128.14.231.154,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-11 17:00:09,185.196.9.34,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-11 17:00:09,91.230.168.17,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
