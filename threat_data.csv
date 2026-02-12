@@ -21229,3 +21229,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-12 06:55:58,154.236.187.90,100,Egypt,Cairo,Etisalat Fixed BB,Nile Online,Residential/Business,False
 2026-02-12 06:55:58,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-02-12 06:55:58,128.14.227.52,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-12 08:39:20,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-12 08:39:20,172.184.210.52,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-02-12 08:39:20,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-12 08:39:20,203.150.107.244,100,Thailand,Bangkok,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
+2026-02-12 08:39:20,203.123.219.137,100,South Korea,Seoul,SK Broadband Co Ltd,TBROAD SaeromNamdongSeohae,Residential/Business,False
+2026-02-12 08:39:20,92.118.39.37,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-12 08:39:20,152.32.201.247,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-12 08:39:20,128.14.231.72,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-12 08:39:20,136.248.247.188,100,Chile,Santiago,Oracle Corporation,Oracle Cloud Infrastructure (sa-santiago-1),Data Center,False
+2026-02-12 08:39:20,120.48.124.94,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-12 08:39:20,45.82.76.117,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-12 08:39:20,103.175.206.22,100,Indonesia,Palembang,PT Hostingan Awan Indonesia,PT Hostingan Awan Indonesia,Residential/Business,False
+2026-02-12 08:39:20,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-12 08:39:20,14.103.118.136,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-12 08:39:20,165.154.18.110,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-12 08:39:20,20.64.105.169,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-12 08:39:20,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-12 08:39:20,121.229.27.155,100,China,Hangzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-12 08:39:20,157.245.230.227,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 08:39:20,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-12 08:39:20,101.47.141.119,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-12 08:39:20,89.155.254.53,100,Portugal,Viana do Castelo,NOS Comunicacoes S.A.,TVCABO-Portugal,Residential/Business,False
+2026-02-12 08:39:20,91.230.168.18,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 08:39:20,46.29.238.171,100,Norway,Nordland,GIR SER,,Residential/Business,False
+2026-02-12 08:39:20,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
+2026-02-12 08:39:20,27.79.46.117,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-12 08:39:20,152.32.215.226,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-12 08:39:20,185.93.89.48,100,United Arab Emirates,Dubai,Amwaj Alkhyr Commercial Brokers CO.,Amwaj Alkhyr Commercial Brokers CO,Residential/Business,False
+2026-02-12 08:39:20,187.45.100.0,100,Brazil,Pinhalzinho,Mhnet Telecom,Mhnet Telecom,Residential/Business,False
+2026-02-12 08:39:20,201.76.120.30,100,Brazil,Montenegro,Vero S.A,Vero S.A,Residential/Business,False
+2026-02-12 08:39:20,199.45.154.183,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-12 08:39:20,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-12 08:39:20,47.251.86.165,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-12 08:39:20,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-02-12 08:39:20,200.118.150.20,100,Colombia,Cali,Telmex Colombia S.A.,Telmex Colombia S.A,Residential/Business,False
+2026-02-12 08:39:20,66.116.199.61,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-12 08:39:20,128.1.38.37,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-12 08:39:20,2001:470:1:332::a,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 08:39:20,45.82.76.106,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-12 08:39:20,146.190.154.85,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-12 08:39:20,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-12 08:39:20,115.190.89.75,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-12 08:39:20,64.225.64.86,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 08:39:20,186.87.166.141,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-02-12 08:39:20,120.230.181.148,100,China,Jiangmen,China Mobile communications corporation,China Mobile,Mobile,False
