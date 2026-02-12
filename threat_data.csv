@@ -21464,3 +21464,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-12 16:52:40,77.90.185.238,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
 2026-02-12 16:52:40,188.166.15.71,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-12 16:52:40,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-12 18:56:17,117.176.204.214,100,China,Chengdu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-12 18:56:17,185.242.226.60,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-12 18:56:17,220.176.10.37,100,China,Ganzhou,Chinanet,Chinanet JX,Residential/Business,False
+2026-02-12 18:56:17,65.49.1.45,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,65.49.1.43,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-12 18:56:17,91.231.89.79,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 18:56:17,105.27.148.94,100,Kenya,Nairobi,SEACOM Limited,Seacom Assignments,Residential/Business,True
+2026-02-12 18:56:17,115.190.73.63,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-12 18:56:17,59.11.85.11,100,South Korea,Areannamkwaengi,Korea Telecom,,Residential/Business,False
+2026-02-12 18:56:17,65.49.1.42,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-12 18:56:17,178.16.53.82,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-12 18:56:17,206.189.13.225,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 18:56:17,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-12 18:56:17,65.49.1.37,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-12 18:56:17,103.59.163.134,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-02-12 18:56:17,185.247.137.240,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-12 18:56:17,194.5.82.60,100,Singapore,Singapore,GSL Networks Pty LTD,,Residential/Business,True
+2026-02-12 18:56:17,65.49.1.41,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,138.197.25.225,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-12 18:56:17,92.118.39.225,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-12 18:56:17,91.231.89.232,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 18:56:17,65.49.1.36,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-12 18:56:17,162.214.126.1,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-02-12 18:56:17,195.184.76.203,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 18:56:17,45.40.57.23,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-12 18:56:17,221.151.84.6,100,South Korea,Guro-gu,Korea Telecom,KORNET,Residential/Business,False
+2026-02-12 18:56:17,65.49.1.29,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,162.241.87.197,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-02-12 18:56:17,60.188.59.151,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-02-12 18:56:17,178.128.245.58,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-12 18:56:17,161.35.86.136,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 18:56:17,135.119.239.36,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-12 18:56:17,65.49.1.26,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-12 18:56:17,217.154.181.8,100,Spain,Madrid,IONOS SE,IONOS SE,Data Center,False
+2026-02-12 18:56:17,14.103.107.26,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-12 18:56:17,117.216.143.31,100,India,Kāramadai,Bharat Sanchar Nigam Ltd,,Residential/Business,False
+2026-02-12 18:56:17,165.22.207.173,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-12 18:56:17,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-12 18:56:17,14.103.105.36,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-12 18:56:17,65.49.1.240,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-12 18:56:17,170.64.130.93,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 18:56:17,117.156.229.133,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-12 18:56:17,196.196.253.20,100,United Kingdom,City of London,Orion Network Limited,Fiber Grid,Residential/Business,True
