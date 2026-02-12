@@ -21324,3 +21324,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-12 10:39:36,14.232.149.232,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
 2026-02-12 10:39:36,154.12.19.219,100,United States,Pasadena,Cogent Communications,FOJ IP TECHNOLOGY LIMITED,Residential/Business,False
 2026-02-12 10:39:36,186.248.197.77,100,Brazil,Belo Horizonte,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,Residential/Business,False
+2026-02-12 12:55:53,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-12 12:55:53,154.73.168.229,100,Tanzania,Dar es Salaam,Azam Media,,Residential/Business,False
+2026-02-12 12:55:53,213.177.179.91,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-12 12:55:53,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-12 12:55:53,185.243.218.230,100,Norway,Sandefjord,Gigahost,Gigahost,Data Center,True
+2026-02-12 12:55:53,67.227.158.74,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-02-12 12:55:53,91.92.241.199,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,True
+2026-02-12 12:55:53,1.214.197.163,100,South Korea,Suwon,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-12 12:55:53,195.184.76.167,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 12:55:53,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-12 12:55:53,115.140.161.61,100,South Korea,Ulsan,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-02-12 12:55:53,177.130.248.114,100,Brazil,Itajaí,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-12 12:55:53,54.242.21.251,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-12 12:55:53,172.182.195.225,100,United States,Phoenix,Microsoft,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-12 12:55:53,129.212.188.167,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 12:55:53,118.193.32.119,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-12 12:55:53,211.198.128.204,100,South Korea,Siheung-si,Korea Telecom,(ju)daimneteu,Residential/Business,False
+2026-02-12 12:55:53,173.230.155.26,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-12 12:55:53,207.180.220.222,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-12 12:55:53,91.230.168.188,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-12 12:55:53,94.255.255.26,100,Sweden,Stockholm,Bredband2 AB,Bredband2,Residential/Business,False
+2026-02-12 12:55:53,172.212.106.157,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-12 12:55:53,79.124.62.61,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-12 12:55:53,159.89.206.171,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 12:55:53,177.72.15.86,100,Brazil,Araçatuba,Internet Play Ltda,Internet Play Ltda,Residential/Business,False
+2026-02-12 12:55:53,20.43.61.152,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-02-12 12:55:53,187.85.155.182,100,Brazil,Turvo,Ggnet Telecom Backbone,ALT | GRUPO BRASIL TECPAR,Residential/Business,False
+2026-02-12 12:55:53,112.208.73.89,100,Philippines,Cebu City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-12 12:55:53,43.165.179.125,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-02-12 12:55:53,59.126.133.217,100,Taiwan,Huwei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-12 12:55:53,34.158.168.101,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-02-12 12:55:53,14.232.149.232,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-12 12:55:53,172.249.150.82,100,United States,Monrovia,Charter Communications,Spectrum,Residential/Business,False
+2026-02-12 12:55:53,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-12 12:55:53,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-12 12:55:53,120.157.230.152,100,Australia,Melbourne,Telstra Internet,,Residential/Business,False
+2026-02-12 12:55:53,101.126.130.65,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-12 12:55:53,103.48.192.48,100,Vietnam,Dich Vong,LVHN,JSC - Hanoi,Residential/Business,True
+2026-02-12 12:55:53,134.199.204.208,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-12 12:55:53,45.156.129.154,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-12 12:55:53,206.168.34.211,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-12 12:55:53,66.116.207.123,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-12 12:55:53,92.118.39.211,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-12 12:55:53,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-12 12:55:53,14.103.121.78,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
