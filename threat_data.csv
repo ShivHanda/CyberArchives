@@ -21934,3 +21934,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-13 14:37:55,101.47.49.98,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
 2026-02-13 14:37:55,68.183.94.236,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-13 14:37:55,209.173.10.75,100,United States,Nazareth,PenTeleData Inc,Cove Haven PropCo LLC,Residential/Business,False
+2026-02-13 16:39:02,163.176.167.78,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-02-13 16:39:02,20.89.56.154,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-13 16:39:02,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-13 16:39:02,62.60.130.75,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-02-13 16:39:02,60.188.249.64,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-02-13 16:39:02,193.163.125.134,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-13 16:39:02,4.224.132.8,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-13 16:39:02,171.231.183.188,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-13 16:39:02,61.156.218.5,100,China,Liaocheng,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-02-13 16:39:02,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-13 16:39:02,64.227.135.37,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 16:39:02,171.231.176.210,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-13 16:39:02,18.97.9.100,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,True
+2026-02-13 16:39:02,64.225.99.151,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 16:39:02,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-13 16:39:02,91.231.89.3,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-13 16:39:02,108.165.95.27,100,United States,Orem,"Ace Data Centers II, L.L.C.","Ace Data Centers, Inc",Residential/Business,False
+2026-02-13 16:39:02,188.166.7.83,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-13 16:39:02,44.221.227.90,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-13 16:39:02,117.2.49.125,100,Vietnam,Diên Khánh,Viettel Corporation,,Residential/Business,False
+2026-02-13 16:39:02,178.16.53.160,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-13 16:39:02,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-02-13 16:39:02,196.29.34.170,100,Zimbabwe,Harare,Utande Internet Services (Pvt) Ltd,Utande  (Pvt) Ltd,Residential/Business,False
+2026-02-13 16:39:02,104.243.245.4,100,Mexico,Mexico City,Ipxo LLC,,Residential/Business,True
+2026-02-13 16:39:02,115.190.106.110,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-13 16:39:02,31.59.137.192,100,Poland,Warsaw,Ixroot LTD,,Residential/Business,False
+2026-02-13 16:39:02,202.53.94.242,100,India,Hyderabad,Nettlinx Limited,Nettlinx Limited,Residential/Business,False
+2026-02-13 16:39:02,213.232.126.39,100,United Kingdom,City of London,Talk Telecom,Arbinet Ltd,Data Center,False
+2026-02-13 16:39:02,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-13 16:39:02,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-13 16:39:02,157.66.47.242,100,Vietnam,Hanoi,Jupiter Media Joint Stock Company,Jupiter Media Joint Stock Company,Mobile,False
+2026-02-13 16:39:02,176.113.155.132,100,Ukraine,Fastiv,BELICOM-FASTIV,FOP Bilenkiy Olexander Naumovich,Residential/Business,False
+2026-02-13 16:39:02,137.184.228.138,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-13 16:39:02,186.236.237.105,100,Brazil,Barbacena,Net Rosas Telecomunicações Ltda.,Net Rosas Telecomunicações Ltda,Residential/Business,False
+2026-02-13 16:39:02,1.194.219.159,100,China,Guancheng,China Telecom,Chinanet HA,Residential/Business,False
+2026-02-13 16:39:02,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-13 16:39:02,161.35.183.14,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 16:39:02,122.162.150.100,100,India,New Delhi,Bharti Airtel Ltd.,BHARTI,Residential/Business,False
+2026-02-13 16:39:02,101.47.48.72,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-13 16:39:02,179.108.84.136,100,Brazil,Valinhos,Net Turbo Telecom,Net Turbo Telecom,Residential/Business,True
+2026-02-13 16:39:02,185.228.135.173,100,Russia,Sochi,SYSTEMA,,Residential/Business,True
+2026-02-13 16:39:02,158.158.100.90,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-02-13 16:39:02,38.253.239.21,100,Indonesia,Jakarta,Cogent Communications,PT. Yetoya Solusi Indonesia,Residential/Business,False
+2026-02-13 16:39:02,42.96.20.16,100,Vietnam,Hanoi,HOALAC-VNNIC,HoaLac Software City Development Company,Residential/Business,False
+2026-02-13 16:39:02,23.94.123.43,100,United States,Santa Clara,HostPapa,RackNerd LLC,Data Center,False
+2026-02-13 16:39:02,66.116.199.61,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-13 16:39:02,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-13 16:39:02,185.196.8.20,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-13 16:39:02,192.81.229.181,100,United States,Kankakee,Fabulous Fiber LLC,Fabulous Fiber LLC,Residential/Business,False
+2026-02-13 16:39:02,85.203.23.152,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
