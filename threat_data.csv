@@ -21984,3 +21984,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-13 16:39:02,185.196.8.20,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
 2026-02-13 16:39:02,192.81.229.181,100,United States,Kankakee,Fabulous Fiber LLC,Fabulous Fiber LLC,Residential/Business,False
 2026-02-13 16:39:02,85.203.23.152,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-02-13 18:39:30,8.138.242.179,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-13 18:39:30,152.32.207.179,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-13 18:39:30,157.230.146.254,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 18:39:30,45.135.193.11,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-13 18:39:30,104.248.87.78,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-13 18:39:30,8.138.219.65,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-13 18:39:30,92.178.27.180,100,Spain,Sant Cugat del Vallès,UNI2-NET- Orange Spain Network,,Residential/Business,False
+2026-02-13 18:39:30,187.210.77.100,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Mobile,False
+2026-02-13 18:39:30,170.79.37.82,100,Peru,Santa Anita - Los Ficus,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
+2026-02-13 18:39:30,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-02-13 18:39:30,172.249.150.82,100,United States,Monrovia,Charter Communications,Spectrum,Residential/Business,False
+2026-02-13 18:39:30,86.54.31.38,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-02-13 18:39:30,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-13 18:39:30,8.130.190.28,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-13 18:39:30,27.254.185.64,100,Thailand,Phaya Thai,Super Broadband Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-02-13 18:39:30,103.218.241.7,100,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-02-13 18:39:30,185.242.226.19,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-13 18:39:30,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-13 18:39:30,104.248.86.147,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 18:39:30,58.98.199.45,100,Japan,Chiyoda City,NTT-ME Corporation,NTT-ME Corporation,Residential/Business,False
+2026-02-13 18:39:30,27.50.25.190,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-02-13 18:39:30,81.29.142.50,100,Russia,Moscow,LLC APPLIED COMPUTATIONAL TECHNOLOGIES,ApcoTeh,Residential/Business,False
+2026-02-13 18:39:30,111.228.36.44,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-13 18:39:30,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-13 18:39:30,128.14.231.72,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-13 18:39:30,165.154.134.152,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,True
+2026-02-13 18:39:30,20.163.14.19,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-13 18:39:30,81.213.109.126,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-02-13 18:39:30,119.203.251.187,100,South Korea,Daejeon,Korea Telecom,Kornet,Residential/Business,False
+2026-02-13 18:39:30,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-02-13 18:39:30,81.17.16.178,100,Switzerland,Zurich,Ripe,,Data Center,False
+2026-02-13 18:39:30,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-13 18:39:30,209.38.111.223,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 18:39:30,186.215.245.175,100,Brazil,Salvador,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-02-13 18:39:30,59.36.211.132,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-13 18:39:30,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-13 18:39:30,81.168.83.103,100,United Kingdom,Maidenhead,Eclipse Networking Ltd.,,Data Center,False
+2026-02-13 18:39:30,217.160.149.31,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
+2026-02-13 18:39:30,39.144.78.208,100,China,Jinrongjie,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-02-13 18:39:30,20.168.120.250,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-13 18:39:30,59.99.177.106,100,India,Chūru,BSNL Internet,NIB,Residential/Business,False
+2026-02-13 18:39:30,201.137.93.124,100,Mexico,Benito Juarez,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-13 18:39:30,81.161.239.19,100,United States,Kansas City,Gravhosting LLC,Gravhosting Ltd,Residential/Business,False
+2026-02-13 18:39:30,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-13 18:39:30,122.160.50.155,100,India,Delhi,BHARTI,Abts Delhi,Residential/Business,False
+2026-02-13 18:39:30,173.197.14.231,100,United States,Kansas City,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-02-13 18:39:30,45.175.37.29,100,Venezuela,Caracas,TCA SERVICES C.A.,TCA SERVICES C.A,Residential/Business,False
+2026-02-13 18:39:30,80.66.83.43,100,Kazakhstan,Almaty,Bashinskii Vadim Ruslanovich,Bashinskii,Residential/Business,False
+2026-02-13 18:39:30,171.244.37.103,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-13 18:39:30,81.143.6.60,100,United Kingdom,Slough,BT Public Internet Service,,Residential/Business,False
