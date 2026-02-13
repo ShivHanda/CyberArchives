@@ -21609,3 +21609,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-12 22:26:51,117.158.166.73,100,China,Zhengzhou,China Mobile communications corporation,China Mobile,Mobile,False
 2026-02-12 22:26:51,20.51.245.17,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-02-12 22:26:51,134.122.52.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 01:49:50,101.47.49.134,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-13 01:49:50,206.168.34.136,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-13 01:49:50,61.231.193.137,100,Taiwan,Hualien City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-13 01:49:50,91.73.188.251,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company,Residential/Business,False
+2026-02-13 01:49:50,163.182.174.251,100,United States,Latham,Turnkey Internet Inc.,Turnkey Internet Inc,Data Center,False
+2026-02-13 01:49:50,41.83.116.21,100,Senegal,Dakar,Sonatel,,Residential/Business,False
+2026-02-13 01:49:50,204.76.203.69,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-13 01:49:50,91.196.152.213,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-13 01:49:50,106.51.92.114,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-02-13 01:49:50,161.132.49.90,100,Peru,Arequipa,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-02-13 01:49:50,103.191.209.229,100,India,Nashik,Digital Snap,Digisnap,Residential/Business,False
+2026-02-13 01:49:50,142.93.232.27,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 01:49:50,50.6.229.148,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-02-13 01:49:50,45.40.57.41,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-13 01:49:50,64.62.156.202,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-13 01:49:50,77.90.185.43,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-13 01:49:50,154.83.17.73,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-02-13 01:49:50,162.241.70.178,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-02-13 01:49:50,165.154.187.108,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-13 01:49:50,172.213.220.6,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-02-13 01:49:50,20.250.11.129,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-13 01:49:50,195.184.76.131,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-13 01:49:50,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-13 01:49:50,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-13 01:49:50,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-13 01:49:50,165.154.48.133,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-13 01:49:50,23.227.147.163,100,United States,Piscataway,24Shells Inc.,Gold-networks.net,Data Center,True
+2026-02-13 01:49:50,185.246.130.20,100,Sweden,Stockholm,w1n ltd,Icme Cloud,Data Center,True
+2026-02-13 01:49:50,164.92.217.172,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 01:49:50,204.76.203.93,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-13 01:49:50,44.212.38.157,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-13 01:49:50,37.113.63.116,100,Russia,Penza,"CJSC ""ER-Telecom Holding"" Penza branch","JSC ""ER-Telecom Holding"" Penza Branch",Residential/Business,False
+2026-02-13 01:49:50,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-13 01:49:50,20.251.41.113,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-02-13 01:49:50,185.247.137.173,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-13 01:49:50,80.94.92.65,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-13 01:49:50,24.199.126.56,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-13 01:49:50,103.154.63.18,100,Vietnam,Cầu Giấy,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Residential/Business,False
+2026-02-13 01:49:50,162.240.233.32,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-13 01:49:50,206.189.105.24,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 01:49:50,65.49.1.50,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-13 01:49:50,185.191.171.19,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Residential/Business,False
+2026-02-13 01:49:50,4.197.167.136,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-13 01:49:50,185.242.226.124,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-13 01:49:50,57.151.129.39,100,United States,Cheyenne,Microsoft Corporation,Microsoft Azure Cloud (westcentralus),Data Center,False
