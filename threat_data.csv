@@ -22079,3 +22079,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-13 20:31:57,185.242.226.12,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
 2026-02-13 20:31:57,65.21.19.41,100,Finland,Helsinki,Hetzner Online GmbH,,Data Center,False
 2026-02-13 20:31:57,223.197.186.7,100,Hong Kong,Central,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-02-13 22:27:27,106.12.123.237,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-13 22:27:27,206.189.7.5,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 22:27:27,111.70.32.126,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-02-13 22:27:27,8.138.155.88,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,True
+2026-02-13 22:27:27,101.32.49.171,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-02-13 22:27:27,106.75.239.166,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-13 22:27:27,62.28.222.221,100,Portugal,Lisbon,PT Prime,,Residential/Business,False
+2026-02-13 22:27:27,118.193.61.170,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-13 22:27:27,167.99.213.57,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 22:27:27,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-13 22:27:27,158.51.96.38,100,United States,Los Angeles,NetInformatik Inc.,NetInformatik Inc,Residential/Business,True
+2026-02-13 22:27:27,118.145.201.53,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-02-13 22:27:27,129.212.178.191,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Mobile,False
+2026-02-13 22:27:27,172.172.131.149,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-13 22:27:27,92.178.27.180,100,Spain,Sant Cugat del Vallès,UNI2-NET- Orange Spain Network,,Residential/Business,False
+2026-02-13 22:27:27,59.99.177.106,100,India,Chūru,BSNL Internet,NIB,Residential/Business,False
+2026-02-13 22:27:27,165.154.10.201,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-13 22:27:27,14.194.141.164,100,India,Kochi,Tata Tele Services GSM,,Residential/Business,False
+2026-02-13 22:27:27,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-13 22:27:27,91.230.168.235,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-13 22:27:27,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-13 22:27:27,20.121.123.108,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-13 22:27:27,45.156.129.46,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-13 22:27:27,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-13 22:27:27,94.26.88.31,100,United Kingdom,London,MEVSPACE sp. z o.o.,Telco power Ltd,Residential/Business,False
+2026-02-13 22:27:27,94.26.88.32,100,United Kingdom,London,MEVSPACE sp. z o.o.,Telco power Ltd,Residential/Business,False
+2026-02-13 22:27:27,113.164.234.27,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-13 22:27:27,217.160.7.83,100,Spain,Madrid,IONOS SE,,Data Center,False
+2026-02-13 22:27:27,20.168.120.209,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-13 22:27:27,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-13 22:27:27,181.234.56.82,100,Colombia,Cali,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-02-13 22:27:27,137.184.75.235,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-13 22:27:27,14.103.114.205,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-13 22:27:27,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-13 22:27:27,20.234.88.224,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-13 22:27:27,128.199.94.34,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 22:27:27,20.163.30.205,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-13 22:27:27,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-13 22:27:27,111.228.36.44,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-13 22:27:27,3.91.179.197,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-13 22:27:27,180.76.105.165,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-13 22:27:27,50.6.227.185,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-02-13 22:27:27,81.69.250.241,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-02-13 22:27:27,143.198.214.41,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-13 22:27:27,172.176.184.129,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
