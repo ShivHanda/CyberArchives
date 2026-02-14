@@ -22579,3 +22579,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-14 20:19:59,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
 2026-02-14 20:19:59,12.156.67.18,100,United States,Oakland,"AT&T Enterprises, LLC",Sikh Gurdwara-sj,Residential/Business,False
 2026-02-14 20:19:59,171.244.49.72,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Data Center,False
+2026-02-14 22:17:58,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 22:17:58,46.19.137.194,100,Switzerland,Bern,Private Layer INC,Clientid7528,Data Center,False
+2026-02-14 22:17:58,104.248.204.70,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,49.247.31.241,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-02-14 22:17:58,177.157.207.75,100,Brazil,Barbacena,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-02-14 22:17:58,51.91.252.38,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-14 22:17:58,101.47.49.133,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-14 22:17:58,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-14 22:17:58,64.227.65.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-14 22:17:58,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 22:17:58,87.98.166.118,100,France,Gravelines,MCPECloud SAS,MCPECloud ISP,Data Center,False
+2026-02-14 22:17:58,106.75.162.148,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-14 22:17:58,165.22.195.107,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,34.227.163.41,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-14 22:17:58,125.19.244.62,100,India,Delhi,BHARTI,ZEE Media corporation Ltd,Mobile,False
+2026-02-14 22:17:58,189.194.140.170,100,Mexico,Puebla City,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-02-14 22:17:58,159.65.198.52,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-14 22:17:58,185.108.129.81,100,Ireland,Dublin,ONEPROVIDER,Oneprovider.com,Data Center,False
+2026-02-14 22:17:58,185.241.208.163,100,Poland,Warsaw,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-14 22:17:58,64.227.124.117,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,189.190.2.14,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-14 22:17:58,172.185.24.228,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-02-14 22:17:58,167.172.199.23,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,161.35.94.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,109.105.209.27,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-02-14 22:17:58,45.172.153.100,100,Dominican Republic,Santiago de los Caballeros,"TECNOLOGIA DIGITAL, S.A.",Wireless Solutions Dominicana WSD S.R.L,Mobile,False
+2026-02-14 22:17:58,165.232.85.241,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,192.109.200.213,100,Sweden,Stockholm,ipv,,Residential/Business,False
+2026-02-14 22:17:58,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-14 22:17:58,101.36.118.148,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-14 22:17:58,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-14 22:17:58,139.59.241.40,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-14 22:17:58,158.69.194.34,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc",Data Center,False
+2026-02-14 22:17:58,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-14 22:17:58,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-14 22:17:58,185.16.39.146,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-14 22:17:58,66.132.153.120,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-14 22:17:58,125.124.183.254,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-02-14 22:17:58,206.168.34.142,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-14 22:17:58,193.163.125.243,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-14 22:17:58,203.55.131.3,100,The Netherlands,Amsterdam,Internap Holding LLC,Valence Technology Co,Data Center,False
+2026-02-14 22:17:58,167.99.216.205,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 22:17:58,94.231.206.255,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-14 22:17:58,47.251.39.146,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
