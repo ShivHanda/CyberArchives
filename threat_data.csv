@@ -22124,3 +22124,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-13 22:27:27,81.69.250.241,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
 2026-02-13 22:27:27,143.198.214.41,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-13 22:27:27,172.176.184.129,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-14 01:29:12,192.109.200.217,100,Sweden,Stockholm,ipv,,Residential/Business,False
+2026-02-14 01:29:12,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-14 01:29:12,20.171.9.56,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-14 01:29:12,81.192.46.35,100,Morocco,Marrakesh,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-14 01:29:12,92.207.4.157,100,United Kingdom,Beaconsfield,Gamma Mobile,,Mobile,False
+2026-02-14 01:29:12,176.65.148.66,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-14 01:29:12,47.253.182.180,100,United States,Charlottesville,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-14 01:29:12,68.221.137.8,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-02-14 01:29:12,35.130.111.146,100,United States,Pigeon Forge,Spectrum,Mountain Breeze Motel 2926 Parkway,Residential/Business,False
+2026-02-14 01:29:12,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Residential/Business,True
+2026-02-14 01:29:12,128.185.192.166,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-14 01:29:12,115.129.77.206,100,Australia,Melbourne,TPG Internet Pty Ltd,Vodafone Australia Pty Ltd,Mobile,False
+2026-02-14 01:29:12,54.174.168.242,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-14 01:29:12,162.216.18.113,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-14 01:29:12,100.29.192.83,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-14 01:29:12,43.228.157.17,100,Singapore,Singapore,Gaditek Associates,,Data Center,True
+2026-02-14 01:29:12,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 01:29:12,177.70.2.220,100,Brazil,Kobrasol,Under Servicos de Internet Ltda,ServerDo Serviços de Informática Ltda,Data Center,False
+2026-02-14 01:29:12,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-14 01:29:12,107.189.2.131,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-02-14 01:29:12,150.246.249.149,100,Japan,Kobe,Sony Network Communications Inc,Sony Network Communications Inc.,Residential/Business,False
+2026-02-14 01:29:12,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-02-14 01:29:12,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 01:29:12,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-14 01:29:12,165.154.174.206,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-14 01:29:12,172.213.18.212,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-02-14 01:29:12,210.91.73.167,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-14 01:29:12,18.222.154.178,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-14 01:29:12,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-14 01:29:12,64.62.156.32,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 01:29:12,178.130.46.12,100,Estonia,Tallinn,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-14 01:29:12,158.94.210.190,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-14 01:29:12,154.83.197.114,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-14 01:29:12,184.105.247.207,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 01:29:12,185.180.141.48,100,United States,Dallas,Zenlayer Inc,ICG 1 ZEN DFW,Data Center,False
+2026-02-14 01:29:12,175.138.78.125,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-02-14 01:29:12,47.77.230.249,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-02-14 01:29:12,131.161.184.46,100,Argentina,Carlos Tejedor,Pogliotti & Construcciones S.A.,Coop. de Electricidad y otros Serv. Publicos Carlos Tejedor,Residential/Business,False
+2026-02-14 01:29:12,20.14.75.2,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-14 01:29:12,5.61.209.28,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Data Center,False
+2026-02-14 01:29:12,80.94.92.64,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 01:29:12,100.29.192.124,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-14 01:29:12,143.110.251.173,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 01:29:12,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 01:29:12,172.213.222.67,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
