@@ -22349,3 +22349,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-14 10:20:51,182.95.48.122,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
 2026-02-14 10:20:51,175.43.31.186,100,China,Quanzhou,China Unicom Fujian Province Network,,Residential/Business,False
 2026-02-14 10:20:51,187.210.77.100,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Mobile,False
+2026-02-14 12:35:56,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-14 12:35:56,27.110.166.67,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-14 12:35:56,23.30.11.253,100,United States,Washington,Comcast Cable Communications,Rock Springs Prope,Residential/Business,False
+2026-02-14 12:35:56,121.131.220.137,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-02-14 12:35:56,185.114.175.11,100,Spain,Manises,Occentus Network SL,Edgewatch Security Intelligence,Residential/Business,False
+2026-02-14 12:35:56,4.194.217.214,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-14 12:35:56,182.78.241.102,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-14 12:35:56,62.60.131.156,100,Iran,Tehran,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-14 12:35:56,3.77.237.112,100,Germany,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),Data Center,False
+2026-02-14 12:35:56,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-14 12:35:56,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-14 12:35:56,193.24.211.202,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-02-14 12:35:56,64.112.126.83,100,Sweden,Stockholm,Hostup AB,Dfdb LLC,Residential/Business,False
+2026-02-14 12:35:56,101.126.70.177,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-14 12:35:56,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 12:35:56,43.251.17.236,100,Hong Kong,San Po Kong,Cloudie Limited,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-02-14 12:35:56,62.193.106.227,100,Egypt,Cairo,Etisalat,,Residential/Business,False
+2026-02-14 12:35:56,206.168.34.139,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-14 12:35:56,216.180.127.200,100,United States,Dallas,Host4nerd LLC,Host4nerd LLC,Residential/Business,False
+2026-02-14 12:35:56,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 12:35:56,186.122.177.159,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-02-14 12:35:56,188.130.27.116,100,France,Paris,Celeste SAS,Magic OnLine,Residential/Business,False
+2026-02-14 12:35:56,104.28.252.177,100,Cambodia,Phnom Penh,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-02-14 12:35:56,152.32.135.217,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-14 12:35:56,162.241.5.156,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-02-14 12:35:56,43.166.245.172,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-02-14 12:35:56,167.172.40.96,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 12:35:56,101.126.11.137,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-02-14 12:35:56,103.250.10.142,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-14 12:35:56,165.22.207.185,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-14 12:35:56,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-14 12:35:56,192.99.145.154,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-02-14 12:35:56,103.17.140.166,100,Vietnam,Nghia Do,HICLOUDHN,OMZ Technology Solutions Joint Stock Company,Residential/Business,False
+2026-02-14 12:35:56,190.221.50.123,100,Argentina,Buenos Aires,Telmex Argentina S.A,Aguas Riojanas S.A.P.E.M,Residential/Business,False
+2026-02-14 12:35:56,93.123.109.192,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 12:35:56,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-14 12:35:56,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 12:35:56,20.168.7.106,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-14 12:35:56,98.92.182.81,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-14 12:35:56,80.94.92.70,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 12:35:56,103.175.30.230,100,India,Delhi,Oneott Intertainment Limited,Airnet Fiber Solutions,Residential/Business,False
+2026-02-14 12:35:56,175.107.32.186,100,Pakistan,Islamabad,National Telecommunication Corporation,NTC KHI Dynamic BRAS,Residential/Business,False
+2026-02-14 12:35:56,89.42.231.186,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-02-14 12:35:56,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-14 12:35:56,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
