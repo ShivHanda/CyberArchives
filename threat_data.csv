@@ -22214,3 +22214,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-14 04:06:03,194.164.107.6,100,Singapore,Singapore,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
 2026-02-14 04:06:03,4.224.132.8,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
 2026-02-14 04:06:03,114.111.54.188,100,Hong Kong,Hong Kong,Meteverse Limited.,CDNETWORKS,Residential/Business,True
+2026-02-14 06:37:50,179.57.170.71,100,Chile,Port Montt,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-02-14 06:37:50,14.103.243.87,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-14 06:37:50,103.138.68.74,100,Indonesia,Jakarta,PT. Internetwork Komunikasi Indonesia,,Residential/Business,False
+2026-02-14 06:37:50,208.109.39.153,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-02-14 06:37:50,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 06:37:50,13.73.111.251,100,Australia,Melbourne,Microsoft Corporation,Microsoft Azure Cloud (australiasoutheast),Data Center,False
+2026-02-14 06:37:50,91.231.89.233,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-14 06:37:50,101.126.81.188,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
+2026-02-14 06:37:50,65.49.1.35,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 06:37:50,147.50.227.79,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,True
+2026-02-14 06:37:50,103.130.216.14,100,Vietnam,Quận Tân Phú,Webico Company Limited,Vietnam Internet Network Information Center,Residential/Business,False
+2026-02-14 06:37:50,14.224.200.25,100,Vietnam,Ho Chi Minh City,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-14 06:37:50,101.36.127.85,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-14 06:37:50,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 06:37:50,185.200.116.35,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-02-14 06:37:50,103.129.101.189,100,India,Pune,Inspitele Solutions Private Limited,NIXI,Residential/Business,False
+2026-02-14 06:37:50,103.56.61.130,100,China,Zhenjiang,CHINAUNICOM CHINA169 Jiangsu Province Network,"Zhenjiang Guangyuan Network Technology Co., Ltd.",Residential/Business,False
+2026-02-14 06:37:50,125.208.17.16,100,China,Shiyan,"Hubei Feixun Network Co., Ltd","Hubei Feixun Network Co., Ltd",Residential/Business,False
+2026-02-14 06:37:50,211.106.133.202,100,South Korea,Suwon,Korea Telecom,,Residential/Business,False
+2026-02-14 06:37:50,213.37.204.184,100,Spain,Coslada,"VODAFONE ONO, S.A",Ono,Residential/Business,False
+2026-02-14 06:37:50,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 06:37:50,148.204.110.13,100,Mexico,Gustavo Adolfo Madero,Instituto Politecnico Nacional,Instituto Politecnico Nacional,Residential/Business,False
+2026-02-14 06:37:50,199.45.155.90,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-14 06:37:50,102.164.35.116,100,Nigeria,Abuja,Layer3 Limited,Descr,Residential/Business,False
+2026-02-14 06:37:50,216.218.206.124,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 06:37:50,144.79.133.252,100,Bangladesh,Dhaka,ExtentIT Solution Limited,Hoststall.com,Residential/Business,False
+2026-02-14 06:37:50,82.165.66.87,100,Germany,Frankfurt am Main,IONOS SE,De Fra Ionos Cloud Fra,Data Center,False
+2026-02-14 06:37:50,64.62.156.12,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 06:37:50,162.243.204.125,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-14 06:37:50,47.251.79.51,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-14 06:37:50,102.141.211.67,100,South Africa,Pretoria,ATS All Technology Solutions (Pty) Ltd - Internet,ATS All Technology Solutions (Pty) Ltd,Residential/Business,False
+2026-02-14 06:37:50,43.166.245.172,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-02-14 06:37:50,172.232.143.135,100,Sweden,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-14 06:37:50,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-14 06:37:50,101.198.0.171,100,China,Jinrongjie,Beijing Qihu Technology Company Limited,Beijing Qihu Technology Company Limited,Residential/Business,False
+2026-02-14 06:37:50,68.183.13.228,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 06:37:50,14.225.2.122,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-02-14 06:37:50,4.194.131.131,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-14 06:37:50,103.67.78.132,100,Indonesia,Cileunyi,PT Cloud Hosting Indonesia,PT Fazza Multi Transportasi,Data Center,False
+2026-02-14 06:37:50,101.47.161.85,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-14 06:37:50,183.3.133.47,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-14 06:37:50,185.242.226.19,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-14 06:37:50,101.47.140.226,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-14 06:37:50,187.107.88.97,100,Brazil,São Bernardo do Campo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-02-14 06:37:50,101.13.5.26,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
