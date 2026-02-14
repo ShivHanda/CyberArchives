@@ -22304,3 +22304,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-14 08:25:45,129.212.176.157,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-14 08:25:45,179.36.211.186,100,Argentina,San Juan Bautista,Telefonica de Argentina,Telefonica de Argentina,Residential/Business,False
 2026-02-14 08:25:45,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-14 10:20:51,183.195.131.206,100,China,Shanghai,China Mobile communications corporation,China Mobile Communications Corporation - shanghai company,Mobile,False
+2026-02-14 10:20:51,193.163.125.98,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-14 10:20:51,219.248.4.146,100,South Korea,Goyang-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-14 10:20:51,223.123.38.34,100,Pakistan,Kalaswala,CMPak Limited,CMPak Mobile Fixed Network,Mobile,False
+2026-02-14 10:20:51,171.34.162.86,100,China,Nanchang,China Unicom Jiangxi Province Network,,Residential/Business,False
+2026-02-14 10:20:51,193.3.53.7,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-02-14 10:20:51,185.247.137.111,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-14 10:20:51,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-14 10:20:51,185.198.27.34,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-14 10:20:51,86.54.42.205,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-14 10:20:51,18.189.74.1,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-14 10:20:51,14.103.152.56,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-14 10:20:51,170.64.145.88,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 10:20:51,172.236.228.197,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-14 10:20:51,193.104.58.60,100,United Kingdom,London,Hydra Communications Ltd,"LLC ""TD Daily Trade""",Data Center,True
+2026-02-14 10:20:51,159.223.229.181,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-14 10:20:51,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-02-14 10:20:51,45.79.181.104,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-14 10:20:51,8.222.228.70,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-14 10:20:51,142.93.139.18,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 10:20:51,37.120.205.210,100,Canada,Montreal,M247 Europe SRL,M247 LTD,Data Center,True
+2026-02-14 10:20:51,104.155.20.12,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-14 10:20:51,164.92.151.155,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 10:20:51,47.238.163.1,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-02-14 10:20:51,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-14 10:20:51,183.94.33.160,100,China,Wuhan,China Unicom Hubei Province Network,,Residential/Business,False
+2026-02-14 10:20:51,14.45.77.207,100,South Korea,Suseong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-14 10:20:51,64.62.156.170,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 10:20:51,38.137.11.14,100,India,Chandigarh,Netplus Broadband Services Private Limited,Netplus Broadband Services Pvt ltd,Residential/Business,False
+2026-02-14 10:20:51,64.62.156.136,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-14 10:20:51,204.76.203.69,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-14 10:20:51,47.251.82.10,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-14 10:20:51,14.103.112.100,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-14 10:20:51,206.189.109.26,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-14 10:20:51,182.72.232.25,100,India,Gurugram,Bharti Airtel,Athena Business Solutions PVT LTD,Mobile,False
+2026-02-14 10:20:51,158.94.210.190,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-14 10:20:51,210.71.231.7,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-14 10:20:51,61.220.235.10,100,Taiwan,Zhongli District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-14 10:20:51,34.78.29.97,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-14 10:20:51,65.20.174.49,100,Iraq,Basra,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-14 10:20:51,125.142.37.91,100,South Korea,Goyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-14 10:20:51,103.187.146.196,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-14 10:20:51,182.95.48.122,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-14 10:20:51,175.43.31.186,100,China,Quanzhou,China Unicom Fujian Province Network,,Residential/Business,False
+2026-02-14 10:20:51,187.210.77.100,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Mobile,False
