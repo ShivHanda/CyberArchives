@@ -23004,3 +23004,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 16:22:54,176.65.132.108,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
 2026-02-15 16:22:54,152.42.132.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
 2026-02-15 16:22:54,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 18:28:17,213.209.159.181,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-15 18:28:17,43.157.180.116,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-02-15 18:28:17,20.169.53.154,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-15 18:28:17,134.122.56.247,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,20.64.105.25,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 18:28:17,50.6.7.129,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-15 18:28:17,34.158.168.101,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-02-15 18:28:17,15.204.14.110,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-02-15 18:28:17,92.118.39.152,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-15 18:28:17,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-15 18:28:17,5.154.181.134,100,Germany,Frankfurt am Main,firstcolo GmbH,Gmhost,Data Center,False
+2026-02-15 18:28:17,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-15 18:28:17,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-15 18:28:17,109.205.211.13,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Residential/Business,False
+2026-02-15 18:28:17,118.194.250.232,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-15 18:28:17,142.93.138.225,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,172.200.228.35,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-15 18:28:17,185.121.0.25,100,Tajikistan,Tursunzoda,Isatel Network,LLC Isatel Tajikistan,Residential/Business,False
+2026-02-15 18:28:17,47.77.230.141,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-02-15 18:28:17,66.240.192.138,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,True
+2026-02-15 18:28:17,86.133.136.220,100,United Kingdom,Swindon,BT Public Internet Service,,Residential/Business,False
+2026-02-15 18:28:17,64.225.69.195,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,167.71.2.191,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,64.225.77.60,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-15 18:28:17,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-15 18:28:17,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-15 18:28:17,66.208.65.94,100,United States,Nekoosa,Solarus,Solarus,Residential/Business,False
+2026-02-15 18:28:17,172.86.66.35,100,Germany,Frankfurt am Main,RouterHosting LLC,FranTech Solutions,Residential/Business,False
+2026-02-15 18:28:17,188.166.73.20,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-15 18:28:17,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-15 18:28:17,92.205.57.72,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-02-15 18:28:17,66.167.169.153,100,Pakistan,Islamabad,Cyber Internet Services (Pvt) Ltd.,GTT Americas,Residential/Business,False
+2026-02-15 18:28:17,158.94.208.141,100,Germany,Frankfurt am Main,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-15 18:28:17,134.209.83.91,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 18:28:17,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-15 18:28:17,66.167.166.156,100,Pakistan,Islamabad,Cyber Internet Services (Pvt) Ltd.,GTT Americas,Residential/Business,False
+2026-02-15 18:28:17,217.154.233.215,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-02-15 18:28:17,85.215.230.245,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
+2026-02-15 18:28:17,65.7.17.58,100,Canada,Vancouver,TELUS Communications Inc.,TELUS Communications Inc,Residential/Business,False
+2026-02-15 18:28:17,158.94.210.190,100,The Netherlands,Amsterdam,Railnet LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-15 18:28:17,185.247.137.113,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-15 18:28:17,103.25.47.94,100,India,Salem,Rainbow communications India Pvt Ltd,Rainbow communications India Pvt Ltd,Residential/Business,False
+2026-02-15 18:28:17,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-02-15 18:28:17,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
