@@ -23049,3 +23049,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 18:28:17,103.25.47.94,100,India,Salem,Rainbow communications India Pvt Ltd,Rainbow communications India Pvt Ltd,Residential/Business,False
 2026-02-15 18:28:17,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
 2026-02-15 18:28:17,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 20:19:58,137.74.47.71,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-15 20:19:58,172.104.11.34,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-02-15 20:19:58,20.65.194.142,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 20:19:58,115.85.80.12,100,Indonesia,Jakarta,Sudirman Central Business District,,Residential/Business,False
+2026-02-15 20:19:58,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-15 20:19:58,172.104.11.46,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-02-15 20:19:58,87.106.149.23,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-02-15 20:19:58,198.244.233.141,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
+2026-02-15 20:19:58,64.62.156.80,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 20:19:58,45.134.79.83,100,France,Bordeaux,HostRoyale Technologies Pvt Ltd,,Residential/Business,True
+2026-02-15 20:19:58,185.110.185.151,100,Switzerland,Zurich,Genossenschaft GGA Maur,Ggamaurnet,Residential/Business,False
+2026-02-15 20:19:58,216.218.206.80,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 20:19:58,47.254.95.160,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-15 20:19:58,217.154.179.111,100,Spain,Madrid,MISTRAL,,Data Center,False
+2026-02-15 20:19:58,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-15 20:19:58,40.119.43.133,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 20:19:58,20.65.194.48,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 20:19:58,27.50.25.190,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-02-15 20:19:58,64.227.78.253,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,119.92.70.82,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-15 20:19:58,216.218.206.68,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 20:19:58,167.99.216.144,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,165.227.33.38,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,157.245.115.125,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-15 20:19:58,159.223.5.132,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-15 20:19:58,80.82.77.202,100,Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-02-15 20:19:58,118.26.36.195,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-15 20:19:58,13.81.183.29,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-02-15 20:19:58,79.124.40.174,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-15 20:19:58,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-15 20:19:58,180.76.240.235,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-15 20:19:58,159.203.59.222,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-15 20:19:58,177.53.65.44,100,Brazil,Pelotas,Osirnet Info Telecom Ltda.,Osirnet Info Telecom Ltda,Residential/Business,False
+2026-02-15 20:19:58,204.76.203.69,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-15 20:19:58,65.49.1.133,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 20:19:58,135.237.127.116,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-15 20:19:58,64.227.70.172,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,213.209.159.66,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-15 20:19:58,128.203.204.124,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-15 20:19:58,139.59.66.22,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,164.92.152.138,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,117.33.163.17,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Residential/Business,False
+2026-02-15 20:19:58,182.229.12.102,100,South Korea,Yeonsu-gu,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-02-15 20:19:58,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-15 20:19:58,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-15 20:19:58,164.92.144.214,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,192.210.198.202,100,United States,Buffalo,HostPapa,Penghy66,Data Center,False
+2026-02-15 20:19:58,206.168.34.62,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-15 20:19:58,157.245.72.104,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 20:19:58,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
