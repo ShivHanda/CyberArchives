@@ -22954,3 +22954,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 14:22:18,124.226.212.169,100,China,Liuchow,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
 2026-02-15 14:22:18,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-15 14:22:18,152.32.140.218,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-02-15 16:22:54,31.59.137.192,100,Poland,Warsaw,Ixroot LTD,,Residential/Business,False
+2026-02-15 16:22:54,200.59.147.207,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Mobile,False
+2026-02-15 16:22:54,27.124.111.122,100,Australia,Newcastle,Anycast Holdings PTY LTD,CountryTell Management Pty Ltd,Residential/Business,False
+2026-02-15 16:22:54,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 16:22:54,143.110.241.64,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 16:22:54,193.163.125.81,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-15 16:22:54,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-15 16:22:54,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-15 16:22:54,188.166.75.228,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-15 16:22:54,118.194.250.2,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-15 16:22:54,14.103.115.124,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-15 16:22:54,58.33.97.119,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-15 16:22:54,188.166.46.140,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-15 16:22:54,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-15 16:22:54,186.188.187.214,100,Panama,Panama City,Cable Onda,Cable Onda,Residential/Business,False
+2026-02-15 16:22:54,87.120.191.81,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-15 16:22:54,20.65.169.214,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 16:22:54,50.6.7.129,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-15 16:22:54,162.83.128.65,100,United States,Brooklyn,Verizon Business,Verizon Internet Services,Residential/Business,False
+2026-02-15 16:22:54,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-15 16:22:54,146.190.24.16,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 16:22:54,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-02-15 16:22:54,101.47.140.216,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-15 16:22:54,176.118.13.206,100,Russia,Yekaterinburg,MTS PJSC,Mobile TeleSystems PJSC,Mobile,False
+2026-02-15 16:22:54,167.172.47.95,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 16:22:54,197.153.57.103,100,Morocco,Tangier,MEDITELECOM,,Residential/Business,False
+2026-02-15 16:22:54,103.30.41.231,100,Hong Kong,San Po Kong,HKVPS,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-02-15 16:22:54,114.220.75.156,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-15 16:22:54,170.39.218.251,100,France,Paris,FBW Reseaux Fibres inc.,,Residential/Business,False
+2026-02-15 16:22:54,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-15 16:22:54,195.26.18.82,100,Ukraine,Khudoliivka,Alden,Zeynalov Renat,Residential/Business,False
+2026-02-15 16:22:54,111.70.1.159,100,Taiwan,Taichung,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-02-15 16:22:54,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-02-15 16:22:54,38.47.121.226,100,Japan,Chiyoda City,Cogent Communications,VMISS Inc,Residential/Business,False
+2026-02-15 16:22:54,184.22.232.38,100,Thailand,Bangkok,AIS-Fibre,,Residential/Business,False
+2026-02-15 16:22:54,220.203.28.200,100,China,Jinrongjie,China Unicom Network,,Residential/Business,True
+2026-02-15 16:22:54,185.196.10.226,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-15 16:22:54,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-15 16:22:54,178.62.200.85,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-15 16:22:54,47.237.114.190,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-15 16:22:54,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 16:22:54,159.223.229.37,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-15 16:22:54,103.61.122.229,100,Vietnam,Thanh Liệt,H2 VIET NAM TECHNOLOGY SOLUTIONS COMPANY LIMITED,H2 Viet NAM Technology Solutions Company Limited,Residential/Business,False
+2026-02-15 16:22:54,57.128.237.155,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-15 16:22:54,103.90.227.98,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-02-15 16:22:54,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-15 16:22:54,144.91.89.100,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-15 16:22:54,176.65.132.108,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-02-15 16:22:54,152.42.132.132,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-15 16:22:54,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
