@@ -22909,3 +22909,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 12:38:12,152.42.134.67,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-15 12:38:12,49.247.188.64,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
 2026-02-15 12:38:12,91.230.168.202,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-15 14:22:18,20.65.154.228,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-15 14:22:18,66.132.153.143,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-15 14:22:18,77.90.185.238,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-15 14:22:18,92.63.197.145,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-02-15 14:22:18,134.122.59.7,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,64.227.71.88,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,194.5.82.152,100,Singapore,Singapore,GSL Networks Pty LTD,,Residential/Business,True
+2026-02-15 14:22:18,101.36.107.228,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-15 14:22:18,172.94.9.48,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Data Center,True
+2026-02-15 14:22:18,80.13.153.140,100,France,Fréjus,France Telecom,,Residential/Business,False
+2026-02-15 14:22:18,142.93.131.68,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,129.146.65.146,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-02-15 14:22:18,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-15 14:22:18,157.245.252.5,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,101.47.142.210,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
+2026-02-15 14:22:18,93.123.109.192,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 14:22:18,87.121.84.46,100,United States,Los Angeles,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-15 14:22:18,167.99.209.158,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,165.22.207.99,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-15 14:22:18,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
+2026-02-15 14:22:18,134.199.204.19,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,57.129.41.93,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
+2026-02-15 14:22:18,211.20.14.156,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-15 14:22:18,103.1.210.25,100,Vietnam,Hanoi,VTDC,Viettel-CHT Company Ltd,Data Center,False
+2026-02-15 14:22:18,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-02-15 14:22:18,128.185.201.98,100,India,Delhi,Bharti Airtel,Bharti Airtel Limited,Residential/Business,False
+2026-02-15 14:22:18,190.184.222.63,100,Argentina,General Pico,Corpico Ltda,Corpico Ltda,Residential/Business,False
+2026-02-15 14:22:18,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 14:22:18,168.75.78.99,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-02-15 14:22:18,188.166.72.154,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-15 14:22:18,66.116.199.234,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-15 14:22:18,114.8.146.58,100,Indonesia,Jakarta,PT. INDOSAT Tbk,,Mobile,False
+2026-02-15 14:22:18,142.93.227.99,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,193.163.125.128,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-15 14:22:18,91.224.92.129,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-15 14:22:18,93.123.109.165,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 14:22:18,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-02-15 14:22:18,65.49.20.103,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 14:22:18,79.129.190.205,100,Greece,Néa Smýrni,OTEnet,OTEnet S.A.,Residential/Business,False
+2026-02-15 14:22:18,65.49.1.20,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-15 14:22:18,43.154.195.142,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-15 14:22:18,64.225.69.39,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 14:22:18,124.226.212.169,100,China,Liuchow,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
+2026-02-15 14:22:18,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-15 14:22:18,152.32.140.218,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
