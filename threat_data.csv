@@ -23099,3 +23099,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 20:19:58,206.168.34.62,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
 2026-02-15 20:19:58,157.245.72.104,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-15 20:19:58,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-15 22:18:40,142.93.135.180,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,77.90.185.65,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-15 22:18:40,78.153.140.129,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-02-15 22:18:40,206.189.15.224,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,209.38.34.88,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-15 22:18:40,47.250.49.72,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-02-15 22:18:40,136.0.213.103,100,United States,Piscataway,Ipxo LLC,Ipxo LLC,Data Center,False
+2026-02-15 22:18:40,27.112.79.97,100,Indonesia,Kurungannyawa,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-15 22:18:40,89.45.4.110,100,United States,Los Angeles,M247 Europe SRL,M247 Los Angeles,Data Center,True
+2026-02-15 22:18:40,211.253.9.49,100,South Korea,Seoul,PUBNET,jeongbotongsinyounriwewonhwyeu,Residential/Business,False
+2026-02-15 22:18:40,85.215.119.240,100,Germany,Berlin,IONOS SE,Strato AG,Data Center,False
+2026-02-15 22:18:40,104.248.84.219,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,64.62.156.72,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-15 22:18:40,103.76.120.106,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-02-15 22:18:40,45.144.212.50,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
+2026-02-15 22:18:40,213.209.159.66,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-15 22:18:40,78.153.140.50,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-02-15 22:18:40,139.192.91.206,100,Indonesia,Bekasi,"PT. First Media, Tbk",,Residential/Business,False
+2026-02-15 22:18:40,128.203.201.254,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-15 22:18:40,43.252.228.18,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-02-15 22:18:40,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-15 22:18:40,178.128.245.110,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-15 22:18:40,83.168.68.72,100,Poland,Wroclaw,SkyPass Solutions Sp. z.o.o.,SkillHost,Residential/Business,True
+2026-02-15 22:18:40,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-15 22:18:40,27.79.46.57,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-15 22:18:40,161.35.159.239,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,14.103.114.195,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-15 22:18:40,199.45.154.119,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-15 22:18:40,123.25.97.130,100,Vietnam,Huế,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-15 22:18:40,164.92.218.93,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,77.247.92.12,100,Albania,Fier,Teleco Fifth,,Residential/Business,False
+2026-02-15 22:18:40,107.172.180.205,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-02-15 22:18:40,14.103.114.136,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-15 22:18:40,134.175.126.242,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-02-15 22:18:40,217.198.191.211,100,Germany,Frankfurt am Main,Zenlayer Inc,Zenlayer (Singapore) PTE. LTD,Data Center,False
+2026-02-15 22:18:40,69.12.83.27,100,Estonia,Tallinn,HostSlim B.V.,HostPapa,Data Center,True
+2026-02-15 22:18:40,20.55.126.243,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-15 22:18:40,101.32.208.70,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-02-15 22:18:40,165.154.11.172,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-15 22:18:40,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-15 22:18:40,165.22.197.94,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-15 22:18:40,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-15 22:18:40,117.2.49.125,100,Vietnam,Tuy Phước,Viettel Corporation,,Residential/Business,False
+2026-02-15 22:18:40,117.138.112.7,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-15 22:18:40,64.62.197.185,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
