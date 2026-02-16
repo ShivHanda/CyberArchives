@@ -23574,3 +23574,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-16 18:36:12,71.6.135.131,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
 2026-02-16 18:36:12,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-02-16 18:36:12,103.172.205.208,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-16 20:24:43,65.20.251.170,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-16 20:24:43,103.17.91.226,100,Vietnam,Hanoi,VNTT,,Residential/Business,False
+2026-02-16 20:24:43,158.94.211.102,100,United States,New York,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-02-16 20:24:43,123.160.223.73,100,China,Guancheng,China Telecom,Chinanet HA,Residential/Business,False
+2026-02-16 20:24:43,20.53.240.38,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-16 20:24:43,60.167.19.189,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-02-16 20:24:43,45.82.76.114,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-16 20:24:43,49.124.152.235,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-16 20:24:43,118.26.39.178,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-16 20:24:43,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-16 20:24:43,91.230.168.143,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-16 20:24:43,106.75.88.55,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-16 20:24:43,58.56.155.146,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-02-16 20:24:43,142.171.18.185,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc,Data Center,False
+2026-02-16 20:24:43,103.56.148.218,100,Indonesia,Jakarta,PT Beon Intermedia,,Data Center,False
+2026-02-16 20:24:43,36.64.33.82,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-02-16 20:24:43,49.124.152.218,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-16 20:24:43,103.61.123.221,100,Vietnam,Thanh Liệt,H2 VIET NAM TECHNOLOGY SOLUTIONS COMPANY LIMITED,H2 Viet NAM Technology Solutions Company Limited,Residential/Business,False
+2026-02-16 20:24:43,31.173.0.26,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-02-16 20:24:43,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-16 20:24:43,204.48.25.113,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 20:24:43,173.239.247.28,100,Vietnam,Hanoi,GSL Networks Pty LTD,GSL Networks Pty LTD,Residential/Business,True
+2026-02-16 20:24:43,14.103.118.190,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-16 20:24:43,193.163.125.83,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-16 20:24:43,201.124.19.254,100,Mexico,Cuauhtémoc,Uninet S.A. de C.V.,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-16 20:24:43,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-16 20:24:43,81.192.46.36,100,Morocco,Rabat,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-16 20:24:43,42.112.42.129,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-02-16 20:24:43,114.34.106.146,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-16 20:24:43,117.50.70.169,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,True
+2026-02-16 20:24:43,31.59.137.192,100,Poland,Warsaw,Ixroot LTD,,Residential/Business,False
+2026-02-16 20:24:43,20.169.105.85,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-16 20:24:43,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-16 20:24:43,161.35.94.181,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 20:24:43,185.220.101.171,100,Germany,Schönwalde,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,Residential/Business,True
+2026-02-16 20:24:43,92.205.56.196,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-02-16 20:24:43,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-16 20:24:43,185.93.89.100,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-16 20:24:43,121.4.36.32,100,China,Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-02-16 20:24:43,172.94.9.63,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-16 20:24:43,118.193.65.212,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-16 20:24:43,111.238.174.6,100,Japan,Sengenchō,Kddi Corporation,KDDI,Residential/Business,False
+2026-02-16 20:24:43,122.179.158.34,100,India,Mumbai,Bharti Airtel,Bharti Airtel Services Limited,Residential/Business,False
+2026-02-16 20:24:43,74.248.34.156,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-02-16 20:24:43,213.177.179.91,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-16 20:24:43,206.84.112.212,100,Indonesia,Jakarta,Cogent Communications,PT. MITRA VISIONER PRATAMA,Data Center,False
+2026-02-16 20:24:43,4.188.81.105,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-02-16 20:24:43,43.246.139.120,100,India,Coimbatore,Airdesign Broadcast Media Pvt Ltd,Airdesign Broadcast Media Pvt Ltd,Residential/Business,False
+2026-02-16 20:24:43,103.85.180.229,100,India,Benaulim,Dataexpress Pvt Ltd,NIXI,Residential/Business,False
+2026-02-16 20:24:43,121.237.36.31,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
