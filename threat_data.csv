@@ -23524,3 +23524,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-16 16:37:06,155.4.244.107,100,Sweden,Enköping,Bahnhof AB,,Residential/Business,False
 2026-02-16 16:37:06,206.189.104.40,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-16 16:37:06,120.48.182.189,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-16 18:36:12,43.135.130.196,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-16 18:36:12,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-16 18:36:12,103.176.78.213,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,True
+2026-02-16 18:36:12,72.255.9.153,100,Pakistan,Karachi,Cyber Internet Services Pakistan,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-02-16 18:36:12,44.201.216.24,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-16 18:36:12,144.2.125.115,100,Switzerland,Rothenburg,Swisscom (Schweiz) AG,WINGO-CUST1B2,Residential/Business,False
+2026-02-16 18:36:12,45.82.76.127,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-16 18:36:12,72.179.72.28,100,United States,Grand Prairie,Spectrum,Road Runner,Residential/Business,False
+2026-02-16 18:36:12,66.116.207.52,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-16 18:36:12,107.150.117.187,100,Germany,Frankfurt am Main,Zenlayer Inc,ZENLA-1,Data Center,False
+2026-02-16 18:36:12,156.245.239.180,100,Hong Kong,Hong Kong,Zillion Network Inc.,Hong Kong Meccaler Technology Co,Residential/Business,False
+2026-02-16 18:36:12,157.245.139.14,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 18:36:12,188.166.189.234,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-16 18:36:12,69.5.189.81,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-16 18:36:12,80.94.92.69,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-16 18:36:12,164.132.215.208,100,France,Roubaix,OVH SAS,OVH Srl,Data Center,False
+2026-02-16 18:36:12,72.132.184.57,100,United States,Palm Springs,Charter Communications,Spectrum,Residential/Business,False
+2026-02-16 18:36:12,71.6.232.30,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,37.187.244.59,100,France,Strasbourg,OVH SAS,OVH SAS,Data Center,False
+2026-02-16 18:36:12,71.90.30.53,100,United States,Watertown,Charter Communications,Spectrum,Residential/Business,False
+2026-02-16 18:36:12,14.103.159.240,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-16 18:36:12,118.194.250.47,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-16 18:36:12,103.183.74.205,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-02-16 18:36:12,146.190.26.220,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 18:36:12,103.42.57.160,100,Vietnam,Quận Ba,THEGIOISO,Digital world data online company,Residential/Business,False
+2026-02-16 18:36:12,51.158.120.121,100,France,Paris,SCALEWAY,ONLINE,Data Center,True
+2026-02-16 18:36:12,121.171.95.112,100,South Korea,Gangseo-gu,Korea Telecom,Sudogwonseobubonbu,Residential/Business,False
+2026-02-16 18:36:12,71.6.199.87,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,151.80.118.222,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-02-16 18:36:12,77.83.39.249,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-16 18:36:12,152.70.252.57,100,South Korea,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),Data Center,False
+2026-02-16 18:36:12,182.99.208.112,100,China,Taohua,Chinanet,Chinanet JX,Residential/Business,False
+2026-02-16 18:36:12,113.44.174.147,100,China,Beijing,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-02-16 18:36:12,71.6.199.23,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,130.250.191.199,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-02-16 18:36:12,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-16 18:36:12,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-16 18:36:12,194.187.176.237,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-02-16 18:36:12,42.82.111.233,100,South Korea,Dongnae,LG HelloVision Corp.,CJ Hellovision,Residential/Business,False
+2026-02-16 18:36:12,152.228.128.85,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-02-16 18:36:12,178.62.242.126,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-16 18:36:12,71.6.165.200,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,45.61.187.30,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-16 18:36:12,71.6.158.166,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,117.192.42.14,100,India,Tumkūr,BSNL Internet,,Residential/Business,False
+2026-02-16 18:36:12,43.245.249.251,100,Indonesia,Pekanbaru,PT Smart Media Pratama,,Residential/Business,False
+2026-02-16 18:36:12,45.186.251.70,100,Brazil,Erechim,Glfibra Servicos De Telecomunicacoes Ltda,Glfibra Servicos De Telecomunicacoes Ltda,Residential/Business,False
+2026-02-16 18:36:12,71.6.135.131,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-16 18:36:12,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-16 18:36:12,103.172.205.208,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
