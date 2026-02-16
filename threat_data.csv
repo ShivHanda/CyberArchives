@@ -23144,3 +23144,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-15 22:18:40,117.2.49.125,100,Vietnam,Tuy Phước,Viettel Corporation,,Residential/Business,False
 2026-02-15 22:18:40,117.138.112.7,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
 2026-02-15 22:18:40,64.62.197.185,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-16 01:45:24,218.90.138.78,100,China,Wuxi,Chinanet,,Residential/Business,False
+2026-02-16 01:45:24,158.94.208.43,100,Germany,Frankfurt am Main,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-02-16 01:45:24,144.24.107.1,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-02-16 01:45:24,206.168.34.138,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-16 01:45:24,69.12.83.46,100,Estonia,Tallinn,HostSlim B.V.,HostPapa,Data Center,False
+2026-02-16 01:45:24,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-16 01:45:24,65.49.1.123,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-16 01:45:24,178.128.255.88,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-16 01:45:24,185.93.89.45,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-16 01:45:24,190.167.90.67,100,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
+2026-02-16 01:45:24,172.94.9.64,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-16 01:45:24,170.79.37.84,100,Peru,Santa Anita - Los Ficus,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
+2026-02-16 01:45:24,144.79.133.252,100,Bangladesh,Dhaka,ExtentIT Solution Limited,Hoststall.com,Residential/Business,True
+2026-02-16 01:45:24,143.42.1.52,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-16 01:45:24,185.93.89.49,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-16 01:45:24,185.156.73.180,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-16 01:45:24,24.4.123.56,100,United States,Daly City,"Comcast Cable Communications, LLC",Comcast Cable Communications,Residential/Business,False
+2026-02-16 01:45:24,172.237.150.22,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-16 01:45:24,180.184.182.87,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-02-16 01:45:24,194.233.84.155,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,Residential/Business,True
+2026-02-16 01:45:24,188.54.64.177,100,Saudi Arabia,Riyadh,Saudinet,,Residential/Business,True
+2026-02-16 01:45:24,165.232.86.241,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,164.92.144.214,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-16 01:45:24,193.24.211.202,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-02-16 01:45:24,103.160.212.122,100,Indonesia,Bekasi,PT Dewa Bisnis Digital,PT Dewabisnis Digital Indonesia,Residential/Business,False
+2026-02-16 01:45:24,164.92.217.77,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,20.64.105.193,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-16 01:45:24,161.35.100.188,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,206.168.34.42,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-16 01:45:24,210.2.86.189,100,Vietnam,Ho Chi Minh City,Quang Trung Software City Development Company Limited,Vietnam Internet Network Information Center,Residential/Business,False
+2026-02-16 01:45:24,161.35.91.102,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-02-16 01:45:24,129.146.81.247,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-02-16 01:45:24,23.133.28.2,100,United States,Lexington-Fayette,"NTT America, Inc.",DataZone Networks LLC,Residential/Business,False
+2026-02-16 01:45:24,36.50.176.147,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-02-16 01:45:24,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-16 01:45:24,85.217.149.15,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-16 01:45:24,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-16 01:45:24,146.190.22.227,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-16 01:45:24,45.82.76.103,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-02-16 01:45:24,195.158.9.235,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-02-16 01:45:24,128.14.236.41,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-16 01:45:24,165.154.206.204,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-16 01:45:24,185.93.89.71,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
