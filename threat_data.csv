@@ -23814,3 +23814,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 06:52:35,87.106.51.202,100,France,Courbevoie,IONOS,,Data Center,False
 2026-02-17 06:52:35,116.179.37.142,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
 2026-02-17 06:52:35,152.42.134.69,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-17 08:38:25,52.188.231.42,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-17 08:38:25,91.196.152.124,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 08:38:25,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-17 08:38:25,204.76.203.18,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-17 08:38:25,45.196.219.242,100,Hong Kong,Hong Kong,LuoGeLang France Limited,Akile LTD,Residential/Business,False
+2026-02-17 08:38:25,59.145.160.158,100,India,Noida,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-17 08:38:25,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-17 08:38:25,27.112.79.3,100,Indonesia,Kurungannyawa,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-17 08:38:25,77.53.195.148,100,Sweden,Karlstad,Bredband2 AB,Bredband2,Residential/Business,False
+2026-02-17 08:38:25,45.78.198.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-17 08:38:25,153.0.195.252,100,China,Haikou,China Unicom Hainan Province Network,,Residential/Business,False
+2026-02-17 08:38:25,180.184.82.249,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,True
+2026-02-17 08:38:25,86.171.119.125,100,United Kingdom,Hockley,BT Public Internet Service,,Residential/Business,False
+2026-02-17 08:38:25,111.52.249.29,100,China,Liuxiang,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-17 08:38:25,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-17 08:38:25,185.93.89.100,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-17 08:38:25,187.188.0.71,100,Mexico,Benito Juarez,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-17 08:38:25,156.229.16.142,100,Russia,Moscow,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology HK Limited,Data Center,False
+2026-02-17 08:38:25,64.62.156.217,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 08:38:25,162.217.227.37,100,United States,Eureka,"Interbel Telephone Cooperative, Inc.","Interbel Telephone Cooperative, Inc.",Residential/Business,False
+2026-02-17 08:38:25,85.217.149.43,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-17 08:38:25,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-17 08:38:25,64.62.197.184,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-17 08:38:25,222.124.17.227,100,Indonesia,Tangerang,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-02-17 08:38:25,172.234.219.59,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-17 08:38:25,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 08:38:25,4.232.88.90,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-02-17 08:38:25,77.30.100.37,100,Saudi Arabia,Riyadh,Saudinet DSL,,Residential/Business,False
+2026-02-17 08:38:25,139.59.165.172,100,United Kingdom,Slough,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-02-17 08:38:25,87.120.191.13,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-17 08:38:25,103.210.21.242,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-02-17 08:38:25,118.127.40.41,100,Australia,Sydney,Servers Australia Pty. Ltd,,Data Center,False
+2026-02-17 08:38:25,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-17 08:38:25,14.103.228.234,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-17 08:38:25,118.193.33.130,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 08:38:25,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 08:38:25,101.47.140.158,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-17 08:38:25,199.45.155.105,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-17 08:38:25,171.244.61.223,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Data Center,False
+2026-02-17 08:38:25,152.32.218.149,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 08:38:25,118.194.231.208,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-17 08:38:25,88.210.63.192,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,FOP Dmytro Nedilskyi,Residential/Business,False
+2026-02-17 08:38:25,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 08:38:25,103.193.178.248,100,Indonesia,Cicurug,PT. NARA CAKRA STUDIO,,Data Center,False
+2026-02-17 08:38:25,144.48.8.10,100,Japan,Taitō City,Cloudie Limited,rainbow network corporation limited,Data Center,False
