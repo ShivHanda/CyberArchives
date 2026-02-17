@@ -24054,3 +24054,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 16:52:17,187.40.215.162,100,Brazil,Boa Vista,V tal,V tal,Residential/Business,False
 2026-02-17 16:52:17,165.154.162.6,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-02-17 16:52:17,171.25.158.70,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-02-17 18:50:46,65.49.1.188,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 18:50:46,14.103.112.228,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,True
+2026-02-17 18:50:46,65.49.1.184,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,42.200.66.164,100,Hong Kong,South Wave Court,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-17 18:50:46,43.157.142.101,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-02-17 18:50:46,50.149.161.131,100,United States,Jacksonville,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-02-17 18:50:46,197.199.224.52,100,Egypt,Al Qāhirah al Jadīdah,Etisalat Misr,Etisalat Misr,Mobile,False
+2026-02-17 18:50:46,45.40.57.41,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-17 18:50:46,65.49.1.183,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,175.0.72.45,100,China,Changsha,Chinanet,Chinanet HN,Residential/Business,False
+2026-02-17 18:50:46,104.248.33.228,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 18:50:46,20.250.10.152,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-17 18:50:46,65.49.1.182,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,64.89.160.82,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-02-17 18:50:46,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 18:50:46,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 18:50:46,119.96.131.105,100,China,Shizishan,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-02-17 18:50:46,206.168.34.154,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-17 18:50:46,125.132.34.65,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-17 18:50:46,64.227.172.158,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 18:50:46,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 18:50:46,103.90.227.98,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Residential/Business,False
+2026-02-17 18:50:46,91.92.241.233,100,Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-02-17 18:50:46,65.49.1.181,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 18:50:46,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-17 18:50:46,35.222.117.243,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-17 18:50:46,65.49.1.18,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-17 18:50:46,87.228.27.214,100,Russia,St Petersburg,JSC Selectel,Selectel,Data Center,False
+2026-02-17 18:50:46,128.1.131.163,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-17 18:50:46,65.49.1.177,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 18:50:46,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-17 18:50:46,91.231.89.115,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 18:50:46,91.237.163.114,100,Russia,Moscow,Systematica LLC,Systematica LLC,Residential/Business,False
+2026-02-17 18:50:46,51.91.252.38,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-17 18:50:46,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-17 18:50:46,172.94.9.253,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-17 18:50:46,104.28.240.87,100,Bangladesh,Dhaka,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-02-17 18:50:46,65.49.1.174,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 18:50:46,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 18:50:46,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-17 18:50:46,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
