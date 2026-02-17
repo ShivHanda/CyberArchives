@@ -23959,3 +23959,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 12:52:39,134.199.192.31,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-02-17 12:52:39,165.227.47.158,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-02-17 12:52:39,80.94.92.67,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-17 14:41:17,106.12.184.7,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-17 14:41:17,183.66.149.42,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-02-17 14:41:17,42.123.126.29,100,China,Beijing,Cloud Computing Corporation,Cloud Computing Branch Corporation,Data Center,False
+2026-02-17 14:41:17,59.24.28.114,100,South Korea,Gyeongju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-17 14:41:17,103.195.236.96,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-02-17 14:41:17,111.70.23.238,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-02-17 14:41:17,176.65.149.35,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-17 14:41:17,170.82.176.19,100,Brazil,Blumenau,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-17 14:41:17,168.195.32.56,100,Brazil,São Fidélis,Infolic Comercial de Informatica Ltda.,Infolic Comercial de Informatica Ltda,Residential/Business,False
+2026-02-17 14:41:17,46.101.225.209,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-17 14:41:17,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-17 14:41:17,176.126.84.59,100,Sweden,Stockholm,HostHatch,HostHatch LLC,Data Center,False
+2026-02-17 14:41:17,222.219.131.90,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-02-17 14:41:17,79.117.41.156,100,Spain,Madrid,Digi Spain Telecom S.L.U.,Digi Spain Telecom S.L,Residential/Business,False
+2026-02-17 14:41:17,165.227.127.213,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 14:41:17,100.49.117.77,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-17 14:41:17,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 14:41:17,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-17 14:41:17,217.154.75.149,100,Germany,Berlin,MISTRAL,,Data Center,True
+2026-02-17 14:41:17,156.236.75.188,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-02-17 14:41:17,45.149.173.211,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-02-17 14:41:17,67.213.118.179,100,United States,Dallas,Latitude.sh,Latitude.sh,Residential/Business,False
+2026-02-17 14:41:17,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 14:41:17,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-17 14:41:17,45.175.37.29,100,Venezuela,Caracas,TCA SERVICES C.A.,TCA SERVICES C.A,Residential/Business,False
+2026-02-17 14:41:17,103.174.103.249,100,India,Nashik,Idigitalcamp Web Services,Idigitalcamp Web Services,Residential/Business,False
+2026-02-17 14:41:17,204.76.203.25,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,True
+2026-02-17 14:41:17,45.43.58.158,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-17 14:41:17,79.137.76.231,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-17 14:41:17,134.199.192.179,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 14:41:17,64.112.126.83,100,Sweden,Stockholm,Dfdb LLC,Hostup AB,Residential/Business,False
+2026-02-17 14:41:17,91.238.181.96,100,France,Paris,Datacenter location PAR1 France,ThinkTech Technology Industrial CO. Limited,Data Center,False
+2026-02-17 14:41:17,188.166.50.7,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-17 14:41:17,14.241.100.20,100,Vietnam,Da Nang,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-17 14:41:17,185.93.89.29,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-17 14:41:17,134.199.197.73,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 14:41:17,3.95.243.114,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-17 14:41:17,13.218.44.152,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-17 14:41:17,159.223.37.230,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 14:41:17,160.251.251.171,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Data Center,False
+2026-02-17 14:41:17,178.62.243.73,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-17 14:41:17,213.209.159.12,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-17 14:41:17,185.177.72.30,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-02-17 14:41:17,185.247.137.187,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-17 14:41:17,212.28.181.117,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Residential/Business,False
+2026-02-17 14:41:17,112.166.57.12,100,South Korea,Yuseong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-17 14:41:17,134.199.197.169,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 14:41:17,176.31.224.40,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,True
+2026-02-17 14:41:17,14.98.244.193,100,India,Hyderabad,Tata Teleservices LTD - Tata Indicom - Cdma Division,Tata Teleservices LTD Cdma,Mobile,False
+2026-02-17 14:41:17,62.210.91.123,100,France,Paris,Online S.A.S.,ONLINE,Data Center,False
