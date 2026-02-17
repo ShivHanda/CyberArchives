@@ -23909,3 +23909,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 10:40:06,134.122.127.88,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-17 10:40:06,196.0.120.211,100,Uganda,Kampala,Uganda Telecom Ltd,UTL,Residential/Business,False
 2026-02-17 10:40:06,101.13.4.120,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-02-17 12:52:39,185.156.73.180,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-17 12:52:39,209.85.161.72,100,United States,Mountain View,Google LLC,Google LLC,Data Center,False
+2026-02-17 12:52:39,104.28.253.100,100,Indonesia,Palembang,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-02-17 12:52:39,158.101.217.27,100,Netherlands,Amsterdam,Oracle Corporation,Oracle Cloud Infrastructure (eu-amsterdam-1),Data Center,True
+2026-02-17 12:52:39,217.79.254.134,100,United States,New York,"HIVELOCITY, Inc.",,Data Center,False
+2026-02-17 12:52:39,45.142.154.99,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-02-17 12:52:39,138.68.21.9,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-17 12:52:39,45.148.10.39,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-17 12:52:39,51.103.25.59,100,France,Paris,Microsoft,Microsoft Azure Cloud (francecentral),Data Center,True
+2026-02-17 12:52:39,107.172.180.205,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-02-17 12:52:39,185.196.10.226,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-17 12:52:39,20.65.193.195,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-17 12:52:39,183.56.196.118,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-02-17 12:52:39,118.202.54.15,100,China,Shenyang,CERNET,,Residential/Business,False
+2026-02-17 12:52:39,81.155.222.58,100,United Kingdom,Ilford,BT Public Internet Service,,Residential/Business,False
+2026-02-17 12:52:39,57.128.237.155,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-17 12:52:39,103.243.26.174,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Residential/Business,False
+2026-02-17 12:52:39,77.90.185.96,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,True
+2026-02-17 12:52:39,91.92.241.35,100,Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-02-17 12:52:39,69.123.219.82,100,United States,Shirley,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-02-17 12:52:39,79.124.40.174,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-17 12:52:39,212.227.142.113,100,Germany,Essen,IONOS SE,De Rhr Bap Ngcs Public,Data Center,False
+2026-02-17 12:52:39,91.196.152.190,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 12:52:39,134.199.196.95,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 12:52:39,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 12:52:39,64.227.142.15,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 12:52:39,177.53.65.44,100,Brazil,Pelotas,Osirnet Info Telecom Ltda.,Osirnet Info Telecom Ltda,Residential/Business,False
+2026-02-17 12:52:39,103.53.231.159,100,Vietnam,Ho Chi Minh City,AOHOAVIET,"AO HOA Viet Co., ltd",Residential/Business,False
+2026-02-17 12:52:39,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 12:52:39,91.196.152.149,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 12:52:39,103.136.200.241,100,Bangladesh,Bhātāra,Polly IT,Md Dalowar Hossain,Residential/Business,False
+2026-02-17 12:52:39,50.6.225.58,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-17 12:52:39,193.142.147.209,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-02-17 12:52:39,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
+2026-02-17 12:52:39,64.226.126.10,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 12:52:39,188.130.27.116,100,France,Vigneux-sur-Seine,Celeste SAS,Magic OnLine,Residential/Business,True
+2026-02-17 12:52:39,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-17 12:52:39,134.199.199.108,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 12:52:39,103.163.215.10,100,Vietnam,Phú Lâm,Lanit Technology and Communication Joint Stock Company,Dong Hung PHU Company Limited,Residential/Business,False
+2026-02-17 12:52:39,190.184.222.63,100,Argentina,General Pico,Corpico Ltda,Corpico Ltda,Residential/Business,False
+2026-02-17 12:52:39,85.8.182.98,100,Hong Kong,Hong Kong,Bunny Communications,Bunny,Residential/Business,False
+2026-02-17 12:52:39,165.154.36.76,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 12:52:39,115.129.77.206,100,Australia,Melbourne,TPG Internet Pty Ltd,Vodafone Australia Pty Ltd,Mobile,False
+2026-02-17 12:52:39,49.247.188.64,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-02-17 12:52:39,91.230.168.239,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 12:52:39,165.154.225.20,100,Hong Kong,Hong Kong,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-17 12:52:39,143.198.18.76,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 12:52:39,134.199.192.31,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-17 12:52:39,165.227.47.158,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-17 12:52:39,80.94.92.67,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
