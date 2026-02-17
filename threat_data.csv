@@ -23764,3 +23764,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 04:14:13,91.230.168.13,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-02-17 04:14:13,91.126.40.196,100,Spain,San Vicente de la Barquera,Adamo Telecom Iberia S.A Catalonia,Adamo Telecom Iberia S.A.U,Residential/Business,False
 2026-02-17 04:14:13,36.133.15.187,100,China,Qingyuan,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-02-17 06:52:35,117.48.218.234,100,China,Beijing,China Unicom Guangdong IP network,CloudVsp,Residential/Business,False
+2026-02-17 06:52:35,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 06:52:35,123.58.210.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 06:52:35,122.179.158.34,100,India,Mumbai,Bharti Airtel,Bharti Airtel Services Limited,Residential/Business,False
+2026-02-17 06:52:35,111.228.36.44,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-17 06:52:35,121.204.140.70,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-02-17 06:52:35,103.98.176.164,100,Indonesia,Rejosari,Universitas PGRI Semarang,Universitas PGRI Semarang,Residential/Business,False
+2026-02-17 06:52:35,152.32.183.22,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-17 06:52:35,165.154.58.108,100,Philippines,Manila,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 06:52:35,117.206.233.238,100,India,Hyderabad,BSNL Internet,NIB,Residential/Business,False
+2026-02-17 06:52:35,89.248.163.200,100,The Netherlands,Amsterdam,IP Volume inc,Quasi Networks LTD,Residential/Business,False
+2026-02-17 06:52:35,154.92.109.196,100,Hong Kong,Hong Kong,Universe Action Limited,Universe Action Limited,Residential/Business,False
+2026-02-17 06:52:35,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-17 06:52:35,45.78.204.254,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-17 06:52:35,117.205.3.26,100,India,Gandhinagar,BSNL Internet,,Residential/Business,False
+2026-02-17 06:52:35,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-17 06:52:35,178.128.232.91,100,Canada,Toronto,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-02-17 06:52:35,120.48.181.192,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-17 06:52:35,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 06:52:35,116.90.229.178,100,Nepal,Kathmandu,Websurfer Nepal Communication System Pvt. Ltd,Websurfer Nepal Communication System Pvt. Ltd,Residential/Business,False
+2026-02-17 06:52:35,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-17 06:52:35,54.36.99.29,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-17 06:52:35,181.49.8.57,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-02-17 06:52:35,116.48.151.58,100,Hong Kong,Hang Hau,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-17 06:52:35,199.45.154.185,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-17 06:52:35,182.75.216.74,100,India,Mumbai,Bharti Airtel,IBT Media Private Limited,Mobile,False
+2026-02-17 06:52:35,204.76.203.93,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-17 06:52:35,118.194.250.47,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 06:52:35,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-17 06:52:35,116.236.43.254,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-17 06:52:35,94.182.131.171,100,Iran,Karaj,Tehran Server,,Residential/Business,False
+2026-02-17 06:52:35,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 06:52:35,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-17 06:52:35,168.167.72.132,100,Botswana,Gaborone,Botswana Telecommunications Corporation,,Residential/Business,False
+2026-02-17 06:52:35,174.138.52.189,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-17 06:52:35,102.244.97.183,100,Cameroon,Douala,Orange CAM INTERNET,Orange Cameroun SA,Residential/Business,True
+2026-02-17 06:52:35,118.193.36.205,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 06:52:35,65.49.1.82,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 06:52:35,64.62.156.21,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 06:52:35,85.217.149.17,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-17 06:52:35,116.228.4.126,100,China,Shanghai,China Telecom (Group),Jibeike,Residential/Business,False
+2026-02-17 06:52:35,165.227.127.213,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 06:52:35,118.193.39.127,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-17 06:52:35,136.248.73.230,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Mobile,False
+2026-02-17 06:52:35,116.205.229.64,100,China,Guangzhou,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-02-17 06:52:35,157.245.62.119,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-17 06:52:35,184.105.247.215,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 06:52:35,87.106.51.202,100,France,Courbevoie,IONOS,,Data Center,False
+2026-02-17 06:52:35,116.179.37.142,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-02-17 06:52:35,152.42.134.69,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,True
