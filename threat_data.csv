@@ -24144,3 +24144,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-17 20:31:12,199.45.154.178,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
 2026-02-17 20:31:12,176.65.149.220,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
 2026-02-17 20:31:12,185.93.89.100,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-17 22:25:19,120.48.147.81,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-17 22:25:19,121.179.93.147,100,South Korea,Gwangsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-17 22:25:19,195.178.110.131,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-17 22:25:19,85.217.140.33,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-17 22:25:19,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-17 22:25:19,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,121.131.220.153,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-02-17 22:25:19,50.84.211.204,100,United States,Austin,Spectrum,RGB Hospitality,Residential/Business,False
+2026-02-17 22:25:19,64.89.161.103,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-02-17 22:25:19,176.65.149.64,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-17 22:25:19,172.213.16.18,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-02-17 22:25:19,103.31.39.143,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-02-17 22:25:19,45.225.204.5,100,Chile,Las Cabras,Netdelsur Telecomunicaciones SPA,Netdelsur Telecomunicaciones SPA,Residential/Business,False
+2026-02-17 22:25:19,54.211.13.246,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-17 22:25:19,185.153.231.44,100,Turkey,Bursa,Bursabil Teknoloji A.S.,Sahinnetwork Internet VE Bilisim Hizmetleri,Data Center,False
+2026-02-17 22:25:19,61.75.19.219,100,South Korea,Geumcheon-gu,Korea Telecom,Sudogwonseobubonbu,Residential/Business,False
+2026-02-17 22:25:19,167.99.39.98,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 22:25:19,161.132.37.26,100,Peru,Lima,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-02-17 22:25:19,178.62.246.92,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-17 22:25:19,43.156.75.183,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-17 22:25:19,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,158.51.96.38,100,United States,Los Angeles,NetInformatik Inc.,NetInformatik Inc,Residential/Business,True
+2026-02-17 22:25:19,117.72.183.216,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-17 22:25:19,195.184.76.243,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-17 22:25:19,103.56.30.33,100,India,Warangal,Balaji Online,,Residential/Business,False
+2026-02-17 22:25:19,213.209.159.9,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-17 22:25:19,64.62.156.108,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-17 22:25:19,45.178.227.0,100,Brazil,Picos,Giga Rede Internet Ltda,Giga Rede Internet Ltda,Residential/Business,False
+2026-02-17 22:25:19,103.241.45.120,100,India,Ahmedabad,Gujarat Telelink Pvt Ltd,Gtpl Broadband Pvt. Ltd.,Residential/Business,False
+2026-02-17 22:25:19,27.112.78.178,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-17 22:25:19,143.244.152.105,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 22:25:19,212.11.64.25,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-17 22:25:19,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,103.59.163.133,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-02-17 22:25:19,125.19.156.30,100,India,Gurugram,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-02-17 22:25:19,176.65.149.180,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-17 22:25:19,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,72.167.34.120,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-02-17 22:25:19,103.106.105.156,100,Vietnam,Ho Chi Minh City,CODETAY,Codetay Software Limited Liability Company,Residential/Business,False
+2026-02-17 22:25:19,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,68.219.113.135,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-17 22:25:19,209.38.101.131,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-17 22:25:19,103.48.194.217,100,Vietnam,Dich Vong,LVHN,JSC - Hanoi,Residential/Business,True
+2026-02-17 22:25:19,74.235.121.84,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-17 22:25:19,193.163.125.173,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-17 22:25:19,65.20.138.3,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-17 22:25:19,103.183.74.214,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-17 22:25:19,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-17 22:25:19,196.189.155.89,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-02-17 22:25:19,85.217.149.30,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
