@@ -24239,3 +24239,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-18 01:47:08,122.187.227.148,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
 2026-02-18 01:47:08,103.187.147.92,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
 2026-02-18 01:47:08,167.172.79.176,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 04:16:53,172.178.83.182,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-18 04:16:53,199.45.154.181,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-18 04:16:53,101.36.123.173,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-18 04:16:53,176.65.132.45,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-02-18 04:16:53,79.124.58.254,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-18 04:16:53,78.128.114.26,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-18 04:16:53,45.194.92.25,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-02-18 04:16:53,174.58.87.108,100,United States,Port Charlotte,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-02-18 04:16:53,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-18 04:16:53,152.32.252.65,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-18 04:16:53,152.32.185.67,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-18 04:16:53,60.223.245.120,100,China,Liuxiang,China Unicom China169 Network,,Residential/Business,False
+2026-02-18 04:16:53,78.128.114.130,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-18 04:16:53,20.55.97.129,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-18 04:16:53,101.47.142.8,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-18 04:16:53,113.249.110.181,100,China,Chongqing,Chongqing Telecom,Chinanet CQ,Residential/Business,False
+2026-02-18 04:16:53,59.80.22.209,100,China,Beijing,China Unicom IP network,China Unicom Cloud Data Company Limited,Residential/Business,False
+2026-02-18 04:16:53,103.164.221.138,100,Indonesia,Jakarta,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-02-18 04:16:53,14.103.112.107,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-18 04:16:53,202.29.225.206,100,Thailand,Bang Kaeo,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-02-18 04:16:53,2.57.122.96,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-18 04:16:53,200.118.150.20,100,Colombia,Cali,Telmex Colombia S.A.,Telmex Colombia S.A,Residential/Business,False
+2026-02-18 04:16:53,151.80.60.145,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-02-18 04:16:53,203.154.91.152,100,Thailand,Bang Bua Thong,Internet Thailand Company Ltd,Openland scape Company Limited,Mobile,False
+2026-02-18 04:16:53,47.251.182.215,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-18 04:16:53,78.153.140.126,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-02-18 04:16:53,193.163.125.192,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-18 04:16:53,93.123.109.214,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-18 04:16:53,135.237.123.246,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-18 04:16:53,168.75.78.99,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-02-18 04:16:53,20.65.219.72,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-18 04:16:53,149.90.156.121,100,Portugal,Porto,Vodafone Portugal,Vodafone Portugal - Communicacoes Pessoais S.A.,Residential/Business,False
+2026-02-18 04:16:53,64.62.197.17,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-18 04:16:53,20.203.180.135,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-18 04:16:53,185.243.96.34,100,Ukraine,Kyiv,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-02-18 04:16:53,192.42.116.203,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-02-18 04:16:53,156.238.253.198,100,United States,Los Angeles,Fastnet Data Inc,cognetcloud INC,Residential/Business,False
+2026-02-18 04:16:53,20.100.193.95,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-02-18 04:16:53,45.144.212.70,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
+2026-02-18 04:16:53,94.20.234.161,100,Azerbaijan,Baku,Delta Telecom,,Residential/Business,False
+2026-02-18 04:16:53,170.187.165.139,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-18 04:16:53,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-18 04:16:53,101.36.113.241,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-18 04:16:53,73.134.117.78,100,United States,Hyattsville,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-02-18 04:16:53,165.154.134.191,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
