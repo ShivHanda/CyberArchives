@@ -24464,3 +24464,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-18 12:53:19,46.101.195.46,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-02-18 12:53:19,45.78.198.162,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-02-18 12:53:19,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-18 14:40:19,101.47.141.214,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
+2026-02-18 14:40:19,192.109.200.225,100,Sweden,Stockholm,Pfcloud UG (haftungsbeschrankt),,Residential/Business,False
+2026-02-18 14:40:19,103.59.163.135,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-02-18 14:40:19,130.255.50.88,100,Russia,Kamensk-Uralsky,Closed Joint Stock Company Radiotelephone,CJSC Radiotelephone,Residential/Business,False
+2026-02-18 14:40:19,185.93.89.122,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-18 14:40:19,51.68.65.117,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-18 14:40:19,222.108.0.231,100,South Korea,Guro-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-18 14:40:19,45.194.92.41,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-02-18 14:40:19,119.92.70.82,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-18 14:40:19,221.156.126.1,100,South Korea,Suncheon,Korea Telecom,Kornet,Residential/Business,False
+2026-02-18 14:40:19,172.94.9.61,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-18 14:40:19,149.54.30.114,100,Afghanistan,Kabul,GCN-DCN,GCN DCN,Residential/Business,False
+2026-02-18 14:40:19,221.159.150.85,100,South Korea,Jeongeup,Korea Telecom,KORNET,Residential/Business,False
+2026-02-18 14:40:19,103.213.244.68,100,Japan,Koto-ku,Klayer LLC,,Residential/Business,False
+2026-02-18 14:40:19,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-18 14:40:19,35.200.142.143,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-18 14:40:19,43.224.126.107,100,Sri Lanka,Sri Jayewardenepura Kotte,Information and Communication Technology Agency of Sri Lanka,Lgc4,Residential/Business,False
+2026-02-18 14:40:19,213.177.179.40,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-18 14:40:19,80.66.66.54,100,Finland,Helsinki,Soldatov Alexey Valerevich,Soldatov Alexey Valerevich,Residential/Business,False
+2026-02-18 14:40:19,27.79.1.83,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-18 14:40:19,121.52.147.5,100,Pakistan,Islamabad,HEC,PERN IPV4 Allocation for Air University,Residential/Business,False
+2026-02-18 14:40:19,138.197.152.232,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 14:40:19,23.97.62.114,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-18 14:40:19,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-18 14:40:19,20.24.82.132,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-18 14:40:19,162.240.54.168,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-02-18 14:40:19,159.89.121.21,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-18 14:40:19,43.243.142.42,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-02-18 14:40:19,101.126.91.58,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-18 14:40:19,199.45.154.190,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-18 14:40:19,103.172.236.32,100,Vietnam,Trung Liệt,HERAL,Heral Science and Technology Joint Stock Company,Residential/Business,False
+2026-02-18 14:40:19,52.178.176.146,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-18 14:40:19,202.111.173.175,100,China,Jilin,CHINA UNICOM China169 Backbone,YJ DH GOV,Residential/Business,False
+2026-02-18 14:40:19,204.76.203.30,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-18 14:40:19,185.218.4.92,100,United States,San Jose,HK CEDOC LIMITED,Kirino LLC,Residential/Business,False
+2026-02-18 14:40:19,171.103.55.193,100,Thailand,Bang Khun Thian,"True Internet Co., Ltd.",TRUE,Residential/Business,False
+2026-02-18 14:40:19,27.79.4.235,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-18 14:40:19,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-18 14:40:19,34.66.72.251,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-02-18 14:40:19,198.98.55.71,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-18 14:40:19,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-18 14:40:19,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-18 14:40:19,185.196.10.197,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-18 14:40:19,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-18 14:40:19,67.81.35.26,100,United States,Brooklyn,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
