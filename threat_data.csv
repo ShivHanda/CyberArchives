@@ -24419,3 +24419,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-18 10:38:56,116.86.211.61,100,Singapore,Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,Residential/Business,False
 2026-02-18 10:38:56,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
 2026-02-18 10:38:56,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-18 12:53:19,2.229.200.226,100,Italy,Milan,Fastweb SpA,Fastweb L3 PAT NAT,Residential/Business,False
+2026-02-18 12:53:19,27.24.141.88,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-02-18 12:53:19,47.247.73.98,100,India,Jaipur,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-02-18 12:53:19,103.181.143.216,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-18 12:53:19,104.244.74.84,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-02-18 12:53:19,41.222.249.236,100,Angola,Benguela,TV CABO ANGOLA LDA,BGL-DYNAMIC,Residential/Business,False
+2026-02-18 12:53:19,43.229.86.17,100,Singapore,Singapore,Exabytes Network (Singapore) Pte. Ltd.,Exabytes Network (Singapore) Pte. Ltd,Data Center,True
+2026-02-18 12:53:19,101.200.236.207,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-02-18 12:53:19,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-18 12:53:19,213.177.179.40,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-18 12:53:19,165.154.163.33,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-18 12:53:19,165.245.179.40,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 12:53:19,115.190.34.136,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-18 12:53:19,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-18 12:53:19,91.196.152.209,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-18 12:53:19,91.230.168.94,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-18 12:53:19,77.77.38.98,100,Bulgaria,Kyustendil,UltraNET Ltd. C56,UltraNET Ltd,Residential/Business,False
+2026-02-18 12:53:19,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-02-18 12:53:19,182.95.60.198,100,India,New Delhi,Genpact India 4th Floor,Genpact India Private Limited,Residential/Business,False
+2026-02-18 12:53:19,185.192.71.212,100,United Kingdom,London,F.N.S. HOLDINGS LIMITED,EXPRESS-EQUINIX-LONDON,Mobile,True
+2026-02-18 12:53:19,134.199.163.243,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 12:53:19,183.171.61.9,100,Malaysia,Petaling Jaya,Celcom Axiata Berhad,Celcom Axiata Berhad,Mobile,False
+2026-02-18 12:53:19,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-18 12:53:19,85.87.1.47,100,Spain,Barcelona,EUSKALTEL,,Residential/Business,False
+2026-02-18 12:53:19,185.196.9.22,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-18 12:53:19,65.49.20.68,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-18 12:53:19,91.230.225.155,100,United Kingdom,London,F.N.S. HOLDINGS LIMITED,Netrouting B.V,Mobile,True
+2026-02-18 12:53:19,185.192.71.209,100,United Kingdom,London,F.N.S. HOLDINGS LIMITED,EXPRESS-EQUINIX-LONDON,Mobile,True
+2026-02-18 12:53:19,66.23.227.146,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,True
+2026-02-18 12:53:19,209.38.196.182,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-18 12:53:19,68.183.102.75,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 12:53:19,186.154.90.114,100,Colombia,Bogotá,ETB - Colombia,Consejo Britanico,Residential/Business,False
+2026-02-18 12:53:19,103.23.199.49,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-02-18 12:53:19,185.92.25.86,100,United Kingdom,Slough,F.N.S. HOLDINGS LIMITED,EXPRESS-EQUINIX-LONDON,Mobile,True
+2026-02-18 12:53:19,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-18 12:53:19,170.64.130.93,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 12:53:19,167.99.93.68,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-18 12:53:19,27.150.188.148,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-02-18 12:53:19,122.168.194.41,100,India,Indore,BHARTI,1 Malviya Nagar,Residential/Business,False
+2026-02-18 12:53:19,206.84.112.212,100,Indonesia,Jakarta,Cogent Communications,PT. MITRA VISIONER PRATAMA,Data Center,False
+2026-02-18 12:53:19,69.114.217.169,100,United States,Woodmere,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-02-18 12:53:19,185.92.25.85,100,United Kingdom,Slough,F.N.S. HOLDINGS LIMITED,EXPRESS-EQUINIX-LONDON,Mobile,True
+2026-02-18 12:53:19,46.101.195.46,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-18 12:53:19,45.78.198.162,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-18 12:53:19,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
