@@ -25024,3 +25024,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 14:43:02,64.23.143.185,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-19 14:43:02,185.183.243.82,100,Uzbekistan,Tashkent,Network of Unitel LLC (BEELINE UZBEKISTAN),Unitel LLC,Residential/Business,False
 2026-02-19 14:43:02,185.193.89.69,100,France,Paris,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-02-19 16:44:28,80.94.92.66,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-19 16:44:28,103.234.151.178,100,Vietnam,Quận Một,Teknix Cloud Technology Infrastructure Joint Stock Company,TEKNIXCLOUD,Residential/Business,False
+2026-02-19 16:44:28,20.78.169.245,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-19 16:44:28,180.76.112.91,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-19 16:44:28,178.178.222.55,100,Russia,Moscow,PJSC MegaFon,MF MB,Mobile,False
+2026-02-19 16:44:28,91.230.168.19,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-19 16:44:28,190.184.222.63,100,Argentina,General Pico,Corpico Ltda,Corpico Ltda,Residential/Business,False
+2026-02-19 16:44:28,167.71.205.246,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 16:44:28,13.71.92.229,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-02-19 16:44:28,116.111.2.94,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-02-19 16:44:28,43.225.141.255,100,Thailand,Bangkok,Dragon Network Int'l Co. Ltd,Dragon Network Intl Co. Ltd,Data Center,False
+2026-02-19 16:44:28,103.98.176.164,100,Indonesia,Rejosari,Universitas PGRI Semarang,Universitas PGRI Semarang,Residential/Business,False
+2026-02-19 16:44:28,123.204.104.76,100,Taiwan,Xitun,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-02-19 16:44:28,157.245.220.50,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-19 16:44:28,59.46.193.187,100,China,Shenyang,CHINANET Liaoning province Dalian MAN network,DaLianNuoMeiYeYaJianYouXianGongSi,Residential/Business,False
+2026-02-19 16:44:28,69.49.112.75,100,Canada,Waterloo,Internet Names Business Inc.,Internet Names Business Inc.,Data Center,False
+2026-02-19 16:44:28,64.23.188.47,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 16:44:28,50.223.176.171,100,United States,Winthrop,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc",Residential/Business,False
+2026-02-19 16:44:28,103.139.192.65,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,PT. Halto Petirah Angrowangi,Data Center,False
+2026-02-19 16:44:28,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 16:44:28,142.93.212.130,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 16:44:28,206.42.14.196,100,Brazil,Juazeiro do Norte,Brisanet Prestacao De Servicos De Internet Ltda,Brisanet Prestacao De Servicos De Internet Ltda,Residential/Business,False
+2026-02-19 16:44:28,103.7.239.131,100,Japan,Shinjuku,Ip Core Corporation,IPCORE,Residential/Business,False
+2026-02-19 16:44:28,45.179.216.18,100,Brazil,Guarulhos,Iktelecom Ltda,Iktelecom Ltda,Residential/Business,False
+2026-02-19 16:44:28,111.198.221.98,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-02-19 16:44:28,58.226.255.240,100,South Korea,Gongju,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-19 16:44:28,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-19 16:44:28,165.245.135.15,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-19 16:44:28,112.216.108.62,100,South Korea,Jeonju,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-19 16:44:28,185.196.11.160,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-19 16:44:28,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-02-19 16:44:28,209.38.110.145,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 16:44:28,90.230.98.52,100,Sweden,Farsta,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-02-19 16:44:28,20.173.116.24,100,Qatar,Doha,Microsoft Corporation,Microsoft Azure Cloud (qatarcentral),Data Center,False
+2026-02-19 16:44:28,51.199.163.14,100,Ireland,Clifden,Sky UK Limited,Sky Broadband,Residential/Business,False
+2026-02-19 16:44:28,23.94.235.137,100,United States,Los Angeles,HostPapa,ColoCrossing,Data Center,False
+2026-02-19 16:44:28,42.200.78.78,100,Hong Kong,Kadoorie,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-19 16:44:28,103.23.199.119,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV. Satria Prima Persada,Data Center,False
+2026-02-19 16:44:28,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-19 16:44:28,203.205.37.233,100,Vietnam,Ho Chi Minh City,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-02-19 16:44:28,77.232.138.190,100,Russia,St Petersburg,"JSC ""TIMEWEB""",TimeWeb Ltd,Data Center,False
+2026-02-19 16:44:28,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-19 16:44:28,82.24.91.91,100,Netherlands,Doetinchem,Ivory van Boeschoten trading as IVB Services,IVB Services.nl,Residential/Business,False
+2026-02-19 16:44:28,119.1.156.50,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,True
+2026-02-19 16:44:28,138.197.153.44,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
