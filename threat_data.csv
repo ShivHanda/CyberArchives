@@ -24839,3 +24839,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 06:54:12,185.196.11.83,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
 2026-02-19 06:54:12,103.174.114.110,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
 2026-02-19 06:54:12,5.182.26.66,100,Uzbekistan,Tashkent,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,False
+2026-02-19 08:37:20,16.58.56.214,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-19 08:37:20,176.65.149.212,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-19 08:37:20,54.38.52.18,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-19 08:37:20,104.28.221.100,100,Indonesia,Palembang,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-02-19 08:37:20,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-19 08:37:20,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 08:37:20,112.78.1.94,100,Vietnam,Quận Tân Phú,ODS Joint Stock Company,ODSJSC,Data Center,False
+2026-02-19 08:37:20,50.6.174.25,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,True
+2026-02-19 08:37:20,20.65.195.30,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-19 08:37:20,185.191.171.18,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Residential/Business,False
+2026-02-19 08:37:20,91.107.148.29,100,Germany,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,Data Center,False
+2026-02-19 08:37:20,185.93.89.71,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-19 08:37:20,116.118.47.174,100,Vietnam,Hanoi,SPT,,Residential/Business,False
+2026-02-19 08:37:20,165.154.51.27,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-19 08:37:20,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-19 08:37:20,93.123.109.38,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-19 08:37:20,77.37.162.117,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-02-19 08:37:20,195.184.76.35,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-19 08:37:20,202.165.16.9,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-02-19 08:37:20,54.36.99.45,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-19 08:37:20,114.80.34.158,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-19 08:37:20,121.52.147.5,100,Pakistan,Islamabad,HEC,PERN IPV4 Allocation for Air University,Residential/Business,False
+2026-02-19 08:37:20,4.224.46.39,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-19 08:37:20,20.203.136.132,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-19 08:37:20,94.232.41.236,100,Russia,Moscow,IT Outsourcing LLC,Dmitriy Panchenko,Residential/Business,False
+2026-02-19 08:37:20,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-19 08:37:20,148.253.215.149,100,Germany,Frankfurt am Main,SEBEK sp. z o.o,GuardNetwork,Residential/Business,False
+2026-02-19 08:37:20,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-19 08:37:20,95.214.52.233,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-19 08:37:20,211.253.37.225,100,South Korea,Goyang-si,Korea Telecom-PUBNET,(jae)hoseojeonsanjikeobjeonmunhakkyo,Residential/Business,False
+2026-02-19 08:37:20,182.18.161.165,100,India,Hyderabad,CtrlS,Pioneer Elabs Ltd.,Data Center,False
+2026-02-19 08:37:20,204.76.203.206,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-19 08:37:20,122.8.155.47,100,Thailand,Bangkok,Huawei International Pte. LTD,,Data Center,False
+2026-02-19 08:37:20,172.184.213.176,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-02-19 08:37:20,178.128.192.6,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-19 08:37:20,172.245.33.154,100,United States,Elk Grove Village,HostPapa,,Data Center,False
+2026-02-19 08:37:20,57.129.123.127,100,Germany,Frankfurt am Main,OVH SAS,OVH,Data Center,False
+2026-02-19 08:37:20,20.65.195.124,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-19 08:37:20,154.91.81.176,100,Singapore,Singapore,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-02-19 08:37:20,2.57.122.26,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-19 08:37:20,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 08:37:20,135.181.67.72,100,Finland,Helsinki,Hetzner Online GmbH,,Data Center,False
+2026-02-19 08:37:20,34.230.221.101,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-19 08:37:20,35.239.77.168,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-19 08:37:20,14.103.135.94,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,True
