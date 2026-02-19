@@ -24749,3 +24749,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 01:46:22,64.225.51.117,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-02-19 01:46:22,125.23.183.138,100,India,Chak Bīrampur,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
 2026-02-19 01:46:22,47.254.148.248,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-02-19 04:15:22,182.61.57.11,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-19 04:15:22,201.249.205.94,100,Venezuela,Maiquetía,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-19 04:15:22,134.199.172.133,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-19 04:15:22,146.88.241.173,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-02-19 04:15:22,45.78.202.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-19 04:15:22,100.51.6.16,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-19 04:15:22,103.189.235.93,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-19 04:15:22,65.49.1.51,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-02-19 04:15:22,152.32.141.172,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-19 04:15:22,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-19 04:15:22,209.141.33.240,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-19 04:15:22,128.241.229.30,100,United States,San Jose,NTT America,TianFeng (Hong Kong) Communications Ltd,Residential/Business,True
+2026-02-19 04:15:22,119.153.100.234,100,Pakistan,Lahore,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-02-19 04:15:22,103.189.234.179,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-19 04:15:22,79.143.42.170,100,Ukraine,Vinnytsia,Telecommunication Company Vinteleport Ltd.,Vinteleport company,Residential/Business,False
+2026-02-19 04:15:22,103.138.237.18,100,India,Kochi,Peak Telecom India Pvt Ltd,Peak Telecom India Pvt Ltd,Residential/Business,False
+2026-02-19 04:15:22,20.127.187.7,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-19 04:15:22,154.47.20.226,100,Japan,Tokyo,Datacamp Limited,Datacamp Limited,Data Center,True
+2026-02-19 04:15:22,180.76.137.24,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-19 04:15:22,64.89.160.135,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-02-19 04:15:22,178.132.4.68,100,Netherlands,Naaldwijk,WorldStream B.V.,Worldstream,Data Center,False
+2026-02-19 04:15:22,107.180.88.176,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,True
+2026-02-19 04:15:22,170.82.176.19,100,Brazil,Blumenau,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-02-19 04:15:22,5.187.97.40,100,Guadeloupe,Pointe-à-Pitre,CANAL+ TELECOM ANTILLES,,Residential/Business,False
+2026-02-19 04:15:22,20.199.160.17,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-19 04:15:22,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-19 04:15:22,61.168.104.170,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-02-19 04:15:22,173.255.223.103,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-02-19 04:15:22,78.109.200.147,100,Iran,Tehran,Afranet,Afranet,Data Center,False
+2026-02-19 04:15:22,185.255.47.190,100,Iraq,Duhok,Valin Company for General Trading and Communication LTD,Valin Company General Trading and Communication LTD,Residential/Business,False
+2026-02-19 04:15:22,201.249.192.30,100,Venezuela,San Carlos del Zulia,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-19 04:15:22,65.49.1.202,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-19 04:15:22,119.92.70.82,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-19 04:15:22,43.173.252.97,100,Thailand,Bangkok,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-02-19 04:15:22,34.228.104.231,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-19 04:15:22,103.113.105.228,100,India,Faridabad,Ekowebtech It Services Pvt Ltd,Ekowebtech It Services Pvt Ltd,Residential/Business,False
+2026-02-19 04:15:22,185.193.89.69,100,France,Paris,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-02-19 04:15:22,122.118.203.72,100,Taiwan,Miaoli,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-19 04:15:22,5.195.226.17,100,United Arab Emirates,Dubai,Emirates Telecommunications Corporation,Etisalat,Residential/Business,False
+2026-02-19 04:15:22,45.78.198.177,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-19 04:15:22,102.210.149.105,100,South Africa,Johannesburg,THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY,NewIP 2ND,Residential/Business,False
+2026-02-19 04:15:22,210.79.191.178,100,Indonesia,Cicurug,PT KEBUN NARA SANTOSA,,Data Center,False
+2026-02-19 04:15:22,101.47.140.123,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-19 04:15:22,147.45.102.188,100,Russia,St Petersburg,Adman LLC,TimeWeb Ltd,Data Center,False
+2026-02-19 04:15:22,14.63.196.175,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
