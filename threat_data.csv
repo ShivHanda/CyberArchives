@@ -25114,3 +25114,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 18:43:41,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
 2026-02-19 18:43:41,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
 2026-02-19 18:43:41,137.184.75.235,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-19 20:26:31,95.235.240.74,100,Italy,Bertinoro,Telecom Italia S.p.A.,INTERBUSINESS,Residential/Business,False
+2026-02-19 20:26:31,185.247.137.8,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-19 20:26:31,14.103.117.173,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-19 20:26:31,164.160.89.99,100,South Africa,Johannesburg,Optify Systems Ltd t/a Elitehost,,Data Center,False
+2026-02-19 20:26:31,139.59.10.153,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,True
+2026-02-19 20:26:31,185.93.89.27,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-19 20:26:31,125.25.205.141,100,Thailand,Changwat Sara Buri,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-02-19 20:26:31,86.54.42.13,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-19 20:26:31,101.126.88.251,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
+2026-02-19 20:26:31,125.23.255.134,100,India,New Delhi,BHARTI,Bharti Televentures Ltd.,Residential/Business,False
+2026-02-19 20:26:31,58.69.56.44,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-02-19 20:26:31,203.150.107.244,100,Thailand,Vadhana,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
+2026-02-19 20:26:31,185.158.22.150,100,Iraq,Karbala,"Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",,Residential/Business,False
+2026-02-19 20:26:31,67.211.210.120,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-02-19 20:26:31,161.35.217.4,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-19 20:26:31,182.48.68.82,100,Bangladesh,Dhaka,Corporate Office,Equinix Singapore,Residential/Business,False
+2026-02-19 20:26:31,103.123.53.88,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-02-19 20:26:31,103.4.145.50,100,Bangladesh,Dhaka,Next Online Ltd,Next Online Limited,Residential/Business,False
+2026-02-19 20:26:31,188.37.194.181,100,Portugal,Santo Tirso,Vodafone Portugal,,Mobile,False
+2026-02-19 20:26:31,164.92.69.49,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 20:26:31,103.189.235.88,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-19 20:26:31,101.227.53.133,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-02-19 20:26:31,175.180.100.185,100,Taiwan,Tainan,Digital United Inc.,"New Century InfoComm Tech. Co., Ltd.",Residential/Business,False
+2026-02-19 20:26:31,101.126.95.172,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-19 20:26:31,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 20:26:31,203.145.143.163,100,India,Kharar,Bharti Airtel,Bharti Hexacom Limited,Residential/Business,False
+2026-02-19 20:26:31,180.184.176.74,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-02-19 20:26:31,20.89.40.149,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-19 20:26:31,139.59.133.246,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,True
+2026-02-19 20:26:31,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 20:26:31,209.38.85.136,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 20:26:31,165.22.77.48,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 20:26:31,103.176.78.178,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-02-19 20:26:31,104.255.152.18,100,Canada,Toronto,Netminders Server Hosting,Netminders Server Hosting,Residential/Business,False
+2026-02-19 20:26:31,103.189.235.30,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-19 20:26:31,2.81.52.147,100,Portugal,Penafiel,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-02-19 20:26:31,135.125.174.140,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-02-19 20:26:31,162.55.177.182,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-02-19 20:26:31,129.212.230.202,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 20:26:31,67.81.35.26,100,United States,Brooklyn,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-02-19 20:26:31,14.116.193.187,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet GD,Residential/Business,False
+2026-02-19 20:26:31,132.248.170.105,100,Mexico,Mexico City,Universidad Nacional Autonoma de Mexico,Universidad Nacional Autonoma de Mexico,Residential/Business,False
+2026-02-19 20:26:31,157.245.67.31,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 20:26:31,103.215.80.173,100,Hong Kong,San Po Kong,Cloudie Limited,Netads Online Limited,Data Center,False
+2026-02-19 20:26:31,45.77.246.163,100,Singapore,Singapore,The Constant Company,"Vultr Holdings, LLC",Data Center,True
+2026-02-19 20:26:31,213.37.204.184,100,Spain,Coslada,"VODAFONE ONO, S.A",Ono,Residential/Business,False
+2026-02-19 20:26:31,41.59.86.232,100,Tanzania,Dar es Salaam,TTCL,,Residential/Business,False
+2026-02-19 20:26:31,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-19 20:26:31,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-02-19 20:26:31,103.29.69.94,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
