@@ -24979,3 +24979,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 12:53:43,101.36.114.209,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
 2026-02-19 12:53:43,189.90.33.23,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
 2026-02-19 12:53:43,193.104.58.61,100,United Kingdom,London,Hydra Communications Ltd,"LLC ""TD Daily Trade""",Data Center,True
+2026-02-19 14:43:02,112.196.78.4,100,India,Mohali,Hfcl Infotel LTD,,Residential/Business,False
+2026-02-19 14:43:02,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-19 14:43:02,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-19 14:43:02,195.184.76.30,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-19 14:43:02,85.217.140.20,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-19 14:43:02,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-19 14:43:02,212.73.148.5,100,Singapore,Singapore,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-19 14:43:02,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-19 14:43:02,134.199.166.29,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 14:43:02,173.8.12.235,100,United States,Washington,Comcast Cable Communications,UUNOC,Residential/Business,False
+2026-02-19 14:43:02,190.167.90.67,100,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
+2026-02-19 14:43:02,65.76.254.253,100,United States,Bellevue,"T-Mobile USA, Inc.","T-Mobile USA, Inc.",Mobile,False
+2026-02-19 14:43:02,80.94.92.64,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-19 14:43:02,165.154.182.72,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-19 14:43:02,5.253.59.68,100,Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-19 14:43:02,45.78.198.204,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-19 14:43:02,178.210.54.221,100,Russia,Gubkin,SVYAZ-TELECOM,,Residential/Business,False
+2026-02-19 14:43:02,61.222.68.145,100,Taiwan,Zhubei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-19 14:43:02,198.23.160.197,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-02-19 14:43:02,165.232.61.133,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 14:43:02,41.73.0.47,100,Nigeria,Abuja,Suburban-Fiberco,This Prefix IS for Suburban Broadband LTD,Residential/Business,False
+2026-02-19 14:43:02,49.231.192.36,100,Thailand,Bangkok,TCC1012-DON MUENG-by-AWN,,Mobile,False
+2026-02-19 14:43:02,20.43.58.61,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-02-19 14:43:02,134.199.162.42,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-19 14:43:02,116.147.136.111,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-02-19 14:43:02,176.65.149.45,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-19 14:43:02,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-19 14:43:02,92.118.39.205,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-19 14:43:02,185.242.226.19,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-19 14:43:02,186.96.151.198,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-19 14:43:02,164.160.89.99,100,South Africa,Johannesburg,Optify Systems Ltd t/a Elitehost,,Data Center,False
+2026-02-19 14:43:02,23.97.62.151,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-19 14:43:02,92.118.39.180,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-19 14:43:02,118.45.205.42,100,South Korea,Gumi,Korea Telecom,,Residential/Business,False
+2026-02-19 14:43:02,66.132.153.122,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-19 14:43:02,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-19 14:43:02,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-19 14:43:02,106.75.144.37,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-19 14:43:02,78.128.76.61,100,Bulgaria,Sofia,Telepoint,Telepoint Ltd,Mobile,False
+2026-02-19 14:43:02,20.198.0.58,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-19 14:43:02,66.228.53.46,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-19 14:43:02,180.109.4.2,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-19 14:43:02,64.23.143.185,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-19 14:43:02,185.183.243.82,100,Uzbekistan,Tashkent,Network of Unitel LLC (BEELINE UZBEKISTAN),Unitel LLC,Residential/Business,False
+2026-02-19 14:43:02,185.193.89.69,100,France,Paris,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
