@@ -25304,3 +25304,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-20 04:10:45,168.75.78.99,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
 2026-02-20 04:10:45,196.188.120.232,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
 2026-02-20 04:10:45,223.17.5.126,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-02-20 06:48:59,45.172.152.74,100,Dominican Republic,Santiago de los Caballeros,Tecnología Digital,Wireless Solutions Dominicana WSD S.R.L,Mobile,False
+2026-02-20 06:48:59,36.50.177.119,100,Vietnam,Quận Hai,ANTOANDULIEU,Data Security Solutions Limited,Residential/Business,False
+2026-02-20 06:48:59,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-20 06:48:59,80.238.201.4,100,Saudi Arabia,Riyadh,Huawei International Pte. Ltd.,Huawei Cloud SA,Data Center,False
+2026-02-20 06:48:59,189.90.33.23,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
+2026-02-20 06:48:59,204.76.203.8,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-20 06:48:59,80.210.43.86,100,Iran,Tehran,TIC,Telecommunication Company of Tehran,Residential/Business,False
+2026-02-20 06:48:59,66.132.153.137,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 06:48:59,222.89.169.98,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,True
+2026-02-20 06:48:59,91.231.89.244,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 06:48:59,180.76.98.88,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-20 06:48:59,134.122.121.56,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 06:48:59,203.130.11.3,100,Pakistan,Karachi,Supernet 8,,Mobile,False
+2026-02-20 06:48:59,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-20 06:48:59,200.225.246.102,100,Brazil,Uberlândia,ALGAR TELECOM S/A,Companhia de Telecomunicacoes do Brasil Central,Residential/Business,False
+2026-02-20 06:48:59,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-20 06:48:59,85.18.236.229,100,Italy,Naples,Fastweb Networks,,Residential/Business,False
+2026-02-20 06:48:59,221.159.150.85,100,South Korea,Jeongeup,Korea Telecom,KORNET,Residential/Business,False
+2026-02-20 06:48:59,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-20 06:48:59,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-20 06:48:59,42.81.4.42,100,China,Youyilu,"Tianjij, ",Chinanet TJ,Residential/Business,False
+2026-02-20 06:48:59,151.60.227.83,100,Italy,Turin,INFOSTRADA,,Residential/Business,False
+2026-02-20 06:48:59,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-20 06:48:59,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-20 06:48:59,206.189.130.96,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 06:48:59,98.70.48.241,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-20 06:48:59,8.222.225.105,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-20 06:48:59,20.65.194.28,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-20 06:48:59,5.189.158.12,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-20 06:48:59,170.64.181.28,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 06:48:59,45.202.211.6,100,Hong Kong,Hong Kong,"Suike Information Technology SiChuan Co., Ltd","Suike Information Technology HK Co., Ltd",Residential/Business,False
+2026-02-20 06:48:59,157.245.222.108,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 06:48:59,142.93.158.161,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-20 06:48:59,103.172.113.193,100,Bangladesh,Jessore,Omit Odhikary,,Residential/Business,False
+2026-02-20 06:48:59,199.45.154.186,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-20 06:48:59,143.58.211.64,100,United Kingdom,Salford,Hyperoptic Ltd,Hyperoptic Ltd,Residential/Business,False
+2026-02-20 06:48:59,85.217.140.27,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-20 06:48:59,8.219.70.112,100,Singapore,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-20 06:48:59,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-20 06:48:59,82.24.64.220,100,United Kingdom,London,Arisk Communications inc.,Arisk Communications inc.,Residential/Business,False
+2026-02-20 06:48:59,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-02-20 06:48:59,69.12.83.46,100,Estonia,Tallinn,HostSlim B.V.,HostPapa,Data Center,False
+2026-02-20 06:48:59,196.0.120.211,100,Uganda,Kampala,Uganda Telecom Ltd,UTL,Residential/Business,False
+2026-02-20 06:48:59,207.90.244.28,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-02-20 06:48:59,8.219.69.180,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
