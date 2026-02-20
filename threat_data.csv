@@ -25584,3 +25584,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-20 16:31:46,150.136.248.130,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
 2026-02-20 16:31:46,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
 2026-02-20 16:31:46,114.30.180.58,100,South Korea,Mokpo,LG HelloVision Corp.,HVHonam,Residential/Business,False
+2026-02-20 18:38:49,204.76.203.93,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-20 18:38:49,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-20 18:38:49,115.231.78.11,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,True
+2026-02-20 18:38:49,101.36.109.176,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-20 18:38:49,211.253.27.46,100,South Korea,Seocho-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-20 18:38:49,146.59.95.254,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,True
+2026-02-20 18:38:49,66.132.153.151,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 18:38:49,120.48.0.142,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-20 18:38:49,43.159.35.176,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Aceville Pte.ltd,Data Center,False
+2026-02-20 18:38:49,62.3.42.126,100,Iran,Mashhad,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin PJSC,Data Center,False
+2026-02-20 18:38:49,45.173.176.254,100,Brazil,São Paulo,Kobertura Telecom LTDA,Kobertura Telecom LTDA,Residential/Business,False
+2026-02-20 18:38:49,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-20 18:38:49,57.128.237.155,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-20 18:38:49,91.231.89.241,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 18:38:49,91.196.152.27,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 18:38:49,66.132.153.150,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 18:38:49,114.74.243.231,100,Australia,Albury,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,Residential/Business,False
+2026-02-20 18:38:49,180.92.230.4,100,Bangladesh,Dhaka,Information Services Network Ltd,ISN-Sylhet,Residential/Business,False
+2026-02-20 18:38:49,213.209.159.12,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-20 18:38:49,34.92.146.210,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-02-20 18:38:49,103.143.72.165,100,Japan,Chiyoda City,Gaaishing Industrial Holdings Limited,Gaaishing Industrial Holdings Limited,Residential/Business,True
+2026-02-20 18:38:49,66.132.153.149,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 18:38:49,197.248.104.19,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-02-20 18:38:49,199.45.154.180,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-20 18:38:49,2.83.85.97,100,Portugal,Viana do Castelo,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-02-20 18:38:49,134.209.147.201,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 18:38:49,14.63.196.175,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-20 18:38:49,66.132.153.148,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 18:38:49,104.244.74.84,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-02-20 18:38:49,152.32.135.217,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-20 18:38:49,211.106.133.202,100,South Korea,Gangnam-gu,Korea Telecom,,Residential/Business,False
+2026-02-20 18:38:49,137.184.228.138,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-20 18:38:49,123.204.25.180,100,Taiwan,Sanchong District,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-02-20 18:38:49,91.231.89.139,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 18:38:49,185.233.3.95,100,Kazakhstan,Almaty,Enterprise Cloud Ltd.,IT-GRAD 1Cloud LLC,Data Center,False
+2026-02-20 18:38:49,66.132.153.147,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-20 18:38:49,57.128.237.234,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-20 18:38:49,185.208.156.167,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-20 18:38:49,59.12.160.91,100,South Korea,Suwon,Korea Telecom,Kornet,Residential/Business,False
+2026-02-20 18:38:49,74.248.96.218,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-02-20 18:38:49,188.166.148.235,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-20 18:38:49,159.223.239.153,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 18:38:49,157.10.161.171,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Toko Masa Depan,Data Center,False
+2026-02-20 18:38:49,157.173.199.44,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Residential/Business,True
+2026-02-20 18:38:49,66.132.153.146,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
