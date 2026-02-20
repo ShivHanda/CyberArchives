@@ -25209,3 +25209,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-19 22:26:16,44.207.69.106,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
 2026-02-19 22:26:16,185.153.231.45,100,Turkey,Bursa,Bursabil Teknoloji A.S.,Sahinnetwork Internet VE Bilisim Hizmetleri,Data Center,False
 2026-02-19 22:26:16,65.20.250.180,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-20 01:29:49,103.172.20.218,100,Indonesia,Karawang,PT Vaiotech Lintas Nusantara,PT Vaiotech Lintas Nusantara,Residential/Business,False
+2026-02-20 01:29:49,124.155.125.131,100,Japan,Akasaka,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-02-20 01:29:49,183.6.43.236,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-02-20 01:29:49,195.184.76.21,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 01:29:49,4.213.160.153,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-20 01:29:49,193.163.125.38,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-20 01:29:49,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-20 01:29:49,87.98.166.118,100,France,Gravelines,MCPECloud SAS,MCPECloud ISP,Data Center,False
+2026-02-20 01:29:49,165.154.100.42,100,Philippines,Manila,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-20 01:29:49,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-20 01:29:49,91.4.0.233,100,Germany,Essen,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-02-20 01:29:49,167.172.47.222,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 01:29:49,203.145.34.173,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,PT Tekstil Original Indonesia,Data Center,False
+2026-02-20 01:29:49,115.186.182.136,100,Pakistan,Islamabad,Nayatel (Pvt) Ltd,Nayatel,Residential/Business,False
+2026-02-20 01:29:49,65.49.1.104,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-20 01:29:49,103.183.74.214,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-20 01:29:49,129.121.35.57,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-20 01:29:49,45.148.10.247,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-20 01:29:49,144.202.82.88,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-02-20 01:29:49,125.212.235.151,100,Vietnam,Hanoi,Vietel - CHT Compamy Ltd,Viettel Group,Data Center,False
+2026-02-20 01:29:49,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-20 01:29:49,165.227.230.95,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 01:29:49,3.239.13.6,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-20 01:29:49,202.165.17.230,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
+2026-02-20 01:29:49,196.11.86.134,100,Malawi,Lilongwe,Simbanet Malawi Limited,,Residential/Business,False
+2026-02-20 01:29:49,50.6.229.52,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-20 01:29:49,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-20 01:29:49,103.31.39.23,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-02-20 01:29:49,92.63.197.182,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-02-20 01:29:49,103.154.231.122,100,Indonesia,Pagerwojo,DIGITNET,,Residential/Business,False
+2026-02-20 01:29:49,217.154.38.181,100,United Kingdom,London,MISTRAL,,Data Center,False
+2026-02-20 01:29:49,64.89.163.140,100,The Netherlands,Eygelshoven,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-02-20 01:29:49,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-20 01:29:49,45.148.10.29,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-20 01:29:49,78.128.114.162,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-20 01:29:49,101.47.162.20,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-20 01:29:49,27.128.175.119,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-02-20 01:29:49,62.171.174.195,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-20 01:29:49,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-20 01:29:49,101.47.141.170,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-20 01:29:49,103.172.28.62,100,Bangladesh,Thakurgaon,Hamid Electronics & Automobiles,,Mobile,False
+2026-02-20 01:29:49,103.203.57.18,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-02-20 01:29:49,57.128.190.44,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,True
+2026-02-20 01:29:49,185.243.98.11,100,United States,Rockland,Rices Privately owned enterprise,Rices Privately owned enterprise,Data Center,False
+2026-02-20 01:29:49,80.94.95.216,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
