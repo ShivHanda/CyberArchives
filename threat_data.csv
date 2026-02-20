@@ -25444,3 +25444,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-20 10:31:59,103.39.221.249,100,China,Guangzhou,China Telecom (Group),Shenzhen Qianhai bird cloud computing Co. Ltd.,Residential/Business,False
 2026-02-20 10:31:59,64.23.180.137,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-02-20 10:31:59,107.170.49.183,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-20 12:44:55,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-20 12:44:55,45.249.247.165,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-20 12:44:55,172.191.74.151,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-20 12:44:55,172.248.47.114,100,United States,Los Angeles,Charter Communications,Spectrum,Residential/Business,False
+2026-02-20 12:44:55,195.184.76.141,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-20 12:44:55,160.187.210.194,100,Malaysia,Iskandar Puteri,Advin Services LLC,Advin Services LLC,Residential/Business,False
+2026-02-20 12:44:55,176.149.246.125,100,France,Auby,BOUYGUES Telecom,,Residential/Business,False
+2026-02-20 12:44:55,146.190.232.145,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,134.199.173.22,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,209.38.90.88,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,158.69.194.208,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc",Data Center,True
+2026-02-20 12:44:55,172.166.211.146,100,United Kingdom,City of London,Microsoft,Microsoft Azure Cloud (uksouth),Data Center,False
+2026-02-20 12:44:55,45.33.70.9,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-20 12:44:55,207.154.194.2,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,62.60.130.75,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Residential/Business,False
+2026-02-20 12:44:55,157.245.125.199,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,179.118.161.98,100,Brazil,São José dos Campos,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-02-20 12:44:55,92.118.39.37,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-20 12:44:55,118.122.196.230,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-02-20 12:44:55,165.22.218.114,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,198.199.76.11,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,118.45.101.159,100,South Korea,Daegu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-20 12:44:55,117.191.127.86,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-20 12:44:55,118.26.153.102,100,Hong Kong,Chai Wan,China Unicom (Hong Kong) Operations Limited,China Unicom (Hong Kong) Operations Limited,Residential/Business,False
+2026-02-20 12:44:55,121.73.168.88,100,New Zealand,Katikati,TelstraClear Limited,TelstraClear Limited,Residential/Business,False
+2026-02-20 12:44:55,77.83.246.174,100,Poland,Warsaw,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-02-20 12:44:55,167.88.167.80,100,United States,Dallas,RouterHosting LLC,FranTech Solutions,Residential/Business,False
+2026-02-20 12:44:55,165.22.121.90,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-20 12:44:55,85.217.149.30,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-20 12:44:55,54.36.99.45,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-20 12:44:55,103.13.206.218,100,Singapore,Singapore,Cloud Host Pte Ltd,CLOUDHOST,Data Center,False
+2026-02-20 12:44:55,51.79.82.101,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-02-20 12:44:55,64.225.99.151,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-20 12:44:55,165.154.229.58,100,Vietnam,Ho Chi Minh City,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-02-20 12:44:55,20.220.13.222,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-20 12:44:55,14.29.181.34,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-20 12:44:55,49.124.142.132,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-20 12:44:55,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-20 12:44:55,107.172.7.140,100,United States,Los Angeles,HostPapa,Penghy66,Data Center,False
+2026-02-20 12:44:55,190.181.25.210,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-02-20 12:44:55,85.109.174.12,100,Türkiye,Esenyurt,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-02-20 12:44:55,51.79.165.204,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-02-20 12:44:55,123.160.165.189,100,China,Xinzheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-02-20 12:44:55,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
