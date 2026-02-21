@@ -26184,3 +26184,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 20:18:38,81.234.146.158,100,Sweden,Smygehamn,Telia Company AB,Telia Network Services,Residential/Business,False
 2026-02-21 20:18:38,31.128.39.26,100,Russia,St Petersburg,BEGET,,Data Center,False
 2026-02-21 20:18:38,81.192.46.45,100,Morocco,Rabat,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-02-21 22:17:37,130.250.191.204,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-02-21 22:17:37,202.70.82.95,100,Nepal,Patan,Nepal Telecommunications Corporation,Nepal Telecommunications Corporation,Mobile,False
+2026-02-21 22:17:37,34.91.0.68,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,True
+2026-02-21 22:17:37,158.174.211.17,100,Sweden,Örebro,Bahnhof AB,General Private,Residential/Business,False
+2026-02-21 22:17:37,170.79.37.82,100,Peru,Santa Anita - Los Ficus,Telefonica del Peru S.A.A.,Telefonica del Peru S.A.A,Residential/Business,False
+2026-02-21 22:17:37,173.249.11.249,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 22:17:37,173.212.239.181,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,True
+2026-02-21 22:17:37,199.45.154.185,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-21 22:17:37,69.156.92.65,100,Canada,North York,Bell Canada,Bell DSL Internet Ontario,Residential/Business,False
+2026-02-21 22:17:37,173.212.239.52,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 22:17:37,66.60.251.157,100,United States,Houston,Phonoscope,Phonoscope Cable Northwest Houston,Residential/Business,False
+2026-02-21 22:17:37,103.243.26.174,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Residential/Business,False
+2026-02-21 22:17:37,152.32.185.67,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 22:17:37,80.94.95.216,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-02-21 22:17:37,20.213.152.227,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-21 22:17:37,20.14.186.235,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-21 22:17:37,20.14.78.253,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-21 22:17:37,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-02-21 22:17:37,173.212.231.225,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 22:17:37,182.61.27.91,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-21 22:17:37,41.86.34.139,100,Seychelles,Pointe La Rue,Cable & Wireless (Seychelles) Ltd,CWS Public Services,Residential/Business,False
+2026-02-21 22:17:37,103.171.85.42,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-21 22:17:37,173.212.216.158,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 22:17:37,52.169.119.118,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-21 22:17:37,66.116.199.234,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-21 22:17:37,92.118.39.152,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-21 22:17:37,176.53.96.10,100,Turkey,Istanbul,Radore Veri Merkezi Hizmetleri A.S.,Radore,Data Center,False
+2026-02-21 22:17:37,220.178.8.154,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-02-21 22:17:37,77.228.19.128,100,Spain,Madrid,IPCOM,,Residential/Business,False
+2026-02-21 22:17:37,199.45.154.117,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-21 22:17:37,103.72.147.99,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-02-21 22:17:37,172.94.9.41,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-21 22:17:37,173.197.14.231,100,United States,Kansas City,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-02-21 22:17:37,172.191.144.246,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-21 22:17:37,45.125.222.146,100,Bangladesh,Dhaka,Carnival Internet,,Residential/Business,False
+2026-02-21 22:17:37,152.53.84.222,100,Germany,Nuremberg,netcup GmbH,AT Anxholding2,Data Center,False
+2026-02-21 22:17:37,20.203.42.204,100,United Arab Emirates,Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),Data Center,False
+2026-02-21 22:17:37,135.237.127.71,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-21 22:17:37,152.32.234.97,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-21 22:17:37,112.163.28.123,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-21 22:17:37,4.194.4.255,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-21 22:17:37,36.66.16.233,100,Indonesia,Bekasi,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-02-21 22:17:37,45.78.198.190,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-21 22:17:37,201.124.186.150,100,Mexico,Cuauhtémoc,Uninet S.A. de C.V.,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-21 22:17:37,172.94.9.253,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
