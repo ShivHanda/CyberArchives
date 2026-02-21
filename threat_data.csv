@@ -26094,3 +26094,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 16:22:26,182.43.19.187,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
 2026-02-21 16:22:26,101.126.91.34,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
 2026-02-21 16:22:26,103.149.27.208,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 18:27:36,104.46.239.31,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-21 18:27:36,64.62.197.120,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,49.124.142.137,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-02-21 18:27:36,51.79.67.116,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc",Data Center,True
+2026-02-21 18:27:36,182.95.230.74,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-21 18:27:36,134.199.200.144,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 18:27:36,179.27.64.58,100,Uruguay,Montevideo,Administracion Nacional de Telecomunicaciones,Cliente Antel Uruguay,Residential/Business,False
+2026-02-21 18:27:36,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-21 18:27:36,14.232.41.201,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-02-21 18:27:36,64.62.197.117,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,203.194.106.66,100,India,Mumbai,IN2CABLE,In2cable,Residential/Business,False
+2026-02-21 18:27:36,108.173.137.12,100,Canada,Hinton,TELUS Communications Inc,TELUS-FIBRE-HITNAB02,Residential/Business,False
+2026-02-21 18:27:36,201.249.192.30,100,Venezuela,San Carlos del Zulia,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-21 18:27:36,64.62.197.113,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,152.32.153.148,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 18:27:36,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-21 18:27:36,182.180.57.212,100,Pakistan,Islamabad,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-02-21 18:27:36,36.71.181.67,100,Indonesia,Pancoran,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-02-21 18:27:36,35.216.144.195,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-02-21 18:27:36,206.168.34.132,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-21 18:27:36,144.91.121.136,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 18:27:36,200.141.46.134,100,Brazil,Caruaru,V tal,V tal,Residential/Business,False
+2026-02-21 18:27:36,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 18:27:36,64.62.197.112,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,103.144.28.85,100,Hong Kong,Kwun Tong,Yisu Cloud LTD,"JIMEI INTERNATIONAL TECHNOLOGY (HK) CO., LIMITED",Residential/Business,False
+2026-02-21 18:27:36,165.245.134.178,100,United States,Douglasville,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-21 18:27:36,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 18:27:36,64.62.197.110,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,92.118.39.95,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-21 18:27:36,121.66.63.186,100,South Korea,Busan,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-02-21 18:27:36,101.47.141.35,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-21 18:27:36,43.131.246.99,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-21 18:27:36,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-21 18:27:36,64.89.161.53,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-02-21 18:27:36,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-02-21 18:27:36,81.10.79.105,100,Egypt,Al Mansurah,TE Data,,Residential/Business,False
+2026-02-21 18:27:36,34.130.130.89,100,Canada,Toronto,Google LLC,Google Cloud (northamerica-northeast2),Data Center,False
+2026-02-21 18:27:36,167.99.180.251,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 18:27:36,64.62.197.105,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 18:27:36,37.114.61.43,100,Germany,Frankfurt am Main,Paulo Gobbato trading as Gobbato IT Loesungen,FRA4 Services,Residential/Business,False
+2026-02-21 18:27:36,189.89.20.45,100,Brazil,Ibatiba,Micron Line Servicos De Informatica Ltda - ME,Micron Line Servicos De Informatica Ltda - ME,Residential/Business,False
+2026-02-21 18:27:36,201.249.89.102,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-21 18:27:36,103.123.53.88,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-02-21 18:27:36,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 18:27:36,154.221.27.234,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,True
