@@ -26049,3 +26049,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 14:21:21,88.142.46.185,100,France,Issy-les-Moulineaux,Societe Francaise Du Radiotelephone - SFR SA,SFR USER DATA FTTx,Residential/Business,False
 2026-02-21 14:21:21,77.83.39.58,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
 2026-02-21 14:21:21,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-02-21 16:22:26,159.89.146.99,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 16:22:26,96.126.101.65,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-21 16:22:26,142.93.126.22,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 16:22:26,186.80.18.158,100,Colombia,Medellín,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-02-21 16:22:26,5.253.59.74,100,Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-02-21 16:22:26,77.90.185.79,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-21 16:22:26,43.252.156.204,100,Indonesia,Kebomas,PT Media Sarana Data,Gmedia ID Surabaya,Residential/Business,False
+2026-02-21 16:22:26,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 16:22:26,204.76.203.93,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-21 16:22:26,101.47.51.22,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-02-21 16:22:26,106.251.244.178,100,South Korea,Yongin-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-21 16:22:26,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-21 16:22:26,184.32.16.105,100,United States,Portland,BellSouth.net Inc.,AWS EC2 (us-west-2),Data Center,False
+2026-02-21 16:22:26,196.191.116.218,100,Ethiopia,Addis Ababa,EthioNet,Ethio Telecom,Residential/Business,False
+2026-02-21 16:22:26,171.231.192.89,100,Vietnam,Cẩm Lệ,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-21 16:22:26,156.227.237.176,100,Japan,Tokyo,Yisu Cloud Ltd,Yisu Cloud Ltd,Residential/Business,False
+2026-02-21 16:22:26,94.230.136.33,100,Russia,Bishtyubinka,KTEL,,Residential/Business,False
+2026-02-21 16:22:26,170.238.160.191,100,Brazil,Salvador,NCS-Fibra ( New Central Solutions ),NCS-Fibra ( New Central Solutions ),Residential/Business,True
+2026-02-21 16:22:26,183.207.186.22,100,China,Nanjing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-02-21 16:22:26,154.70.102.114,100,Cameroon,Douala,MTN Network Solutions (Cameroon),DataCenter Douala,Mobile,False
+2026-02-21 16:22:26,160.242.96.43,100,Namibia,Windhoek,Paratus Telecommunications Limited,Paratus Telecommunications Limited,Residential/Business,False
+2026-02-21 16:22:26,103.183.74.4,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-21 16:22:26,45.78.198.19,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-21 16:22:26,111.228.36.44,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-21 16:22:26,152.32.164.18,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 16:22:26,14.22.82.116,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-02-21 16:22:26,74.243.239.219,100,United Arab Emirates,Dubai,AT&T Corp.,Microsoft Azure Cloud (uaenorth),Data Center,False
+2026-02-21 16:22:26,147.50.103.212,100,Thailand,Phaya Thai,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-02-21 16:22:26,165.154.134.203,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-21 16:22:26,85.217.140.26,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-21 16:22:26,165.154.176.251,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-21 16:22:26,137.74.47.84,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-21 16:22:26,204.76.203.206,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-21 16:22:26,20.196.64.198,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-21 16:22:26,103.106.194.74,100,India,Gurugram,Elyzium Consulting,,Residential/Business,True
+2026-02-21 16:22:26,104.248.33.228,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 16:22:26,176.53.96.10,100,Turkey,Istanbul,Radore Veri Merkezi Hizmetleri A.S.,Radore,Data Center,False
+2026-02-21 16:22:26,212.11.64.75,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-21 16:22:26,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 16:22:26,103.183.74.130,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-21 16:22:26,45.78.201.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-21 16:22:26,85.217.140.14,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-21 16:22:26,182.43.19.187,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-02-21 16:22:26,101.126.91.34,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,True
+2026-02-21 16:22:26,103.149.27.208,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
