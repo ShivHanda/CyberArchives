@@ -25859,3 +25859,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 06:35:17,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
 2026-02-21 06:35:17,190.15.104.146,100,Brazil,Igreja Nova,Aloo Telecom - FSF Tecnologia SA,Aloo Telecom - FSF Tecnologia SA,Residential/Business,False
 2026-02-21 06:35:17,89.111.142.108,100,Russia,Moscow,"JSC ""RU-CENTER""",SpaceWeb Ltd,Residential/Business,False
+2026-02-21 08:24:16,91.196.152.77,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-21 08:24:16,36.134.151.126,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-02-21 08:24:16,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-21 08:24:16,101.47.141.162,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-21 08:24:16,45.249.247.165,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 08:24:16,20.196.195.121,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-21 08:24:16,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 08:24:16,128.199.184.19,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-21 08:24:16,162.243.161.156,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-21 08:24:16,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-02-21 08:24:16,209.38.204.226,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-21 08:24:16,87.121.84.24,100,United States,New York,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-02-21 08:24:16,89.187.187.87,100,United States,Los Angeles,Datacamp Limited,Cdn77 LAX,Data Center,True
+2026-02-21 08:24:16,61.2.141.217,100,India,Kochi,Bharat Sanchar Nigam Ltd,BB Multiplay,Residential/Business,False
+2026-02-21 08:24:16,186.13.24.118,100,Argentina,Olivos,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-02-21 08:24:16,84.50.142.247,100,Estonia,Tallinn,Telia Eesti AS,Elion Enterprises Ltd.,Residential/Business,False
+2026-02-21 08:24:16,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-21 08:24:16,101.47.140.222,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-21 08:24:16,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-21 08:24:16,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-21 08:24:16,103.183.74.214,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-21 08:24:16,185.208.159.64,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-21 08:24:16,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-21 08:24:16,47.239.177.130,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-02-21 08:24:16,197.221.232.44,100,Zimbabwe,Chinhoyi,Telone PVT Ltd,,Mobile,False
+2026-02-21 08:24:16,31.173.247.254,100,Russia,Novosibirsk,MegaFon,OJSC MegaFon - Public.sib,Mobile,False
+2026-02-21 08:24:16,101.47.140.212,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-21 08:24:16,112.78.1.94,100,Vietnam,Quận Tân Phú,ODS Joint Stock Company,ODSJSC,Data Center,False
+2026-02-21 08:24:16,152.32.129.186,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 08:24:16,91.196.152.72,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-21 08:24:16,51.158.120.121,100,France,Paris,SCALEWAY,ONLINE,Data Center,True
+2026-02-21 08:24:16,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 08:24:16,106.13.39.89,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-21 08:24:16,51.38.98.14,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-02-21 08:24:16,212.11.64.156,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-21 08:24:16,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 08:24:16,74.235.162.254,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-21 08:24:16,188.94.24.235,100,Germany,Neu Wulmstorf,NMMN New Media Markets & Networks IT-Services GmbH,NMMN - New Media Markets & Networks,Residential/Business,False
+2026-02-21 08:24:16,176.65.151.22,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-21 08:24:16,81.177.101.45,100,Russia,Moscow,PJSC Rostelecom,Rostelecom Nets,Residential/Business,False
+2026-02-21 08:24:16,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 08:24:16,64.62.197.189,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-21 08:24:16,111.38.37.210,100,China,Hefei,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-21 08:24:16,128.14.227.37,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-21 08:24:16,161.248.201.228,100,Bangladesh,Dhaka,ExtentIT Solution Limited,ExtentIT Solution Limited,Residential/Business,False
+2026-02-21 08:24:16,103.164.221.138,100,Indonesia,Jakarta,PT iForte Global Internet,Solusinet,Residential/Business,False
+2026-02-21 08:24:16,176.65.132.251,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-02-21 08:24:16,107.150.102.105,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-21 08:24:16,103.172.204.152,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-21 08:24:16,165.154.163.58,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
