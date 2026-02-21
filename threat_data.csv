@@ -25999,3 +25999,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 12:35:55,185.203.236.212,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
 2026-02-21 12:35:55,103.174.34.49,100,India,Thane,Fisp Network Private Limted,,Residential/Business,False
 2026-02-21 12:35:55,185.196.8.218,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-21 14:21:21,183.178.247.223,100,Hong Kong,Lam Tin,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-02-21 14:21:21,88.216.220.131,100,Germany,Frankfurt am Main,UAB Cherry Servers,,Residential/Business,False
+2026-02-21 14:21:21,45.194.37.246,100,Hong Kong,Hong Kong,Antbox Network Limited,Antbox Network Limited,Residential/Business,False
+2026-02-21 14:21:21,65.20.141.202,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-21 14:21:21,46.101.248.170,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-21 14:21:21,88.210.63.193,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,FOP Dmytro Nedilskyi,Residential/Business,False
+2026-02-21 14:21:21,20.169.85.114,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-21 14:21:21,45.194.92.199,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-02-21 14:21:21,158.69.213.129,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-02-21 14:21:21,207.180.229.239,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 14:21:21,103.52.114.250,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-02-21 14:21:21,220.247.223.56,100,Sri Lanka,Sri Jayewardenepura Kotte,Sri Lanka Telecom Ltd,,Residential/Business,False
+2026-02-21 14:21:21,222.110.147.58,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-21 14:21:21,45.61.187.30,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-21 14:21:21,185.177.72.13,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-02-21 14:21:21,43.166.244.251,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-02-21 14:21:21,103.90.232.170,100,Vietnam,Quận Mười Một,WEBPANDA,Web Panda Company Ltd,Data Center,True
+2026-02-21 14:21:21,128.185.239.182,100,India,Gurugram,Bharti Airtel,Bharti Airtel Limited,Residential/Business,False
+2026-02-21 14:21:21,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 14:21:21,152.32.218.149,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 14:21:21,119.96.99.124,100,China,Suzhou,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-02-21 14:21:21,185.177.72.38,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-02-21 14:21:21,185.196.11.160,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-21 14:21:21,194.156.248.188,100,Ukraine,Kyiv,Scientific-Production Enterprise Information Technologies Ltd,Scientific-Production Enterprise Information Technologies Ltd,Residential/Business,False
+2026-02-21 14:21:21,3.239.13.6,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-21 14:21:21,143.58.211.64,100,United Kingdom,Salford,Hyperoptic Ltd,Hyperoptic Ltd,Residential/Business,False
+2026-02-21 14:21:21,64.227.180.79,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-21 14:21:21,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-21 14:21:21,103.82.37.34,100,Vietnam,Thanh Khê,Cloudfly Corporation,Cloudfly Corporation,Residential/Business,False
+2026-02-21 14:21:21,80.94.92.164,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 14:21:21,43.252.156.204,100,Indonesia,Kebomas,PT Media Sarana Data,Gmedia ID Surabaya,Residential/Business,False
+2026-02-21 14:21:21,45.192.96.79,100,Hong Kong,Hong Kong,Vapeline Technology,,Residential/Business,False
+2026-02-21 14:21:21,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 14:21:21,197.248.104.19,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-02-21 14:21:21,103.67.78.56,100,Indonesia,Cileunyi,PT Cloud Hosting Indonesia,PT Fazza Multi Transportasi,Data Center,False
+2026-02-21 14:21:21,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 14:21:21,202.30.43.42,100,South Korea,Yuseong,KISTI,KREONet,Residential/Business,False
+2026-02-21 14:21:21,20.55.50.10,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-21 14:21:21,103.203.56.0,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-02-21 14:21:21,65.52.160.249,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-21 14:21:21,46.253.45.10,100,Spain,Vilanova i la Geltrú,Anxanet Operadors de Xarxes,"Anxanet Operadors de Xarxes, S.L.",Residential/Business,False
+2026-02-21 14:21:21,122.8.155.126,100,Thailand,Bangkok,Huawei International Pte. LTD,,Data Center,False
+2026-02-21 14:21:21,45.89.63.39,100,United Kingdom,Coventry,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-02-21 14:21:21,118.193.34.72,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 14:21:21,20.111.62.157,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-02-21 14:21:21,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-21 14:21:21,118.145.74.48,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-02-21 14:21:21,88.142.46.185,100,France,Issy-les-Moulineaux,Societe Francaise Du Radiotelephone - SFR SA,SFR USER DATA FTTx,Residential/Business,False
+2026-02-21 14:21:21,77.83.39.58,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-21 14:21:21,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
