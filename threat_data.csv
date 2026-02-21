@@ -25909,3 +25909,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-21 08:24:16,107.150.102.105,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
 2026-02-21 08:24:16,103.172.204.152,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
 2026-02-21 08:24:16,165.154.163.58,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-21 10:20:24,66.132.153.149,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-21 10:20:24,4.193.177.110,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-21 10:20:24,103.217.144.8,100,Indonesia,Cicurug,PT. GUNA BAHAN INTI,,Data Center,False
+2026-02-21 10:20:24,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-21 10:20:24,61.95.199.54,100,India,New Delhi,BHARTI,Bharti infotel Ltd,Residential/Business,False
+2026-02-21 10:20:24,45.249.247.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 10:20:24,113.46.218.189,100,China,Guangzhou,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-02-21 10:20:24,121.142.87.218,100,South Korea,Gimpo-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-21 10:20:24,115.190.164.9,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-21 10:20:24,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-21 10:20:24,103.189.235.88,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-21 10:20:24,191.36.154.175,100,Brazil,São Gabriel,VIPTURBO COMÉRCIO & SERVIÇOS DE INFORMÁTICA LTDA,VIPTURBO COMÉRCIO & SERVIÇOS DE INFORMÁTICA LTDA,Residential/Business,False
+2026-02-21 10:20:24,196.189.155.89,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-02-21 10:20:24,20.213.152.227,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-21 10:20:24,80.94.92.166,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 10:20:24,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-21 10:20:24,64.62.156.151,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-21 10:20:24,151.145.75.235,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,True
+2026-02-21 10:20:24,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-21 10:20:24,50.6.225.78,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-21 10:20:24,46.59.91.252,100,Sweden,Karlstad,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-02-21 10:20:24,112.132.249.164,100,China,Hefei,China Unicom CHINA169 Anhui Province Network,,Residential/Business,False
+2026-02-21 10:20:24,103.132.222.236,100,Bangladesh,Dhaka,NET CAFE,,Residential/Business,False
+2026-02-21 10:20:24,64.62.156.168,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-21 10:20:24,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-21 10:20:24,36.66.16.233,100,Indonesia,Bekasi,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-02-21 10:20:24,36.135.92.36,100,China,Jilin,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-02-21 10:20:24,83.168.105.78,100,Poland,Wroclaw,SkyPass Solutions Sp. z.o.o.,SkyPass Solutions Sp. z.o.o,Residential/Business,False
+2026-02-21 10:20:24,190.129.122.185,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-02-21 10:20:24,203.205.37.233,100,Vietnam,Ho Chi Minh City,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-02-21 10:20:24,221.213.129.46,100,China,Kunming,China Unicom China169 Network,,Residential/Business,True
+2026-02-21 10:20:24,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-21 10:20:24,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-21 10:20:24,103.119.94.10,100,Bangladesh,Mymensingh,SK Link,,Residential/Business,False
+2026-02-21 10:20:24,118.193.43.244,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-21 10:20:24,220.247.223.56,100,Sri Lanka,Sri Jayewardenepura Kotte,Sri Lanka Telecom Ltd,,Residential/Business,False
+2026-02-21 10:20:24,94.159.111.151,100,Germany,Frankfurt am Main,H2nexus LTD,"""NetCom-R"" LLC",Residential/Business,False
+2026-02-21 10:20:24,165.22.228.196,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-21 10:20:24,85.203.23.181,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-02-21 10:20:24,144.91.127.158,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-21 10:20:24,170.254.229.191,100,Colombia,Cartago,Media Commerce Partners S.A,MACESAMOTOS,Residential/Business,False
+2026-02-21 10:20:24,181.46.131.55,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-02-21 10:20:24,79.137.76.231,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-21 10:20:24,1.246.14.175,100,South Korea,Cheongju-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-02-21 10:20:24,49.207.241.59,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
