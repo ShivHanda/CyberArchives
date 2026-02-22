@@ -26369,3 +26369,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-22 06:40:17,118.26.105.144,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-02-22 06:40:17,154.201.73.192,100,United States,Los Angeles,Fastnet Data Inc,cognetcloud INC,Residential/Business,False
 2026-02-22 06:40:17,185.242.3.196,100,The Netherlands,Eygelshoven,Netiface Limited,Felcloud,Residential/Business,False
+2026-02-22 08:25:21,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-22 08:25:21,138.68.89.128,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 08:25:21,185.196.10.182,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-22 08:25:21,18.116.101.220,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-22 08:25:21,177.53.215.134,100,Ecuador,Quito,Eliana Vanessa Morocho Oña,Universal-stereo C.L,Residential/Business,False
+2026-02-22 08:25:21,188.166.218.64,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-22 08:25:21,202.155.157.129,100,Indonesia,Jakarta,CV. Rumahweb Indonesia,,Residential/Business,False
+2026-02-22 08:25:21,172.191.144.246,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-22 08:25:21,64.89.163.87,100,The Netherlands,Eygelshoven,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-02-22 08:25:21,167.88.167.80,100,United States,Dallas,RouterHosting LLC,FranTech Solutions,Residential/Business,False
+2026-02-22 08:25:21,186.208.148.219,100,Brazil,Santana do Livramento,Osirnet Info Telecom Ltda.,Osirnet Info Telecom Ltda,Residential/Business,False
+2026-02-22 08:25:21,172.111.48.62,100,United States,New York,PloxHost,PloxHost,Residential/Business,False
+2026-02-22 08:25:21,51.77.147.122,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-22 08:25:21,175.19.55.116,100,China,Jilin,China Unicom Jilin Province Network,,Residential/Business,False
+2026-02-22 08:25:21,134.209.64.147,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 08:25:21,182.95.223.114,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-22 08:25:21,78.100.64.148,100,Qatar,Doha,Ooredoo-LL,,Residential/Business,False
+2026-02-22 08:25:21,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-22 08:25:21,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-22 08:25:21,182.95.222.186,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-22 08:25:21,83.97.24.41,100,Bulgaria,Sofia,A1 Bulgaria EAD,A1 Bulgaria EAD,Residential/Business,False
+2026-02-22 08:25:21,182.95.223.46,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-22 08:25:21,182.95.223.50,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-22 08:25:21,171.241.40.45,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-22 08:25:21,20.214.157.214,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-22 08:25:21,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-22 08:25:21,20.169.108.13,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-22 08:25:21,45.78.198.206,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-22 08:25:21,114.34.106.146,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-02-22 08:25:21,118.194.230.202,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-22 08:25:21,162.243.48.84,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-22 08:25:21,182.95.187.98,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-22 08:25:21,111.70.32.5,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-02-22 08:25:21,107.150.104.176,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-22 08:25:21,182.95.222.178,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-22 08:25:21,152.32.217.179,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-22 08:25:21,185.196.8.6,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-22 08:25:21,77.87.40.114,100,Ukraine,Kyiv,Zubko Volodymyr Viktorovych,ISP ZNet,Residential/Business,False
+2026-02-22 08:25:21,114.111.54.188,100,Singapore,Singapore,Meteverse Limited.,CDNETWORKS,Residential/Business,True
+2026-02-22 08:25:21,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-22 08:25:21,50.187.152.61,100,United States,Jamaica Plain,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-02-22 08:25:21,51.75.142.157,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-02-22 08:25:21,100.51.6.16,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-22 08:25:21,103.183.75.228,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-22 08:25:21,119.96.99.124,100,China,Suzhou,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
