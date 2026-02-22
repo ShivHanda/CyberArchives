@@ -26414,3 +26414,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-22 08:25:21,100.51.6.16,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-02-22 08:25:21,103.183.75.228,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
 2026-02-22 08:25:21,119.96.99.124,100,China,Suzhou,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-02-22 10:19:51,35.240.75.51,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-22 10:19:51,161.49.89.39,100,Philippines,Pasig,Converge ICT Solution Inc,Converge ICT Solution Inc,Residential/Business,False
+2026-02-22 10:19:51,185.247.137.217,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-22 10:19:51,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-02-22 10:19:51,115.79.36.23,100,Vietnam,Ho Chi Minh City,VIETELftth,,Residential/Business,False
+2026-02-22 10:19:51,185.247.137.234,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-22 10:19:51,193.32.162.146,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-22 10:19:51,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-22 10:19:51,159.54.167.94,100,United States,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),Data Center,False
+2026-02-22 10:19:51,103.250.10.151,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-22 10:19:51,157.10.160.226,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Toko Masa Depan,Data Center,False
+2026-02-22 10:19:51,62.171.175.31,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-22 10:19:51,66.154.125.60,100,Canada,Vancouver,ASSERTIVENET,ASSERTIVENET,Data Center,False
+2026-02-22 10:19:51,204.76.203.8,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-22 10:19:51,102.218.10.150,100,Somalia,Mogadishu,Bluecom Ltd,Bluecom Ltd,Residential/Business,False
+2026-02-22 10:19:51,220.247.224.226,100,Sri Lanka,Colombo,Sri Lanka Telecom Ltd,,Residential/Business,False
+2026-02-22 10:19:51,43.165.3.187,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-02-22 10:19:51,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-22 10:19:51,205.185.125.150,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-22 10:19:51,209.38.83.35,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 10:19:51,100.29.192.30,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-22 10:19:51,103.161.207.2,100,Indonesia,Bandung,PT Media Solusi Network,PT Media Solusi Network,Residential/Business,False
+2026-02-22 10:19:51,103.210.21.242,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-02-22 10:19:51,103.174.114.50,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-02-22 10:19:51,92.118.39.74,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-22 10:19:51,132.248.170.105,100,Mexico,Mexico City,Universidad Nacional Autonoma de Mexico,Universidad Nacional Autonoma de Mexico,Residential/Business,False
+2026-02-22 10:19:51,80.87.199.121,100,Russia,Moscow,JSC IOT,JSC Datacenter,Data Center,True
+2026-02-22 10:19:51,200.9.154.79,100,Brazil,São Paulo,Tyna Host - Datacenter no Brasil,Tyna Host - Datacenter no Brasil,Residential/Business,False
+2026-02-22 10:19:51,159.89.117.122,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-22 10:19:51,199.45.155.87,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-22 10:19:51,195.244.94.195,100,Finland,Kristinestad,GlobalConnect AB,Global Triu,Residential/Business,False
+2026-02-22 10:19:51,103.139.192.65,100,Indonesia,Jakarta,PT Cloud Hosting Indonesia,PT. Halto Petirah Angrowangi,Data Center,False
+2026-02-22 10:19:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-22 10:19:51,199.45.155.77,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-22 10:19:51,188.233.10.123,100,Russia,Volgograd,"CJSC ""ER-Telecom Holding"" Volgograd branch","JSC ""ER-Telecom Holding"" Volgograd Branch",Residential/Business,True
+2026-02-22 10:19:51,81.10.79.105,100,Egypt,Al Mansurah,TE Data,,Residential/Business,False
+2026-02-22 10:19:51,64.62.156.145,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-22 10:19:51,43.160.200.211,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-02-22 10:19:51,182.92.202.149,100,China,Beijing,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,True
+2026-02-22 10:19:51,222.108.0.231,100,South Korea,Guro-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-22 10:19:51,43.166.137.151,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-02-22 10:19:51,199.45.154.127,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-22 10:19:51,181.44.18.49,100,Argentina,General Pacheco,Telecentro S.A.,Telecentro S.A,Residential/Business,False
+2026-02-22 10:19:51,51.254.133.71,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-22 10:19:51,194.180.49.51,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-22 10:19:51,157.245.125.199,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 10:19:51,2.57.122.26,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-22 10:19:51,107.150.104.184,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-22 10:19:51,46.101.214.86,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-22 10:19:51,64.62.156.39,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
