@@ -26559,3 +26559,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-22 14:21:52,202.165.17.230,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Residential/Business,False
 2026-02-22 14:21:52,179.33.186.150,100,Colombia,Turbaná,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
 2026-02-22 14:21:52,100.29.192.118,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-22 16:23:05,103.211.59.6,100,India,Bijnor,U.P. COMMUNICATION SERVICES PVT LTD,Siddhbali Infotech Pvt Ltd.,Residential/Business,False
+2026-02-22 16:23:05,107.150.104.176,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-02-22 16:23:05,194.180.49.217,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-22 16:23:05,20.210.89.170,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-22 16:23:05,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-22 16:23:05,168.76.131.178,100,South Africa,Bloemfontein,Freenet,Free State Education Department,Residential/Business,False
+2026-02-22 16:23:05,142.112.89.138,100,Canada,Cambridge,Bell Canada,Sympatico HSE,Residential/Business,False
+2026-02-22 16:23:05,35.240.174.82,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-02-22 16:23:05,14.103.201.200,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-22 16:23:05,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-22 16:23:05,27.79.2.98,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-22 16:23:05,162.243.232.166,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-22 16:23:05,171.244.37.103,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-22 16:23:05,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-22 16:23:05,31.57.93.80,100,Finland,Helsinki,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Mobile,False
+2026-02-22 16:23:05,157.245.196.210,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 16:23:05,118.193.61.14,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-22 16:23:05,190.181.25.210,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-02-22 16:23:05,86.133.136.220,100,United Kingdom,Swindon,BT Public Internet Service,,Residential/Business,False
+2026-02-22 16:23:05,103.229.54.102,100,Hong Kong,Shek Lei,Akari Networks Limited,Shangxing Tech Limited,Residential/Business,True
+2026-02-22 16:23:05,167.172.41.210,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-22 16:23:05,134.199.206.142,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-22 16:23:05,172.200.228.35,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-22 16:23:05,45.64.74.51,100,Hong Kong,San Po Kong,Hosted in Cloudie Limited,Dingke human resource co.LTD,Data Center,False
+2026-02-22 16:23:05,194.180.48.63,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Residential/Business,False
+2026-02-22 16:23:05,175.144.16.85,100,Malaysia,Ipoh,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-02-22 16:23:05,14.103.115.159,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-22 16:23:05,103.124.92.110,100,Vietnam,Vinhomes Royal City,NhanHoa Software company,NhanHoa Software company,Data Center,False
+2026-02-22 16:23:05,77.83.240.246,100,The Netherlands,Wormer,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-02-22 16:23:05,14.103.107.93,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-22 16:23:05,125.21.53.232,100,India,Mumbai,BHARTI,Bharti Televentures Limited,Mobile,False
+2026-02-22 16:23:05,14.103.120.152,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-22 16:23:05,40.124.186.155,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-22 16:23:05,37.211.162.23,100,Qatar,Doha,Ooredoo Q.S.C,Qtel,Residential/Business,False
+2026-02-22 16:23:05,65.20.187.47,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-02-22 16:23:05,8.220.243.23,100,South Korea,Seoul,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-22 16:23:05,46.29.79.180,100,Russia,Samara,SEVEREN-VOLGA,,Residential/Business,False
+2026-02-22 16:23:05,66.132.153.124,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-22 16:23:05,103.231.14.54,100,Hong Kong,San Po Kong,Converged Communications Limited,,Data Center,False
+2026-02-22 16:23:05,101.126.157.138,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-22 16:23:05,20.24.210.86,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-22 16:23:05,185.216.116.13,100,Hong Kong,Morrison Hill,ZANYUN,,Residential/Business,False
+2026-02-22 16:23:05,112.196.70.142,100,India,Ludhiana,Hfcl Infotel LTD,,Residential/Business,False
+2026-02-22 16:23:05,185.153.231.45,100,Turkey,Bursa,Bursabil Teknoloji A.S.,Sahinnetwork Internet VE Bilisim Hizmetleri,Data Center,False
+2026-02-22 16:23:05,186.251.71.202,100,Brazil,Trindade,PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,Residential/Business,False
