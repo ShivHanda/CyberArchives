@@ -27119,3 +27119,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-23 16:50:16,74.248.96.218,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
 2026-02-23 16:50:16,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
 2026-02-23 16:50:16,20.14.73.1,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-23 18:56:03,120.48.26.185,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-23 18:56:03,43.106.19.224,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-23 18:56:03,185.12.59.117,100,Norway,Oslo,Blix Solutions,Blixcust10463,Data Center,False
+2026-02-23 18:56:03,188.166.88.32,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-23 18:56:03,34.158.168.101,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-02-23 18:56:03,81.29.142.6,100,Russia,Moscow,LLC APPLIED COMPUTATIONAL TECHNOLOGIES,ApcoTeh,Residential/Business,False
+2026-02-23 18:56:03,172.93.111.169,100,United States,Miami,ReliableSite.Net LLC,Alex Kirsch,Data Center,False
+2026-02-23 18:56:03,114.130.69.241,100,Bangladesh,Dhaka,Mango Teleservices Limited,Mango Teleservices Limited,Residential/Business,False
+2026-02-23 18:56:03,14.103.112.55,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-23 18:56:03,118.123.116.93,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-02-23 18:56:03,71.6.199.23,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-23 18:56:03,103.253.21.190,100,Vietnam,Quận Ba,PSG Joint Stock Company,PSG,Residential/Business,False
+2026-02-23 18:56:03,64.62.156.191,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-23 18:56:03,103.14.32.224,100,Germany,Frankfurt am Main,UCloud-HK,,Data Center,False
+2026-02-23 18:56:03,45.148.10.48,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-23 18:56:03,118.26.36.18,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-23 18:56:03,194.31.220.228,100,Iraq,Baghdad,Super Cell Network for Internet Services LTD,SuperCell ISP LTD,Residential/Business,False
+2026-02-23 18:56:03,219.151.191.44,100,China,Chongqing,Chongqing Telecom,Chinanet CQ,Residential/Business,False
+2026-02-23 18:56:03,45.87.249.140,100,The Netherlands,Amsterdam,RAPIDSEEDBOX,,Residential/Business,True
+2026-02-23 18:56:03,217.76.55.241,100,France,Lauterbourg,Adept AB,Adept AB,Data Center,False
+2026-02-23 18:56:03,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-23 18:56:03,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 18:56:03,111.68.107.91,100,Pakistan,Karachi,HEC,Pern,Residential/Business,False
+2026-02-23 18:56:03,64.62.156.19,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-23 18:56:03,64.62.156.187,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-23 18:56:03,87.229.254.207,100,Russia,Moscow,"PJSC ""Vimpelcom""",GoldenTeleCom ForaTec Static,Residential/Business,False
+2026-02-23 18:56:03,20.185.243.158,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-23 18:56:03,88.9.200.229,100,Spain,Tudela,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),Residential/Business,False
+2026-02-23 18:56:03,114.207.246.197,100,South Korea,Dong-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-02-23 18:56:03,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-23 18:56:03,51.107.182.56,100,Sweden,Gävle,Microsoft,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-02-23 18:56:03,34.133.111.203,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-23 18:56:03,64.62.156.186,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-23 18:56:03,72.167.37.48,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,True
+2026-02-23 18:56:03,36.255.3.203,100,India,Hyderabad,CtrlS,,Data Center,True
+2026-02-23 18:56:03,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-23 18:56:03,85.234.37.45,100,Russia,Penza,MTS Penza,,Mobile,False
+2026-02-23 18:56:03,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-23 18:56:03,185.169.4.251,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-23 18:56:03,14.103.164.98,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-23 18:56:03,79.135.251.22,100,Russia,St Petersburg,PJSC Rostelecom,PJSC Rostelecom,Residential/Business,False
+2026-02-23 18:56:03,81.23.182.16,100,Russia,Tolyatti,Infoline networks,,Residential/Business,False
+2026-02-23 18:56:03,103.250.10.115,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-23 18:56:03,140.245.85.101,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-02-23 18:56:03,168.63.76.163,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
