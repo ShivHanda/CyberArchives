@@ -27214,3 +27214,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-23 20:39:16,20.214.157.214,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
 2026-02-23 20:39:16,221.151.181.65,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
 2026-02-23 20:39:16,104.209.148.10,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-23 22:36:11,100.29.192.86,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-23 22:36:11,101.126.141.34,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-23 22:36:11,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-23 22:36:11,103.157.149.14,100,India,Hyderabad,Tanuku Communication Network,,Residential/Business,False
+2026-02-23 22:36:11,193.163.125.116,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-23 22:36:11,41.33.91.226,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-02-23 22:36:11,45.148.10.23,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-23 22:36:11,165.154.172.41,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-23 22:36:11,158.220.126.85,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-23 22:36:11,100.29.192.78,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-23 22:36:11,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 22:36:11,85.203.23.144,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-02-23 22:36:11,185.93.89.79,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-02-23 22:36:11,168.75.87.42,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-02-23 22:36:11,204.76.203.8,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-23 22:36:11,60.167.165.58,100,China,Hefei,China Telecom,Chinanet AH,Residential/Business,False
+2026-02-23 22:36:11,213.209.159.158,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-23 22:36:11,20.83.27.149,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-02-23 22:36:11,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 22:36:11,47.251.68.250,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-23 22:36:11,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-23 22:36:11,180.213.44.242,100,China,Youyilu,ASN for TIANJIN Provincial Net of CT,Chinanet TJ,Residential/Business,False
+2026-02-23 22:36:11,85.217.140.5,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-23 22:36:11,185.191.171.4,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Residential/Business,False
+2026-02-23 22:36:11,36.255.223.167,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,,Data Center,False
+2026-02-23 22:36:11,154.83.197.108,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-23 22:36:11,112.19.44.93,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-02-23 22:36:11,8.152.209.0,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-23 22:36:11,185.241.211.83,100,United States,Los Angeles,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-02-23 22:36:11,117.32.132.170,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,True
+2026-02-23 22:36:11,185.93.89.104,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-23 22:36:11,115.91.48.142,100,South Korea,Anyang-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-02-23 22:36:11,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-23 22:36:11,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-23 22:36:11,82.18.179.96,100,United Kingdom,Luton,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-02-23 22:36:11,157.245.118.24,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 22:36:11,165.154.105.128,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-23 22:36:11,165.154.163.91,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-23 22:36:11,20.234.20.103,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-23 22:36:11,79.124.40.174,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-23 22:36:11,185.16.39.79,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-23 22:36:11,141.148.181.108,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,True
+2026-02-23 22:36:11,162.241.29.37,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-02-23 22:36:11,85.11.167.108,100,Bulgaria,Sofia,ColocaTel Inc.,Sofcompany,Residential/Business,False
+2026-02-23 22:36:11,85.203.23.150,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-02-23 22:36:11,203.189.195.8,100,China,Guangzhou,Cloud Computing Corporation,Chinanet GD,Data Center,False
+2026-02-23 22:36:11,182.76.204.237,100,India,Hyderabad,Bharti Airtel,LOT Mobiles Private Limited,Mobile,False
+2026-02-23 22:36:11,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-23 22:36:11,89.45.201.166,100,Romania,Iași,SC INTERNET BROKER SRL,Internet Broker SRL,Residential/Business,False
+2026-02-23 22:36:11,175.6.179.51,100,China,Qingyuan,"No.293, Wanbao Avenue",Chinanet HN,Residential/Business,False
