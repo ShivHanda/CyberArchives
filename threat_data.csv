@@ -26784,3 +26784,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-23 01:45:58,82.64.153.64,100,France,Annonay,ProXad network / Free SA,Free,Residential/Business,False
 2026-02-23 01:45:58,87.236.176.51,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
 2026-02-23 01:45:58,4.197.33.200,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-23 04:20:00,102.218.10.150,100,Somalia,Mogadishu,Bluecom Ltd,Bluecom Ltd,Residential/Business,False
+2026-02-23 04:20:00,68.183.81.101,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,91.230.168.82,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-23 04:20:00,23.97.62.148,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-23 04:20:00,115.190.109.103,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-23 04:20:00,43.155.40.91,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-02-23 04:20:00,91.196.152.221,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-23 04:20:00,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-23 04:20:00,202.72.243.34,100,Mongolia,Ulan Bator,MONGOLIA-RAILCOM,,Residential/Business,False
+2026-02-23 04:20:00,3.90.12.192,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-23 04:20:00,115.190.12.48,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-02-23 04:20:00,68.183.102.75,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,45.87.249.140,100,The Netherlands,Amsterdam,RAPIDSEEDBOX,,Residential/Business,True
+2026-02-23 04:20:00,192.119.169.10,100,United States,San Jose,Madgenius.com,Madgenius.com,Data Center,False
+2026-02-23 04:20:00,139.59.125.89,100,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-23 04:20:00,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-23 04:20:00,95.214.52.233,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-23 04:20:00,111.53.147.80,100,China,Taiyuan,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-23 04:20:00,206.191.154.172,100,United States,Atlanta,Internap Holding LLC,Internap Network Services Corporation,Data Center,False
+2026-02-23 04:20:00,14.103.117.85,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-23 04:20:00,177.11.196.84,100,Brazil,Feliz,BRASIL TECNOLOGIA E PARTICIPACOES S/A,BRASIL TECPAR | AMIGO | AVATO,Residential/Business,False
+2026-02-23 04:20:00,167.71.12.13,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-23 04:20:00,20.223.240.16,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-23 04:20:00,64.227.65.65,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,161.35.35.83,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,80.94.92.233,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-23 04:20:00,129.205.16.34,100,Uganda,Kampala,ROKE Telkom Uganda,,Residential/Business,False
+2026-02-23 04:20:00,92.68.11.140,100,Netherlands,Amsterdam,KPN B.V.,KPN B.V,Residential/Business,False
+2026-02-23 04:20:00,101.227.203.162,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-02-23 04:20:00,203.121.40.210,100,Malaysia,Shah Alam,TTDOTCOM,,Residential/Business,False
+2026-02-23 04:20:00,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-23 04:20:00,103.249.84.18,100,Malaysia,Cyberjaya,Invision Seven Solutions,Hosting Services,Data Center,False
+2026-02-23 04:20:00,111.26.100.99,100,China,Jilin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-02-23 04:20:00,161.35.89.33,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,91.230.168.83,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-23 04:20:00,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-23 04:20:00,91.106.48.174,100,Iraq,Baghdad,Halasat FTTX,Halasat LTD,Residential/Business,False
+2026-02-23 04:20:00,57.128.214.48,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-23 04:20:00,161.35.213.180,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,159.89.167.230,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,68.183.114.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,92.63.197.236,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-02-23 04:20:00,199.45.154.129,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-23 04:20:00,64.62.197.47,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-02-23 04:20:00,159.203.59.222,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-23 04:20:00,167.71.241.103,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 04:20:00,182.52.236.235,100,Thailand,Din Daeng,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-02-23 04:20:00,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 04:20:00,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
