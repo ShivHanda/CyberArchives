@@ -27164,3 +27164,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-23 18:56:03,103.250.10.115,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
 2026-02-23 18:56:03,140.245.85.101,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
 2026-02-23 18:56:03,168.63.76.163,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-23 20:39:16,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-23 20:39:16,68.183.24.129,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-23 20:39:16,119.18.55.187,100,India,Nashik,HGINDIA,,Data Center,False
+2026-02-23 20:39:16,121.237.36.29,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-02-23 20:39:16,129.121.35.57,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-02-23 20:39:16,213.209.159.63,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-23 20:39:16,121.237.36.28,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-23 20:39:16,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-23 20:39:16,20.196.195.121,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-23 20:39:16,36.134.69.15,100,China,Shenyang,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-02-23 20:39:16,101.126.95.172,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-02-23 20:39:16,121.237.36.27,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-23 20:39:16,157.22.241.167,100,Russia,Mayachnaya,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,False
+2026-02-23 20:39:16,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-23 20:39:16,121.186.151.123,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,True
+2026-02-23 20:39:16,18.116.101.220,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-02-23 20:39:16,116.255.252.44,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,"Zhengzhou Gainet Computer Network Technology Co., Ltd.",Residential/Business,False
+2026-02-23 20:39:16,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Mobile,False
+2026-02-23 20:39:16,121.169.175.5,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-23 20:39:16,163.227.52.50,100,Indonesia,Gianyar,PT Jagoan Data Nusantara,Indonesia Network Information Center,Residential/Business,False
+2026-02-23 20:39:16,20.203.249.16,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-02-23 20:39:16,23.100.90.148,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-23 20:39:16,45.148.10.196,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-23 20:39:16,103.210.21.178,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-02-23 20:39:16,120.71.59.24,100,China,Xingfulu,CHINATELECOM Xinjiang Wulumuqi MAN network,Chinanet XJ,Residential/Business,False
+2026-02-23 20:39:16,90.231.215.250,100,Sweden,Smygehamn,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-02-23 20:39:16,176.32.195.85,100,Armenia,Yerevan,Ucom CJSC,Interactive TV LLC,Residential/Business,False
+2026-02-23 20:39:16,180.76.250.38,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-23 20:39:16,213.177.179.40,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-23 20:39:16,50.6.193.137,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-02-23 20:39:16,14.103.174.237,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-23 20:39:16,125.208.17.145,100,China,Shiyan,"Hubei Feixun Network Co., Ltd","Hubei Feixun Network Co., Ltd",Residential/Business,False
+2026-02-23 20:39:16,119.96.24.54,100,China,Suzhou,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
+2026-02-23 20:39:16,154.92.131.42,100,Hong Kong,Mid Levels,Stacks Inc,Stacks Inc,Residential/Business,False
+2026-02-23 20:39:16,85.11.167.125,100,Bulgaria,Sofia,ColocaTel Inc.,Sofcompany,Residential/Business,False
+2026-02-23 20:39:16,52.172.248.2,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-23 20:39:16,20.114.253.137,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-23 20:39:16,185.242.226.87,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-23 20:39:16,210.2.86.189,100,Vietnam,Ho Chi Minh City,Quang Trung Software City Development Company Limited,Vietnam Internet Network Information Center,Residential/Business,False
+2026-02-23 20:39:16,157.0.0.10,100,China,Suzhou,China Unicom Jiangsu Province Network,,Residential/Business,False
+2026-02-23 20:39:16,188.120.60.170,100,Russia,Moscow,OJSC Kostroma Municipal Telephone Network,KGTS ADSL HFE 12new,Residential/Business,False
+2026-02-23 20:39:16,85.173.245.55,100,Russia,Beslan,SOES Vladikavkaz,The Public Joint -- Stock Company,Residential/Business,False
+2026-02-23 20:39:16,103.180.237.36,100,India,New Delhi,Webyne Data Centre Private Limited,Herbzoot Healthcare PVT LTD,Residential/Business,False
+2026-02-23 20:39:16,103.144.170.16,100,Indonesia,Semarang,PT. Indonesia Comnets Plus,,Residential/Business,False
+2026-02-23 20:39:16,211.224.59.38,100,South Korea,Dalseong-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-02-23 20:39:16,79.124.40.118,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-02-23 20:39:16,213.177.179.113,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-02-23 20:39:16,20.214.157.214,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-23 20:39:16,221.151.181.65,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-23 20:39:16,104.209.148.10,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
