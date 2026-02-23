@@ -26929,3 +26929,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-23 08:42:22,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
 2026-02-23 08:42:22,41.111.178.165,100,Algeria,Algiers,Algerie Telecom,,Residential/Business,False
 2026-02-23 08:42:22,152.32.201.80,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-23 10:44:03,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 10:44:03,45.149.173.217,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-02-23 10:44:03,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 10:44:03,87.236.176.80,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-23 10:44:03,89.186.10.23,100,Poland,Lublin,VIP AGENCJA REKLAMY sp. z o.o,Fiberplay,Residential/Business,False
+2026-02-23 10:44:03,120.48.102.177,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-02-23 10:44:03,185.105.239.252,100,Iran,Tehran,Pars Parva System LLC,Pars Parva System LTD,Data Center,False
+2026-02-23 10:44:03,106.246.224.218,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-02-23 10:44:03,103.172.113.193,100,Bangladesh,Jessore,Omit Odhikary,,Residential/Business,False
+2026-02-23 10:44:03,185.242.226.95,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-02-23 10:44:03,47.251.103.241,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-02-23 10:44:03,81.17.96.171,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-23 10:44:03,14.103.170.189,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-23 10:44:03,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 10:44:03,20.111.44.121,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-02-23 10:44:03,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-23 10:44:03,45.194.92.199,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-02-23 10:44:03,67.205.163.146,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-23 10:44:03,194.237.70.76,100,Sweden,Trollhättan,TELIANET,,Residential/Business,False
+2026-02-23 10:44:03,138.68.189.172,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 10:44:03,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-23 10:44:03,80.190.82.187,100,United Kingdom,Portsmouth,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-23 10:44:03,80.65.208.251,100,India,Mumbai,Contabo Asia Private Limited,Contabo GmbH,Residential/Business,False
+2026-02-23 10:44:03,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-23 10:44:03,206.168.34.129,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-02-23 10:44:03,80.94.95.116,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-02-23 10:44:03,167.71.198.209,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 10:44:03,167.99.49.129,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-23 10:44:03,178.214.160.4,100,Russia,Lugansk,Likhno Dmitriy trading as Luganet,Luganet,Residential/Business,False
+2026-02-23 10:44:03,61.178.24.144,100,China,Lanzhou,Chinanet,,Residential/Business,False
+2026-02-23 10:44:03,81.29.142.50,100,Russia,Moscow,LLC APPLIED COMPUTATIONAL TECHNOLOGIES,ApcoTeh,Residential/Business,False
+2026-02-23 10:44:03,89.44.137.240,100,Romania,Sfântu Gheorghe,Romarg SRL,Romarg SRL,Data Center,False
+2026-02-23 10:44:03,159.203.59.222,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-23 10:44:03,170.64.237.246,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-23 10:44:03,150.107.36.236,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-23 10:44:03,154.92.14.191,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-02-23 10:44:03,103.79.16.52,100,Pakistan,Karachi,Logon Broadband Pvt Ltd,Sharp Communications (Pvt.) Ltd,Residential/Business,False
+2026-02-23 10:44:03,117.71.53.210,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-02-23 10:44:03,141.98.11.11,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-02-23 10:44:03,138.197.152.113,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 10:44:03,45.142.193.164,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-23 10:44:03,162.245.218.8,100,United States,Atlanta,YouStable,HostUS,Residential/Business,False
+2026-02-23 10:44:03,177.128.209.48,100,Brazil,Salvador,Softdados Telecomunicações,Softdados Telecomunicações,Residential/Business,True
+2026-02-23 10:44:03,157.245.96.42,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-23 10:44:03,209.38.197.155,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-23 10:44:03,83.209.255.198,100,Sweden,Karlstad,Bredband2 AB,Bredband2,Residential/Business,False
+2026-02-23 10:44:03,165.154.173.104,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-23 10:44:03,47.211.138.254,100,United States,Lewisburg,Suddenlink Communications,Optimum,Residential/Business,False
+2026-02-23 10:44:03,79.97.118.48,100,Ireland,Dublin,NTL Ireland,,Residential/Business,False
+2026-02-23 10:44:03,192.241.178.12,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
