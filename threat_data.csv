@@ -27489,3 +27489,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-24 10:42:31,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
 2026-02-24 10:42:31,156.227.233.77,100,Japan,Tokyo,Yisu Cloud Ltd,Yisu Cloud Ltd,Residential/Business,False
 2026-02-24 10:42:31,222.128.55.82,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-02-24 12:54:16,103.86.198.253,100,Bangladesh,Dhaka,Nasrin Sultana t/a Maisha,,Residential/Business,False
+2026-02-24 12:54:16,165.154.48.133,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-24 12:54:16,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-24 12:54:16,20.213.152.227,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-24 12:54:16,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-24 12:54:16,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-24 12:54:16,45.84.107.97,100,Sweden,Sundbyberg,QuxLabs AB,R0CKET-CLOUD,Residential/Business,True
+2026-02-24 12:54:16,91.231.89.135,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 12:54:16,20.24.200.53,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-24 12:54:16,106.75.144.110,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-24 12:54:16,113.193.234.210,100,India,Bengaluru,Tikona Infinet Ltd.,Tikona Digital Networks Pvt.Ltd,Residential/Business,False
+2026-02-24 12:54:16,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-24 12:54:16,113.44.78.119,100,China,Shanghai,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-02-24 12:54:16,20.46.124.66,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-24 12:54:16,165.154.187.159,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-24 12:54:16,14.38.177.105,100,South Korea,Goyang-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-24 12:54:16,100.28.153.226,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-24 12:54:16,177.126.130.163,100,Brazil,Artur Nogueira,Net Aki Internet Ltda,Net Aki Internet Ltda,Residential/Business,False
+2026-02-24 12:54:16,185.180.141.2,100,United States,Dallas,Zenlayer Inc,ICG 1 ZEN DFW,Data Center,False
+2026-02-24 12:54:16,40.69.66.178,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-24 12:54:16,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-24 12:54:16,130.12.181.192,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-24 12:54:16,195.184.76.50,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 12:54:16,60.190.239.92,100,China,Hangzhou,Chinanet,"Hangzhou Jufu Energy Technology Co., Ltd.",Residential/Business,False
+2026-02-24 12:54:16,115.91.48.142,100,South Korea,Anyang-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-02-24 12:54:16,66.116.204.139,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-24 12:54:16,175.205.18.22,100,South Korea,Chinch'ŏn,Korea Telecom,Kornet,Residential/Business,False
+2026-02-24 12:54:16,185.180.141.39,100,United States,Dallas,Zenlayer Inc,ICG 1 ZEN DFW,Data Center,False
+2026-02-24 12:54:16,173.254.230.2,100,United States,Los Angeles,HostPapa,Danny Dahl,Data Center,False
+2026-02-24 12:54:16,195.184.76.49,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 12:54:16,8.219.65.40,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-24 12:54:16,67.164.238.63,100,United States,Newark,"Comcast Cable Communications, LLC","Comcast Cable Communications, IP Services",Residential/Business,False
+2026-02-24 12:54:16,198.20.177.178,100,United States,Piscataway,B2 Net Solutions Inc.,ServerMania Inc,Data Center,True
+2026-02-24 12:54:16,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-24 12:54:16,95.221.154.141,100,Russia,Moscow,PJSC MegaFon,Net By Net Holding LLC,Mobile,False
+2026-02-24 12:54:16,14.103.76.234,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-24 12:54:16,186.235.4.245,100,Brazil,Caldas,Cabo Servicos De Telecomunicacoes Ltda,Cabo Servicos De Telecomunicacoes Ltda,Residential/Business,False
+2026-02-24 12:54:16,52.141.2.0,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-24 12:54:16,149.56.109.3,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-02-24 12:54:16,154.47.31.5,100,United States,Los Angeles,Datacamp Limited,Datacamp Limited,Data Center,True
+2026-02-24 12:54:16,14.103.117.173,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-24 12:54:16,154.83.197.95,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-02-24 12:54:16,14.103.127.80,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-24 12:54:16,103.174.114.110,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,False
+2026-02-24 12:54:16,47.250.158.242,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
