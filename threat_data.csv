@@ -27444,3 +27444,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-24 08:39:52,167.179.19.182,100,Cambodia,Mittakpheap,NeocomISP Limited,NeocomISP Limited,Residential/Business,False
 2026-02-24 08:39:52,194.195.215.230,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
 2026-02-24 08:39:52,213.21.253.244,100,Germany,Frankfurt am Main,DpkgSoft International Limited,Xorek.Cloud Frankfurt,Residential/Business,False
+2026-02-24 10:42:31,43.166.253.94,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-02-24 10:42:31,103.231.248.195,100,Vietnam,Tây Hồ,MTD,MTD Viet NAM Investment Company Limited,Residential/Business,False
+2026-02-24 10:42:31,20.205.3.49,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-24 10:42:31,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-24 10:42:31,20.191.226.90,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-02-24 10:42:31,181.116.220.140,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Mobile,False
+2026-02-24 10:42:31,20.205.120.43,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-02-24 10:42:31,107.173.241.217,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-02-24 10:42:31,91.230.168.93,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 10:42:31,45.238.2.34,100,Brazil,Goiânia,T & I TELECOMUNICAÇÕES LTDA ME,T & I TELECOMUNICAÇÕES LTDA ME,Residential/Business,False
+2026-02-24 10:42:31,203.228.30.198,100,South Korea,Mungyeong,KORNET,bagjunhyun,Residential/Business,False
+2026-02-24 10:42:31,178.68.149.201,100,Russia,Sedkyrkeshch,PJSC Rostelecom,PJSC Rostelecom North-West Region,Residential/Business,False
+2026-02-24 10:42:31,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-24 10:42:31,125.212.243.237,100,Vietnam,Ho Chi Minh City,Viettel Group,Viettel Group,Residential/Business,False
+2026-02-24 10:42:31,14.18.110.73,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet GD,Residential/Business,False
+2026-02-24 10:42:31,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-24 10:42:31,86.54.31.40,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-02-24 10:42:31,135.222.40.18,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-24 10:42:31,4.210.91.174,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-24 10:42:31,78.39.48.166,100,Iran,Tehran,DCI,Information Technology Company,Residential/Business,False
+2026-02-24 10:42:31,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-24 10:42:31,52.174.67.71,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-02-24 10:42:31,198.98.62.211,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-24 10:42:31,123.58.207.81,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-24 10:42:31,103.189.82.50,100,India,Lucknow,MY ANB CART LLP,MY ANB Cart LLP,Residential/Business,False
+2026-02-24 10:42:31,66.116.204.139,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-24 10:42:31,195.184.76.5,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 10:42:31,40.90.235.65,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-24 10:42:31,4.232.88.81,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-02-24 10:42:31,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-24 10:42:31,91.231.89.104,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 10:42:31,116.193.191.46,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-24 10:42:31,91.231.89.111,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-24 10:42:31,60.169.120.17,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-02-24 10:42:31,103.113.105.228,100,India,Faridabad,Ekowebtech It Services Pvt Ltd,Ekowebtech It Services Pvt Ltd,Residential/Business,False
+2026-02-24 10:42:31,87.251.19.5,100,Estonia,Tallinn,OC NETWORKS LIMITED,1Cent Host,Residential/Business,False
+2026-02-24 10:42:31,185.16.39.146,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-24 10:42:31,209.87.169.83,100,United States,Jersey City,Active Data,,Mobile,True
+2026-02-24 10:42:31,64.89.160.82,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-02-24 10:42:31,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Residential/Business,False
+2026-02-24 10:42:31,24.187.103.44,100,United States,Edison,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-02-24 10:42:31,89.248.168.239,100,Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-02-24 10:42:31,54.37.229.48,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-02-24 10:42:31,156.227.233.77,100,Japan,Tokyo,Yisu Cloud Ltd,Yisu Cloud Ltd,Residential/Business,False
+2026-02-24 10:42:31,222.128.55.82,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
