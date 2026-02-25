@@ -27859,3 +27859,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-25 04:15:35,180.76.227.2,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
 2026-02-25 04:15:35,101.36.119.222,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-02-25 04:15:35,57.128.227.180,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-25 06:56:27,46.19.137.194,100,Switzerland,Bern,Private Layer INC,Clientid7528,Data Center,False
+2026-02-25 06:56:27,152.32.238.83,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-25 06:56:27,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-25 06:56:27,51.158.205.203,100,Netherlands,Haarlem,Online S.A.S.,Scaleway,Data Center,False
+2026-02-25 06:56:27,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-25 06:56:27,182.180.154.234,100,Pakistan,Lahore,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-02-25 06:56:27,157.10.160.98,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Toko Masa Depan,Data Center,False
+2026-02-25 06:56:27,91.231.89.112,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-25 06:56:27,45.157.54.16,100,Iraq,Erbil,"Smart Link Company for Internet Service, special company and limited responsibi","Smart Link Company Internet Service, special company and limited responsibility",Residential/Business,False
+2026-02-25 06:56:27,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-25 06:56:27,20.119.86.53,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-25 06:56:27,45.91.64.7,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,True
+2026-02-25 06:56:27,216.45.53.244,100,United States,Washington,HostPapa,HostPapa,Data Center,False
+2026-02-25 06:56:27,185.247.137.25,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-25 06:56:27,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-25 06:56:27,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-25 06:56:27,172.200.228.35,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-02-25 06:56:27,45.78.207.244,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-02-25 06:56:27,203.55.131.3,100,The Netherlands,Amsterdam,Internap Holding LLC,Valence Technology Co,Data Center,False
+2026-02-25 06:56:27,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-25 06:56:27,87.236.176.72,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-25 06:56:27,190.89.95.18,100,Brazil,São Gonçalo do Sapucaí,SS TECNOLOGIA LTDA,Novalink Internet Ltda,Residential/Business,False
+2026-02-25 06:56:27,207.90.244.6,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-02-25 06:56:27,117.216.143.31,100,India,Kāramadai,Bharat Sanchar Nigam Ltd,,Residential/Business,False
+2026-02-25 06:56:27,138.68.10.1,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-25 06:56:27,80.94.95.242,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-02-25 06:56:27,91.231.89.200,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-25 06:56:27,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-25 06:56:27,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-25 06:56:27,8.220.192.64,100,South Korea,Seoul,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-02-25 06:56:27,134.209.251.63,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-25 06:56:27,181.215.182.129,100,Brazil,Porto Seguro,SV INTERNET,SV PROVEDOR DE INTERNET LTDA - ME,Residential/Business,True
+2026-02-25 06:56:27,51.103.25.59,100,France,Paris,Microsoft,Microsoft Azure Cloud (francecentral),Data Center,True
+2026-02-25 06:56:27,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-25 06:56:27,66.116.196.26,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-02-25 06:56:27,2.33.239.68,100,Italy,Naples,VODAFONE,,Residential/Business,False
+2026-02-25 06:56:27,155.94.163.245,100,United States,Buffalo,DataWagon LLC,HostPapa,Data Center,False
+2026-02-25 06:56:27,189.146.76.83,100,Mexico,Miguel Hidalgo,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-02-25 06:56:27,85.217.149.15,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-25 06:56:27,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-25 06:56:27,121.228.31.181,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-02-25 06:56:27,193.163.125.171,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-25 06:56:27,37.58.136.133,100,France,Paris,Adista SAS,Ogec Saint Joseph Lorient,Data Center,False
+2026-02-25 06:56:27,212.88.48.17,100,United Kingdom,Frinton-on-Sea,Wavenet Limited,Wavenet Limited,Residential/Business,False
+2026-02-25 06:56:27,103.192.39.38,100,Hong Kong,Mong Kok,"LCX International Technology Co., Limited","LCX International Technology Co., Limited",Residential/Business,False
