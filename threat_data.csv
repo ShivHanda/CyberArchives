@@ -28144,3 +28144,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-25 17:03:49,45.249.246.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
 2026-02-25 17:03:49,1.194.219.159,100,China,Guancheng,China Telecom,Chinanet HA,Residential/Business,False
 2026-02-25 17:03:49,193.26.115.178,100,United States,Miami,1337 Services GmbH,1337 Services GmbH,Residential/Business,True
+2026-02-25 18:58:19,185.177.72.23,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-02-25 18:58:19,147.45.126.28,100,Finland,Helsinki,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-25 18:58:19,52.186.171.52,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-25 18:58:19,185.12.59.117,100,Norway,Oslo,Blix Solutions,Blixcust10463,Data Center,False
+2026-02-25 18:58:19,34.158.168.101,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-02-25 18:58:19,205.198.89.246,100,Japan,Tokyo,Eons Data Communications Limited,Eons Data Communications Limited,Residential/Business,False
+2026-02-25 18:58:19,114.10.47.96,100,Indonesia,Surabaya,PT. INDOSAT Tbk,IOH B2B,Residential/Business,False
+2026-02-25 18:58:19,183.207.186.22,100,China,Nanjing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-02-25 18:58:19,176.65.148.95,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-25 18:58:19,43.246.139.120,100,India,Coimbatore,Airdesign Broadcast Media Pvt Ltd,Airdesign Broadcast Media Pvt Ltd,Residential/Business,False
+2026-02-25 18:58:19,185.208.159.129,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-25 18:58:19,103.97.135.244,100,Vietnam,Quận Một,Long Van Soft Solution JSC,Lvss,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.63,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,20.198.0.58,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-02-25 18:58:19,195.178.110.187,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-25 18:58:19,101.47.142.111,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-25 18:58:19,51.15.80.4,100,Netherlands,Haarlem,SCALEWAY,,Data Center,False
+2026-02-25 18:58:19,4.193.97.168,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-25 18:58:19,61.0.23.246,100,India,Coimbatore,BSNL Internet,,Residential/Business,False
+2026-02-25 18:58:19,12.156.67.18,100,United States,Oakland,"AT&T Enterprises, LLC",Sikh Gurdwara-sj,Residential/Business,False
+2026-02-25 18:58:19,117.72.13.23,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-02-25 18:58:19,109.228.18.139,100,United Kingdom,London,IONOS SE,IONOS SE,Data Center,False
+2026-02-25 18:58:19,112.163.119.199,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-02-25 18:58:19,210.16.168.11,100,China,Beijing,"Hubei Feixun Network Co., Ltd","Hubei Feixun Network Co., Ltd",Residential/Business,False
+2026-02-25 18:58:19,162.243.201.163,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-25 18:58:19,152.32.189.128,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-25 18:58:19,14.103.127.32,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-25 18:58:19,44.203.196.74,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-25 18:58:19,92.118.39.204,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.202,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.212,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,119.255.245.44,100,China,Dongchengcun,Beijing Guanghuan Xinwang Digital,"Beijing Sinnet Technology Co., Ltd.",Residential/Business,False
+2026-02-25 18:58:19,115.190.142.147,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-25 18:58:19,193.163.125.43,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-25 18:58:19,198.98.56.205,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-25 18:58:19,200.46.125.168,100,Panama,Panama City,Cable Onda,Cable Onda,Residential/Business,False
+2026-02-25 18:58:19,2.57.122.96,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.214,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.233,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,103.149.86.208,100,Vietnam,Ho Chi Minh City,4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED,4S Technology Trading Services Company Limited,Residential/Business,True
+2026-02-25 18:58:19,92.118.39.223,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,92.118.39.211,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-25 18:58:19,157.245.194.203,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-25 18:58:19,178.128.60.48,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
