@@ -28284,3 +28284,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-25 22:27:30,40.160.231.42,100,United States,New York,OVH SAS,OVH US LLC,Data Center,False
 2026-02-25 22:27:30,45.156.87.205,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
 2026-02-25 22:27:30,198.23.160.197,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-02-26 01:42:04,76.132.238.43,100,United States,Ukiah,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-02-26 01:42:04,221.211.246.121,100,China,Harbin,CNC Group CHINA169 Heilongjiang Province Network,,Residential/Business,False
+2026-02-26 01:42:04,176.65.139.41,100,United Kingdom,Hugh Town,ZeXoTeK IT-Services GmbH,ZeXoTeK IT-Services GmbH,Residential/Business,False
+2026-02-26 01:42:04,13.71.189.16,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-26 01:42:04,3.80.221.65,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-26 01:42:04,12.156.67.18,100,United States,Oakland,"AT&T Enterprises, LLC",Sikh Gurdwara-sj,Residential/Business,False
+2026-02-26 01:42:04,52.248.40.17,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-26 01:42:04,83.249.209.93,100,Sweden,Västerås,COMHEM,Tele2 AB,Residential/Business,False
+2026-02-26 01:42:04,94.231.206.33,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-26 01:42:04,179.125.104.245,100,Brazil,Palmeira,Bach E Ciesielski Ltda - ME,RB TELECOM,Residential/Business,False
+2026-02-26 01:42:04,161.118.185.2,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,True
+2026-02-26 01:42:04,172.190.142.176,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-26 01:42:04,185.200.116.72,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-02-26 01:42:04,181.23.125.142,100,Argentina,La Plata,Telefonica de Argentina,Telefonica de Argentina,Residential/Business,False
+2026-02-26 01:42:04,27.123.114.126,100,India,Nagpur,Bharti Airtel,Bharti Airtel Limited,Mobile,False
+2026-02-26 01:42:04,20.64.106.19,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-26 01:42:04,103.85.180.229,100,India,Benaulim,Dataexpress Pvt Ltd,NIXI,Residential/Business,False
+2026-02-26 01:42:04,165.154.104.235,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-26 01:42:04,183.66.149.42,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-02-26 01:42:04,172.234.25.61,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-26 01:42:04,91.230.168.44,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-26 01:42:04,195.178.191.5,100,Sweden,Stockholm,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-02-26 01:42:04,218.146.255.221,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-26 01:42:04,69.164.214.243,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-26 01:42:04,122.166.253.226,100,India,Bengaluru,BHARTI,ABTS (Karnataka),Residential/Business,False
+2026-02-26 01:42:04,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-26 01:42:04,94.231.206.36,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-26 01:42:04,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-26 01:42:04,94.231.206.39,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-26 01:42:04,176.36.174.177,100,Ukraine,Kyiv,Lanet Network,Lanet Network Ltd,Residential/Business,False
+2026-02-26 01:42:04,93.62.109.210,100,Italy,Licata,Fastweb SpA,Fastweb Tecnocom,Residential/Business,False
+2026-02-26 01:42:04,111.70.29.130,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Mobile,False
+2026-02-26 01:42:04,101.47.142.22,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-26 01:42:04,91.224.92.162,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-02-26 01:42:04,94.231.206.38,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-02-26 01:42:04,20.194.29.45,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-02-26 01:42:04,203.2.164.205,100,China,Guangzhou,CHINANET SHAANXI province Cloud Base network,Chinanet GD,Residential/Business,False
+2026-02-26 01:42:04,137.184.199.156,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-26 01:42:04,140.206.83.106,100,China,Jinrongjie,China Unicom Shanghai network,Unicom SH,Residential/Business,False
+2026-02-26 01:42:04,193.163.125.73,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-26 01:42:04,47.88.92.65,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-02-26 01:42:04,89.116.31.97,100,France,Lauterbourg,Lrtc Network Rent,"SC ""Lithuanian Radio and TV Center""",Mobile,False
+2026-02-26 01:42:04,187.191.2.213,100,Mexico,Xalapa,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-02-26 01:42:04,193.163.125.178,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-26 01:42:04,50.149.161.131,100,United States,Jacksonville,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
