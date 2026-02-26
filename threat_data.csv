@@ -28749,3 +28749,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-26 20:31:10,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
 2026-02-26 20:31:10,104.140.148.62,100,United States,Seattle,Eonix Corporation,Eonix Corporation,Data Center,False
 2026-02-26 20:31:10,37.27.62.82,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-02-26 22:28:01,74.208.90.100,100,United States,Kansas City,IONOS SE,IONOS Inc,Data Center,True
+2026-02-26 22:28:01,45.165.88.52,100,Brazil,Castro Alves,D. S. ALVES SERVICOS DE INTERNET,Flávio Henrique de Oliveira,Residential/Business,False
+2026-02-26 22:28:01,66.132.153.128,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-02-26 22:28:01,4.204.200.32,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-26 22:28:01,158.94.210.203,100,Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-02-26 22:28:01,106.75.176.119,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-26 22:28:01,82.153.72.40,100,United Kingdom,London,Hydra Communications Ltd,GCI Network Solutions Limited,Data Center,True
+2026-02-26 22:28:01,20.216.146.160,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-02-26 22:28:01,94.156.152.32,100,South Africa,Centurion,Internet Magnate (Pty) Ltd,Internet Magnate (Pty) Ltd,Residential/Business,False
+2026-02-26 22:28:01,195.250.20.75,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,False
+2026-02-26 22:28:01,209.38.27.76,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-26 22:28:01,49.158.4.12,100,Taiwan,Linkou District,UBBNET,"TFN Media Co., Ltd.",Residential/Business,False
+2026-02-26 22:28:01,165.227.62.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-26 22:28:01,20.168.121.239,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-26 22:28:01,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-26 22:28:01,119.205.233.162,100,South Korea,Wŏnju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-26 22:28:01,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-26 22:28:01,217.154.192.185,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-02-26 22:28:01,211.254.212.59,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-02-26 22:28:01,146.190.160.27,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-26 22:28:01,103.31.38.209,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-26 22:28:01,185.176.220.94,100,Latvia,Riga,2 Cloud Ltd,2CLOUD,Residential/Business,False
+2026-02-26 22:28:01,65.254.95.236,100,Australia,Bungarribee,Dreamscape Networks PTY LTD,Endurance International Group,Data Center,False
+2026-02-26 22:28:01,185.115.33.212,100,Netherlands,Amsterdam,3nt solutions LLP,3nt solutions LLP,Residential/Business,False
+2026-02-26 22:28:01,52.138.5.100,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-26 22:28:01,115.84.189.189,100,Japan,Himeji,Himeji Cable Television Corporation,WINK,Residential/Business,False
+2026-02-26 22:28:01,93.123.109.42,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-26 22:28:01,117.2.163.143,100,Vietnam,Huế,Viettel Corporation,,Residential/Business,False
+2026-02-26 22:28:01,38.250.161.100,100,Peru,Paucarpata,Red Cientifica Peruana,,Mobile,False
+2026-02-26 22:28:01,149.54.15.90,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-02-26 22:28:01,27.112.78.170,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-26 22:28:01,115.77.111.2,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-02-26 22:28:01,121.224.78.164,100,China,Wuxi,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-26 22:28:01,115.42.173.64,100,Singapore,Singapore,SingNet Pte Ltd,Global Knowledge Network (S) PTE LTD,Residential/Business,False
+2026-02-26 22:28:01,152.32.205.184,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-26 22:28:01,138.68.101.168,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-26 22:28:01,59.145.160.110,100,India,Noida,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-26 22:28:01,114.242.61.9,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,True
+2026-02-26 22:28:01,159.203.14.97,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-26 22:28:01,187.210.77.100,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Mobile,False
+2026-02-26 22:28:01,125.17.185.94,100,India,Chennai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-02-26 22:28:01,175.19.39.45,100,China,Jilin,China Unicom Jilin Province Network,,Residential/Business,False
+2026-02-26 22:28:01,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-26 22:28:01,2a01:4020:0:4e::f68d:44a7,100,United Kingdom,City of London,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,False
+2026-02-26 22:28:01,130.12.180.175,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
