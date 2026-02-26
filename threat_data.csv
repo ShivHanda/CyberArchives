@@ -28469,3 +28469,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-26 08:39:46,213.199.50.210,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
 2026-02-26 08:39:46,119.195.89.159,100,South Korea,Jung-gu,Korea Telecom,Kornet,Residential/Business,False
 2026-02-26 08:39:46,106.75.9.75,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-02-26 10:39:57,185.156.73.182,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-26 10:39:57,14.225.2.126,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-02-26 10:39:57,195.184.76.117,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-26 10:39:57,195.184.76.119,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-26 10:39:57,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-26 10:39:57,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-26 10:39:57,103.168.58.245,100,Vietnam,Mai Dich,"Floor 5, 255 Tran Dang Ninh, Dich Vong, Cau Giay District, Ha Noi City",Techcity Company Limited,Residential/Business,True
+2026-02-26 10:39:57,185.196.10.164,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-26 10:39:57,217.100.210.76,100,Netherlands,Leiden,Vodafone Libertel B.V.,Sitomatic Process Technology Bv,Residential/Business,False
+2026-02-26 10:39:57,5.182.26.119,100,Uzbekistan,Tashkent,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,False
+2026-02-26 10:39:57,185.39.118.137,100,Russia,Saratov,Renet Com,"Renet Com, Ltd",Residential/Business,True
+2026-02-26 10:39:57,65.254.93.243,100,Australia,Bungarribee,P.D.R Solutions FZC,,Data Center,False
+2026-02-26 10:39:57,138.19.49.49,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-02-26 10:39:57,20.168.107.40,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-26 10:39:57,51.81.46.38,100,United States,Warrenton,OVH SAS,OVH US LLC,Data Center,False
+2026-02-26 10:39:57,175.203.61.49,100,South Korea,Dong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-26 10:39:57,80.94.95.242,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-02-26 10:39:57,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-26 10:39:57,118.26.105.144,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-26 10:39:57,103.74.123.88,100,Vietnam,Làng Hà,CNBKNS,Branch of BachKim Network solutions,Residential/Business,False
+2026-02-26 10:39:57,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-26 10:39:57,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-26 10:39:57,144.126.233.81,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-26 10:39:57,45.148.10.247,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-26 10:39:57,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-26 10:39:57,193.32.162.188,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-26 10:39:57,65.49.20.95,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-26 10:39:57,68.168.211.140,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-02-26 10:39:57,180.76.172.156,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,True
+2026-02-26 10:39:57,103.113.101.54,100,Pakistan,Rawalpindi,WayLink (Pvt.) Limited,Waylink,Residential/Business,False
+2026-02-26 10:39:57,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-26 10:39:57,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-26 10:39:57,20.163.76.6,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-26 10:39:57,37.77.150.223,100,Russia,Zelenograd,Proton66 OOO,LLC Baxet,Residential/Business,False
+2026-02-26 10:39:57,122.8.155.47,100,Thailand,Bangkok,Huawei International Pte. LTD,,Data Center,False
+2026-02-26 10:39:57,35.240.15.202,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-02-26 10:39:57,209.205.219.186,100,United States,Piscataway,24 SHELLS,B2 Net Solutions Inc,Data Center,True
+2026-02-26 10:39:57,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-26 10:39:57,20.163.110.166,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-26 10:39:57,193.32.162.28,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-26 10:39:57,20.89.254.160,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-02-26 10:39:57,185.208.159.109,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-26 10:39:57,20.63.98.207,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-26 10:39:57,20.48.148.227,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-26 10:39:57,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
