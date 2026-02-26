@@ -28424,3 +28424,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-26 06:53:35,109.172.115.12,100,Russia,Moscow,JSC IOT,JSC IOT,Data Center,True
 2026-02-26 06:53:35,109.156.98.67,100,United Kingdom,Northwood,BT Public Internet Service,,Residential/Business,False
 2026-02-26 06:53:35,138.68.144.247,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-26 08:39:46,83.168.68.72,100,Poland,Wroclaw,SkyPass Solutions Sp. z.o.o.,SkillHost,Residential/Business,True
+2026-02-26 08:39:46,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-26 08:39:46,176.65.148.243,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-26 08:39:46,5.223.61.89,100,Singapore,Singapore,Hetzner Online GmbH,Hetzner Online GmbH,Residential/Business,False
+2026-02-26 08:39:46,85.113.142.194,100,Russia,Voronezh,LLC Intercon,Intercon Etth,Residential/Business,False
+2026-02-26 08:39:46,112.19.44.93,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-02-26 08:39:46,85.11.183.39,100,United Kingdom,London,PebbleHost Ltd,Sofcompany speedy,Residential/Business,False
+2026-02-26 08:39:46,92.118.39.63,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-26 08:39:46,130.12.181.107,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-26 08:39:46,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-26 08:39:46,209.141.53.124,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-02-26 08:39:46,77.83.39.212,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-02-26 08:39:46,152.32.201.247,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-26 08:39:46,171.243.228.160,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-26 08:39:46,45.194.92.25,100,Canada,Toronto,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-02-26 08:39:46,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-26 08:39:46,182.76.71.82,100,India,New Delhi,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-02-26 08:39:46,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-26 08:39:46,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-26 08:39:46,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-26 08:39:46,181.191.128.18,100,Brazil,Natividade,FABLINUXER CONNECT TELECOMUNICAÇÕES,FABLINUXER CONNECT TELECOMUNICAÇÕES,Residential/Business,False
+2026-02-26 08:39:46,14.103.64.39,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-26 08:39:46,128.14.239.38,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-26 08:39:46,182.95.48.122,100,India,New Delhi,Genpact India 4th Floor,Genpact India Private Limited,Residential/Business,False
+2026-02-26 08:39:46,152.32.252.65,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-26 08:39:46,122.225.203.106,100,China,Beijing,Chinanet,"Kangda Automobile Co., Ltd.",Mobile,False
+2026-02-26 08:39:46,182.78.108.126,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-02-26 08:39:46,100.50.17.159,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-26 08:39:46,182.95.61.114,100,India,New Delhi,Genpact India 4th Floor,Genpact India Private Limited,Residential/Business,False
+2026-02-26 08:39:46,171.241.40.45,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-26 08:39:46,85.11.182.34,100,United Kingdom,London,Sofcompany-speedy,Sofcompany speedy,Residential/Business,False
+2026-02-26 08:39:46,185.220.101.6,100,Germany,Brandenburg,Stiftung Erneuerbare Freiheit,Artikel10 e.V,Residential/Business,True
+2026-02-26 08:39:46,103.61.122.229,100,Vietnam,Thanh Liệt,H2 VIET NAM TECHNOLOGY SOLUTIONS COMPANY LIMITED,H2 Viet NAM Technology Solutions Company Limited,Residential/Business,False
+2026-02-26 08:39:46,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-26 08:39:46,195.184.76.139,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-26 08:39:46,122.168.194.41,100,India,Indore,BHARTI,1 Malviya Nagar,Residential/Business,False
+2026-02-26 08:39:46,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-26 08:39:46,154.57.222.98,100,Pakistan,Karachi,Trans World Enterprise Services (Private) Limited,Trans World Enterprise Services (Private) Limited,Residential/Business,False
+2026-02-26 08:39:46,178.128.50.44,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-02-26 08:39:46,45.95.146.59,100,Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-02-26 08:39:46,41.33.199.13,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-02-26 08:39:46,172.236.228.115,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-26 08:39:46,213.199.50.210,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-26 08:39:46,119.195.89.159,100,South Korea,Jung-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-02-26 08:39:46,106.75.9.75,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
