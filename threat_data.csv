@@ -28794,3 +28794,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-26 22:28:01,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
 2026-02-26 22:28:01,2a01:4020:0:4e::f68d:44a7,100,United Kingdom,City of London,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,False
 2026-02-26 22:28:01,130.12.180.175,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-02-27 01:28:23,69.164.213.157,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-27 01:28:23,176.31.224.40,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,True
+2026-02-27 01:28:23,146.19.24.116,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-02-27 01:28:23,197.248.104.31,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-02-27 01:28:23,201.249.192.30,100,Venezuela,San Carlos del Zulia,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-02-27 01:28:23,68.183.91.209,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-27 01:28:23,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-27 01:28:23,57.128.2.15,100,France,Gravelines,OVH SAS,OVH,Data Center,True
+2026-02-27 01:28:23,143.110.137.94,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-27 01:28:23,116.202.244.177,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-02-27 01:28:23,154.217.235.45,100,United States,San Jose,Arosscloud Inc.,Fastmos Co Limited,Residential/Business,False
+2026-02-27 01:28:23,101.36.105.94,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-02-27 01:28:23,113.193.234.210,100,India,Bengaluru,Tikona Infinet Ltd.,Tikona Digital Networks Pvt.Ltd,Residential/Business,False
+2026-02-27 01:28:23,184.105.247.211,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-27 01:28:23,178.18.8.194,100,Russia,Samara,"""Region Svyaz Konsalt"" LLC","""Region Svyaz Konsalt"" LLC",Residential/Business,False
+2026-02-27 01:28:23,158.106.129.89,100,United States,Atlanta,PrivateSystems Networks,PrivateSystems Networks GA,Data Center,True
+2026-02-27 01:28:23,85.217.149.27,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-27 01:28:23,65.49.1.129,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-27 01:28:23,186.5.178.229,100,Argentina,Villa Minetti,Alberto Oscar Genovese,Alberto Oscar Genovese,Residential/Business,False
+2026-02-27 01:28:23,202.161.191.129,100,Bangladesh,Dhaka,Access Telecom (BD) Ltd,Alap Communication Ltd,Residential/Business,False
+2026-02-27 01:28:23,20.163.13.114,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-02-27 01:28:23,57.128.237.234,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-27 01:28:23,20.119.86.70,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-27 01:28:23,45.43.63.68,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-27 01:28:23,108.181.23.81,100,United States,Los Angeles,Psychz Networks,TELUS Communications Inc.,Data Center,False
+2026-02-27 01:28:23,154.38.160.164,100,United States,St Louis,Contabo Inc.,Contabo Inc,Residential/Business,False
+2026-02-27 01:28:23,80.94.92.183,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-27 01:28:23,101.126.130.208,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-02-27 01:28:23,3.85.125.1,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-02-27 01:28:23,173.249.45.217,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-27 01:28:23,185.156.73.86,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-27 01:28:23,97.74.83.20,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-02-27 01:28:23,69.164.207.173,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-02-27 01:28:23,82.24.64.220,100,United Kingdom,London,Arisk Communications inc.,Arisk Communications inc.,Residential/Business,False
+2026-02-27 01:28:23,116.48.143.166,100,Hong Kong,Lower Wong Tai Sin Estate,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-27 01:28:23,130.12.181.97,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-27 01:28:23,179.185.29.233,100,Brazil,São José do Rio Preto,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-02-27 01:28:23,183.131.109.45,100,China,Jiaxing,Chinanet,,Residential/Business,False
+2026-02-27 01:28:23,103.101.216.74,100,Indonesia,Sungaibamban,PT Duta Trans Nusantara Network,PT Duta Trans Nusantara Network,Residential/Business,False
+2026-02-27 01:28:23,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-02-27 01:28:23,103.56.163.133,100,Vietnam,Ho Chi Minh City,INETSOFT,iNET software one member company limited,Residential/Business,False
+2026-02-27 01:28:23,192.210.198.202,100,United States,Buffalo,HostPapa,Penghy66,Data Center,False
+2026-02-27 01:28:23,64.62.197.92,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-02-27 01:28:23,152.42.242.180,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 01:28:23,185.115.33.212,100,Netherlands,Amsterdam,3nt solutions LLP,3nt solutions LLP,Residential/Business,False
