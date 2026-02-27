@@ -28984,3 +28984,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-27 08:35:09,51.178.114.78,100,France,Gravelines,OVH SAS,OVH,Data Center,False
 2026-02-27 08:35:09,131.148.0.202,100,United States,Orlando,Charter Communications LLC,Spectrum,Residential/Business,False
 2026-02-27 08:35:09,152.32.171.73,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-27 10:32:05,82.196.100.252,100,Sweden,Halmstad,Bahnhof AB,General Private NET A193,Residential/Business,False
+2026-02-27 10:32:05,152.32.163.183,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-27 10:32:05,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-27 10:32:05,4.231.228.236,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-02-27 10:32:05,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-27 10:32:05,118.194.251.75,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-27 10:32:05,134.209.224.218,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 10:32:05,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-27 10:32:05,118.122.147.195,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-02-27 10:32:05,175.155.13.140,100,China,Chengdu,China Unicom Sichuan Province Network,,Residential/Business,False
+2026-02-27 10:32:05,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-27 10:32:05,45.43.37.254,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,True
+2026-02-27 10:32:05,218.252.13.174,100,Hong Kong,Chai Wan Kok,Hong Kong Cable Television Limited,Hong Kong Cable TV Ltd - Cable Multi-Media Services,Residential/Business,False
+2026-02-27 10:32:05,62.220.236.203,100,Finland,Pyhäsalmi,Fonet Internet,Tavitex Oy,Residential/Business,False
+2026-02-27 10:32:05,95.111.230.33,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-02-27 10:32:05,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-27 10:32:05,95.168.177.23,100,United Kingdom,Poplar,LEASEWEB,,Data Center,False
+2026-02-27 10:32:05,116.90.225.130,100,Nepal,Kathmandu,WEBSURFER,Websurfer Nepal Communication System Pvt. Ltd,Residential/Business,False
+2026-02-27 10:32:05,218.0.56.78,100,China,Hangzhou,China Telecom,,Residential/Business,False
+2026-02-27 10:32:05,121.224.5.228,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-27 10:32:05,125.94.106.195,100,China,Shanghai,Chinanet,Chinanet GD,Residential/Business,False
+2026-02-27 10:32:05,68.183.208.133,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 10:32:05,35.169.206.177,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-27 10:32:05,85.11.167.125,100,Bulgaria,Sofia,ColocaTel Inc.,Sofcompany,Residential/Business,False
+2026-02-27 10:32:05,103.151.140.79,100,Indonesia,South Jakarta,PT Indotechno Digital Komputasi,,Mobile,False
+2026-02-27 10:32:05,27.212.198.226,100,China,Zibo,China Unicom Shandong Province Network,,Residential/Business,False
+2026-02-27 10:32:05,45.156.87.52,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-02-27 10:32:05,125.91.106.241,100,China,Shenzhen,China Telecom,,Residential/Business,True
+2026-02-27 10:32:05,165.232.177.85,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 10:32:05,85.8.182.98,100,Hong Kong,Hong Kong,Bunny Communications,Bunny,Residential/Business,False
+2026-02-27 10:32:05,20.220.221.45,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-27 10:32:05,206.189.1.34,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 10:32:05,195.54.178.243,100,Georgia,Tbilisi,Serv.Ge Network,Serv.Ge Ltd,Residential/Business,True
+2026-02-27 10:32:05,128.14.231.154,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-27 10:32:05,103.163.215.10,100,Vietnam,Phú Lâm,Lanit Technology and Communication Joint Stock Company,Dong Hung PHU Company Limited,Residential/Business,False
+2026-02-27 10:32:05,100.49.117.77,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-02-27 10:32:05,143.198.128.231,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-27 10:32:05,48.217.84.135,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-27 10:32:05,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-27 10:32:05,218.245.99.219,100,China,Guangzhou,China Unicom Guangdong IP network,Huawei Cloud Service,Residential/Business,False
+2026-02-27 10:32:05,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-27 10:32:05,34.39.58.191,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-02-27 10:32:05,180.94.75.110,100,Afghanistan,Kabul,Government Communications Network,GCN/DCN Networks,Residential/Business,False
+2026-02-27 10:32:05,185.115.33.212,100,Netherlands,Amsterdam,3nt solutions LLP,3nt solutions LLP,Residential/Business,False
+2026-02-27 10:32:05,71.6.158.166,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-02-27 10:32:05,89.32.41.132,100,Romania,Sânnicolau Mare,Hostmaze Inc Srl-d,Hostmaze Inc Srl-d,Data Center,False
+2026-02-27 10:32:05,103.56.161.126,100,Vietnam,Ho Chi Minh City,INETSOFT,iNET software one member company limited,Residential/Business,True
+2026-02-27 10:32:05,91.240.140.9,100,Ukraine,Kyiv,"TOV ""BERLAYN""",All network,Residential/Business,False
+2026-02-27 10:32:05,45.156.129.57,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-27 10:32:05,94.231.206.105,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
