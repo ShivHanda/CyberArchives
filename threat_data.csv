@@ -29219,3 +29219,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-27 18:34:41,132.145.93.138,100,South Korea,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),Data Center,False
 2026-02-27 18:34:41,27.111.32.174,100,Indonesia,Jakarta,INET-ISP,,Mobile,False
 2026-02-27 18:34:41,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-27 20:22:23,219.78.107.148,100,Hong Kong,Fanling,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-02-27 20:22:23,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-27 20:22:23,40.115.138.121,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-27 20:22:23,36.65.95.211,100,Indonesia,Cilacap,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-02-27 20:22:23,5.161.58.217,100,United States,Ashburn,Hetzner Online GmbH,Hetzner Online GmbH,Residential/Business,False
+2026-02-27 20:22:23,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-27 20:22:23,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-02-27 20:22:23,195.184.76.118,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-27 20:22:23,4.205.9.11,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-27 20:22:23,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-27 20:22:23,85.215.60.246,100,Germany,Berlin,IONOS SE,Strato GmbH,Data Center,False
+2026-02-27 20:22:23,118.193.61.14,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-27 20:22:23,157.15.73.34,100,Indonesia,Trucuk,PT Indo Teknologi Konstruksi,PT Indo Teknologi Konstruksi,Residential/Business,False
+2026-02-27 20:22:23,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-27 20:22:23,4.236.159.231,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-27 20:22:23,152.32.169.42,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-27 20:22:23,139.59.157.104,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-02-27 20:22:23,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-27 20:22:23,85.217.140.17,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-02-27 20:22:23,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-27 20:22:23,142.93.120.13,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-27 20:22:23,57.128.237.234,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-02-27 20:22:23,156.227.236.72,100,Japan,Tokyo,Yisu Cloud Ltd,Yisu Cloud Ltd,Residential/Business,False
+2026-02-27 20:22:23,176.235.182.125,100,Türkiye,Gaziantep,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,Residential/Business,True
+2026-02-27 20:22:23,61.111.244.152,100,South Korea,Seoul,MOACK.Co.LTD,Sejong Networks,Residential/Business,False
+2026-02-27 20:22:23,192.34.128.202,100,United States,Burnsville,"Zito Media, L.P.","Country Cablevision, Inc.",Residential/Business,False
+2026-02-27 20:22:23,176.65.148.205,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-27 20:22:23,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-02-27 20:22:23,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-27 20:22:23,81.168.83.103,100,United Kingdom,Maidenhead,Eclipse Networking Ltd.,,Data Center,False
+2026-02-27 20:22:23,46.24.47.94,100,Spain,Madrid,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-02-27 20:22:23,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-27 20:22:23,93.177.117.98,100,Russia,Moscow,e-Style ISP LLC,Oner Investments Limited,Residential/Business,True
+2026-02-27 20:22:23,43.166.242.149,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-02-27 20:22:23,216.208.230.195,100,Canada,Siksika,Bell Canada,SiksikaTel Inc,Residential/Business,False
+2026-02-27 20:22:23,198.20.106.173,100,Netherlands,Amsterdam,SingleHop LLC,SingleHop BV,Data Center,False
+2026-02-27 20:22:23,45.148.10.192,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-27 20:22:23,195.250.20.75,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,False
+2026-02-27 20:22:23,121.228.250.70,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-02-27 20:22:23,85.206.171.113,100,Lithuania,Šiauliai,"Informacines sistemos ir technologijos, UAB",GuruPrasan Sahu,Data Center,False
+2026-02-27 20:22:23,4.184.246.230,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-02-27 20:22:23,82.165.11.208,100,France,Courbevoie,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
+2026-02-27 20:22:23,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-27 20:22:23,204.76.203.8,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-02-27 20:22:23,79.124.49.10,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
