@@ -29309,3 +29309,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-27 22:18:10,218.157.205.238,100,South Korea,Dalseo-gu,Korea Telecom,,Residential/Business,False
 2026-02-27 22:18:10,185.208.159.64,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
 2026-02-27 22:18:10,80.94.92.187,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-28 01:22:49,41.58.186.130,100,Nigeria,Lagos,Swift Networks Limited,,Residential/Business,False
+2026-02-28 01:22:49,2001:41d0:33a:a00::40d,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-02-28 01:22:49,122.187.226.21,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-02-28 01:22:49,185.213.165.211,100,Iran,Tehran,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin Co Ltd,Data Center,False
+2026-02-28 01:22:49,45.156.129.85,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-28 01:22:49,182.73.164.228,100,India,Mumbai,Bharti Airtel,Kalinga Media & Entertainment Pvt. Ltd.,Mobile,False
+2026-02-28 01:22:49,75.80.65.214,100,United States,Kahului,Spectrum,"Road Runner, VoIP Residential",Residential/Business,False
+2026-02-28 01:22:49,165.154.43.179,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-28 01:22:49,190.223.60.209,100,Peru,Tacna,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-02-28 01:22:49,20.48.26.117,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-02-28 01:22:49,101.47.160.172,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-02-28 01:22:49,130.12.180.52,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-02-28 01:22:49,177.10.201.11,100,Brazil,Campina Grande,ISPTEC Sistemas de Comunicação Eireli,ISPTEC Sistemas de Comunicação Eireli,Residential/Business,False
+2026-02-28 01:22:49,128.199.221.212,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-02-28 01:22:49,159.65.119.52,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-28 01:22:49,185.93.89.97,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-28 01:22:49,85.133.206.131,100,Iran,Zarrīn Shahr,Atrin Information & Communications Technology Company PJS,Sepehr Sabz,Residential/Business,False
+2026-02-28 01:22:49,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-28 01:22:49,178.62.197.103,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-02-28 01:22:49,27.254.144.183,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,,Residential/Business,False
+2026-02-28 01:22:49,103.172.205.103,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-02-28 01:22:49,103.186.1.59,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-02-28 01:22:49,146.88.241.94,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-02-28 01:22:49,190.8.173.244,100,Brazil,São Paulo,SpedyNet Telecom,SpedyNet Telecom,Residential/Business,False
+2026-02-28 01:22:49,65.49.1.208,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-28 01:22:49,20.121.139.67,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-28 01:22:49,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-02-28 01:22:49,192.227.217.238,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-02-28 01:22:49,45.156.129.87,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-28 01:22:49,45.156.129.88,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-02-28 01:22:49,46.238.40.52,100,Bulgaria,Sofia,A1 BG,Megalan Network Ltd.,Residential/Business,False
+2026-02-28 01:22:49,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-28 01:22:49,135.237.126.154,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-28 01:22:49,213.176.16.229,100,Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-02-28 01:22:49,45.148.10.192,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-28 01:22:49,45.156.128.104,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-02-28 01:22:49,123.58.196.49,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-02-28 01:22:49,135.237.126.217,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-28 01:22:49,139.162.173.209,100,Germany,Frankfurt am Main,"Akamai Technologies, Inc.","Linode, LLC",Data Center,True
+2026-02-28 01:22:49,91.196.152.181,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-28 01:22:49,154.221.17.42,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Residential/Business,False
+2026-02-28 01:22:49,103.52.115.198,100,Indonesia,Cicurug,PT. Cloud Hosting Indonesia,,Data Center,False
+2026-02-28 01:22:49,150.95.112.35,100,Vietnam,Hanoi,GMO-Z.com Runsystem Joint Stock Company,GMO-Z.com Runsystem Joint Stock Company,Data Center,False
+2026-02-28 01:22:49,195.221.56.3,100,France,Mazé,Renater,Comue Grenoble Alpes,Residential/Business,False
+2026-02-28 01:22:49,202.184.159.103,100,Malaysia,Cyberjaya,TT DOTCOM SDN BHD,TT DOTCOM SDN BHD,Residential/Business,False
+2026-02-28 01:22:49,103.187.147.128,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-28 01:22:49,20.220.232.240,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-02-28 01:22:49,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
+2026-02-28 01:22:49,216.226.80.143,100,United States,Coon Valley,Midwest Telnet,Coon Valley-Farmers Telephone Company,Residential/Business,False
+2026-02-28 01:22:49,209.23.72.149,100,United States,Lac du Flambeau,"8th Fire Communications, LLC","8th Fire Communications, LLC",Residential/Business,False
