@@ -29359,3 +29359,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-28 01:22:49,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
 2026-02-28 01:22:49,216.226.80.143,100,United States,Coon Valley,Midwest Telnet,Coon Valley-Farmers Telephone Company,Residential/Business,False
 2026-02-28 01:22:49,209.23.72.149,100,United States,Lac du Flambeau,"8th Fire Communications, LLC","8th Fire Communications, LLC",Residential/Business,False
+2026-02-28 03:50:01,20.65.216.44,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-28 03:50:01,130.12.181.192,100,Germany,Frankfurt am Main,Netiface LLC,Netiface LLC,Residential/Business,False
+2026-02-28 03:50:01,89.78.50.146,100,Poland,Piastów,UPC.pl,UPC Polska Sp. z o.o.,Residential/Business,False
+2026-02-28 03:50:01,139.19.117.129,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,False
+2026-02-28 03:50:01,92.118.39.83,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-28 03:50:01,85.206.171.113,100,Lithuania,Šiauliai,"Informacines sistemos ir technologijos, UAB",GuruPrasan Sahu,Data Center,False
+2026-02-28 03:50:01,197.248.34.233,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-02-28 03:50:01,64.62.156.158,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-28 03:50:01,128.14.225.164,100,Germany,Frankfurt Am Main,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-28 03:50:01,67.2.163.33,100,United States,Salt Lake City,"CenturyLink Communications, LLC","CenturyLink Communications, LLC",Residential/Business,False
+2026-02-28 03:50:01,196.191.142.67,100,Ethiopia,Awasa,Ethiotelecom,,Residential/Business,False
+2026-02-28 03:50:01,23.229.6.242,100,United States,Buffalo,B2 Net Solutions Inc.,ServerMania Inc,Data Center,True
+2026-02-28 03:50:01,185.93.89.104,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-28 03:50:01,4.194.4.255,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-02-28 03:50:01,176.65.148.96,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-02-28 03:50:01,182.75.119.58,100,India,Gurugram,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-02-28 03:50:01,185.93.89.29,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-28 03:50:01,152.32.134.231,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-02-28 03:50:01,185.208.159.109,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-28 03:50:01,103.187.147.128,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-02-28 03:50:01,77.90.185.40,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-28 03:50:01,5.231.47.149,100,Germany,Frankfurt am Main,Jesse Roehsler,CubeHosting,Residential/Business,False
+2026-02-28 03:50:01,82.66.190.50,100,France,Marigny,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-02-28 03:50:01,92.27.157.252,100,United Kingdom,Congleton,TalkTalk,TalkTalk Communications Limited,Residential/Business,False
+2026-02-28 03:50:01,152.32.128.204,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-02-28 03:50:01,210.79.190.151,100,Indonesia,Cicurug,PT KEBUN NARA SANTOSA,,Data Center,False
+2026-02-28 03:50:01,207.102.232.127,100,Canada,Vancouver,TELUS Communications Inc,TELUS-FIBRE-LNGLBC01,Residential/Business,False
+2026-02-28 03:50:01,87.106.146.152,100,Germany,Berlin,IONOS SE,More A0709,Data Center,False
+2026-02-28 03:50:01,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-02-28 03:50:01,182.95.189.66,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-02-28 03:50:01,91.231.89.86,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-02-28 03:50:01,172.94.9.61,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-02-28 03:50:01,140.245.85.101,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-02-28 03:50:01,136.111.158.65,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-28 03:50:01,74.82.47.18,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-02-28 03:50:01,151.245.32.9,100,United States,Miami,ReliableSite.Net LLC,Private Customer,Mobile,False
+2026-02-28 03:50:01,121.141.219.98,100,South Korea,Guro-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-02-28 03:50:01,171.231.196.184,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-02-28 03:50:01,40.80.206.215,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-02-28 03:50:01,136.112.190.22,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-02-28 03:50:01,154.91.81.176,100,Singapore,Singapore,Tcloudnet,"Tcloudnet, Inc",Residential/Business,False
+2026-02-28 03:50:01,81.71.96.41,100,China,Guangzhou,EuroNet Internet,Euronet Communications B.V.,Residential/Business,False
+2026-02-28 03:50:01,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-28 03:50:01,89.248.163.181,100,The Netherlands,Amsterdam,IP Volume inc,Quasi Networks LTD,Residential/Business,False
+2026-02-28 03:50:01,185.93.89.46,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-28 03:50:01,177.174.122.239,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-02-28 03:50:01,80.94.92.71,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-02-28 03:50:01,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-02-28 03:50:01,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Mobile,False
+2026-02-28 03:50:01,20.123.146.93,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
