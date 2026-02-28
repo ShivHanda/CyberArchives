@@ -29549,3 +29549,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-02-28 08:22:32,47.236.26.203,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
 2026-02-28 08:22:32,93.123.109.38,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
 2026-02-28 08:22:32,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-28 10:18:27,172.172.196.177,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-02-28 10:18:27,211.213.96.171,100,South Korea,Bupyeong-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-02-28 10:18:27,45.149.173.193,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-02-28 10:18:27,114.98.63.18,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-02-28 10:18:27,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-02-28 10:18:27,49.248.75.174,100,India,Pimpri-Chinchwad,Tata Teleservices (Maharashtra) Limited,Tata Teleservices (Maharashtra) Ltd,Residential/Business,False
+2026-02-28 10:18:27,154.222.24.142,100,Hong Kong,Hong Kong,Ipbuysell LLC,,Residential/Business,False
+2026-02-28 10:18:27,185.93.89.46,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-02-28 10:18:27,198.12.71.224,100,United States,Dallas,HostPapa,RackNerd LLC,Data Center,True
+2026-02-28 10:18:27,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-02-28 10:18:27,24.232.50.5,100,Argentina,Azul,Fibertel,Cablevision S.A,Residential/Business,False
+2026-02-28 10:18:27,212.11.64.75,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-02-28 10:18:27,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-02-28 10:18:27,23.23.214.190,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-02-28 10:18:27,99.92.204.98,100,United States,Dallas,"AT&T Enterprises, LLC",Private Customer - AT&T Internet Services,Residential/Business,False
+2026-02-28 10:18:27,92.118.39.63,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-02-28 10:18:27,36.50.63.131,100,Vietnam,Cầu Giấy,AS,44+ Technology Company Limited,Residential/Business,False
+2026-02-28 10:18:27,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-02-28 10:18:27,92.205.57.72,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-02-28 10:18:27,213.145.94.73,100,Türkiye,Bursa,CAGRI DEMIR trading as VOXNET,VoxNet Bilisim Teknolojileri,Residential/Business,False
+2026-02-28 10:18:27,185.156.73.182,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-02-28 10:18:27,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-02-28 10:18:27,210.104.95.169,100,South Korea,Yecheon-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-02-28 10:18:27,34.93.103.231,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-02-28 10:18:27,1.62.252.20,100,China,Harbin,China Unicom Heilongjiang Province Network,,Residential/Business,False
+2026-02-28 10:18:27,77.90.185.61,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-02-28 10:18:27,201.6.100.191,100,Brazil,São Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-02-28 10:18:27,93.152.207.164,100,Finland,Helsinki,Global Connectivity Solutions LLP,OY Creanova Hosting Solutions LTD,Residential/Business,True
+2026-02-28 10:18:27,92.48.104.7,100,United Kingdom,London,Team Blue Carrier Limited,AS29550 infra,Data Center,False
+2026-02-28 10:18:27,92.31.0.191,100,United Kingdom,Dewsbury,TalkTalk,Carphone Warehouse Broadband Services,Residential/Business,False
+2026-02-28 10:18:27,91.240.140.9,100,Ukraine,Kyiv,"TOV ""BERLAYN""",All network,Residential/Business,False
+2026-02-28 10:18:27,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-28 10:18:27,159.89.121.21,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-02-28 10:18:27,193.163.125.205,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-02-28 10:18:27,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-28 10:18:27,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-02-28 10:18:27,172.237.150.22,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-02-28 10:18:27,14.103.99.176,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-02-28 10:18:27,128.14.233.253,100,Indonesia,Jakarta,Zenlayer Inc,UCLOUD,Data Center,False
+2026-02-28 10:18:27,43.159.35.176,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Aceville Pte.ltd,Data Center,False
+2026-02-28 10:18:27,118.45.205.42,100,South Korea,Gumi,Korea Telecom,,Residential/Business,False
+2026-02-28 10:18:27,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-28 10:18:27,143.110.137.94,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-02-28 10:18:27,27.199.220.116,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-02-28 10:18:27,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-28 10:18:27,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-28 10:18:27,91.224.92.78,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-02-28 10:18:27,5.175.42.248,100,Spain,Madrid,"AXARNET COMUNICACIONES, S.L.","AXARNET COMUNICACIONES, S.L",Data Center,False
+2026-02-28 10:18:27,136.233.197.165,100,India,Pune,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-02-28 10:18:27,185.208.159.109,100,United States,Houston,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
