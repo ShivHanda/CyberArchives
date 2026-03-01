@@ -30059,3 +30059,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-01 08:24:44,103.186.0.68,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
 2026-03-01 08:24:44,137.184.193.73,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-03-01 08:24:44,128.1.131.163,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-03-01 10:20:03,103.56.30.33,100,India,Warangal,Balaji Online,,Residential/Business,False
+2026-03-01 10:20:03,167.99.7.199,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-03-01 10:20:03,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-01 10:20:03,80.94.92.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 10:20:03,170.64.158.87,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,68.183.94.97,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,129.212.184.209,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,61.0.238.17,100,India,Mysuru,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-03-01 10:20:03,101.36.117.15,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-01 10:20:03,177.19.145.25,100,Brazil,Fortaleza,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-03-01 10:20:03,45.143.203.239,100,Russia,Kemerovo,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,False
+2026-03-01 10:20:03,45.64.74.51,100,Hong Kong,San Po Kong,Hosted in Cloudie Limited,Dingke human resource co.LTD,Data Center,False
+2026-03-01 10:20:03,193.32.162.82,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 10:20:03,199.195.254.215,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-01 10:20:03,209.141.33.240,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-01 10:20:03,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-01 10:20:03,70.66.77.216,100,Canada,Victoria,Shaw Communications,Shaw Communications Inc.,Residential/Business,False
+2026-03-01 10:20:03,128.1.126.26,100,Vietnam,Ho Chi Minh City,Zenlayer Inc,ZENLA,Data Center,False
+2026-03-01 10:20:03,187.76.245.170,100,Brazil,São José do Rio Preto,V tal,V tal,Residential/Business,False
+2026-03-01 10:20:03,146.88.241.54,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-03-01 10:20:03,172.94.9.128,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-03-01 10:20:03,213.209.159.159,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-03-01 10:20:03,210.79.142.221,100,Indonesia,Pulerejo,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-03-01 10:20:03,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-01 10:20:03,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-01 10:20:03,103.72.147.99,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-03-01 10:20:03,57.134.214.95,100,Canada,Ridgetown,Cogeco Connexion Inc.,Cogeco Connexion Inc,Residential/Business,False
+2026-03-01 10:20:03,78.128.114.26,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-03-01 10:20:03,77.83.39.239,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-03-01 10:20:03,159.89.55.225,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,143.198.193.183,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,159.223.217.28,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,220.132.157.252,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-03-01 10:20:03,121.159.71.249,100,South Korea,Seosan City,Korea Telecom,Kornet,Residential/Business,False
+2026-03-01 10:20:03,43.165.3.187,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-03-01 10:20:03,47.104.195.99,100,China,Qingdao,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-03-01 10:20:03,74.243.239.219,100,United Arab Emirates,Dubai,AT&T Corp.,Microsoft Azure Cloud (uaenorth),Data Center,False
+2026-03-01 10:20:03,128.14.229.76,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-03-01 10:20:03,134.199.194.127,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,106.246.224.82,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-03-01 10:20:03,129.212.188.196,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,157.245.190.78,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 10:20:03,103.189.82.50,100,India,Lucknow,MY ANB CART LLP,MY ANB Cart LLP,Residential/Business,False
+2026-03-01 10:20:03,162.241.149.132,100,United States,Los Angeles,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-03-01 10:20:03,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
