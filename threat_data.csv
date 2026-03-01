@@ -29964,3 +29964,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-01 04:18:38,45.182.5.98,100,Brazil,Campos dos Goytacazes,Inova Guarus Telecom Ltda,Inova Guarus Telecom Ltda,Residential/Business,False
 2026-03-01 04:18:38,61.220.127.240,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-03-01 04:18:38,193.24.211.93,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-03-01 06:39:00,195.3.221.86,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,True
+2026-03-01 06:39:00,195.184.76.166,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-01 06:39:00,111.17.199.57,100,China,Zibo,China Mobile communications corporation,China Mobile,Mobile,False
+2026-03-01 06:39:00,20.193.141.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-03-01 06:39:00,170.64.181.58,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,139.59.85.227,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,True
+2026-03-01 06:39:00,170.64.145.117,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,185.216.116.13,100,Hong Kong,Morrison Hill,ZANYUN,,Residential/Business,False
+2026-03-01 06:39:00,45.142.193.7,100,United Kingdom,London,Skynet Network LTD,Limited Network LTD,Residential/Business,True
+2026-03-01 06:39:00,109.228.18.139,100,United Kingdom,London,IONOS SE,IONOS SE,Data Center,False
+2026-03-01 06:39:00,213.135.168.228,100,North Macedonia,Prilep,KDS KabelNet,,Residential/Business,False
+2026-03-01 06:39:00,2.49.145.148,100,United Arab Emirates,Dubai,Emirates Telecommunications Corporation,Etisalat,Residential/Business,False
+2026-03-01 06:39:00,72.10.32.138,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-03-01 06:39:00,143.110.177.151,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,117.211.15.93,100,India,Jaipur,BSNL Internet,,Residential/Business,False
+2026-03-01 06:39:00,161.132.51.203,100,Peru,Arequipa,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-03-01 06:39:00,185.93.89.27,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-03-01 06:39:00,209.141.62.124,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-01 06:39:00,20.92.234.66,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-03-01 06:39:00,134.122.45.119,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,172.173.117.246,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-03-01 06:39:00,199.250.213.137,100,United States,Los Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc",Data Center,False
+2026-03-01 06:39:00,68.183.83.68,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,49.207.245.112,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-03-01 06:39:00,45.148.10.152,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-01 06:39:00,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-01 06:39:00,221.151.181.65,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-03-01 06:39:00,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Residential/Business,True
+2026-03-01 06:39:00,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-01 06:39:00,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Mobile,False
+2026-03-01 06:39:00,152.32.156.138,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-01 06:39:00,152.70.252.57,100,South Korea,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),Data Center,False
+2026-03-01 06:39:00,20.53.240.38,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-03-01 06:39:00,198.96.94.26,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-03-01 06:39:00,64.227.139.254,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,159.89.102.11,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,157.245.251.231,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,147.45.112.144,100,Vanuatu,Port Vila,Alviva Holding Limited,Alviva Holding Limited,Residential/Business,False
+2026-03-01 06:39:00,103.31.39.23,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,True
+2026-03-01 06:39:00,103.67.78.251,100,Indonesia,Cileunyi,PT Cloud Hosting Indonesia,PT Fazza Multi Transportasi,Data Center,False
+2026-03-01 06:39:00,103.63.108.25,100,Vietnam,Haiphong,Hai Phong Brand - CMC Telecommunication Infrastructure Corporation,CMCHAIPHONG,Residential/Business,True
+2026-03-01 06:39:00,198.58.122.76,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-01 06:39:00,170.64.221.36,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 06:39:00,103.59.95.38,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-03-01 06:39:00,46.101.44.35,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
