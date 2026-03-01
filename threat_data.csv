@@ -30199,3 +30199,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-01 14:20:04,43.165.3.187,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
 2026-03-01 14:20:04,79.124.58.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
 2026-03-01 14:20:04,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-01 16:21:20,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 16:21:20,103.217.144.113,100,Indonesia,Cicurug,PT. GUNA BAHAN INTI,,Data Center,False
+2026-03-01 16:21:20,80.94.95.116,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-01 16:21:20,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-01 16:21:20,45.61.185.209,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-01 16:21:20,155.212.208.148,100,Russia,St Petersburg,Beget LLC,Beget LLC,Data Center,False
+2026-03-01 16:21:20,173.212.238.152,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-03-01 16:21:20,152.32.234.186,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-03-01 16:21:20,36.110.172.218,100,China,Beijing,"IDC, China Telecommunications Corporation",Chinanet BJ,Residential/Business,False
+2026-03-01 16:21:20,207.90.244.4,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-03-01 16:21:20,144.31.68.153,100,Germany,Frankfurt am Main,u1host ltd,u1host ltd,Residential/Business,False
+2026-03-01 16:21:20,134.199.162.11,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,139.59.79.174,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,164.92.162.144,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,189.113.38.56,100,Brazil,Campinas,IP AMERICA TELECOM LTDA,Net Turbo Telecom,Residential/Business,False
+2026-03-01 16:21:20,158.94.210.190,100,Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-03-01 16:21:20,80.94.92.165,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 16:21:20,83.149.29.222,100,Russia,Rostov-on-Don,MegaFon,,Mobile,False
+2026-03-01 16:21:20,142.93.100.132,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,91.151.178.74,100,Russia,St Petersburg,ROKSON-NW,VEROLINE Ltd,Data Center,True
+2026-03-01 16:21:20,49.204.74.149,100,India,Bengaluru,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-03-01 16:21:20,165.154.254.11,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-03-01 16:21:20,159.65.145.239,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,44.212.106.171,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-03-01 16:21:20,165.227.141.52,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,164.92.248.126,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,142.248.80.187,100,United States,Wilmington,Advin Services LLC,Ambyre LLC,Residential/Business,False
+2026-03-01 16:21:20,165.22.170.201,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-01 16:21:20,199.21.149.124,100,Canada,Toronto,Netminders Server Hosting,Netminders Server Hosting,Residential/Business,False
+2026-03-01 16:21:20,20.89.58.13,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-03-01 16:21:20,134.209.92.145,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,192.253.248.14,100,Singapore,Singapore,Secure Internet LLC,Internet Security - US OH,Residential/Business,True
+2026-03-01 16:21:20,92.118.39.72,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-01 16:21:20,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-03-01 16:21:20,192.227.153.38,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-03-01 16:21:20,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-03-01 16:21:20,139.59.169.42,100,United Kingdom,Slough,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,20.111.28.66,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-03-01 16:21:20,159.138.103.177,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
+2026-03-01 16:21:20,167.172.191.69,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 16:21:20,167.71.142.168,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-01 16:21:20,156.225.18.240,100,Hong Kong,Hong Kong,Vapeline Technology,,Residential/Business,False
+2026-03-01 16:21:20,135.233.112.103,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-03-01 16:21:20,121.202.146.144,100,Hong Kong,North Point,Smartone Mobile communications Limited,Smartone Mobile communications Limited,Mobile,False
+2026-03-01 16:21:20,81.68.179.56,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
