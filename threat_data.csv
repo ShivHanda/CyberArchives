@@ -30244,3 +30244,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-01 16:21:20,135.233.112.103,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
 2026-03-01 16:21:20,121.202.146.144,100,Hong Kong,North Point,Smartone Mobile communications Limited,Smartone Mobile communications Limited,Mobile,False
 2026-03-01 16:21:20,81.68.179.56,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-03-01 18:26:17,185.242.226.22,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-03-01 18:26:17,45.225.128.174,100,Brazil,Londrina,Altatech Soluções em Tecnologia EIRELI,Altatech Soluções em Tecnologia EIRELI,Residential/Business,False
+2026-03-01 18:26:17,80.94.92.68,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-01 18:26:17,104.255.152.18,100,Canada,Toronto,Netminders Server Hosting,Netminders Server Hosting,Residential/Business,False
+2026-03-01 18:26:17,193.29.13.164,100,Romania,Timișoara,Bunea TELECOM SRL,Bunea TELECOM SRL,Residential/Business,False
+2026-03-01 18:26:17,171.243.151.126,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-03-01 18:26:17,167.99.241.21,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,178.217.173.50,100,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,KRENA Project,Residential/Business,False
+2026-03-01 18:26:17,101.36.98.91,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-03-01 18:26:17,157.97.107.143,100,Germany,Frankfurt am Main,IONOS SE,IONOS SE,Data Center,False
+2026-03-01 18:26:17,159.223.212.2,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-01 18:26:17,82.223.50.157,100,Spain,Madrid,arsys.es,,Data Center,False
+2026-03-01 18:26:17,200.77.172.159,100,Mexico,Cuauhtémoc,"Cablevisión, S.A. de C.V.","Cablevisión, S.A. de C.V",Residential/Business,False
+2026-03-01 18:26:17,35.237.94.18,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-03-01 18:26:17,146.190.237.1,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,156.236.75.64,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
+2026-03-01 18:26:17,174.138.1.0,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-01 18:26:17,182.254.176.101,100,China,Guangzhou,Tencent Cloud Computing,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-03-01 18:26:17,52.190.140.107,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-03-01 18:26:17,64.227.169.233,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,89.126.209.84,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-03-01 18:26:17,104.28.233.73,100,United States,San Jose,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-03-01 18:26:17,182.95.223.46,100,India,Gurugram,Genpact India 4th Floor,Genpact India Private Limited,Mobile,False
+2026-03-01 18:26:17,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-03-01 18:26:17,20.104.206.150,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-03-01 18:26:17,221.145.22.71,100,South Korea,Dobong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-03-01 18:26:17,114.207.246.197,100,South Korea,Dong-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-03-01 18:26:17,212.233.136.201,100,Bulgaria,Lovech,internet pools,,Residential/Business,True
+2026-03-01 18:26:17,143.244.141.170,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,107.170.72.197,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-01 18:26:17,139.59.171.175,100,United Kingdom,Slough,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,168.76.20.229,100,South Africa,Bloemfontein,Freenet,Free State Education Department,Residential/Business,False
+2026-03-01 18:26:17,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 18:26:17,80.94.92.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-01 18:26:17,117.6.44.221,100,Vietnam,Hanoi,VIETTEL,,Residential/Business,False
+2026-03-01 18:26:17,83.136.176.12,100,Spain,Espot,Wicat,"GUARICO CONSTRUMAT, S.L",Residential/Business,False
+2026-03-01 18:26:17,88.147.30.59,100,Italy,Torano,NGI,NGI SpA,Residential/Business,False
+2026-03-01 18:26:17,183.66.149.42,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-03-01 18:26:17,52.169.148.186,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-03-01 18:26:17,176.96.241.162,100,Uzbekistan,Tashkent,AIRNET llc,AIRNET llc,Residential/Business,False
+2026-03-01 18:26:17,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-03-01 18:26:17,92.118.39.63,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-03-01 18:26:17,107.170.4.188,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-01 18:26:17,139.59.1.143,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-03-01 18:26:17,69.49.112.70,100,Canada,Waterloo,Internet Names Business Inc.,Internet Names Business Inc.,Data Center,False
+2026-03-01 18:26:17,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-03-01 18:26:17,103.134.154.55,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-03-01 18:26:17,223.123.43.70,100,Pakistan,Dipalpur,CMPak Limited,CMPak Limited,Residential/Business,True
+2026-03-01 18:26:17,61.111.244.152,100,South Korea,Seoul,MOACK.Co.LTD,Sejong Networks,Residential/Business,False
