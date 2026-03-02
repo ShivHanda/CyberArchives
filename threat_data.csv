@@ -30774,3 +30774,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-02 16:38:12,81.30.162.19,100,Ukraine,Vinnytsia,Vinteleport DIal-Up,This is a Vinteleport company,Residential/Business,False
 2026-03-02 16:38:12,197.227.8.186,100,Mauritius,Mapou,telecomplus,,Residential/Business,False
 2026-03-02 16:38:12,170.64.146.0,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-02 18:38:47,122.179.134.120,100,India,Mumbai,Bharti Airtel,Bharti Airtel Ltd.,Residential/Business,False
+2026-03-02 18:38:47,152.32.140.39,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-03-02 18:38:47,20.239.137.159,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-03-02 18:38:47,194.107.115.2,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-02 18:38:47,101.47.142.43,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,True
+2026-03-02 18:38:47,80.94.95.226,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-02 18:38:47,101.47.49.133,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-03-02 18:38:47,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-02 18:38:47,20.111.28.66,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-03-02 18:38:47,82.115.17.167,100,Germany,Frankfurt am Main,BitCommand LLC,BitCommand LLC,Residential/Business,False
+2026-03-02 18:38:47,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-02 18:38:47,122.172.241.239,100,India,Kolkata,Bharti Airtel,Bharti Airtel Ltd.,Residential/Business,False
+2026-03-02 18:38:47,51.178.41.153,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-03-02 18:38:47,116.53.130.4,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-03-02 18:38:47,211.180.105.241,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-03-02 18:38:47,45.154.98.71,100,Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-03-02 18:38:47,2.55.70.26,100,Israel,Er Reina,Partner Communications,,Mobile,False
+2026-03-02 18:38:47,191.96.11.36,100,Netherlands,Amsterdam,Wojciech Czapkowicz,Chunkserve Mateusz Peplinski,Residential/Business,False
+2026-03-02 18:38:47,64.227.102.57,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 18:38:47,186.215.245.175,100,Brazil,Salvador,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-03-02 18:38:47,209.38.89.108,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 18:38:47,103.200.25.162,100,Vietnam,Nguyễn Du,MAXDATA,,Data Center,False
+2026-03-02 18:38:47,179.43.186.208,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-03-02 18:38:47,51.38.98.14,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-03-02 18:38:47,185.172.56.20,100,Netherlands,Amsterdam,Serverius Holding B.V.,SecureAttack,Data Center,False
+2026-03-02 18:38:47,45.144.212.237,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
+2026-03-02 18:38:47,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-02 18:38:47,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-02 18:38:47,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-03-02 18:38:47,190.153.249.99,100,Chile,Santiago,Gtd Internet S.A.,Manquehuenet,Residential/Business,False
+2026-03-02 18:38:47,23.95.236.27,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-03-02 18:38:47,170.187.158.163,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-02 18:38:47,103.170.40.41,100,India,Jagtiāl,SVN GIGAFIBER PRIVATE LIMITED,SVN Gigafiber Private Limited,Residential/Business,False
+2026-03-02 18:38:47,5.141.86.30,100,Russia,Yekaterinburg,Rostelecom networks,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-03-02 18:38:47,190.108.60.10,100,Argentina,Eduardo Castex,Aguas Del Colorado Sapem,Eduardo Meneguzzi,Residential/Business,False
+2026-03-02 18:38:47,128.1.132.137,100,Hong Kong,Hong Kong,Zenlayer Inc,UCLOUD,Data Center,False
+2026-03-02 18:38:47,177.94.206.38,100,Brazil,Indaiatuba,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-03-02 18:38:47,91.230.168.237,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-02 18:38:47,152.32.197.12,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-02 18:38:47,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-02 18:38:47,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-02 18:38:47,186.233.118.22,100,Brazil,Rio de Janeiro,Golden Link,Golden Link,Mobile,False
+2026-03-02 18:38:47,103.166.58.251,100,Bangladesh,Jessore,Romance Cable Network,Ekramul Fahad,Residential/Business,False
+2026-03-02 18:38:47,157.230.13.137,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 18:38:47,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-03-02 18:38:47,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-03-02 18:38:47,49.158.209.91,100,Taiwan,Hualien City,UBBNET,"TFN Media Co., Ltd.",Residential/Business,False
+2026-03-02 18:38:47,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-02 18:38:47,173.255.226.239,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-02 18:38:47,185.93.89.45,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
