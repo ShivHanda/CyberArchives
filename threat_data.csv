@@ -30724,3 +30724,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-02 14:39:38,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
 2026-03-02 14:39:38,209.38.23.245,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-03-02 14:39:38,20.89.52.173,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-03-02 16:38:12,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-03-02 16:38:12,178.16.53.170,100,Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,True
+2026-03-02 16:38:12,180.168.24.186,100,China,Beijing,China Telecom (Group),Financial Life Insurance Company,Residential/Business,False
+2026-03-02 16:38:12,223.123.43.7,100,Pakistan,Dipalpur,CMPak Limited,CMPak Limited,Residential/Business,True
+2026-03-02 16:38:12,197.251.195.80,100,Ghana,Accra,Vodafone Ghana,Ghana Telecommunications Company Limited,Residential/Business,False
+2026-03-02 16:38:12,79.174.63.10,100,Russia,Odintsovo,"JSC ""Ufanet""","JSC ""Ufanet""",Residential/Business,False
+2026-03-02 16:38:12,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-02 16:38:12,36.111.32.233,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet ZJ,Residential/Business,False
+2026-03-02 16:38:12,108.181.4.175,100,United States,Los Angeles,Psychz Networks,TELUS Communications Inc.,Data Center,False
+2026-03-02 16:38:12,118.193.33.228,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-02 16:38:12,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-02 16:38:12,151.252.84.225,100,Russia,Surgut,Tele-plus LLC,Tele-plus LLC,Residential/Business,False
+2026-03-02 16:38:12,80.94.92.63,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-02 16:38:12,103.20.223.11,100,Hong Kong,Kowloon Bay,Hong Kong Business Telecom Limited,,Data Center,False
+2026-03-02 16:38:12,4.193.177.110,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-03-02 16:38:12,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-02 16:38:12,125.124.178.223,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-03-02 16:38:12,161.132.180.118,100,Peru,Lima,Fibertel Peru S.A.,Red Cientifica Peruana,Residential/Business,False
+2026-03-02 16:38:12,35.231.94.127,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-03-02 16:38:12,171.231.192.99,100,Vietnam,Cẩm Lệ,Viettel Corporation,VIETEL,Residential/Business,False
+2026-03-02 16:38:12,45.156.87.50,100,Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),VMHeaven.io,Residential/Business,False
+2026-03-02 16:38:12,47.109.53.53,100,China,Chengdu,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-03-02 16:38:12,190.153.249.99,100,Chile,Santiago,Gtd Internet S.A.,Manquehuenet,Residential/Business,False
+2026-03-02 16:38:12,103.193.178.214,100,Indonesia,Cicurug,PT. NARA CAKRA STUDIO,,Data Center,False
+2026-03-02 16:38:12,20.240.42.45,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-03-02 16:38:12,80.94.92.186,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-02 16:38:12,190.124.153.17,100,Argentina,San Luis,Merco Comunicaciones,Merco Comunicaciones,Residential/Business,True
+2026-03-02 16:38:12,135.237.122.82,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-02 16:38:12,162.241.149.132,100,United States,Los Angeles,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-03-02 16:38:12,45.94.31.166,100,Netherlands,Amsterdam,1337 Services GmbH,,Residential/Business,True
+2026-03-02 16:38:12,20.65.194.103,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-03-02 16:38:12,157.245.190.56,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 16:38:12,138.68.138.69,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 16:38:12,45.6.51.97,100,Spain,Alcobendas,"acens Technologies, S.L",acens,Data Center,False
+2026-03-02 16:38:12,120.92.124.49,100,China,Beijing,Beijing Kingsoft Cloud Internet Technology Co,"Beijing Kingsoft Cloud Internet Technology Co., Ltd.",Residential/Business,False
+2026-03-02 16:38:12,20.100.184.89,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-03-02 16:38:12,162.243.164.179,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-02 16:38:12,201.71.192.108,100,Brazil,Joviânia,Conectte Telecom Ltda,Conectte Telecom Ltda,Residential/Business,False
+2026-03-02 16:38:12,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-02 16:38:12,4.204.216.236,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-03-02 16:38:12,185.200.116.43,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-03-02 16:38:12,203.137.116.112,100,Japan,Osaka,IDC Frontier Inc.,IDCFNet,Data Center,False
+2026-03-02 16:38:12,108.181.23.81,100,United States,Los Angeles,Psychz Networks,TELUS Communications Inc.,Data Center,False
+2026-03-02 16:38:12,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-02 16:38:12,157.20.254.47,100,Indonesia,Mojokerto,PT Awan Data Indonesia,PT Oke Jalan Saja,Residential/Business,False
+2026-03-02 16:38:12,106.12.29.184,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-03-02 16:38:12,47.77.231.206,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-03-02 16:38:12,81.30.162.19,100,Ukraine,Vinnytsia,Vinteleport DIal-Up,This is a Vinteleport company,Residential/Business,False
+2026-03-02 16:38:12,197.227.8.186,100,Mauritius,Mapou,telecomplus,,Residential/Business,False
+2026-03-02 16:38:12,170.64.146.0,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
