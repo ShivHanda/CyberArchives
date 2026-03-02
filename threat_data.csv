@@ -30824,3 +30824,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-02 18:38:47,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
 2026-03-02 18:38:47,173.255.226.239,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-03-02 18:38:47,185.93.89.45,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-03-02 20:31:05,185.194.178.23,100,France,Strasbourg,velia.net Internetdienste GmbH,Rackmarkt SL,Mobile,True
+2026-03-02 20:31:05,202.57.27.185,100,Indonesia,Banyuwangi,WANET,,Residential/Business,False
+2026-03-02 20:31:05,188.134.67.23,100,Russia,St Petersburg,Interzet,,Residential/Business,False
+2026-03-02 20:31:05,109.105.210.72,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-03-02 20:31:05,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-02 20:31:05,188.138.28.149,100,France,Strasbourg,BSB-Service,,Data Center,False
+2026-03-02 20:31:05,188.149.221.46,100,Sweden,Stockholm,Tele2 Sverige AB,Tele2 AB,Residential/Business,False
+2026-03-02 20:31:05,188.132.197.124,100,Turkey,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Tic. Ltd. STI,Residential/Business,False
+2026-03-02 20:31:05,188.165.26.231,100,France,Paris,OVH SAS,UAB OVH,Data Center,False
+2026-03-02 20:31:05,188.165.196.171,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-03-02 20:31:05,188.126.240.80,100,Sweden,Stockholm,Telia Company AB,Telia Company AB,Residential/Business,False
+2026-03-02 20:31:05,188.59.15.180,100,Türkiye,Eyüpsultan,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,188.59.178.43,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,188.122.150.147,100,Sweden,Nyköping,AllTele,,Residential/Business,False
+2026-03-02 20:31:05,188.90.232.152,100,Netherlands,Amsterdam,Odido Netherlands,,Mobile,False
+2026-03-02 20:31:05,188.85.212.166,100,Spain,Málaga,Vodafone-BB Global,"Vodafone Espana, S.A.U",Residential/Business,False
+2026-03-02 20:31:05,40.83.92.30,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-03-02 20:31:05,109.105.210.65,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-03-02 20:31:05,188.59.178.26,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,182.95.101.62,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-03-02 20:31:05,109.105.210.67,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-03-02 20:31:05,188.59.178.28,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,188.59.178.35,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,188.128.75.50,100,Russia,Pyatigorsk,Rostelecom Nets,,Mobile,False
+2026-03-02 20:31:05,109.105.210.68,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-03-02 20:31:05,188.59.90.54,100,Türkiye,Eyüpsultan,Turkcell Internet,,Mobile,False
+2026-03-02 20:31:05,188.124.225.42,100,Russia,Simferopol,Miranda-Media Ltd,Miranda-Media Ltd,Residential/Business,False
+2026-03-02 20:31:05,188.126.241.118,100,Sweden,Stockholm,Telia Company AB,Telia Company AB,Residential/Business,False
+2026-03-02 20:31:05,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-02 20:31:05,188.130.27.116,100,France,Vigneux-sur-Seine,Celeste SAS,Magic OnLine,Residential/Business,True
+2026-03-02 20:31:05,188.64.106.15,100,Malaysia,Kuala Lumpur,Global Communication Network Limited,Global Communication Network Limited,Residential/Business,False
+2026-03-02 20:31:05,188.120.254.97,100,Russia,Moscow,JSC IOT,JSC IOT,Data Center,True
+2026-03-02 20:31:05,188.95.113.176,100,Spain,Madrid,"AXARNET COMUNICACIONES, S.L.","AXARNET COMUNICACIONES, S.L",Data Center,False
+2026-03-02 20:31:05,188.59.178.45,100,Turkey,Maltepe,Turkcell Internet,,Residential/Business,False
+2026-03-02 20:31:05,188.37.194.181,100,Portugal,Santo Tirso,Vodafone Portugal,,Mobile,False
+2026-03-02 20:31:05,187.251.123.104,100,Mexico,Iztapalapa,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,Residential/Business,False
+2026-03-02 20:31:05,187.230.53.199,100,Mexico,Magdalena de Kino,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-03-02 20:31:05,188.32.148.19,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-03-02 20:31:05,103.124.54.30,100,Bangladesh,Chittagong,Chittagong Data Communication,,Residential/Business,False
+2026-03-02 20:31:05,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-03-02 20:31:05,109.105.210.64,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-03-02 20:31:05,122.165.72.15,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-03-02 20:31:05,103.183.62.0,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-03-02 20:31:05,45.92.173.39,100,Uzbekistan,Tashkent,Best Internet Solution XK,Best Internet Solution XK,Residential/Business,True
+2026-03-02 20:31:05,45.144.212.169,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
