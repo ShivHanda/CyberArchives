@@ -30579,3 +30579,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-02 08:37:43,45.144.212.136,100,The Netherlands,Eygelshoven,Kprohost LLC,Kprohost,Residential/Business,False
 2026-03-02 08:37:43,43.162.111.227,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
 2026-03-02 08:37:43,159.65.137.183,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,103.160.213.27,100,Indonesia,Bekasi,PT Dewa Bisnis Digital,PT Dewabisnis Digital Indonesia,Residential/Business,False
+2026-03-02 10:38:49,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-02 10:38:49,92.63.197.182,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-03-02 10:38:49,134.199.147.250,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,206.189.115.241,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,164.92.245.133,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,167.172.33.50,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,177.85.247.230,100,Brazil,Campo Maior,R R DE FRANCA SOUSA,R R DE FRANCA SOUSA,Residential/Business,False
+2026-03-02 10:38:49,80.94.95.83,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-02 10:38:49,73.168.136.150,100,United States,Peru,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-03-02 10:38:49,170.64.143.97,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,20.240.241.205,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-03-02 10:38:49,104.236.13.93,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,170.64.132.240,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,45.70.185.145,100,Argentina,Rosario,Dattatec.com,Dattatec.com,Residential/Business,True
+2026-03-02 10:38:49,20.168.6.84,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-03-02 10:38:49,211.219.22.213,100,South Korea,Seocho-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-03-02 10:38:49,68.183.95.157,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,107.170.76.227,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-02 10:38:49,79.124.40.110,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-03-02 10:38:49,35.216.189.16,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-03-02 10:38:49,159.65.19.147,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,129.212.186.6,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,80.94.95.116,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-02 10:38:49,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-02 10:38:49,170.64.181.65,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,67.205.138.230,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-02 10:38:49,206.81.15.143,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-02 10:38:49,134.199.205.109,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,143.198.215.198,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,143.198.14.83,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,109.195.14.161,100,Russia,Lipetsk,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Lipetsk Branch",Residential/Business,False
+2026-03-02 10:38:49,40.69.27.251,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-03-02 10:38:49,198.244.233.141,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
+2026-03-02 10:38:49,210.104.95.169,100,South Korea,Yecheon-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-03-02 10:38:49,103.179.44.30,100,Singapore,Singapore,WebHorizon Internet Services,Webhrzn,Residential/Business,False
+2026-03-02 10:38:49,45.33.105.182,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-02 10:38:49,80.94.95.115,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,True
+2026-03-02 10:38:49,91.224.92.35,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-02 10:38:49,117.158.166.73,100,China,Zhengzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-03-02 10:38:49,57.130.20.252,100,France,Paris,OVH SAS,OVH,Data Center,True
+2026-03-02 10:38:49,123.204.132.127,100,Taiwan,Taipei,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-03-02 10:38:49,91.230.168.1,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-02 10:38:49,209.38.22.102,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-02 10:38:49,178.128.250.147,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
