@@ -30914,3 +30914,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-02 22:22:23,91.230.168.188,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-03-02 22:22:23,47.155.77.52,100,United States,Banning,Frontier Communications Solutions,FTR3 FIOS-D Banning CA,Residential/Business,False
 2026-03-02 22:22:23,162.243.173.118,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-03 01:45:34,49.124.151.18,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-03-03 01:45:34,159.89.121.21,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-03 01:45:34,87.121.84.24,100,United States,New York,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,False
+2026-03-03 01:45:34,91.231.89.81,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-03 01:45:34,222.239.251.12,100,South Korea,Seo-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-03-03 01:45:34,45.142.154.30,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-03-03 01:45:34,91.230.168.149,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-03 01:45:34,43.252.228.18,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-03-03 01:45:34,69.6.250.15,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-03-03 01:45:34,49.248.17.6,100,India,Mumbai,Tata Teleservices (Maharashtra) Limited,Tata Teleservices (Maharashtra) Ltd,Residential/Business,False
+2026-03-03 01:45:34,103.217.187.128,100,China,Beijing,"Hubei Feixun Network Co., Ltd","Hubei Feixun Network Co., Ltd",Residential/Business,False
+2026-03-03 01:45:34,80.94.95.116,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-03 01:45:34,187.0.238.63,100,Brazil,São Paulo,Impacto Telecomunicacoes Eireli - ME,Impacto Telecomunicacoes Eireli - ME,Residential/Business,False
+2026-03-03 01:45:34,189.223.238.15,100,Mexico,Ensenada,Uninet S.A. de C.V.,"Telefonos del Noroeste, S.A. de C.V",Residential/Business,False
+2026-03-03 01:45:34,45.205.1.110,100,South Africa,Johannesburg,Cloud Innovation,Cloud Innovation Ltd,Residential/Business,False
+2026-03-03 01:45:34,117.50.73.90,100,China,Beijing,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,False
+2026-03-03 01:45:34,194.50.16.198,100,Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Residential/Business,False
+2026-03-03 01:45:34,45.148.10.157,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-03 01:45:34,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-03-03 01:45:34,106.13.121.235,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-03-03 01:45:34,185.156.73.233,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-03-03 01:45:34,157.10.161.105,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Toko Masa Depan,Data Center,False
+2026-03-03 01:45:34,139.144.239.98,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-03 01:45:34,181.115.147.5,100,Bolivia,Santa Cruz de la Sierra,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-03-03 01:45:34,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-03 01:45:34,103.149.27.208,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-03 01:45:34,172.211.56.214,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-03-03 01:45:34,185.242.226.91,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-03-03 01:45:34,209.38.20.76,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 01:45:34,101.126.66.30,100,China,Beijing,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd",Residential/Business,False
+2026-03-03 01:45:34,162.240.212.247,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-03-03 01:45:34,172.94.9.160,100,United States,Bend,Secure Internet LLC,Internet Security - DE,Residential/Business,True
+2026-03-03 01:45:34,50.6.228.111,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-03-03 01:45:34,143.110.163.227,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 01:45:34,34.138.101.23,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-03-03 01:45:34,80.94.92.156,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-03 01:45:34,134.209.86.24,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 01:45:34,43.159.35.176,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Aceville Pte.ltd,Data Center,False
+2026-03-03 01:45:34,77.90.185.36,100,Germany,Augsburg,Inside Network LTD,Inside Network LTD,Residential/Business,False
+2026-03-03 01:45:34,45.174.162.68,100,Brazil,Cururupu,Nando NET Fibra,Nando NET Fibra,Residential/Business,False
+2026-03-03 01:45:34,116.177.172.64,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-03-03 01:45:34,192.253.248.42,100,Singapore,Singapore,Secure Internet LLC,Internet Security - US OH,Residential/Business,True
+2026-03-03 01:45:34,20.80.88.247,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-03-03 01:45:34,152.53.21.84,100,Germany,Nuremberg,netcup GmbH,ANX,Data Center,False
+2026-03-03 01:45:34,213.14.32.198,100,Turkey,Beyoğlu,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,Residential/Business,False
