@@ -30959,3 +30959,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-03 01:45:34,20.80.88.247,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-03-03 01:45:34,152.53.21.84,100,Germany,Nuremberg,netcup GmbH,ANX,Data Center,False
 2026-03-03 01:45:34,213.14.32.198,100,Turkey,Beyoğlu,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,Residential/Business,False
+2026-03-03 04:10:19,35.216.189.16,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-03-03 04:10:19,45.169.200.254,100,Brazil,Cariacica,Net Sini Fiber Home Telecomunicação LTDA - me,Net Sini Fiber Home Telecomunicação LTDA - me,Residential/Business,False
+2026-03-03 04:10:19,85.203.23.6,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-03-03 04:10:19,147.135.114.8,100,United States,Oakton,OVH SAS,OVH US LLC,Data Center,False
+2026-03-03 04:10:19,101.36.106.113,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-03 04:10:19,68.183.234.194,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-03 04:10:19,108.181.4.175,100,United States,Los Angeles,Psychz Networks,TELUS Communications Inc.,Data Center,False
+2026-03-03 04:10:19,87.120.191.67,100,The Netherlands,Eygelshoven,VPSVAULT.HOST LTD,VPSVAULT.HOST LTD,Residential/Business,True
+2026-03-03 04:10:19,46.17.248.205,100,Russia,Kazan',MT FINANCE LLC,VDS,Residential/Business,False
+2026-03-03 04:10:19,110.25.109.59,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-03-03 04:10:19,38.76.31.68,100,United States,Clifton,Cogent Communications,Rawafed Tech,Residential/Business,False
+2026-03-03 04:10:19,34.123.134.194,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-03-03 04:10:19,203.194.106.66,100,India,Mumbai,IN2CABLE,In2cable,Residential/Business,False
+2026-03-03 04:10:19,195.184.76.181,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-03 04:10:19,20.169.85.177,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-03-03 04:10:19,163.223.93.204,100,Pakistan,Karachi,S.I.S.P Broadband Private Limited,S.I.S.P Broadband,Residential/Business,False
+2026-03-03 04:10:19,2.57.122.177,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-03 04:10:19,92.118.39.92,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-03 04:10:19,101.47.142.22,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-03-03 04:10:19,141.98.80.111,100,The Netherlands,Amsterdam,NForce Entertainment B.V.,Cloud CDN,Data Center,True
+2026-03-03 04:10:19,103.66.63.1,100,Indonesia,Mendaha,PT Buana Visualnet Sentra,PT Sinar Jambi Baru Intermedia,Residential/Business,False
+2026-03-03 04:10:19,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-03 04:10:19,87.106.44.170,100,United Kingdom,London,IONOS SE,Gb Wtr Ionos Cloud Bhx1,Data Center,False
+2026-03-03 04:10:19,157.245.60.73,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-03 04:10:19,27.150.188.148,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-03-03 04:10:19,103.186.132.187,100,India,Pune,Vortex Infoway Private Limited,Vortex Infoway Private Limited,Residential/Business,False
+2026-03-03 04:10:19,152.200.205.179,100,Colombia,San José del Guaviare,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-03-03 04:10:19,194.156.103.11,100,Armenia,Gavar Municipality,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-03-03 04:10:19,193.163.125.16,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-03-03 04:10:19,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-03 04:10:19,34.60.107.64,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-03-03 04:10:19,20.89.41.34,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-03-03 04:10:19,47.251.48.41,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-03-03 04:10:19,193.32.162.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-03 04:10:19,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-03 04:10:19,92.118.39.86,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-03-03 04:10:19,152.42.135.142,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-03 04:10:19,45.82.76.118,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-03-03 04:10:19,42.96.20.16,100,Vietnam,Hanoi,HOALAC-VNNIC,HoaLac Software City Development Company,Residential/Business,False
+2026-03-03 04:10:19,74.235.139.143,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-03 04:10:19,147.182.156.111,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-03 04:10:19,80.94.95.115,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,True
+2026-03-03 04:10:19,197.199.224.52,100,Egypt,Al Qāhirah al Jadīdah,Etisalat Misr,Etisalat Misr,Mobile,False
+2026-03-03 04:10:19,83.250.6.121,100,Sweden,Södertälje,COMHEM,Tele2 AB,Residential/Business,False
+2026-03-03 04:10:19,125.142.37.91,100,South Korea,Goyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
