@@ -31369,3 +31369,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-03 20:27:29,49.0.200.12,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
 2026-03-03 20:27:29,20.203.144.173,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
 2026-03-03 20:27:29,1.237.155.150,100,South Korea,Gyeonggi-do,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-03-03 22:22:51,51.178.114.78,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-03-03 22:22:51,184.168.21.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-03-03 22:22:51,138.68.145.146,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 22:22:51,85.217.140.4,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-03 22:22:51,61.111.244.152,100,South Korea,Seoul,MOACK.Co.LTD,Sejong Networks,Residential/Business,False
+2026-03-03 22:22:51,103.178.175.180,100,Indonesia,Cirebon,PT Cloud Teknologi Nusantara,PT Mitra Awan Data,Residential/Business,True
+2026-03-03 22:22:51,171.244.37.97,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-03-03 22:22:51,43.228.157.22,100,Australia,Sydney,Gaditek Associates,,Residential/Business,True
+2026-03-03 22:22:51,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-03 22:22:51,80.94.92.167,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-03 22:22:51,135.237.125.118,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-03 22:22:51,24.199.125.179,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 22:22:51,142.93.216.225,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 22:22:51,144.91.93.174,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-03-03 22:22:51,91.224.92.108,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-03 22:22:51,166.108.228.167,100,Singapore,Singapore,Huawei International Pte. LTD,,Data Center,False
+2026-03-03 22:22:51,135.237.126.73,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-03 22:22:51,181.191.128.18,100,Brazil,Natividade,FABLINUXER CONNECT TELECOMUNICAÇÕES,FABLINUXER CONNECT TELECOMUNICAÇÕES,Residential/Business,False
+2026-03-03 22:22:51,152.32.215.224,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-03 22:22:51,182.78.241.30,100,India,Mira Road,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-03-03 22:22:51,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-03 22:22:51,40.124.173.168,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-03-03 22:22:51,60.172.52.101,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-03-03 22:22:51,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-03 22:22:51,117.176.204.214,100,China,Chengdu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-03-03 22:22:51,182.40.104.74,100,China,Jinan,China Telecom,Chinanet SD,Residential/Business,False
+2026-03-03 22:22:51,43.133.203.218,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-03-03 22:22:51,51.68.65.117,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-03-03 22:22:51,51.195.138.37,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,True
+2026-03-03 22:22:51,193.163.125.156,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-03-03 22:22:51,125.21.59.218,100,India,Mumbai,BHARTI,Bharti Televentures Limited,Mobile,False
+2026-03-03 22:22:51,213.176.16.229,100,Netherlands,Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-03-03 22:22:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-03-03 22:22:51,13.81.183.30,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-03-03 22:22:51,36.255.3.203,100,India,Hyderabad,CtrlS,,Data Center,True
+2026-03-03 22:22:51,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-03 22:22:51,34.91.124.117,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-03-03 22:22:51,193.3.53.11,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-03-03 22:22:51,77.83.39.243,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-03-03 22:22:51,188.166.125.38,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-03 22:22:51,161.35.90.20,100,Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-03 22:22:51,61.72.55.130,100,South Korea,Seongbuk-gu,Korea Telecom,,Residential/Business,False
+2026-03-03 22:22:51,45.144.233.56,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-03-03 22:22:51,20.240.241.205,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-03-03 22:22:51,187.0.238.63,100,Brazil,São Paulo,Impacto Telecomunicacoes Eireli - ME,Impacto Telecomunicacoes Eireli - ME,Residential/Business,False
