@@ -31824,3 +31824,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-04 18:40:43,20.205.226.191,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
 2026-03-04 18:40:43,13.81.183.28,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
 2026-03-04 18:40:43,162.241.149.132,100,United States,Los Angeles,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-03-04 20:27:10,170.64.161.169,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,198.1.117.220,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-03-04 20:27:10,198.23.160.197,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-03-04 20:27:10,178.62.207.223,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-04 20:27:10,198.11.180.29,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-03-04 20:27:10,3.239.13.6,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-03-04 20:27:10,186.39.55.241,100,Argentina,San Juan Bautista,Telefonica de Argentina,Telefonica de Argentina,Residential/Business,False
+2026-03-04 20:27:10,170.64.160.7,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,198.20.106.173,100,Netherlands,Amsterdam,SingleHop LLC,SingleHop BV,Data Center,False
+2026-03-04 20:27:10,197.255.205.63,100,Gambia,Kotu,Netpage Company Limited,Netpage Company Limited,Residential/Business,False
+2026-03-04 20:27:10,170.64.160.35,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.161.185,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.160.80,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.152.136,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.150.161,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,103.144.28.85,100,Hong Kong,Kwun Tong,Yisu Cloud LTD,"JIMEI INTERNATIONAL TECHNOLOGY (HK) CO., LIMITED",Residential/Business,False
+2026-03-04 20:27:10,197.248.204.18,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-03-04 20:27:10,170.64.152.152,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.149.157,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,197.248.7.232,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-03-04 20:27:10,197.248.8.33,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-03-04 20:27:10,197.248.104.31,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-03-04 20:27:10,197.248.144.117,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-03-04 20:27:10,103.49.238.225,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,CV Salka Kolaborasi Indonesia,Data Center,False
+2026-03-04 20:27:10,170.64.159.146,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.158.242,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-03-04 20:27:10,107.172.15.225,100,United States,Buffalo,HostPapa,Braham Dutt Sharma,Data Center,False
+2026-03-04 20:27:10,197.254.237.210,100,Sudan,Khartoum,Kanar Telecommunication (Canar Telecom Co.Ltd),Cdma1x Evdo,Mobile,False
+2026-03-04 20:27:10,197.255.141.37,100,Cabo Verde,Praia,CVMultimedia,,Residential/Business,False
+2026-03-04 20:27:10,170.64.154.183,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.158.141,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.155.26,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.156.103,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,45.205.1.8,100,South Africa,Johannesburg,Cloud Innovation,Cloud Innovation Ltd,Residential/Business,False
+2026-03-04 20:27:10,197.251.195.80,100,Ghana,Accra,Vodafone Ghana,Ghana Telecommunications Company Limited,Residential/Business,False
+2026-03-04 20:27:10,170.64.157.114,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.159.194,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.153.193,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.155.88,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.151.42,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.150.190,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,170.64.150.59,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 20:27:10,197.243.0.62,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-03-04 20:27:10,159.65.116.185,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
