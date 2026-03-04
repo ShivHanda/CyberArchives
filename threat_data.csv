@@ -31414,3 +31414,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-03 22:22:51,45.144.233.56,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
 2026-03-03 22:22:51,20.240.241.205,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
 2026-03-03 22:22:51,187.0.238.63,100,Brazil,São Paulo,Impacto Telecomunicacoes Eireli - ME,Impacto Telecomunicacoes Eireli - ME,Residential/Business,False
+2026-03-04 01:28:47,91.231.89.46,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-04 01:28:47,101.47.161.212,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-03-04 01:28:47,36.64.162.195,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-03-04 01:28:47,101.47.156.170,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-03-04 01:28:47,68.183.224.170,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 01:28:47,96.78.175.36,100,United States,Fremont,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-03-04 01:28:47,130.12.180.90,100,United Kingdom,London,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-03-04 01:28:47,179.43.186.208,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-03-04 01:28:47,185.156.73.86,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
+2026-03-04 01:28:47,194.146.223.153,100,Spain,Madrid,NETELSERVICES,Netelservices,Residential/Business,False
+2026-03-04 01:28:47,103.189.234.179,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-03-04 01:28:47,183.82.111.224,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-03-04 01:28:47,209.141.62.124,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-04 01:28:47,163.7.6.154,100,Indonesia,Banguntapan,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-03-04 01:28:47,81.29.142.50,100,Russia,Moscow,LLC APPLIED COMPUTATIONAL TECHNOLOGIES,ApcoTeh,Residential/Business,False
+2026-03-04 01:28:47,209.46.120.16,100,United States,Sulphur Springs,IONOS SE,IONOS Inc,Data Center,False
+2026-03-04 01:28:47,45.33.78.70,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-04 01:28:47,117.247.23.131,100,India,Bengaluru,BSNL Internet,,Residential/Business,False
+2026-03-04 01:28:47,165.232.163.9,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 01:28:47,107.9.192.15,100,United States,Zanesville,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-03-04 01:28:47,88.99.24.59,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-03-04 01:28:47,173.255.223.124,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-03-04 01:28:47,125.229.182.63,100,Taiwan,Zhongli District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-03-04 01:28:47,139.144.239.72,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-04 01:28:47,64.89.163.83,100,The Netherlands,Eygelshoven,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-03-04 01:28:47,165.154.162.30,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-03-04 01:28:47,83.150.21.135,100,Switzerland,Zurich,iWay AG,iway AG,Residential/Business,False
+2026-03-04 01:28:47,20.219.132.149,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-03-04 01:28:47,178.83.200.2,100,Switzerland,Wallisellen,Private Customer,,Data Center,False
+2026-03-04 01:28:47,36.93.249.106,100,Indonesia,Jakarta,Telekomunikasi Indonesia,HSI Indihome,Residential/Business,False
+2026-03-04 01:28:47,206.168.34.150,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-03-04 01:28:47,8.218.161.252,100,Hong Kong,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-03-04 01:28:47,36.50.63.131,100,Vietnam,Cầu Giấy,AS,44+ Technology Company Limited,Residential/Business,False
+2026-03-04 01:28:47,77.83.39.95,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-03-04 01:28:47,106.251.244.178,100,South Korea,Yongin-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-03-04 01:28:47,45.227.254.170,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Residential/Business,True
+2026-03-04 01:28:47,45.89.127.113,100,Germany,Frankfurt am Main,Dominic Scholz trading as ITP-Solutions GmbH & Co. KG,DeinServerHost,Residential/Business,False
+2026-03-04 01:28:47,41.93.28.4,100,Tanzania,Dar es Salaam,Resource rsv cld,Education Research services,Residential/Business,False
+2026-03-04 01:28:47,101.47.142.188,100,Singapore,Singapore,Great Wall Broadband Network,"Shanghai Great Wall Broadband Network Service Co., Ltd.",Residential/Business,False
+2026-03-04 01:28:47,185.196.11.54,100,Switzerland,Bern,Global-Data System IT Corporation,Global-Data System IT Corporation,Residential/Business,False
+2026-03-04 01:28:47,165.22.80.64,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-04 01:28:47,14.103.21.179,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-03-04 01:28:47,45.82.76.134,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-03-04 01:28:47,190.181.44.194,100,Bolivia,Santa Cruz de la Sierra,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-03-04 01:28:47,138.124.67.78,100,The Netherlands,Eygelshoven,GCS SER,,Residential/Business,True
