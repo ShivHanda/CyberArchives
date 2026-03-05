@@ -32009,3 +32009,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-05 04:07:58,45.172.152.74,100,Dominican Republic,Santiago de los Caballeros,Tecnología Digital,Wireless Solutions Dominicana WSD S.R.L,Mobile,False
 2026-03-05 04:07:58,156.236.75.64,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Residential/Business,False
 2026-03-05 04:07:58,157.245.145.104,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-05 06:43:06,64.62.156.52,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-03-05 06:43:06,185.177.72.22,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-03-05 06:43:06,164.92.79.150,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-05 06:43:06,45.148.10.240,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-03-05 06:43:06,161.132.53.189,100,Peru,Santa,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-03-05 06:43:06,69.12.83.39,100,Estonia,Tallinn,HostSlim B.V.,HostPapa,Data Center,False
+2026-03-05 06:43:06,45.155.68.60,100,Italy,Taormina,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-03-05 06:43:06,88.99.24.59,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-03-05 06:43:06,161.35.135.113,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-05 06:43:06,91.224.92.190,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-05 06:43:06,45.148.10.147,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-05 06:43:06,159.89.117.122,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-05 06:43:06,103.160.213.27,100,Indonesia,Bekasi,PT Dewa Bisnis Digital,PT Dewabisnis Digital Indonesia,Residential/Business,False
+2026-03-05 06:43:06,103.207.9.246,100,India,Pune,Shree Balaji Infoway Private Limited,Shree Balaji Infoway Private Limited,Residential/Business,False
+2026-03-05 06:43:06,125.19.218.2,100,India,Pune,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-03-05 06:43:06,51.15.34.47,100,Netherlands,Haarlem,Online SAS NL,SCALEWAY,Data Center,False
+2026-03-05 06:43:06,91.231.89.203,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-05 06:43:06,135.237.125.174,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-05 06:43:06,140.233.190.109,100,Romania,Bucharest,Internet Magnate (Pty) Ltd,Internet Magnate (Pty) Ltd,Residential/Business,False
+2026-03-05 06:43:06,143.244.179.110,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-05 06:43:06,80.94.92.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-05 06:43:06,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-05 06:43:06,103.174.188.142,100,Bangladesh,Dhaka,Mars Compurter,Mars Computer,Residential/Business,False
+2026-03-05 06:43:06,91.230.168.157,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-05 06:43:06,20.83.165.36,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-05 06:43:06,81.211.72.167,100,Russia,Moscow,EDN Sovintel,,Residential/Business,False
+2026-03-05 06:43:06,185.158.22.150,100,Iraq,Karbala,"Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",,Residential/Business,False
+2026-03-05 06:43:06,78.153.140.251,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,Data Center,False
+2026-03-05 06:43:06,91.224.92.191,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-03-05 06:43:06,103.82.37.106,100,Vietnam,Thanh Khê,Cloudfly Corporation,Cloudfly Corporation,Residential/Business,False
+2026-03-05 06:43:06,190.119.63.81,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-03-05 06:43:06,92.33.220.210,100,Sweden,Eskilstuna,Bredbandsbolaget,B2 Bredband AB,Residential/Business,False
+2026-03-05 06:43:06,199.45.154.183,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-03-05 06:43:06,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-03-05 06:43:06,112.67.250.54,100,China,Qiongshan,Chinanet,Chinanet HI,Residential/Business,False
+2026-03-05 06:43:06,159.223.45.78,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-05 06:43:06,45.148.10.121,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-05 06:43:06,49.124.149.208,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-03-05 06:43:06,154.46.30.180,100,Germany,Frankfurt am Main,firstcolo GmbH,firstcolo GmbH,Data Center,False
+2026-03-05 06:43:06,64.62.197.141,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-03-05 06:43:06,103.183.75.228,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-03-05 06:43:06,141.98.11.155,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-03-05 06:43:06,91.230.168.55,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-05 06:43:06,178.62.207.223,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-05 06:43:06,81.192.46.32,100,Morocco,Rabat,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-03-05 06:43:06,223.123.43.5,100,Pakistan,Jaranwala,CMPak Limited,CMPak Limited,Residential/Business,True
+2026-03-05 06:43:06,149.54.51.42,100,Afghanistan,Spīn Bōldak,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-03-05 06:43:06,223.197.248.209,100,Hong Kong,Central,PCCW IMSBiz,PCCW Limited,Residential/Business,False
+2026-03-05 06:43:06,62.164.177.15,100,United Kingdom,Hull,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-03-05 06:43:06,46.59.90.49,100,Sweden,Karlstad,Bahnhof Internet,Bahnhof AB,Residential/Business,False
