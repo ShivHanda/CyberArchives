@@ -32669,3 +32669,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-06 10:29:18,117.216.211.19,100,India,Bengaluru,BSNL Internet,,Residential/Business,False
 2026-03-06 10:29:18,185.156.73.182,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,IP Kiktev Nikolay Vladimirovich,Residential/Business,False
 2026-03-06 10:29:18,14.103.111.127,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-03-06 12:41:45,80.94.95.115,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,True
+2026-03-06 12:41:45,165.227.145.182,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 12:41:45,139.99.133.77,100,Australia,Sydney,OVH SAS,OVH Australia PTY LTD,Data Center,False
+2026-03-06 12:41:45,192.176.172.166,100,Sweden,Helsingborg,Kepler Technologies AB,Kepler Technologies AB,Residential/Business,False
+2026-03-06 12:41:45,49.207.245.112,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-03-06 12:41:45,66.228.53.78,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-03-06 12:41:45,80.94.95.216,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-06 12:41:45,109.206.241.199,100,Estonia,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
+2026-03-06 12:41:45,92.118.39.76,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-06 12:41:45,193.32.162.151,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-06 12:41:45,193.163.125.9,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-03-06 12:41:45,136.0.251.107,100,United States,Atlanta,Sprint,"T-Mobile USA, Inc",Residential/Business,True
+2026-03-06 12:41:45,35.195.92.213,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-03-06 12:41:45,63.116.23.24,100,United States,Boston,Verizon Business,Verizon Business,Residential/Business,False
+2026-03-06 12:41:45,115.231.78.11,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,True
+2026-03-06 12:41:45,51.83.187.34,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-03-06 12:41:45,85.217.149.57,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 12:41:45,43.155.40.91,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-03-06 12:41:45,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
+2026-03-06 12:41:45,172.236.127.133,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-03-06 12:41:45,46.26.131.189,100,Spain,Madrid,Vodafone-BB Global,"Vodafone Espana, S.A.U",Residential/Business,False
+2026-03-06 12:41:45,125.124.223.68,100,China,Yanguan,Chinanet,,Residential/Business,False
+2026-03-06 12:41:45,141.98.11.155,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-03-06 12:41:45,198.98.56.227,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-06 12:41:45,91.224.92.115,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-03-06 12:41:45,182.95.45.2,100,India,Delhi,Genpact India 4th Floor,Genpact India Private Limited,Residential/Business,False
+2026-03-06 12:41:45,144.126.219.163,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 12:41:45,91.230.168.17,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-06 12:41:45,209.173.10.75,100,United States,Nazareth,PenTeleData Inc,Cove Haven PropCo LLC,Residential/Business,False
+2026-03-06 12:41:45,81.193.216.17,100,Portugal,Madalena,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-03-06 12:41:45,186.125.192.178,100,Argentina,Buenos Aires,Telecom Argentina S.A.,Telecom Argentina S.A,Residential/Business,False
+2026-03-06 12:41:45,118.193.33.3,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-06 12:41:45,45.148.10.151,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-06 12:41:45,154.117.199.56,100,Burundi,Mabanda,Viettel Burundi SA,,Mobile,False
+2026-03-06 12:41:45,89.42.231.179,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-03-06 12:41:45,45.196.236.141,100,Hong Kong,Hong Kong,Hytron Network Services Limited,Akile LTD,Residential/Business,False
+2026-03-06 12:41:45,124.115.121.108,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,False
+2026-03-06 12:41:45,58.233.189.186,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-03-06 12:41:45,185.86.76.213,100,Ukraine,Khmelnytskyi,Mulgin Alexander Sergeevich,gmhost network,Data Center,False
+2026-03-06 12:41:45,93.123.109.176,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-06 12:41:45,78.187.21.105,100,Türkiye,Çankaya,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-03-06 12:41:45,88.18.209.3,100,Spain,Pollença,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),Residential/Business,False
+2026-03-06 12:41:45,141.98.10.96,100,Lithuania,Kaunas,UAB Host Baltic,,Residential/Business,True
+2026-03-06 12:41:45,141.98.11.166,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-03-06 12:41:45,118.193.47.155,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
