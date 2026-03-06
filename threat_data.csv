@@ -32809,3 +32809,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-06 16:34:19,209.85.161.70,100,United States,Mountain View,Google LLC,Google LLC,Data Center,False
 2026-03-06 16:34:19,80.94.92.184,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
 2026-03-06 16:34:19,74.243.251.125,100,United Arab Emirates,Dubai,AT&T Corp.,Microsoft Azure Cloud (uaenorth),Data Center,False
+2026-03-06 18:36:37,59.126.224.134,100,Taiwan,Yuanlin,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-03-06 18:36:37,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-06 18:36:37,170.64.164.237,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 18:36:37,159.89.194.102,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 18:36:37,101.53.236.155,100,Pakistan,Karachi,Cyber Internet Services Pakistan,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-03-06 18:36:37,152.42.205.111,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 18:36:37,149.28.69.220,100,United States,Los Angeles,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-03-06 18:36:37,116.193.191.46,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,Data Center,False
+2026-03-06 18:36:37,176.53.96.10,100,Turkey,Istanbul,Radore Veri Merkezi Hizmetleri A.S.,Radore,Data Center,False
+2026-03-06 18:36:37,103.13.207.60,100,Singapore,Singapore,Cloud Host Pte Ltd,CLOUDHOST,Data Center,False
+2026-03-06 18:36:37,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,False
+2026-03-06 18:36:37,177.174.125.183,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-03-06 18:36:37,18.194.17.5,100,Germany,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),Data Center,False
+2026-03-06 18:36:37,194.107.115.65,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-06 18:36:37,23.94.188.210,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-03-06 18:36:37,2.57.122.26,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-06 18:36:37,80.94.92.182,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-06 18:36:37,187.212.42.32,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-03-06 18:36:37,45.192.96.183,100,Hong Kong,Hong Kong,Vapeline Technology,,Residential/Business,False
+2026-03-06 18:36:37,139.59.66.22,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 18:36:37,152.52.229.42,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-03-06 18:36:37,14.103.228.234,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-03-06 18:36:37,45.142.154.109,100,Hong Kong,Chai Wan,Agotoz Pte. Ltd.,Allcloud US,Residential/Business,False
+2026-03-06 18:36:37,51.178.49.8,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-03-06 18:36:37,185.201.147.210,100,Germany,Cologne,gridscale GmbH,Only announced in case of DDoS,Data Center,False
+2026-03-06 18:36:37,119.29.198.179,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-03-06 18:36:37,176.30.195.141,100,Türkiye,Bursa,descr Avea Iletisim Hizmetleri,Avea Iletisim Hizmetleri A.S,Residential/Business,False
+2026-03-06 18:36:37,186.216.246.255,100,Brazil,Blumenau,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-03-06 18:36:37,91.202.230.214,100,Poland,Żagań,Internet Cafe uslugi informatyczne Miroslaw Backiel,Internet Cafe uslugi informatyczne Miroslaw Backiel,Data Center,False
+2026-03-06 18:36:37,35.200.237.19,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-03-06 18:36:37,130.250.191.199,100,India,Mumbai,HosterDaddy Private Limited,HosterDaddy Private Limited,Residential/Business,False
+2026-03-06 18:36:37,103.161.170.12,100,Vietnam,Mai Dich,VINABISON,Vina-bison International Trading Company Limited,Residential/Business,False
+2026-03-06 18:36:37,128.185.201.98,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Limited,Residential/Business,False
+2026-03-06 18:36:37,171.244.37.96,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-03-06 18:36:37,117.242.158.217,100,India,Patapur,BSNL Internet,NIB,Residential/Business,False
+2026-03-06 18:36:37,120.48.147.111,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-03-06 18:36:37,57.128.218.144,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-03-06 18:36:37,85.234.8.116,100,Russia,Cheboksary,Cheboksary 3 region,,Residential/Business,False
+2026-03-06 18:36:37,38.226.118.0,100,Brazil,Ourilândia do Norte,OAC TECNOLOGIA EIRELI,OAC TECNOLOGIA LTDA,Residential/Business,False
+2026-03-06 18:36:37,59.144.79.102,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-03-06 18:36:37,103.8.27.27,100,Malaysia,Subang Jaya,SKSATECH1,,Data Center,False
+2026-03-06 18:36:37,125.94.106.195,100,China,Shanghai,Chinanet,Chinanet GD,Residential/Business,False
+2026-03-06 18:36:37,211.169.178.4,100,South Korea,Cheongju-si,LG DACOM Corporation,LG DACOM Corporation,Residential/Business,False
+2026-03-06 18:36:37,37.151.47.27,100,Kazakhstan,Astana,JSC Kazakhtelecom,JSC Kazakhtelecom,Residential/Business,False
+2026-03-06 18:36:37,189.194.140.170,100,Mexico,Puebla City,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
