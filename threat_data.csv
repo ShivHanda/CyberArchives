@@ -32484,3 +32484,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-06 01:44:31,46.224.19.85,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
 2026-03-06 01:44:31,193.142.147.111,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
 2026-03-06 01:44:31,117.216.211.19,100,India,Bengaluru,BSNL Internet,,Residential/Business,False
+2026-03-06 04:05:15,45.40.57.172,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-03-06 04:05:15,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-06 04:05:15,20.98.161.145,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-03-06 04:05:15,103.170.173.26,100,Bangladesh,Kāfrul,AG Communication,MD ABU SALEH,Residential/Business,False
+2026-03-06 04:05:15,184.105.247.202,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-03-06 04:05:15,46.182.6.31,100,France,Marseille,Hosteur SAS,TDF Cl06,Data Center,False
+2026-03-06 04:05:15,85.217.149.47,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 04:05:15,116.50.179.74,100,Philippines,Manila,"Eastern Telecommunications Philippines, Inc.","Eastern Telecommunications Philippines, Inc",Residential/Business,False
+2026-03-06 04:05:15,43.243.142.42,100,Indonesia,Jakarta,PT. Mora Telematika Indonesia,,Residential/Business,False
+2026-03-06 04:05:15,51.178.49.8,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-03-06 04:05:15,112.120.171.95,100,Hong Kong,Lam Tin,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-03-06 04:05:15,188.166.54.226,100,Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-03-06 04:05:15,199.195.248.191,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-03-06 04:05:15,212.154.234.9,100,Kazakhstan,Almaty,JSC Kazakhtelecom,"Co-location, LLC",Residential/Business,False
+2026-03-06 04:05:15,47.250.56.171,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-03-06 04:05:15,45.179.119.248,100,Brazil,Belford Roxo,L DA COSTA SILVA COMUNICACOES,L DA COSTA SILVA COMUNICACOES,Residential/Business,False
+2026-03-06 04:05:15,92.205.56.196,100,France,Strasbourg,Host Europe GmbH,Go Daddy Netherlands B.V,Residential/Business,False
+2026-03-06 04:05:15,141.98.11.83,100,Lithuania,Vilnius,UAB Host Baltic,,Residential/Business,False
+2026-03-06 04:05:15,14.29.203.213,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-03-06 04:05:15,61.76.112.4,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-03-06 04:05:15,112.164.20.69,100,South Korea,Gwangju,Korea Telecom,Kornet,Residential/Business,False
+2026-03-06 04:05:15,176.120.22.13,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-06 04:05:15,52.174.67.71,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-03-06 04:05:15,95.214.52.233,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-03-06 04:05:15,209.74.81.129,100,Singapore,Singapore,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
+2026-03-06 04:05:15,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-03-06 04:05:15,112.6.227.209,100,China,Jinan,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-03-06 04:05:15,20.205.226.191,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-03-06 04:05:15,45.192.96.183,100,Hong Kong,Hong Kong,Vapeline Technology,,Residential/Business,False
+2026-03-06 04:05:15,156.238.252.133,100,United States,Los Angeles,Fastnet Data Inc,cognetcloud INC,Residential/Business,False
+2026-03-06 04:05:15,85.217.140.14,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 04:05:15,81.17.103.226,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-03-06 04:05:15,45.148.10.141,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-06 04:05:15,57.128.248.126,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-03-06 04:05:15,50.6.202.106,100,United States,Ashburn,"Network Solutions, LLC",Oracle Corporation,Data Center,False
+2026-03-06 04:05:15,43.245.249.251,100,Indonesia,Pekanbaru,PT Smart Media Pratama,,Residential/Business,False
+2026-03-06 04:05:15,101.126.54.66,100,China,Chaowai,GHSX,,Residential/Business,True
+2026-03-06 04:05:15,118.121.203.170,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,True
+2026-03-06 04:05:15,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-06 04:05:15,47.254.251.47,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-03-06 04:05:15,122.13.25.186,100,China,Guangzhou,China Unicom CHINA169 Guangdong Network,,Residential/Business,False
+2026-03-06 04:05:15,195.184.76.12,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-06 04:05:15,193.3.53.3,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-03-06 04:05:15,213.74.255.86,100,Turkey,Istanbul,Superonline Iletisim Hizmetleri A.S.,Sahinkayaozel,Residential/Business,False
+2026-03-06 04:05:15,91.192.37.141,100,The Netherlands,Amsterdam,CJ2 Hosting B.V.,Colo,Data Center,False
