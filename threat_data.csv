@@ -32854,3 +32854,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-06 18:36:37,211.169.178.4,100,South Korea,Cheongju-si,LG DACOM Corporation,LG DACOM Corporation,Residential/Business,False
 2026-03-06 18:36:37,37.151.47.27,100,Kazakhstan,Astana,JSC Kazakhtelecom,JSC Kazakhtelecom,Residential/Business,False
 2026-03-06 18:36:37,189.194.140.170,100,Mexico,Puebla City,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-03-06 20:26:23,45.148.10.192,100,Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-03-06 20:26:23,194.195.253.7,100,Australia,Sydney,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-03-06 20:26:23,157.245.54.237,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 20:26:23,118.219.234.233,100,South Korea,Yeonsu-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-03-06 20:26:23,74.88.7.20,100,United States,Norwalk,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-03-06 20:26:23,194.165.16.165,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-03-06 20:26:23,194.187.155.112,100,Ukraine,Lutsk,"""INCOMPLAST SERVICE"" LLC","""INCOMPLAST SERVICE"" LLC",Residential/Business,False
+2026-03-06 20:26:23,194.163.153.137,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-03-06 20:26:23,194.156.248.188,100,Ukraine,Kyiv,Scientific-Production Enterprise Information Technologies Ltd,Scientific-Production Enterprise Information Technologies Ltd,Residential/Business,False
+2026-03-06 20:26:23,194.165.16.166,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-03-06 20:26:23,194.165.16.167,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-03-06 20:26:23,194.156.103.11,100,Armenia,Gavar Municipality,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-03-06 20:26:23,194.233.73.206,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,Residential/Business,False
+2026-03-06 20:26:23,194.190.153.103,100,Russia,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-03-06 20:26:23,45.149.173.193,100,United States,Los Angeles,Clouvider Limited,Clouvider HB,Data Center,True
+2026-03-06 20:26:23,194.165.16.164,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-03-06 20:26:23,194.195.208.6,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-03-06 20:26:23,194.195.208.70,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-03-06 20:26:23,194.163.158.33,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-03-06 20:26:23,194.163.146.95,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-03-06 20:26:23,58.98.197.137,100,Japan,Okinawa,NTT-ME Corporation,NTT-ME Corporation,Residential/Business,False
+2026-03-06 20:26:23,194.190.153.226,100,Russia,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-03-06 20:26:23,194.163.144.25,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-03-06 20:26:23,194.164.59.59,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-03-06 20:26:23,194.165.16.161,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Residential/Business,False
+2026-03-06 20:26:23,194.195.208.25,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-03-06 20:26:23,194.195.208.213,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-03-06 20:26:23,194.163.154.242,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-03-06 20:26:23,91.224.92.115,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,False
+2026-03-06 20:26:23,159.89.121.21,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-03-06 20:26:23,194.85.69.22,100,Russia,Moscow,Letit LLC,Letit LLC,Residential/Business,True
+2026-03-06 20:26:23,194.107.115.2,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-06 20:26:23,194.107.115.65,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-06 20:26:23,64.89.161.182,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-03-06 20:26:23,192.109.200.180,100,Sweden,Stockholm,Pfcloud UG (haftungsbeschrankt),,Residential/Business,False
+2026-03-06 20:26:23,194.61.40.114,100,India,New Delhi,GSL Networks Pty LTD,VPN-Consumer-IN,Mobile,True
+2026-03-06 20:26:23,194.107.115.11,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-06 20:26:23,194.107.115.199,100,Uzbekistan,Tashkent,State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ,DCUNICON v2,Residential/Business,False
+2026-03-06 20:26:23,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-03-06 20:26:23,194.113.195.96,100,United States,New York,"Kamatera, Inc.",Cloud Web Manage,Residential/Business,False
+2026-03-06 20:26:23,194.147.115.75,100,The Netherlands,Dronten,MIRhosting B.V.,IT-DELUX ltd,Data Center,False
+2026-03-06 20:26:23,194.61.40.130,100,India,New Delhi,GSL Networks Pty LTD,VPN-Consumer-IN,Mobile,True
+2026-03-06 20:26:23,194.61.40.116,100,India,New Delhi,GSL Networks Pty LTD,VPN-Consumer-IN,Mobile,True
+2026-03-06 20:26:23,194.156.88.37,100,Germany,Münster,ZAP-Hosting GmbH,ZAP-Hosting GmbH,Residential/Business,False
+2026-03-06 20:26:23,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
