@@ -32899,3 +32899,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-06 20:26:23,194.61.40.116,100,India,New Delhi,GSL Networks Pty LTD,VPN-Consumer-IN,Mobile,True
 2026-03-06 20:26:23,194.156.88.37,100,Germany,Münster,ZAP-Hosting GmbH,ZAP-Hosting GmbH,Residential/Business,False
 2026-03-06 20:26:23,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-06 22:22:13,20.78.169.64,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-03-06 22:22:13,162.19.243.145,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-03-06 22:22:13,89.32.41.122,100,Romania,Sânnicolau Mare,Hostmaze Inc Srl-d,Hostmaze Inc Srl-d,Data Center,False
+2026-03-06 22:22:13,140.249.223.190,100,China,Jinan,"Qingdao, ",Chinanet SD,Residential/Business,False
+2026-03-06 22:22:13,66.116.199.47,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-03-06 22:22:13,160.191.244.236,100,Vietnam,Đố Sơn,Hoang Dieu Cloud Computing Company Limited,DTDMVNCLOUD,Residential/Business,False
+2026-03-06 22:22:13,121.229.9.97,100,China,Hangzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-03-06 22:22:13,14.29.223.101,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-03-06 22:22:13,91.224.92.54,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Residential/Business,True
+2026-03-06 22:22:13,91.202.233.33,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-03-06 22:22:13,117.242.152.81,100,India,Patapur,BSNL Internet,NIB,Residential/Business,False
+2026-03-06 22:22:13,85.217.140.51,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 22:22:13,14.116.202.144,100,China,Guangzhou,CHINANET Guangdong province network,Chinanet GD,Residential/Business,False
+2026-03-06 22:22:13,67.43.243.111,100,United States,Rolla,Fidelity Communication International Inc.,Fidelity Communication International Inc,Residential/Business,False
+2026-03-06 22:22:13,85.217.140.4,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 22:22:13,36.150.51.3,100,China,Nanjing,China Mobile Communications Corporation,China Mobile Communications Corporation,Mobile,False
+2026-03-06 22:22:13,103.14.32.224,100,Germany,Frankfurt am Main,UCloud-HK,,Data Center,False
+2026-03-06 22:22:13,112.120.171.95,100,Hong Kong,Lam Tin,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-03-06 22:22:13,2.57.122.96,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-06 22:22:13,80.74.25.74,100,Netherlands,Amsterdam,Clodo Cloud Service CO. L.L.C,Clodo Cloud Service CO. L.L.C,Residential/Business,False
+2026-03-06 22:22:13,80.94.95.216,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Residential/Business,False
+2026-03-06 22:22:13,176.191.43.176,100,France,Brignais,BOUYGUES Telecom,Bouygues Telecom SA,Residential/Business,False
+2026-03-06 22:22:13,91.230.168.2,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-06 22:22:13,141.98.10.96,100,Lithuania,Kaunas,UAB Host Baltic,,Residential/Business,True
+2026-03-06 22:22:13,165.154.231.129,100,Japan,Tokyo,Scloud Pte Ltd,Scloud Pte Ltd,Residential/Business,False
+2026-03-06 22:22:13,101.53.236.155,100,Pakistan,Karachi,Cyber Internet Services Pakistan,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-03-06 22:22:13,128.14.232.254,100,Indonesia,Jakarta,Zenlayer Inc,UCLOUD,Data Center,False
+2026-03-06 22:22:13,101.36.119.222,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-06 22:22:13,85.209.0.117,100,Finland,Helsinki,I-servers LTD,POWER-SERVERS-ROLE-ORG,Residential/Business,False
+2026-03-06 22:22:13,85.217.149.17,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 22:22:13,143.198.219.55,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-06 22:22:13,85.217.140.49,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-06 22:22:13,207.166.168.14,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-03-06 22:22:13,78.44.192.210,100,Czechia,Prague,Vodafone Czech Republic,UPC Broadband,Residential/Business,False
+2026-03-06 22:22:13,38.114.121.110,100,United States,Chicago,GTHost,GTHost,Mobile,False
+2026-03-06 22:22:13,155.248.164.42,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,True
+2026-03-06 22:22:13,36.71.181.15,100,Indonesia,Pancoran,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-03-06 22:22:13,175.107.32.186,100,Pakistan,Taxila,National Telecommunication Corporation,NTC KHI Dynamic BRAS,Residential/Business,False
+2026-03-06 22:22:13,47.77.235.188,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-03-06 22:22:13,152.32.226.33,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-06 22:22:13,91.192.37.141,100,The Netherlands,Amsterdam,CJ2 Hosting B.V.,Colo,Data Center,False
+2026-03-06 22:22:13,182.140.180.16,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Residential/Business,False
+2026-03-06 22:22:13,117.200.89.85,100,India,Hyderabad,BSNL Internet,,Residential/Business,False
+2026-03-06 22:22:13,45.249.244.136,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-06 22:22:13,161.35.161.149,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
