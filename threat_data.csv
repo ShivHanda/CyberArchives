@@ -32989,3 +32989,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-03-07 01:25:58,189.50.142.82,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Megatelecom Telecomunicacoes Ltda,Residential/Business,False
 2026-03-07 01:25:58,104.131.164.95,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-03-07 01:25:58,203.145.34.82,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,PT Tekstil Original Indonesia,Data Center,False
+2026-03-07 03:55:59,64.89.160.82,100,Lithuania,Kaunas,Ghosty Networks LLC,Netiface America,Residential/Business,False
+2026-03-07 03:55:59,172.191.94.172,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-07 03:55:59,195.184.76.105,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-03-07 03:55:59,152.32.238.146,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-03-07 03:55:59,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-03-07 03:55:59,5.182.83.231,100,Spain,Orihuela,URFO3,,Residential/Business,False
+2026-03-07 03:55:59,92.118.39.87,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,True
+2026-03-07 03:55:59,182.106.187.159,100,China,Taohua,CHINANET Jiangx province IDC network,Chinanet JX,Residential/Business,False
+2026-03-07 03:55:59,134.199.206.124,100,United States,Douglasville,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-07 03:55:59,45.166.78.173,100,Argentina,Villa Cañás,COOPERATIVA DE ELECTRICIDAD SERVICIOS PUBLICOS VIVIENDA Y CREDITO DE V CAÑAS L,COOPERATIVA DE ELECTRICIDAD SERVICIOS PUBLICOS VIVIENDA Y CREDITO DE V CAÑAS LTD,Residential/Business,False
+2026-03-07 03:55:59,103.176.79.117,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT. AwanBit Data Indonesia,Data Center,True
+2026-03-07 03:55:59,2.57.122.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-03-07 03:55:59,176.120.22.47,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,True
+2026-03-07 03:55:59,103.191.92.72,100,Indonesia,Semarang,PT Cloud Hosting Indonesia,PT MAJU BERSAMA TEPAT GUNA,Data Center,False
+2026-03-07 03:55:59,61.76.112.4,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-03-07 03:55:59,193.37.32.78,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Residential/Business,True
+2026-03-07 03:55:59,216.218.206.68,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-03-07 03:55:59,150.246.249.149,100,Japan,Takarazuka,Sony Network Communications Inc,Sony Network Communications Inc.,Residential/Business,False
+2026-03-07 03:55:59,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-03-07 03:55:59,85.217.140.43,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-03-07 03:55:59,201.16.238.49,100,Brazil,São Paulo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-03-07 03:55:59,206.168.34.61,100,United States,Chicago,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-03-07 03:55:59,107.189.1.154,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-03-07 03:55:59,204.76.203.212,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-03-07 03:55:59,217.128.117.49,100,France,Sarzeau,RAIN,LNMSO656 Montsouris Bloc 1,Residential/Business,False
+2026-03-07 03:55:59,54.39.20.135,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-03-07 03:55:59,200.89.178.151,100,Argentina,Buenos Aires,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-03-07 03:55:59,221.159.150.85,100,South Korea,Jeongeup,Korea Telecom,KORNET,Residential/Business,False
+2026-03-07 03:55:59,20.50.192.172,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-03-07 03:55:59,204.76.203.206,100,Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-03-07 03:55:59,20.106.32.192,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-03-07 03:55:59,51.83.162.196,100,Poland,Warsaw,OVH SAS,Yellice Celalettin,Data Center,False
+2026-03-07 03:55:59,103.82.92.40,100,Indonesia,Padalarang,PT Cloud Hosting Indonesia,PT Situs Kreatif Indonesia,Data Center,False
+2026-03-07 03:55:59,20.78.129.228,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-03-07 03:55:59,199.45.154.187,100,United States,New York,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-03-07 03:55:59,117.157.77.71,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-03-07 03:55:59,217.253.123.98,100,Germany,Essen,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-03-07 03:55:59,65.49.20.125,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-03-07 03:55:59,118.107.220.15,100,Malaysia,Cyberjaya,Gigabit Hosting Sdn Bhd,Gigabit Hosting Sdn Bhd,Data Center,False
+2026-03-07 03:55:59,165.227.22.224,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-03-07 03:55:59,193.142.146.230,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Residential/Business,False
+2026-03-07 03:55:59,110.40.168.78,100,China,Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Residential/Business,False
+2026-03-07 03:55:59,2.57.122.96,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-03-07 03:55:59,190.181.27.37,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-03-07 03:55:59,201.6.100.191,100,Brazil,São Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
