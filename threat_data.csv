@@ -95832,3 +95832,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-24 20:56:53,142.4.15.137,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
 2026-07-24 20:56:53,1.34.229.12,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-07-24 20:56:53,179.185.1.97,100,Brazil,Aracaju,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-07-24 22:56:23,66.132.172.123,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-24 22:56:23,66.132.224.90,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-24 22:56:23,196.192.181.202,100,South Africa,Midrand,Metrofibre Networx,,Residential/Business,False
+2026-07-24 22:56:23,91.92.47.125,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-24 22:56:23,94.231.206.2,100,China,Shenzhen,Onyphe SAS,,Residential/Business,False
+2026-07-24 22:56:23,14.46.87.209,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 22:56:23,47.252.16.44,100,United States,Henrico,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-24 22:56:23,8.216.6.87,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-07-24 22:56:23,69.5.169.110,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-24 22:56:23,43.165.174.48,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-24 22:56:23,47.254.150.164,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-07-24 22:56:23,94.23.34.95,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-07-24 22:56:23,116.177.174.231,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-07-24 22:56:23,23.94.28.177,100,United States,Buffalo,HostPapa,Mikhel Francis yap,Data Center,False
+2026-07-24 22:56:23,45.88.186.184,100,United States,Miami,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-07-24 22:56:23,155.4.245.222,100,Sweden,Helsingborg,Bahnhof AB,,Residential/Business,False
+2026-07-24 22:56:23,27.72.46.152,100,Vietnam,Hanoi,Newass2011xDSLHN,,Residential/Business,False
+2026-07-24 22:56:23,185.242.226.90,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-07-24 22:56:23,66.132.172.132,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-24 22:56:23,149.78.8.0,100,Brazil,Poço Branco,EWERTON DA SILVA LOPES TELECOMUNICACOES/ SUPORTI,EWERTON DA SILVA LOPES TELECOMUNICACOES/ SUPORTI,Residential/Business,False
+2026-07-24 22:56:23,94.154.43.243,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-24 22:56:23,45.154.98.94,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-07-24 22:56:23,80.94.92.152,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-07-24 22:56:23,54.84.250.51,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-24 22:56:23,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-24 22:56:23,47.84.140.143,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-24 22:56:23,120.48.15.138,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-24 22:56:23,94.154.43.43,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-24 22:56:23,94.154.43.36,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-24 22:56:23,167.71.222.255,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-24 22:56:23,20.52.54.143,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-07-24 22:56:23,20.203.142.71,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-07-24 22:56:23,217.60.195.60,100,The Netherlands,Eygelshoven,Swissnet LLC,pfcloude,Residential/Business,False
+2026-07-24 22:56:23,173.249.25.64,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-07-24 22:56:23,101.96.200.56,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-07-24 22:56:23,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-24 22:56:23,119.17.198.72,100,Vietnam,Hanoi,Netnam Corporation,NETNAM,Residential/Business,False
+2026-07-24 22:56:23,34.80.53.219,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-07-24 22:56:23,77.83.39.17,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-07-24 22:56:23,94.102.49.193,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-07-24 22:56:23,195.184.76.105,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 22:56:23,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-24 22:56:23,49.51.199.112,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-07-24 22:56:23,93.174.95.106,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-07-24 22:56:23,3.81.253.213,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-07-24 22:56:23,39.115.195.164,100,South Korea,Gwanak-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-07-24 22:56:23,27.79.2.127,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-07-24 22:56:23,45.153.34.114,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-24 22:56:23,93.84.97.4,100,Belarus,Minsk,Republican Unitary Telecommunication Enterprise Beltelecom,Riveks Mrtses,Residential/Business,False
+2026-07-24 22:56:23,92.154.95.236,100,France,Paris,France Telecom Orange,,Residential/Business,False
