@@ -95732,3 +95732,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-24 17:23:54,47.242.111.161,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
 2026-07-24 17:23:54,220.245.133.202,100,Australia,Perth,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
 2026-07-24 17:23:54,125.142.37.91,100,South Korea,Gyeonggi-do,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-07-24 19:17:00,20.215.251.225,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-07-24 19:17:00,45.153.34.181,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-24 19:17:00,165.154.11.48,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-24 19:17:00,172.208.24.40,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-24 19:17:00,98.70.127.17,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-24 19:17:00,103.91.120.219,100,India,Mumbai,Peering Exchange Inc,Peering Exchange Inc,Residential/Business,False
+2026-07-24 19:17:00,220.118.173.234,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 19:17:00,195.184.76.235,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 19:17:00,91.231.89.81,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 19:17:00,116.41.81.52,100,South Korea,Seongdong-gu,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-07-24 19:17:00,187.8.3.230,100,Brazil,São José do Rio Preto,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-24 19:17:00,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-24 19:17:00,43.228.157.161,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-24 19:17:00,103.43.191.43,100,Hong Kong,Kwai Chung,West263 International Limited,Zhongya PTE LTD,Mobile,False
+2026-07-24 19:17:00,59.36.254.224,100,China,Guangzhou,CHINANET Guangdong province Yuedong MAN network,Chinanet GD,Residential/Business,False
+2026-07-24 19:17:00,213.177.179.91,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-24 19:17:00,162.144.34.123,100,United States,Provo,Unified Layer,Unified Layer,Data Center,True
+2026-07-24 19:17:00,85.11.167.16,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-24 19:17:00,195.184.76.13,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 19:17:00,37.202.236.238,100,Iran,Tehran,SHATEL Network,TehranServer,Residential/Business,False
+2026-07-24 19:17:00,180.151.244.108,100,India,Delhi,Shyam Spectra Pvt Ltd,Shyam Spectra Pvt Ltd,Residential/Business,False
+2026-07-24 19:17:00,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-24 19:17:00,92.126.223.175,100,Russia,Ulan-Ude,"OJSC ""Sibirtelecom""",OJSC Sibirtelecom,Residential/Business,False
+2026-07-24 19:17:00,101.100.194.181,100,Singapore,Singapore,Vodien Internet Solutions Pte Ltd,Vodien Internet Solutions Pte Ltd,Data Center,False
+2026-07-24 19:17:00,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-24 19:17:00,104.28.214.113,100,United States,St Louis,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-07-24 19:17:00,20.169.81.90,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-24 19:17:00,220.93.167.144,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 19:17:00,40.124.127.239,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-24 19:17:00,162.240.44.39,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-07-24 19:17:00,176.65.149.64,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-07-24 19:17:00,182.18.139.237,100,India,Madhapur,CtrlS,CtrlS Datacenters Ltd.,Data Center,False
+2026-07-24 19:17:00,45.82.78.105,100,Singapore,Singapore,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
+2026-07-24 19:17:00,110.164.193.195,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Jasmine International Public Company Limited,Residential/Business,False
+2026-07-24 19:17:00,170.106.165.76,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-07-24 19:17:00,202.29.228.248,100,Thailand,Ratchathewi,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-07-24 19:17:00,172.204.17.66,100,New Zealand,Auckland,Microsoft,Microsoft Azure Cloud (newzealandnorth),Data Center,False
+2026-07-24 19:17:00,18.221.179.104,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-24 19:17:00,45.156.87.147,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-24 19:17:00,4.232.90.10,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-07-24 19:17:00,218.255.103.194,100,Hong Kong,Kowloon Bay,HKBN Enterprise Solutions HK Limited,HKBNES,Residential/Business,False
+2026-07-24 19:17:00,103.20.97.75,100,Vietnam,An Phú,FASTBYTE,Fast Byte Fast Data Company Limited,Residential/Business,False
+2026-07-24 19:17:00,203.192.211.180,100,India,Mumbai,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-07-24 19:17:00,118.193.61.170,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-24 19:17:00,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-07-24 19:17:00,103.163.214.149,100,Vietnam,Phú Lâm,Lanit Technology and Communication Joint Stock Company,Dong Hung PHU Company Limited,Residential/Business,False
+2026-07-24 19:17:00,91.196.152.195,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 19:17:00,91.196.152.193,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 19:17:00,167.71.113.24,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-24 19:17:00,41.248.243.181,100,Morocco,Bouskoura,IP Static MarocTelecom,,Residential/Business,False
