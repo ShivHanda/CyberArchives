@@ -95782,3 +95782,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-24 19:17:00,91.196.152.193,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-07-24 19:17:00,167.71.113.24,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-07-24 19:17:00,41.248.243.181,100,Morocco,Bouskoura,IP Static MarocTelecom,,Residential/Business,False
+2026-07-24 20:56:53,20.64.105.82,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-24 20:56:53,31.14.254.107,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-24 20:56:53,77.90.185.135,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-07-24 20:56:53,122.160.11.40,100,India,New Delhi,BHARTI,Abts Delhi,Residential/Business,False
+2026-07-24 20:56:53,169.58.18.159,100,France,Lauterbourg,SoftLayer,"SoftLayer Technologies, Inc",Data Center,False
+2026-07-24 20:56:53,106.119.165.171,100,China,Shijiazhuang,"Shijiazhuang IDC network, CHINANET Hebei province",Chinanet HE,Residential/Business,False
+2026-07-24 20:56:53,195.184.76.2,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 20:56:53,120.52.18.38,100,China,Beijing,China Unicom IP network,China Unicom Cloud Data Company Limited,Residential/Business,False
+2026-07-24 20:56:53,172.110.223.228,100,United States,Newark,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-07-24 20:56:53,193.124.20.234,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Mobile,True
+2026-07-24 20:56:53,20.228.179.34,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-24 20:56:53,14.22.82.116,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-07-24 20:56:53,148.66.133.23,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,False
+2026-07-24 20:56:53,152.32.172.177,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-24 20:56:53,68.221.66.24,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-07-24 20:56:53,202.153.46.43,100,India,Lal Bahadur Nagar,Excell Media Pvt Ltd,Excell Media Pvt Ltd,Residential/Business,False
+2026-07-24 20:56:53,221.229.220.180,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-24 20:56:53,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-07-24 20:56:53,24.207.66.154,100,Canada,Delta,Delta Cable Communications Ltd.,Delta DCCNet High Speed Internet,Residential/Business,False
+2026-07-24 20:56:53,45.142.193.198,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-07-24 20:56:53,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-07-24 20:56:53,152.32.182.41,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-07-24 20:56:53,178.128.165.104,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-07-24 20:56:53,45.153.34.149,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-24 20:56:53,45.154.98.101,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Residential/Business,False
+2026-07-24 20:56:53,62.132.18.142,100,United States,Glen Cove,Bunny Communications,,Residential/Business,False
+2026-07-24 20:56:53,122.187.240.209,100,India,Bengaluru,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-07-24 20:56:53,175.193.167.252,100,South Korea,Eunpyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 20:56:53,65.99.181.123,100,Sweden,Bollmora,IP-Only,Viasat Satellite Services AB,Mobile,False
+2026-07-24 20:56:53,145.239.89.124,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-07-24 20:56:53,135.225.93.215,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-24 20:56:53,20.169.107.167,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-24 20:56:53,47.250.148.91,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-07-24 20:56:53,66.132.195.122,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-07-24 20:56:53,173.198.33.50,100,United States,Bellflower,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-07-24 20:56:53,107.150.100.146,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-24 20:56:53,66.132.172.107,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-24 20:56:53,172.191.178.196,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-24 20:56:53,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-07-24 20:56:53,181.49.8.57,100,Colombia,Zipaquirá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-07-24 20:56:53,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-24 20:56:53,91.92.40.200,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-24 20:56:53,20.251.56.33,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-07-24 20:56:53,206.135.24.10,100,Mexico,Valle Hermoso,GTT Americas,Ientc S De RL De CV,Residential/Business,False
+2026-07-24 20:56:53,139.185.55.154,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Data Center,False
+2026-07-24 20:56:53,174.35.25.181,100,United States,Los Angeles,Meteverse Limited.,CDNetworks Inc,Residential/Business,False
+2026-07-24 20:56:53,37.204.111.153,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-07-24 20:56:53,142.4.15.137,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-07-24 20:56:53,1.34.229.12,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-07-24 20:56:53,179.185.1.97,100,Brazil,Aracaju,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
