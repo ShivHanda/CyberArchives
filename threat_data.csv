@@ -95682,3 +95682,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-24 15:21:51,45.82.76.110,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Residential/Business,False
 2026-07-24 15:21:51,124.155.125.131,100,Japan,Chiyoda City,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
 2026-07-24 15:21:51,91.196.152.218,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 17:23:54,165.154.129.74,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-24 17:23:54,36.34.82.54,100,China,Hefei,China Unicom Anhui Province Network,,Residential/Business,False
+2026-07-24 17:23:54,47.84.200.9,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-24 17:23:54,80.102.218.207,100,Spain,Frigiliana,Uni2 1,,Residential/Business,False
+2026-07-24 17:23:54,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-24 17:23:54,27.24.141.160,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-07-24 17:23:54,212.0.217.14,100,Moldova,Chisinau,JSC MOLDTELECOM SA,JSC Moldtelecom S.A.,Mobile,False
+2026-07-24 17:23:54,121.131.220.168,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 17:23:54,122.177.247.126,100,India,Hyderabad,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-07-24 17:23:54,104.208.89.156,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-07-24 17:23:54,91.196.152.219,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 17:23:54,159.65.224.88,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-24 17:23:54,193.32.162.42,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-07-24 17:23:54,185.223.235.51,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-24 17:23:54,27.124.111.122,100,Australia,Newcastle,Anycast Holdings PTY LTD,CountryTell Management Pty Ltd,Residential/Business,False
+2026-07-24 17:23:54,115.22.172.123,100,South Korea,Busan,Korea Telecom,Kornet,Residential/Business,False
+2026-07-24 17:23:54,116.181.16.88,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-07-24 17:23:54,74.248.136.76,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-07-24 17:23:54,116.71.136.125,100,Pakistan,Dera Ismail Khan,PTCL Triple Play Project,,Residential/Business,False
+2026-07-24 17:23:54,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-24 17:23:54,185.247.137.52,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-24 17:23:54,77.90.185.73,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-07-24 17:23:54,218.58.73.238,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,True
+2026-07-24 17:23:54,52.188.185.84,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-24 17:23:54,65.108.36.152,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-07-24 17:23:54,66.132.172.204,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-24 17:23:54,194.50.235.130,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-24 17:23:54,173.239.240.225,100,United States,Edison,LogicWeb Inc.,,Residential/Business,True
+2026-07-24 17:23:54,172.236.228.86,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-07-24 17:23:54,103.241.43.193,100,Vietnam,Đinh Công Hạ,MMOSOFT,MMO Viet NAM Software Company Limited,Residential/Business,False
+2026-07-24 17:23:54,91.196.152.180,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-24 17:23:54,192.161.49.2,100,United States,Ashland,HostPapa,Xiaoshuai Shuai,Data Center,False
+2026-07-24 17:23:54,45.135.141.13,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-07-24 17:23:54,128.185.253.122,100,India,Delhi,Bharti Airtel Limited,Bharti Airtel Ltd.,Mobile,False
+2026-07-24 17:23:54,103.163.116.220,100,Bangladesh,Paltan,Moghbazar Dot,Maksudur Rashed,Residential/Business,False
+2026-07-24 17:23:54,159.223.97.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-24 17:23:54,197.5.145.150,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-07-24 17:23:54,180.93.250.24,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-07-24 17:23:54,112.219.151.50,100,South Korea,Yongsan-dong,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-07-24 17:23:54,14.225.253.26,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-07-24 17:23:54,43.228.157.10,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-24 17:23:54,112.216.129.27,100,South Korea,Mapo-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-07-24 17:23:54,185.74.7.77,100,Uzbekistan,Salor,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Residential/Business,False
+2026-07-24 17:23:54,109.105.210.97,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Data Center,False
+2026-07-24 17:23:54,165.154.173.35,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-24 17:23:54,172.213.225.181,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-07-24 17:23:54,181.48.176.134,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-07-24 17:23:54,47.242.111.161,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-07-24 17:23:54,220.245.133.202,100,Australia,Perth,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-07-24 17:23:54,125.142.37.91,100,South Korea,Gyeonggi-do,Korea Telecom,Korea Telecom,Residential/Business,False
