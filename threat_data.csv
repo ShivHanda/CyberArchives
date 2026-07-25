@@ -96182,3 +96182,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-25 14:57:29,47.89.246.144,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
 2026-07-25 14:57:29,85.217.140.46,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-07-25 14:57:29,77.239.124.239,100,The Netherlands,Amsterdam,"Ace Data Centers II, L.L.C.",Alfahost LLC,Residential/Business,False
+2026-07-25 16:51:21,135.225.93.215,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-25 16:51:21,14.103.107.221,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-25 16:51:21,46.101.147.100,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-25 16:51:21,149.102.230.117,100,Germany,Frankfurt am Main,Datacamp Limited,Datacamp Limited,Data Center,True
+2026-07-25 16:51:21,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-07-25 16:51:21,4.225.203.146,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-25 16:51:21,69.6.222.101,100,Brazil,São Paulo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-25 16:51:21,45.77.61.56,100,France,Aubervilliers,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-07-25 16:51:21,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-07-25 16:51:21,4.224.59.75,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-25 16:51:21,134.209.33.226,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-25 16:51:21,92.62.233.214,100,Czechia,České Budějovice,Starnet s.r.o,Starnet s.r.o.,Residential/Business,False
+2026-07-25 16:51:21,170.106.105.73,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-07-25 16:51:21,128.14.225.164,100,Germany,Frankfurt Am Main,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-25 16:51:21,35.188.233.65,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-07-25 16:51:21,174.138.9.59,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-25 16:51:21,46.224.176.19,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-07-25 16:51:21,189.113.3.83,100,Brazil,Osasco,Under Servicos de Internet Ltda,Metropolitan Transportes S.A,Data Center,False
+2026-07-25 16:51:21,101.47.156.21,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-07-25 16:51:21,217.182.253.249,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-07-25 16:51:21,118.193.39.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 16:51:21,196.196.150.99,100,Spain,Valencia,Orion Network Limited,Fiber Grid,Residential/Business,True
+2026-07-25 16:51:21,193.46.0.75,100,United Kingdom,London,"Rackdog, LLC","Sneaker Server, LLC",Residential/Business,True
+2026-07-25 16:51:21,188.166.170.179,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-07-25 16:51:21,118.123.1.40,100,China,Chengdu,Chinanet,SC MY Lanxun Tech Corp,Residential/Business,False
+2026-07-25 16:51:21,47.251.187.66,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-25 16:51:21,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-25 16:51:21,183.171.49.144,100,Malaysia,Petaling Jaya,Celcom Axiata Berhad,Celcom Axiata Berhad,Mobile,False
+2026-07-25 16:51:21,162.211.181.45,100,Hong Kong,Hong Kong,Corenet Cloud Sdn. Bhd.,G NETWORK LLC,Residential/Business,False
+2026-07-25 16:51:21,27.128.240.75,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-07-25 16:51:21,40.124.127.239,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-25 16:51:21,170.187.165.219,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-25 16:51:21,203.88.119.100,100,United States,Los Angeles,AussieHQ Pty Ltd,Webcentral PTY LTD,Data Center,False
+2026-07-25 16:51:21,107.155.15.218,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-25 16:51:21,4.211.84.189,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-07-25 16:51:21,65.20.237.119,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-07-25 16:51:21,165.101.250.39,100,India,Mumbai,Joy Services,JOY Services,Residential/Business,False
+2026-07-25 16:51:21,36.133.214.135,100,China,Guangzhou,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-07-25 16:51:21,92.205.177.212,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Residential/Business,False
+2026-07-25 16:51:21,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-25 16:51:21,20.12.240.164,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-25 16:51:21,5.187.35.26,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Data Center,False
+2026-07-25 16:51:21,54.91.134.82,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-25 16:51:21,36.33.167.165,100,China,Hefei,China Unicom Anhui Province Network,,Residential/Business,False
+2026-07-25 16:51:21,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
