@@ -95882,3 +95882,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-24 22:56:23,45.153.34.114,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
 2026-07-24 22:56:23,93.84.97.4,100,Belarus,Minsk,Republican Unitary Telecommunication Enterprise Beltelecom,Riveks Mrtses,Residential/Business,False
 2026-07-24 22:56:23,92.154.95.236,100,France,Paris,France Telecom Orange,,Residential/Business,False
+2026-07-25 02:06:44,89.126.222.149,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-07-25 02:06:44,181.115.171.216,100,Bolivia,La Paz,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-07-25 02:06:44,211.37.174.180,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-25 02:06:44,47.77.231.186,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-25 02:06:44,104.208.89.156,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-07-25 02:06:44,90.151.171.109,100,Russia,Chelyabinsk,"OJSC ""Uralsvyazinform""",Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-07-25 02:06:44,103.153.254.96,100,Vietnam,Vinhomes Royal City,VINAHOST-HN,Representative Office in Hanoi of Vinahost Company Limited,Residential/Business,True
+2026-07-25 02:06:44,80.208.57.19,100,Denmark,Silkeborg,FIBIA P/S,Fibia Network,Residential/Business,False
+2026-07-25 02:06:44,62.150.237.107,100,Kuwait,Kuwait City,Kuwait Telecommunication Company (Under Association),Qualitynet General Trading Co.,Residential/Business,False
+2026-07-25 02:06:44,202.191.58.34,100,Vietnam,Hanoi,HaNoi University of science and technology,HUT,Residential/Business,False
+2026-07-25 02:06:44,52.248.40.89,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-25 02:06:44,77.90.185.42,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-07-25 02:06:44,106.12.124.63,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-25 02:06:44,51.161.8.211,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-07-25 02:06:44,148.253.35.40,100,South Korea,Seoul,Meteverse Limited.,"CDNetworks, Co.",Residential/Business,False
+2026-07-25 02:06:44,156.245.246.50,100,United States,Los Angeles,VpsQuan L.L.C.,Binary Networks Solutions LLC,Data Center,False
+2026-07-25 02:06:44,193.168.196.14,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Mobile,False
+2026-07-25 02:06:44,47.91.67.138,100,Germany,Frankfurt am Main,Alibaba.com LLC,ALICLOUD-GM,Data Center,False
+2026-07-25 02:06:44,94.26.106.19,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-25 02:06:44,154.83.197.87,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-07-25 02:06:44,34.124.225.147,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-07-25 02:06:44,38.207.136.155,100,Japan,Tokyo,Cogent Communications,Nearoute Limited,Residential/Business,False
+2026-07-25 02:06:44,83.243.123.167,100,Austria,Vienna,EDIS GmbH,EDIS GmbH,Data Center,False
+2026-07-25 02:06:44,193.163.125.229,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-25 02:06:44,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-25 02:06:44,102.210.149.105,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-07-25 02:06:44,23.95.25.133,100,United States,Los Angeles,HostPapa,,Data Center,False
+2026-07-25 02:06:44,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 02:06:44,187.230.22.130,100,Mexico,Nogales,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-07-25 02:06:44,79.124.56.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-07-25 02:06:44,103.208.219.38,100,Australia,Surry Hills,Hostopia Australia Web Pty Ltd,Hostopia Australia Web Pty Ltd,Data Center,False
+2026-07-25 02:06:44,65.49.1.67,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-25 02:06:44,103.4.145.50,100,Bangladesh,Dhaka,Next Online Ltd,Next Online Limited,Residential/Business,False
+2026-07-25 02:06:44,45.155.90.234,100,Hong Kong,Kwun Tong,haoxiangyun,Superhub Limited,Residential/Business,False
+2026-07-25 02:06:44,103.189.235.176,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-07-25 02:06:44,94.154.43.12,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-25 02:06:44,45.133.173.29,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Mobile,True
+2026-07-25 02:06:44,165.227.39.235,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-25 02:06:44,108.178.17.26,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-07-25 02:06:44,37.202.236.238,100,Iran,Tehran,SHATEL Network,TehranServer,Residential/Business,False
+2026-07-25 02:06:44,179.102.26.14,100,Brazil,Pinhais,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-25 02:06:44,186.10.86.130,100,Chile,Santiago,Entel Chile S.A.,Entel Chile S.A,Residential/Business,False
+2026-07-25 02:06:44,14.63.217.28,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-25 02:06:44,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-25 02:06:44,199.45.154.146,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-07-25 02:06:44,103.13.206.152,100,Singapore,Singapore,Cloud Host Pte Ltd,CLOUDHOST,Data Center,False
+2026-07-25 02:06:44,203.116.129.55,100,Singapore,Singapore,STARHUBINTERNET,,Residential/Business,False
+2026-07-25 02:06:44,64.62.197.211,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-07-25 02:06:44,74.48.45.140,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc.,Data Center,False
+2026-07-25 02:06:44,184.105.139.91,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
