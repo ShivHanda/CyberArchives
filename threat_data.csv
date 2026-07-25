@@ -96277,3 +96277,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-25 18:58:39,45.157.156.222,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Mobile,False
 2026-07-25 18:58:39,120.48.90.166,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
 2026-07-25 18:58:39,13.89.124.16,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-25 20:42:37,101.32.145.199,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-07-25 20:42:37,66.132.172.252,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-25 20:42:37,35.233.69.31,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-07-25 20:42:37,20.64.105.252,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-25 20:42:37,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-07-25 20:42:37,86.102.114.2,100,Russia,Vladivostok,PRIMORYE,"Okna Rosta, LTD",Residential/Business,False
+2026-07-25 20:42:37,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 20:42:37,189.190.217.141,100,Mexico,Puebla City,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-07-25 20:42:37,172.213.225.181,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-07-25 20:42:37,37.238.45.202,100,Iraq,Baghdad,EarthLink Ltd. Communications&,Hulum,Residential/Business,False
+2026-07-25 20:42:37,77.83.39.17,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Residential/Business,False
+2026-07-25 20:42:37,91.92.47.208,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-25 20:42:37,180.76.119.95,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-25 20:42:37,172.172.131.149,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-25 20:42:37,14.55.144.22,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,False
+2026-07-25 20:42:37,45.198.224.5,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Residential/Business,False
+2026-07-25 20:42:37,69.74.29.21,100,United States,New Rochelle,Cablevision Lightpath LLC,Cablevision Systems Corp,Residential/Business,False
+2026-07-25 20:42:37,85.217.140.38,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 20:42:37,125.142.37.91,100,South Korea,Gyeonggi-do,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-07-25 20:42:37,103.154.63.62,100,Vietnam,Cầu Giấy,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Residential/Business,False
+2026-07-25 20:42:37,165.154.138.33,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 20:42:37,161.132.47.68,100,Peru,Ventanilla,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,True
+2026-07-25 20:42:37,47.245.142.160,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
+2026-07-25 20:42:37,66.132.186.254,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
+2026-07-25 20:42:37,121.179.93.147,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-07-25 20:42:37,213.209.159.226,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-25 20:42:37,58.222.244.226,100,China,Nanjing,Chinanet,,Residential/Business,False
+2026-07-25 20:42:37,85.95.166.40,100,Russia,Atemar,Branch in Mordovian Republic PJSC Rostelecom,Branch in Mordovian Republic Open Joint-Stock Company,Residential/Business,False
+2026-07-25 20:42:37,185.113.139.51,100,Latvia,Riga,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-07-25 20:42:37,14.225.245.134,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-07-25 20:42:37,45.43.60.220,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-25 20:42:37,43.165.190.208,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-25 20:42:37,209.42.18.223,100,United Kingdom,London,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Residential/Business,True
+2026-07-25 20:42:37,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-07-25 20:42:37,45.90.123.233,100,Germany,Karlsruhe,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-07-25 20:42:37,77.90.185.42,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-07-25 20:42:37,213.66.197.199,100,Sweden,Arvika,Telia Company AB,,Residential/Business,False
+2026-07-25 20:42:37,189.206.189.150,100,Mexico,Valle Hermoso,"Alestra, S. de R.L. de C.V.","Alestra, S. de R.L. de C.V",Residential/Business,False
+2026-07-25 20:42:37,95.57.207.100,100,Kazakhstan,Aktau,JSC Kazakhtelecom,LLC Nursat+ Torgaev Erzhan,Residential/Business,False
+2026-07-25 20:42:37,115.68.226.19,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-07-25 20:42:37,121.229.9.110,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-25 20:42:37,66.132.172.220,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-25 20:42:37,2.57.17.187,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-07-25 20:42:37,118.103.236.224,100,Pakistan,Karachi,Connect Communication,Connect Communication,Residential/Business,False
+2026-07-25 20:42:37,62.210.142.177,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-07-25 20:42:37,103.163.116.222,100,Bangladesh,Paltan,Moghbazar Dot,Maksudur Rashed,Residential/Business,False
+2026-07-25 20:42:37,66.132.186.186,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
+2026-07-25 20:42:37,192.253.248.67,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Residential/Business,True
+2026-07-25 20:42:37,188.166.40.87,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-25 20:42:37,180.246.206.137,100,Indonesia,Medan,PT. TELKOM INDONESIA,,Residential/Business,False
