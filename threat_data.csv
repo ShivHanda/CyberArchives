@@ -96327,3 +96327,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-25 20:42:37,192.253.248.67,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Residential/Business,True
 2026-07-25 20:42:37,188.166.40.87,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-07-25 20:42:37,180.246.206.137,100,Indonesia,Medan,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-07-25 22:48:03,43.228.157.10,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-25 22:48:03,185.242.226.19,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-07-25 22:48:03,14.103.115.213,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-25 22:48:03,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 22:48:03,103.186.101.231,100,Vietnam,Quận Một,DC Digital Data HUB Company Limited,DATAHUB,Residential/Business,False
+2026-07-25 22:48:03,120.48.175.69,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-25 22:48:03,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-07-25 22:48:03,14.225.206.187,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-07-25 22:48:03,58.224.62.29,100,South Korea,Yangch'on-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-07-25 22:48:03,123.58.215.226,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 22:48:03,101.32.145.199,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-07-25 22:48:03,46.105.132.33,100,France,Courbevoie,OVH SAS,abuse.intrinsec.com Site Abuse,Data Center,False
+2026-07-25 22:48:03,71.6.232.27,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-07-25 22:48:03,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-25 22:48:03,157.230.98.155,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-25 22:48:03,162.144.105.39,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-07-25 22:48:03,31.14.254.43,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-25 22:48:03,49.51.188.155,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-07-25 22:48:03,41.193.100.133,100,South Africa,Johannesburg,Vox Telecommunications PTY Ltd,CPT Voice & Connectivity Solutions,Residential/Business,False
+2026-07-25 22:48:03,178.128.57.111,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-07-25 22:48:03,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-07-25 22:48:03,130.12.180.174,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Residential/Business,False
+2026-07-25 22:48:03,185.247.137.32,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-25 22:48:03,117.72.209.201,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-07-25 22:48:03,45.134.20.160,100,Australia,Sydney,VPN,VPN-Consumer-AU,Residential/Business,True
+2026-07-25 22:48:03,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-07-25 22:48:03,138.197.137.54,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-25 22:48:03,34.76.28.177,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-07-25 22:48:03,14.103.95.175,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-25 22:48:03,85.217.149.68,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 22:48:03,115.190.53.236,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-07-25 22:48:03,152.32.131.77,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 22:48:03,209.141.43.146,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-07-25 22:48:03,102.129.84.20,100,Republic of the Congo,Brazzaville,Congo Telecom,,Residential/Business,False
+2026-07-25 22:48:03,102.220.160.42,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Residential/Business,False
+2026-07-25 22:48:03,209.99.189.177,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Residential/Business,False
+2026-07-25 22:48:03,167.99.140.244,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-25 22:48:03,213.164.133.23,100,Germany,Kaarst,Itemax GmbH,Megabit Informationstechnik GmbH,Residential/Business,False
+2026-07-25 22:48:03,112.184.60.138,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-07-25 22:48:03,91.231.218.149,100,Russia,Moldovka,SYSTEMA Ltd,SYSTEMA Ltd,Residential/Business,False
+2026-07-25 22:48:03,94.180.129.35,100,Russia,Kazan',"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Kazan' Branch",Residential/Business,False
+2026-07-25 22:48:03,154.70.102.114,100,Cameroon,Douala,MTN Network Solutions (Cameroon),DataCenter Douala,Mobile,False
+2026-07-25 22:48:03,118.193.57.121,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 22:48:03,128.1.32.99,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-25 22:48:03,46.4.66.93,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-07-25 22:48:03,138.197.146.45,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-25 22:48:03,31.77.144.118,100,Sweden,Stockholm,Play2go International Limited,,Residential/Business,False
+2026-07-25 22:48:03,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-25 22:48:03,193.163.125.199,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-25 22:48:03,52.173.161.248,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
