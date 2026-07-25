@@ -96082,3 +96082,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-25 11:04:49,193.176.31.252,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-07-25 11:04:49,91.196.152.246,100,France,Roubaix,Onyphe SAS,ONYPHE,Residential/Business,False
 2026-07-25 11:04:49,128.185.12.179,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-07-25 13:11:22,121.169.236.186,100,South Korea,Yeoju,Korea Telecom,Sudogwongangnambonbujang,Residential/Business,False
+2026-07-25 13:11:22,183.104.220.152,100,South Korea,Jinju,Korea Telecom,Kornet,Residential/Business,False
+2026-07-25 13:11:22,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-25 13:11:22,94.154.43.146,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-25 13:11:22,20.13.164.162,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-07-25 13:11:22,31.132.90.3,100,Kazakhstan,Astana,Customers FTTB,,Residential/Business,True
+2026-07-25 13:11:22,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-25 13:11:22,191.193.162.238,100,Brazil,Americana,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-25 13:11:22,118.194.234.189,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-07-25 13:11:22,154.16.44.89,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-07-25 13:11:22,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-25 13:11:22,47.84.135.203,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-25 13:11:22,203.150.107.244,100,Thailand,Vadhana,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
+2026-07-25 13:11:22,178.62.97.244,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-25 13:11:22,104.234.53.40,100,United States,New York,Velcom,ONTAR-40 (Velcom INC),Residential/Business,True
+2026-07-25 13:11:22,5.253.38.54,100,United Kingdom,London,CNServer LLC,Securewan,Residential/Business,False
+2026-07-25 13:11:22,83.83.112.125,100,The Netherlands,Utrecht,ZIGGO-CM,Casema NV,Residential/Business,False
+2026-07-25 13:11:22,51.75.27.218,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-07-25 13:11:22,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-07-25 13:11:22,158.94.211.49,100,The Netherlands,Rotterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-07-25 13:11:22,107.173.67.202,100,United States,Buffalo,ColoCrossing,VortexServers,Data Center,False
+2026-07-25 13:11:22,141.98.10.182,100,Lithuania,Kaunas,UAB Host Baltic,,Residential/Business,False
+2026-07-25 13:11:22,135.119.74.228,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-25 13:11:22,125.124.183.254,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-07-25 13:11:22,42.51.49.166,100,China,Shenzhen,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Data Center,False
+2026-07-25 13:11:22,18.190.15.50,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-25 13:11:22,211.228.218.47,100,South Korea,Jung-gu,Korea Telecom,,Residential/Business,False
+2026-07-25 13:11:22,82.39.212.105,100,Germany,Frankfurt am Main,NolimitCloud s.r.o,,Residential/Business,False
+2026-07-25 13:11:22,206.189.210.196,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-25 13:11:22,1.238.106.229,100,South Korea,Seongnam-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-07-25 13:11:22,43.166.168.6,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-07-25 13:11:22,43.153.96.204,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-07-25 13:11:22,89.21.67.183,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-25 13:11:22,213.160.71.106,100,Germany,Aachen,Hosting.de GmbH,.net,Data Center,True
+2026-07-25 13:11:22,117.172.226.189,100,China,Chengdu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-25 13:11:22,74.248.33.8,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-07-25 13:11:22,103.216.145.2,100,India,Thane,Facts Online Pvt Ltd,Facts Online Pvt Ltd,Residential/Business,False
+2026-07-25 13:11:22,103.166.103.173,100,Pakistan,Shujaabad,Grand Tel Private Limited,Telehouse Pvt Ltd,Residential/Business,False
+2026-07-25 13:11:22,120.48.134.186,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-25 13:11:22,20.203.209.227,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-07-25 13:11:22,65.49.1.132,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-25 13:11:22,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-25 13:11:22,207.154.228.222,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-25 13:11:22,103.108.67.180,100,Hong Kong,Hong Kong,cognetcloud INC,HUANGYUN,Residential/Business,False
+2026-07-25 13:11:22,118.196.86.5,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-07-25 13:11:22,125.212.217.143,100,Vietnam,Hanoi,Viettel Group,Viettel Group,Residential/Business,False
+2026-07-25 13:11:22,8.134.122.55,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-07-25 13:11:22,152.32.163.183,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-25 13:11:22,54.37.235.85,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-07-25 13:11:22,198.154.216.214,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
