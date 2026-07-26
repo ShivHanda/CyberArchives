@@ -96377,3 +96377,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-25 22:48:03,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-07-25 22:48:03,193.163.125.199,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
 2026-07-25 22:48:03,52.173.161.248,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-26 02:11:40,161.35.56.30,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-26 02:11:40,165.154.1.18,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-26 02:11:40,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-07-26 02:11:40,2.57.17.139,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-07-26 02:11:40,159.223.97.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-26 02:11:40,12.156.67.18,100,United States,Oakland,"AT&T Enterprises, LLC",Sikh Gurdwara-sj,Residential/Business,False
+2026-07-26 02:11:40,89.21.67.149,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-26 02:11:40,103.158.231.81,100,India,Balotra,A2j Data Services Pvt. Ltd.,NIXI,Residential/Business,False
+2026-07-26 02:11:40,103.167.89.222,100,Vietnam,Liên Chiểu,JOBKEY,Jobkey Joint Stock Company,Residential/Business,False
+2026-07-26 02:11:40,202.29.223.30,100,Thailand,Ratchathewi,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-07-26 02:11:40,138.197.83.237,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-26 02:11:40,94.154.43.200,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-07-26 02:11:40,43.228.157.8,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-26 02:11:40,182.105.123.10,100,China,Taohua,Chinanet,Chinanet JX,Residential/Business,False
+2026-07-26 02:11:40,61.223.67.238,100,Taiwan,Changhua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-07-26 02:11:40,34.195.23.187,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-26 02:11:40,101.96.200.56,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-07-26 02:11:40,20.193.152.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-07-26 02:11:40,66.132.224.24,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-26 02:11:40,3.131.24.55,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-26 02:11:40,91.92.40.44,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-26 02:11:40,66.132.224.17,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-26 02:11:40,170.64.167.72,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-26 02:11:40,64.62.197.84,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-07-26 02:11:40,138.197.118.33,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-07-26 02:11:40,193.163.125.4,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-26 02:11:40,91.92.40.36,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-26 02:11:40,217.160.226.51,100,Spain,Madrid,IONOS SE,,Data Center,False
+2026-07-26 02:11:40,103.75.183.177,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-07-26 02:11:40,70.153.145.230,100,Indonesia,Jakarta,Microsoft Corporation,CHA ADSL EEUA,Data Center,False
+2026-07-26 02:11:40,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-07-26 02:11:40,65.49.1.102,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-26 02:11:40,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 02:11:40,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-07-26 02:11:40,162.240.44.39,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-07-26 02:11:40,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-26 02:11:40,135.235.196.148,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-26 02:11:40,47.254.154.155,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-07-26 02:11:40,156.245.246.50,100,United States,Los Angeles,VpsQuan L.L.C.,Binary Networks Solutions LLC,Data Center,False
+2026-07-26 02:11:40,74.94.234.151,100,United States,Birmingham,Comcast Cable Communications,Corp PRK Rochester HIL,Residential/Business,False
+2026-07-26 02:11:40,78.128.114.46,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-07-26 02:11:40,200.155.66.2,100,Brazil,São Paulo,Equinix (EMEA) Acquisition Enterprises B.V.,Equinix Brasil,Residential/Business,True
+2026-07-26 02:11:40,167.86.76.145,100,Germany,Nuremberg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-07-26 02:11:40,144.225.187.161,100,United States,Las Vegas,CNServer LLC,,Residential/Business,False
+2026-07-26 02:11:40,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-26 02:11:40,101.36.118.148,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-26 02:11:40,131.123.42.114,100,Moldova,Chisinau,Alexhost S.R.L,Alexhost S.R.L,Data Center,False
+2026-07-26 02:11:40,77.239.124.238,100,The Netherlands,Amsterdam,"Ace Data Centers II, L.L.C.",Alfahost LLC,Residential/Business,True
+2026-07-26 02:11:40,85.206.68.80,100,Lithuania,Vilnius,Telia Lietuva,"Telia Lietuva, AB",Residential/Business,False
+2026-07-26 02:11:40,92.207.4.157,100,United Kingdom,Southampton,Gamma Mobile,,Mobile,False
