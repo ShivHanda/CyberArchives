@@ -96527,3 +96527,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-26 09:53:31,103.82.210.181,100,India,Hosūr,AirFiber Networks Pvt Ltd,AirFiber Networks Pvt Ltd,Residential/Business,False
 2026-07-26 09:53:31,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
 2026-07-26 09:53:31,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-07-26 11:15:12,69.5.169.136,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-26 11:15:12,20.84.119.5,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-26 11:15:12,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-07-26 11:15:12,69.5.169.187,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-26 11:15:12,69.5.169.253,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-26 11:15:12,97.93.43.157,100,United States,Long Beach,Charter Communications,Spectrum,Residential/Business,False
+2026-07-26 11:15:12,125.130.223.207,100,South Korea,Suwon,Korea Telecom,Kornet,Residential/Business,False
+2026-07-26 11:15:12,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-26 11:15:12,5.61.209.44,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Data Center,False
+2026-07-26 11:15:12,68.207.224.247,100,United States,Land O' Lakes,Charter Communications,Spectrum,Residential/Business,False
+2026-07-26 11:15:12,113.194.203.31,100,China,Nanchang,China Unicom CHINA169 Network,,Residential/Business,False
+2026-07-26 11:15:12,34.159.18.221,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-07-26 11:15:12,193.163.125.78,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-26 11:15:12,20.168.0.72,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-26 11:15:12,51.83.58.173,100,France,Roubaix,OVH SAS,Bennamias Julien,Data Center,False
+2026-07-26 11:15:12,103.16.116.249,100,Indonesia,Malang,PT. Beon Intermedia,PT Omah Pionir Ngalam,Data Center,False
+2026-07-26 11:15:12,186.238.89.142,100,Brazil,São Caetano do Sul,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-26 11:15:12,49.124.152.248,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-07-26 11:15:12,91.148.190.150,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Data Center,False
+2026-07-26 11:15:12,20.235.102.181,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-26 11:15:12,172.208.48.177,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-26 11:15:12,91.231.89.24,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-26 11:15:12,103.54.101.248,100,India,Sangrur,Digitax India Communications Pvt Ltd.,Hardwork Cable and  Pvt Ltd,Residential/Business,False
+2026-07-26 11:15:12,163.172.143.147,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-07-26 11:15:12,115.129.248.67,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-07-26 11:15:12,34.193.119.44,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-26 11:15:12,89.248.167.131,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-07-26 11:15:12,152.200.181.42,100,Colombia,Medellín,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-07-26 11:15:12,185.242.3.195,100,Germany,Frankfurt am Main,"Netiface America, Inc.",Felcloud,Residential/Business,True
+2026-07-26 11:15:12,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-07-26 11:15:12,91.92.40.237,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-26 11:15:12,168.62.199.219,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-07-26 11:15:12,193.163.125.55,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-26 11:15:12,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-26 11:15:12,20.40.216.117,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-26 11:15:12,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-26 11:15:12,85.217.149.33,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 11:15:12,52.3.102.51,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-26 11:15:12,43.228.157.10,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-26 11:15:12,103.122.34.142,100,Indonesia,East Jakarta,PT Mora Telematika Indonesia,Cepatnet,Residential/Business,False
+2026-07-26 11:15:12,155.4.245.222,100,Sweden,Helsingborg,Bahnhof AB,,Residential/Business,False
+2026-07-26 11:15:12,103.82.210.181,100,India,Hosūr,AirFiber Networks Pvt Ltd,AirFiber Networks Pvt Ltd,Residential/Business,False
+2026-07-26 11:15:12,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-07-26 11:15:12,204.76.203.231,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
+2026-07-26 11:15:12,217.154.1.212,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
