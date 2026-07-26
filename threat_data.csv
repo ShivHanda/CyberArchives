@@ -96572,3 +96572,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-26 11:15:12,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
 2026-07-26 11:15:12,204.76.203.231,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Residential/Business,False
 2026-07-26 11:15:12,217.154.1.212,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
+2026-07-26 13:06:41,184.105.247.235,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-26 13:06:41,115.190.15.156,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-07-26 13:06:41,92.47.46.174,100,Kazakhstan,Aktobe,JSC Kazakhtelecom,IP KIM,Residential/Business,False
+2026-07-26 13:06:41,135.234.85.208,100,United States,Phoenix,MICROSOFT,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-26 13:06:41,47.250.172.169,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-07-26 13:06:41,141.95.242.9,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-07-26 13:06:41,47.91.1.241,100,Japan,Tokyo,Alibaba.com LLC,ALICLOUD-JP,Data Center,False
+2026-07-26 13:06:41,118.194.251.37,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-26 13:06:41,72.17.34.38,100,United States,Winter Park,Spectrum,Hilton Grand Vacations Seaworld,Residential/Business,False
+2026-07-26 13:06:41,102.140.97.134,100,Nigeria,Lagos,Accelon,Internet,Residential/Business,True
+2026-07-26 13:06:41,85.217.140.27,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 13:06:41,14.103.50.128,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-26 13:06:41,146.190.69.112,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-26 13:06:41,45.8.196.197,100,Türkiye,Osmangazi,Weridata LLC,WeriData Technology,Residential/Business,False
+2026-07-26 13:06:41,85.217.149.66,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 13:06:41,47.250.38.169,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-07-26 13:06:41,74.94.234.151,100,United States,Birmingham,Comcast Cable Communications,Corp PRK Rochester HIL,Residential/Business,False
+2026-07-26 13:06:41,160.187.180.146,100,Pakistan,Lahore,Dinco Pakistan private limited,Dinco Pakistan private limited,Residential/Business,False
+2026-07-26 13:06:41,176.65.148.29,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-07-26 13:06:41,46.101.147.100,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-26 13:06:41,34.31.203.120,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,True
+2026-07-26 13:06:41,91.92.40.45,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-26 13:06:41,199.45.155.71,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Residential/Business,False
+2026-07-26 13:06:41,146.70.194.254,100,France,Juvisy-sur-Orge,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-07-26 13:06:41,189.206.189.150,100,Mexico,Valle Hermoso,"Alestra, S. de R.L. de C.V.","Alestra, S. de R.L. de C.V",Residential/Business,False
+2026-07-26 13:06:41,77.239.124.249,100,The Netherlands,Amsterdam,"Ace Data Centers II, L.L.C.",Alfahost LLC,Residential/Business,True
+2026-07-26 13:06:41,51.195.39.150,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-07-26 13:06:41,106.13.122.214,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-26 13:06:41,128.201.58.151,100,Brazil,Rio de Janeiro,Rede Works Telecom,Gilmar Telecom,Residential/Business,False
+2026-07-26 13:06:41,144.126.201.197,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-26 13:06:41,46.225.23.118,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-07-26 13:06:41,34.40.221.161,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-07-26 13:06:41,20.65.193.34,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-26 13:06:41,160.153.186.46,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Residential/Business,False
+2026-07-26 13:06:41,152.32.182.8,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-07-26 13:06:41,144.225.8.142,100,United States,Las Vegas,CNServer LLC,,Residential/Business,False
+2026-07-26 13:06:41,13.89.124.216,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-26 13:06:41,85.217.149.74,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 13:06:41,46.101.235.18,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-26 13:06:41,195.178.110.103,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-26 13:06:41,85.217.149.72,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-26 13:06:41,147.45.51.138,100,Italy,Milan,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-07-26 13:06:41,147.182.214.250,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-26 13:06:41,170.106.161.78,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-07-26 13:06:41,111.33.71.238,100,China,Youyilu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-26 13:06:41,209.37.38.210,100,United States,Reston,"AT&T Enterprises, LLC",AT&T IP Team,Residential/Business,False
+2026-07-26 13:06:41,91.92.42.52,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-26 13:06:41,91.231.89.7,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-26 13:06:41,186.16.213.54,100,Paraguay,Asunción,Telecel S.A.,Telecel S.A,Residential/Business,False
+2026-07-26 13:06:41,206.62.136.109,100,Colombia,Medellín,Somos Networks Colombia S.a.s. BIC,Somos Networks Colombia S.a.s. BIC,Residential/Business,False
