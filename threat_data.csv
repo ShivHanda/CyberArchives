@@ -96922,3 +96922,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-27 02:24:59,20.193.152.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
 2026-07-27 02:24:59,118.194.229.94,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-07-27 02:24:59,213.165.239.119,100,United States,Ashburn,"InMotion Hosting, Inc.","InMotion Hosting, Inc",Data Center,False
+2026-07-27 06:57:25,91.231.89.11,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-27 06:57:25,201.76.120.30,100,Brazil,Montenegro,Vero S.A,Vero S.A,Residential/Business,False
+2026-07-27 06:57:25,20.79.250.162,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-07-27 06:57:25,83.219.248.100,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-07-27 06:57:25,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-27 06:57:25,91.231.89.134,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-27 06:57:25,118.193.43.158,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-27 06:57:25,5.253.38.54,100,United Kingdom,London,CNServer LLC,Securewan,Residential/Business,False
+2026-07-27 06:57:25,173.44.224.54,100,Germany,Frankfurt am Main,Eonix Corporation,Tri-State Paving Inc.,Data Center,False
+2026-07-27 06:57:25,144.22.150.242,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-07-27 06:57:25,185.198.240.249,100,United States,Trenton,Clouvider Limited,"VPN Consumer New Jersey, United States of America",Mobile,True
+2026-07-27 06:57:25,150.107.38.131,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-07-27 06:57:25,66.132.172.47,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Residential/Business,False
+2026-07-27 06:57:25,192.210.192.220,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-07-27 06:57:25,65.49.1.69,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-27 06:57:25,194.164.107.6,100,Singapore,Singapore,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-07-27 06:57:25,81.19.216.88,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-27 06:57:25,35.189.227.94,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-07-27 06:57:25,195.184.76.139,100,United States,Warrenton,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-27 06:57:25,69.5.169.73,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-27 06:57:25,101.32.170.173,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-07-27 06:57:25,20.195.181.10,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-07-27 06:57:25,14.45.214.230,100,South Korea,Gumi,Korea Telecom,Kornet,Residential/Business,False
+2026-07-27 06:57:25,20.169.105.81,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-27 06:57:25,8.209.211.202,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-07-27 06:57:25,47.251.160.1,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-27 06:57:25,135.119.74.228,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-27 06:57:25,196.196.53.137,100,Latvia,Riga,Orion Network Limited,Fiber Grid,Residential/Business,True
+2026-07-27 06:57:25,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-27 06:57:25,64.62.197.134,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-07-27 06:57:25,114.34.106.146,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-07-27 06:57:25,137.74.114.131,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-07-27 06:57:25,104.30.167.174,100,United States,San Jose,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-07-27 06:57:25,173.239.240.81,100,United States,Edison,LogicWeb Inc.,,Residential/Business,True
+2026-07-27 06:57:25,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-27 06:57:25,109.194.108.203,100,Russia,Moscow,"OJSC ""ER-Telecom"" Perm'","CJSC ""ER-Telecom Holding""",Residential/Business,False
+2026-07-27 06:57:25,95.165.140.133,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-07-27 06:57:25,216.73.217.9,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,False
+2026-07-27 06:57:25,45.43.58.131,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-27 06:57:25,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-27 06:57:25,91.230.168.172,100,United States,Hillsboro,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-27 06:57:25,103.97.101.25,100,Indonesia,Pekalongan,Dinas Kominfo Kota Pekalongan,,Residential/Business,False
+2026-07-27 06:57:25,195.86.192.66,100,Malaysia,Kuala Lumpur,Octopus Web Solution Inc,Octopus Web Solution Inc,Residential/Business,False
+2026-07-27 06:57:25,139.59.18.80,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-27 06:57:25,201.16.238.49,100,Brazil,São Paulo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-07-27 06:57:25,151.243.11.233,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-07-27 06:57:25,193.163.125.25,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-07-27 06:57:25,160.187.180.146,100,Pakistan,Lahore,Dinco Pakistan private limited,Dinco Pakistan private limited,Residential/Business,False
+2026-07-27 06:57:25,201.217.12.57,100,Paraguay,Asunción,CO.PA.CO.,COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.),Residential/Business,False
+2026-07-27 06:57:25,209.38.121.186,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
