@@ -96872,3 +96872,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-26 22:54:22,66.132.186.215,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
 2026-07-26 22:54:22,209.141.46.157,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
 2026-07-26 22:54:22,41.208.147.131,100,Senegal,Dakar,Sonatel,,Residential/Business,False
+2026-07-27 02:24:59,210.79.142.201,100,Indonesia,Kertosono,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-07-27 02:24:59,48.214.144.125,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-27 02:24:59,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-07-27 02:24:59,148.66.129.125,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,False
+2026-07-27 02:24:59,192.42.116.106,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Mobile,True
+2026-07-27 02:24:59,195.33.199.59,100,Turkey,Ümraniye,Superonline RO,Yasar Holding A.S,Residential/Business,False
+2026-07-27 02:24:59,64.225.83.160,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-27 02:24:59,45.135.194.10,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Residential/Business,False
+2026-07-27 02:24:59,103.210.22.74,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-07-27 02:24:59,27.123.109.22,100,India,Gurugram,Bharti Airtel,Bharti Airtel Limited,Mobile,False
+2026-07-27 02:24:59,107.155.56.52,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-27 02:24:59,64.62.156.222,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-27 02:24:59,85.217.149.56,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-27 02:24:59,103.146.159.173,100,Hong Kong,Sheung Wan,Yisu Cloud LTD,"HK KXSY TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-07-27 02:24:59,185.243.5.8,100,United States,Newark,ReliableSite.Net LLC,Dedires LLC,Data Center,False
+2026-07-27 02:24:59,116.110.12.59,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-07-27 02:24:59,103.69.96.120,100,Vietnam,Bút Sơn,VNCLOUD,VN Cloud ONE Member Company Limited,Residential/Business,False
+2026-07-27 02:24:59,69.5.169.168,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-27 02:24:59,154.83.197.108,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-07-27 02:24:59,197.153.57.103,100,Morocco,Tangier,MEDITELECOM,,Residential/Business,False
+2026-07-27 02:24:59,1.15.173.241,100,China,Beijing,Tencent Cloud Computing (Beijing) Co. Ltd.,Tencent Cloud Computing (Beijing) Co. Ltd.,Mobile,True
+2026-07-27 02:24:59,14.103.123.75,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-27 02:24:59,78.128.112.6,100,Bulgaria,Sopot,noc@dotdash.host,4media,Residential/Business,False
+2026-07-27 02:24:59,118.26.109.7,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-07-27 02:24:59,66.132.186.179,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
+2026-07-27 02:24:59,91.231.89.165,100,France,Gravelines,Onyphe SAS,ONYPHE,Residential/Business,False
+2026-07-27 02:24:59,115.190.243.73,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-07-27 02:24:59,179.179.199.69,100,Brazil,Pará de Minas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-07-27 02:24:59,162.217.100.201,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-07-27 02:24:59,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,False
+2026-07-27 02:24:59,45.153.34.181,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-27 02:24:59,187.51.208.158,100,Brazil,Vila Galvão,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-27 02:24:59,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-07-27 02:24:59,185.242.226.90,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-07-27 02:24:59,186.148.224.183,100,Argentina,Villa José León Suárez,Grupo in S.A.S,GRUPO IN,Mobile,False
+2026-07-27 02:24:59,64.225.74.178,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-27 02:24:59,199.47.82.19,100,United States,Portland,Turnitin LLC,Turnitin LLC,Residential/Business,True
+2026-07-27 02:24:59,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,True
+2026-07-27 02:24:59,60.52.195.251,100,Malaysia,Berincang,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-07-27 02:24:59,103.188.177.46,100,Indonesia,Jakarta,PEDEE,,Residential/Business,False
+2026-07-27 02:24:59,111.9.47.89,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-27 02:24:59,152.32.215.224,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-27 02:24:59,222.186.140.103,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-27 02:24:59,171.25.158.47,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-07-27 02:24:59,20.197.178.120,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-07-27 02:24:59,115.140.161.61,100,South Korea,Changwon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-07-27 02:24:59,151.80.60.145,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-07-27 02:24:59,20.193.152.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-07-27 02:24:59,118.194.229.94,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-27 02:24:59,213.165.239.119,100,United States,Ashburn,"InMotion Hosting, Inc.","InMotion Hosting, Inc",Data Center,False
