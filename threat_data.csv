@@ -97122,3 +97122,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-27 17:37:48,66.132.186.254,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
 2026-07-27 17:37:48,51.77.221.142,100,France,Roubaix,OVH SAS,OVH,Data Center,False
 2026-07-27 17:37:48,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-07-27 19:18:14,185.180.109.243,100,The Netherlands,Dronten,Tyurin Viktor Mihaylovich,PE Tyrin Viktor Mikhailovitch,Data Center,True
+2026-07-27 19:18:14,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-27 19:18:14,59.36.211.132,100,China,Shanghai,Chinanet,Chinanet GD,Residential/Business,False
+2026-07-27 19:18:14,157.15.67.253,100,Indonesia,Tulungagung,TRITAMA,PT Trimitra Aditama Koneksindo,Residential/Business,False
+2026-07-27 19:18:14,185.200.116.70,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-07-27 19:18:14,164.90.152.103,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-27 19:18:14,98.70.48.241,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-27 19:18:14,72.253.251.3,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-07-27 19:18:14,27.71.230.31,100,Vietnam,Hanoi,VIETTEL,Viettel Group,Data Center,False
+2026-07-27 19:18:14,47.84.141.113,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-27 19:18:14,85.217.140.6,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-27 19:18:14,83.209.248.110,100,Sweden,Karlstad,Bredband2 AB,Bredband2,Residential/Business,False
+2026-07-27 19:18:14,66.132.186.189,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
+2026-07-27 19:18:14,119.3.162.103,100,China,Beijing,Huawei Cloud Service data center,Huawei Cloud Service,Data Center,True
+2026-07-27 19:18:14,51.159.149.103,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-07-27 19:18:14,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Residential/Business,False
+2026-07-27 19:18:14,81.19.219.201,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-27 19:18:14,203.146.102.66,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-07-27 19:18:14,167.71.222.255,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-27 19:18:14,178.216.165.187,100,Russia,Pavlovskiy Posad,NTK P.Posad,"""Noginskaya telecommunicacionnaya companiya"" Ltd",Residential/Business,False
+2026-07-27 19:18:14,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-07-27 19:18:14,77.90.185.16,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-07-27 19:18:14,213.209.159.225,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-27 19:18:14,165.154.138.165,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-27 19:18:14,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Residential/Business,True
+2026-07-27 19:18:14,110.49.76.244,100,Thailand,Bang Bon,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-07-27 19:18:14,179.51.153.37,100,Brazil,Eunápolis,Eunapolis Telecom Ltda,Eunapolis Telecom Ltda,Residential/Business,False
+2026-07-27 19:18:14,158.158.76.106,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-07-27 19:18:14,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Residential/Business,False
+2026-07-27 19:18:14,65.109.32.24,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-07-27 19:18:14,158.158.45.59,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-07-27 19:18:14,43.228.157.121,100,Singapore,Singapore,Gaditek Associates,,Residential/Business,True
+2026-07-27 19:18:14,91.92.40.50,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-27 19:18:14,154.0.30.137,100,Ivory Coast,Abidjan,Moov LS Business,,Mobile,False
+2026-07-27 19:18:14,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Residential/Business,False
+2026-07-27 19:18:14,81.192.46.45,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-07-27 19:18:14,66.132.186.138,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
+2026-07-27 19:18:14,116.55.245.26,100,China,Kunming,CHINANET Yunnan province IDC1 network,Chinanet YN,Residential/Business,True
+2026-07-27 19:18:14,117.50.51.198,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Residential/Business,True
+2026-07-27 19:18:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Residential/Business,True
+2026-07-27 19:18:14,13.86.116.162,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-27 19:18:14,4.184.121.217,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-07-27 19:18:14,85.206.68.80,100,Lithuania,Vilnius,Telia Lietuva,"Telia Lietuva, AB",Residential/Business,False
+2026-07-27 19:18:14,141.82.3.32,100,Germany,Augsburg,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Hochschule fuer angewandte Wissenschaften Augsburg,Residential/Business,False
+2026-07-27 19:18:14,43.166.128.86,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-07-27 19:18:14,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-07-27 19:18:14,152.136.188.221,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Residential/Business,False
+2026-07-27 19:18:14,52.139.36.144,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-07-27 19:18:14,60.174.39.82,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-07-27 19:18:14,66.132.186.236,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Residential/Business,False
