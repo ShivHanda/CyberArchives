@@ -97567,3 +97567,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-28 16:01:32,66.132.172.237,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-07-28 16:01:32,159.223.67.192,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-07-28 16:01:32,200.199.32.174,100,Brazil,Belo Horizonte,V tal,V tal,Residential/Business,False
+2026-07-28 19:14:41,94.154.43.230,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-07-28 19:14:41,121.229.9.110,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-28 19:14:41,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 19:14:41,100.29.192.125,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-07-28 19:14:41,220.80.224.223,100,South Korea,Seogwipo,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-07-28 19:14:41,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 19:14:41,81.19.216.107,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-28 19:14:41,52.165.196.84,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-28 19:14:41,47.254.24.110,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-28 19:14:41,103.144.245.123,100,Hong Kong,Hong Kong,Yisu Cloud LTD,"PROSPUR INT'L CO., LIMITED",Data Center,False
+2026-07-28 19:14:41,93.94.141.115,100,Bulgaria,Sofia,"""Bulgartel"" AD","""Bulgartel"" AD",Residential/Business,False
+2026-07-28 19:14:41,92.62.233.214,100,Czechia,České Budějovice,Starnet s.r.o,Starnet s.r.o.,Residential/Business,False
+2026-07-28 19:14:41,199.45.154.183,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-28 19:14:41,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-28 19:14:41,112.164.195.219,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-07-28 19:14:41,171.25.158.82,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-07-28 19:14:41,45.67.216.83,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-07-28 19:14:41,47.16.96.74,100,United States,East Hampton,Optimum Online (Cablevision Systems),Optimum WiFi,Residential/Business,False
+2026-07-28 19:14:41,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 19:14:41,43.166.136.24,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-07-28 19:14:41,86.54.31.40,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-07-28 19:14:41,45.78.202.217,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-07-28 19:14:41,20.84.101.167,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,True
+2026-07-28 19:14:41,118.193.39.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-28 19:14:41,158.174.210.161,100,Sweden,Färjestaden,Bahnhof AB,General Private,Residential/Business,False
+2026-07-28 19:14:41,112.27.230.157,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-28 19:14:41,45.142.193.169,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-07-28 19:14:41,178.93.201.239,100,Canada,Toronto,Datacamp Limited,Private Customer,Residential/Business,False
+2026-07-28 19:14:41,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-28 19:14:41,93.84.97.4,100,Belarus,Minsk,Republican Unitary Telecommunication Enterprise Beltelecom,Riveks Mrtses,Residential/Business,False
+2026-07-28 19:14:41,150.107.38.251,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-07-28 19:14:41,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 19:14:41,97.74.87.119,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-07-28 19:14:41,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-28 19:14:41,185.225.41.192,100,Syria,Damascus,sy-samaweb,,Residential/Business,False
+2026-07-28 19:14:41,107.150.105.116,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-07-28 19:14:41,103.195.240.46,100,Vietnam,Long Thạnh Mỹ,TOCDOSO,TOC DO SO Technology company limited,Residential/Business,False
+2026-07-28 19:14:41,45.153.34.71,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-07-28 19:14:41,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-28 19:14:41,43.218.43.230,100,Indonesia,Jakarta,"Amazon.com, Inc.",AWS EC2 (ap-southeast-3),Data Center,True
+2026-07-28 19:14:41,62.150.237.107,100,Kuwait,Kuwait City,Kuwait Telecommunication Company (Under Association),Qualitynet General Trading Co.,Residential/Business,False
+2026-07-28 19:14:41,194.88.98.100,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-28 19:14:41,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-07-28 19:14:41,183.171.49.152,100,Malaysia,Petaling Jaya,Celcom Axiata Berhad,Celcom Axiata Berhad,Mobile,False
+2026-07-28 19:14:41,59.24.133.197,100,South Korea,Gumi,Korea Telecom,,Residential/Business,False
+2026-07-28 19:14:41,185.193.240.246,100,North Macedonia,Studenicani,Globalsat Dooel,Globalsat Dooel,Residential/Business,False
+2026-07-28 19:14:41,147.50.227.79,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,True
+2026-07-28 19:14:41,78.128.114.46,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-07-28 19:14:41,13.89.125.29,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-28 19:14:41,111.70.32.5,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
