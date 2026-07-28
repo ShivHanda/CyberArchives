@@ -97617,3 +97617,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-28 19:14:41,78.128.114.46,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
 2026-07-28 19:14:41,13.89.125.29,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-07-28 19:14:41,111.70.32.5,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-07-28 21:02:35,34.71.30.159,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-07-28 21:02:35,72.14.186.195,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-28 21:02:35,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 21:02:35,216.226.76.20,100,United Kingdom,London,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-07-28 21:02:35,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-28 21:02:35,119.92.76.211,100,Philippines,Cavite City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-07-28 21:02:35,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-07-28 21:02:35,45.156.87.147,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-07-28 21:02:35,72.24.210.58,100,United States,Odessa,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-07-28 21:02:35,172.94.9.64,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-07-28 21:02:35,64.89.160.242,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-07-28 21:02:35,36.93.236.91,100,Indonesia,Bekasi,Telekomunikasi Indonesia,HSI Indihome,Residential/Business,False
+2026-07-28 21:02:35,165.232.167.128,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-28 21:02:35,113.108.88.121,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-07-28 21:02:35,139.59.59.165,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-28 21:02:35,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-07-28 21:02:35,36.33.167.165,100,China,Hefei,China Unicom Anhui Province Network,,Residential/Business,False
+2026-07-28 21:02:35,103.200.22.154,100,Vietnam,Quận Phú Nhuận,Vietnam Internet Network Information Center,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-07-28 21:02:35,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-07-28 21:02:35,45.156.87.13,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-07-28 21:02:35,91.92.47.55,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-28 21:02:35,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 21:02:35,91.92.47.6,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-28 21:02:35,124.29.246.106,100,Pakistan,Karachi,Cyber Internet Services Pakistan,Broadband Services,Residential/Business,False
+2026-07-28 21:02:35,74.249.177.87,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-28 21:02:35,35.241.160.168,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-07-28 21:02:35,111.0.81.84,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-28 21:02:35,117.193.74.14,100,India,Kollam,BSNL Internet,,Residential/Business,False
+2026-07-28 21:02:35,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-28 21:02:35,103.203.57.2,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-07-28 21:02:35,199.45.154.143,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-28 21:02:35,41.89.96.242,100,Kenya,Nakuru,KENET,Egerton University,Residential/Business,False
+2026-07-28 21:02:35,175.155.122.208,100,China,Chengdu,China Unicom Sichuan Province Network,,Residential/Business,False
+2026-07-28 21:02:35,194.180.49.104,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-07-28 21:02:35,64.227.99.138,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-28 21:02:35,185.247.137.122,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-28 21:02:35,66.240.205.34,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-07-28 21:02:35,185.38.149.130,100,United Kingdom,City of London,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-07-28 21:02:35,20.229.115.183,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-07-28 21:02:35,220.246.42.227,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-07-28 21:02:35,61.142.85.190,100,China,Foshan,Chinanet,Chinanet GD,Residential/Business,False
+2026-07-28 21:02:35,20.9.63.139,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-28 21:02:35,20.151.107.236,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-07-28 21:02:35,14.103.115.213,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-28 21:02:35,60.199.224.55,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-07-28 21:02:35,52.168.141.47,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-28 21:02:35,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-28 21:02:35,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-28 21:02:35,191.235.102.133,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-07-28 21:02:35,65.181.127.40,100,United States,Dallas,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
