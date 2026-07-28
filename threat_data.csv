@@ -97372,3 +97372,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-28 05:21:03,45.82.109.136,100,Finland,Haapajärvi,Pyhanet Oy,Pyhanet,Residential/Business,False
 2026-07-28 05:21:03,172.191.157.64,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
 2026-07-28 05:21:03,186.31.95.163,100,Colombia,Bogotá,ETB - Colombia,ETB - Colombia,Residential/Business,False
+2026-07-28 08:23:25,45.148.10.200,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-28 08:23:25,178.119.96.31,100,Belgium,Bruges,Telenet N.V.,Telenet N.V.,Residential/Business,False
+2026-07-28 08:23:25,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-07-28 08:23:25,64.62.156.172,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-28 08:23:25,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-28 08:23:25,107.174.137.235,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,True
+2026-07-28 08:23:25,103.82.210.181,100,India,Hosūr,AirFiber Networks Pvt Ltd,AirFiber Networks Pvt Ltd,Residential/Business,False
+2026-07-28 08:23:25,94.154.43.12,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-07-28 08:23:25,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-28 08:23:25,89.248.168.227,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Data Center,False
+2026-07-28 08:23:25,201.76.120.30,100,Brazil,Montenegro,Vero S.A,Vero S.A,Residential/Business,False
+2026-07-28 08:23:25,193.176.31.245,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-28 08:23:25,20.240.137.17,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-28 08:23:25,91.92.47.123,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-28 08:23:25,82.152.132.24,100,Romania,Bucharest,Eclipse Networking Ltd.,,Residential/Business,False
+2026-07-28 08:23:25,152.32.143.6,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-07-28 08:23:25,85.217.140.8,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-28 08:23:25,3.142.170.60,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-28 08:23:25,136.144.35.209,100,United States,Trenton,Latitude.sh,"VPN Consumer New Jersey, United States of America",Data Center,True
+2026-07-28 08:23:25,91.92.243.210,100,United States,New York,Omegatech LTD,Omegatech LTD,Data Center,False
+2026-07-28 08:23:25,113.161.39.122,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-07-28 08:23:25,118.45.101.159,100,South Korea,Gumi,Korea Telecom,Kornet,Residential/Business,False
+2026-07-28 08:23:25,194.165.16.162,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Data Center,False
+2026-07-28 08:23:25,39.104.64.139,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-07-28 08:23:25,45.156.128.61,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-07-28 08:23:25,201.217.12.57,100,Paraguay,Asunción,COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.),COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.),Residential/Business,False
+2026-07-28 08:23:25,165.154.11.140,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-28 08:23:25,190.119.63.98,100,Peru,La Victoria,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-07-28 08:23:25,101.42.41.164,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-28 08:23:25,172.197.168.125,100,Malaysia,Kuala Lumpur,Foxtel ISP,Microsoft Azure Cloud (malaysiawest),Residential/Business,False
+2026-07-28 08:23:25,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-28 08:23:25,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-28 08:23:25,154.16.44.234,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-07-28 08:23:25,179.176.210.17,100,Brazil,Campinas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-07-28 08:23:25,182.92.142.158,100,China,Beijing,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-07-28 08:23:25,34.48.114.255,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-07-28 08:23:25,112.217.188.122,100,South Korea,Yongin-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-07-28 08:23:25,185.100.87.166,100,Romania,Bucharest,FlokiNET Ltd,FlokiNET Ltd,Data Center,True
+2026-07-28 08:23:25,172.210.9.131,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-28 08:23:25,129.121.123.165,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-28 08:23:25,3.129.187.38,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-28 08:23:25,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-07-28 08:23:25,165.232.167.128,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-28 08:23:25,72.9.0.113,100,United States,Lexington Park,Atlantic Broadband Finance,Atlantic Broadband,Residential/Business,False
+2026-07-28 08:23:25,172.202.44.182,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
