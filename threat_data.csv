@@ -98115,3 +98115,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-29 20:47:21,106.63.26.15,100,China,Haidian,China Telecom,Chinatelecom Cloudy company,Data Center,False
 2026-07-29 20:47:21,198.1.93.192,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
 2026-07-29 20:47:21,36.92.84.130,100,Indonesia,Jakarta,Telekomunikasi Indonesia,Temporary,Residential/Business,False
+2026-07-29 22:55:56,209.38.248.17,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-29 22:55:56,121.178.185.141,100,South Korea,Muan,Korea Telecom,Jeonnambonbujang,Residential/Business,False
+2026-07-29 22:55:56,171.243.150.132,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-07-29 22:55:56,176.65.132.57,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-07-29 22:55:56,121.180.164.182,100,South Korea,Gyeongju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-07-29 22:55:56,37.10.113.213,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-29 22:55:56,47.251.254.71,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-29 22:55:56,9.223.176.221,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-29 22:55:56,193.124.20.254,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-29 22:55:56,193.163.125.40,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-29 22:55:56,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 22:55:56,157.245.113.227,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 22:55:56,104.28.215.225,100,United States,Omaha,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-07-29 22:55:56,189.206.189.150,100,Mexico,Valle Hermoso,"Alestra, S. de R.L. de C.V.","Alestra, S. de R.L. de C.V",Residential/Business,False
+2026-07-29 22:55:56,134.122.125.41,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 22:55:56,4.225.166.222,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-29 22:55:56,47.84.108.0,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-29 22:55:56,20.102.43.161,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-29 22:55:56,52.238.199.152,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-29 22:55:56,192.144.140.170,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-29 22:55:56,129.121.115.193,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-29 22:55:56,167.99.182.39,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 22:55:56,123.58.210.86,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-29 22:55:56,206.189.58.141,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 22:55:56,14.103.115.5,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-29 22:55:56,200.216.172.182,100,Brazil,São José do Rio Preto,V tal,V tal,Residential/Business,False
+2026-07-29 22:55:56,120.48.9.231,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-07-29 22:55:56,45.121.24.222,100,Vietnam,Hanoi,MOBIFONE,Mobifone Corporation,Mobile,False
+2026-07-29 22:55:56,151.244.242.139,100,Brazil,Leblon,Akronic Network LTDA,EHM,Residential/Business,False
+2026-07-29 22:55:56,43.143.73.189,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-29 22:55:56,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 22:55:56,223.27.18.80,100,Australia,Narre Warren,Hostopia Australia Web Pty Ltd,J2 Australia Hosting PTY LTD,Data Center,False
+2026-07-29 22:55:56,8.216.16.162,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-07-29 22:55:56,103.63.108.25,100,Vietnam,Haiphong,Hai Phong Brand - CMC Telecommunication Infrastructure Corporation,CMCHAIPHONG,Residential/Business,False
+2026-07-29 22:55:56,64.225.75.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 22:55:56,125.94.106.113,100,China,Dongguan,Chinanet,Chinanet GD,Residential/Business,False
+2026-07-29 22:55:56,218.25.89.208,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
+2026-07-29 22:55:56,181.164.12.188,100,Argentina,Córdoba,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-07-29 22:55:56,47.107.140.165,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-07-29 22:55:56,123.58.198.35,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-29 22:55:56,185.177.72.67,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-07-29 22:55:56,211.240.117.16,100,South Korea,Seodaemun-gu,"ELIMNET, INC.",elimnet,Residential/Business,False
+2026-07-29 22:55:56,101.36.119.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-29 22:55:56,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-07-29 22:55:56,95.165.84.70,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-07-29 22:55:56,104.168.15.68,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-07-29 22:55:56,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 22:55:56,77.239.124.249,100,The Netherlands,Amsterdam,"Ace Data Centers II, L.L.C.",Alfahost LLC,Data Center,True
+2026-07-29 22:55:56,158.158.96.17,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-07-29 22:55:56,20.63.10.215,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,True
