@@ -97967,3 +97967,51 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-29 15:47:04,43.228.157.133,100,Singapore,Singapore,Gaditek Associates,,Data Center,True
 2026-07-29 15:47:04,62.60.130.237,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-07-29 15:47:04,186.179.100.101,100,Colombia,Gachalá,TV AZTECA SUCURSAL COLOMBIA,TV AZTECA SUCURSAL COLOMBIA,Residential/Business,False
+2026-07-29 17:08:43,191.101.59.16,100,United Kingdom,City of London,UK Dedicated Servers Limited,Ipxo,Data Center,False
+2026-07-29 17:08:43,45.156.87.234,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-07-29 17:08:43,213.209.159.238,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-29 17:08:43,80.14.245.65,100,France,Aubervilliers,France Telecom,,Residential/Business,False
+2026-07-29 17:08:43,103.161.113.136,100,Vietnam,Ho Chi Minh City,Viet Digital Technology Liability Company,Mxgroup Medicine Company Limited,Residential/Business,False
+2026-07-29 17:08:43,13.71.92.229,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-07-29 17:08:43,34.47.164.158,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-07-29 17:08:43,46.101.216.224,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-07-29 17:08:43,103.189.234.96,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-07-29 17:08:43,52.34.76.65,100,United States,Portland,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,True
+2026-07-29 17:08:43,185.216.117.3,100,Hong Kong,Morrison Hill,ZANYUN,,Data Center,True
+2026-07-29 17:08:43,43.163.112.239,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-07-29 17:08:43,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-29 17:08:43,219.144.80.143,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,False
+2026-07-29 17:08:43,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 17:08:43,101.13.4.119,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-07-29 17:08:43,193.32.162.34,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-07-29 17:08:43,20.192.5.254,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-29 17:08:43,20.228.193.165,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-29 17:08:43,87.236.176.225,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-29 17:08:43,156.251.179.157,100,United States,San Jose,Cnservers LLC,Cloud Innovation Ltd,Data Center,False
+2026-07-29 17:08:43,199.45.155.109,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-29 17:08:43,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-29 17:08:43,5.188.206.34,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Data Center,False
+2026-07-29 17:08:43,47.112.121.84,100,China,Shenzhen,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-07-29 17:08:43,113.161.39.122,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-07-29 17:08:43,94.20.62.126,100,Azerbaijan,Baku,DELTA-CC,,Residential/Business,False
+2026-07-29 17:08:43,15.204.94.55,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-07-29 17:08:43,103.96.147.148,100,Indonesia,Jakarta Pusat,PT Era Awan Digital,PT Marygops Studio,Data Center,False
+2026-07-29 17:08:43,45.148.10.244,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 17:08:43,151.243.11.235,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-07-29 17:08:43,66.228.40.100,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-29 17:08:43,91.92.40.45,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-29 17:08:43,172.104.11.46,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-07-29 17:08:43,213.209.159.154,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-29 17:08:43,172.236.228.224,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-07-29 17:08:43,199.45.154.190,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-29 17:08:43,111.228.5.238,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-07-29 17:08:43,98.190.40.102,100,United States,Ocala,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-07-29 17:08:43,45.77.61.56,100,France,Aubervilliers,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-07-29 17:08:43,98.85.225.159,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-07-29 17:08:43,34.71.30.159,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-07-29 17:08:43,209.99.191.19,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-07-29 17:08:43,34.78.240.230,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-07-29 17:08:43,20.104.22.47,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-07-29 17:08:43,118.99.84.43,100,Indonesia,Surabaya,BIZNET,,Residential/Business,False
+2026-07-29 17:08:43,218.201.226.254,100,China,Guangzhou,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-07-29 17:08:43,167.99.227.136,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
