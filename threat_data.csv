@@ -97717,3 +97717,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-28 22:53:52,177.23.136.82,100,Brazil,Rio de Janeiro,Itanet Conecta Ltda,Itanet Conecta Ltda,Residential/Business,False
 2026-07-28 22:53:52,51.38.224.114,100,France,Gravelines,OVH SAS,OVH,Data Center,False
 2026-07-28 22:53:52,45.82.76.120,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-07-29 02:02:51,64.62.197.168,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-07-29 02:02:51,129.121.123.165,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-29 02:02:51,66.228.41.127,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-29 02:02:51,91.92.40.28,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-29 02:02:51,197.248.207.139,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-07-29 02:02:51,123.54.215.74,100,China,Hangzhou,China Telecom,,Residential/Business,False
+2026-07-29 02:02:51,175.6.109.238,100,China,Shenzhen,"No.293, Wanbao Avenue",Chinanet HN,Residential/Business,False
+2026-07-29 02:02:51,92.205.177.212,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Data Center,False
+2026-07-29 02:02:51,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 02:02:51,66.132.186.212,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-29 02:02:51,172.202.118.22,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-29 02:02:51,107.211.37.253,100,United States,Greenville,"AT&T Enterprises, LLC","AT&T Enterprises, LLC",Residential/Business,False
+2026-07-29 02:02:51,175.118.127.138,100,South Korea,Seongnam-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-07-29 02:02:51,71.229.1.186,100,United States,Mobile,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-07-29 02:02:51,12.182.212.90,100,United States,Cumming,"AT&T Enterprises, LLC",Grey Orange Incorporated,Residential/Business,False
+2026-07-29 02:02:51,47.236.157.205,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-07-29 02:02:51,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-29 02:02:51,43.165.178.246,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-07-29 02:02:51,51.75.253.68,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-07-29 02:02:51,195.206.182.219,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-29 02:02:51,129.121.93.77,100,United Kingdom,Slough,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-29 02:02:51,20.91.208.34,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-29 02:02:51,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-29 02:02:51,68.183.234.194,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-07-29 02:02:51,207.90.244.20,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-07-29 02:02:51,66.216.19.50,100,United States,Cleveland,BroadbandONE,"Cleveland Broadband, LLC",Residential/Business,False
+2026-07-29 02:02:51,31.173.29.136,100,Russia,Samara,MegaFon,,Mobile,False
+2026-07-29 02:02:51,156.67.111.76,100,India,Mumbai,Contabo Asia Private Limited,Contabo GmbH,Data Center,False
+2026-07-29 02:02:51,45.121.24.222,100,Vietnam,Hanoi,MOBIFONE,Mobifone Corporation,Mobile,False
+2026-07-29 02:02:51,4.184.121.217,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-07-29 02:02:51,125.16.27.190,100,India,Hyderabad,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-07-29 02:02:51,146.190.149.252,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-29 02:02:51,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-29 02:02:51,66.132.224.23,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-07-29 02:02:51,218.31.137.254,100,China,Xingfulu,Chinanet,Chinanet XJ,Residential/Business,False
+2026-07-29 02:02:51,172.213.208.20,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-07-29 02:02:51,106.13.64.155,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-29 02:02:51,180.76.238.67,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-29 02:02:51,45.43.57.63,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-29 02:02:51,85.217.140.18,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-29 02:02:51,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-29 02:02:51,193.163.125.128,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-29 02:02:51,162.217.103.70,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-07-29 02:02:51,4.211.84.189,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-07-29 02:02:51,69.5.169.170,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-29 02:02:51,168.91.173.57,100,United States,Allentown,RCN,RCN,Residential/Business,False
+2026-07-29 02:02:51,45.82.78.107,100,Singapore,Singapore,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-07-29 02:02:51,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-29 02:02:51,220.118.173.234,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-07-29 02:02:51,89.37.172.132,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
