@@ -98260,3 +98260,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-30 04:53:54,172.245.33.174,100,United States,Elk Grove Village,HostPapa,,Data Center,False
 2026-07-30 04:53:54,87.229.254.207,100,Russia,Mosrentgen,"PJSC ""Vimpelcom""",GoldenTeleCom ForaTec Static,Residential/Business,False
 2026-07-30 04:53:54,98.213.142.168,100,United States,Rockford,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-07-30 08:13:30,103.213.238.91,100,Bangladesh,Dhaka,Inspire Broadband,,Residential/Business,False
+2026-07-30 08:13:30,60.167.166.161,100,China,Hefei,China Telecom,Chinanet AH,Residential/Business,False
+2026-07-30 08:13:30,103.188.177.46,100,Indonesia,Jakarta,PEDEE,,Residential/Business,False
+2026-07-30 08:13:30,78.197.6.173,100,France,Paris,ProXad network / Free,Free,Residential/Business,False
+2026-07-30 08:13:30,141.98.83.48,100,United Kingdom,London,GLOBALHOST,,Data Center,False
+2026-07-30 08:13:30,74.249.177.110,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-30 08:13:30,109.105.210.55,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-07-30 08:13:30,103.59.163.135,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-07-30 08:13:30,34.34.167.255,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-07-30 08:13:30,122.161.172.13,100,India,Prayagraj,BHARTI,Abts Delhi,Residential/Business,False
+2026-07-30 08:13:30,65.49.1.157,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-30 08:13:30,86.54.31.40,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-07-30 08:13:30,103.133.206.10,100,Bangladesh,Chittagong,Windstream Communication Limited,Md. Rasel Ahmed,Residential/Business,False
+2026-07-30 08:13:30,74.207.253.22,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-30 08:13:30,116.205.107.139,100,China,Beijing,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-07-30 08:13:30,74.82.47.39,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-30 08:13:30,71.6.134.234,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-07-30 08:13:30,103.195.238.51,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-07-30 08:13:30,103.163.116.218,100,Bangladesh,Paltan,Moghbazar Dot,Maksudur Rashed,Residential/Business,False
+2026-07-30 08:13:30,162.214.22.174,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-07-30 08:13:30,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-30 08:13:30,176.65.148.158,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-07-30 08:13:30,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-07-30 08:13:30,140.83.33.115,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Residential/Business,False
+2026-07-30 08:13:30,182.190.248.154,100,Pakistan,Islamabad,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-07-30 08:13:30,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-07-30 08:13:30,193.95.2.247,100,Tunisia,Tunis,ATI - ISP,ATI - Agence Tunisienne Internet,Data Center,False
+2026-07-30 08:13:30,145.249.109.110,100,Spain,Las Palmas de Gran Canaria,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-07-30 08:13:30,159.223.148.194,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-30 08:13:30,35.195.25.42,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-07-30 08:13:30,185.177.72.53,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-07-30 08:13:30,31.14.32.6,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-07-30 08:13:30,89.126.222.149,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Data Center,False
+2026-07-30 08:13:30,112.31.93.229,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-30 08:13:30,122.187.228.228,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-07-30 08:13:30,27.155.120.135,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-07-30 08:13:30,117.36.152.44,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,False
+2026-07-30 08:13:30,177.72.195.114,100,Brazil,Porto Alegre,Farol Telecom,Velox Network Solucoes Tecnologicas Ltda,Residential/Business,False
+2026-07-30 08:13:30,65.49.20.107,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-30 08:13:30,38.132.109.100,100,United States,New York,M247 Europe SRL,M247 Ltd,Data Center,True
+2026-07-30 08:13:30,14.103.107.214,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-07-30 08:13:30,69.5.169.151,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 08:13:30,69.5.169.229,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 08:13:30,111.9.22.102,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-30 08:13:30,69.5.169.205,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 08:13:30,181.164.12.188,100,Argentina,Córdoba,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-07-30 08:13:30,151.243.11.236,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-07-30 08:13:30,203.142.160.143,100,South Korea,Seongnam-si,ABN,Ditizone,Residential/Business,False
+2026-07-30 08:13:30,138.197.195.44,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-07-30 08:13:30,20.171.55.167,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
