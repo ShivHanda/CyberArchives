@@ -98460,3 +98460,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-30 15:47:29,190.119.63.81,100,Peru,La Victoria,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
 2026-07-30 15:47:29,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
 2026-07-30 15:47:29,20.215.211.95,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-07-30 17:20:14,71.27.86.44,100,United States,Pittsburgh,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-07-30 17:20:14,69.5.169.83,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 17:20:14,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 17:20:14,103.153.254.96,100,Vietnam,Vinhomes Royal City,VINAHOST-HN,Representative Office in Hanoi of Vinahost Company Limited,Data Center,True
+2026-07-30 17:20:14,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 17:20:14,47.84.191.52,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-30 17:20:14,222.122.179.118,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-30 17:20:14,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-07-30 17:20:14,20.29.24.158,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-30 17:20:14,114.111.54.189,100,Singapore,Singapore,Meteverse Limited.,CDNETWORKS,Data Center,False
+2026-07-30 17:20:14,202.103.55.158,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-07-30 17:20:14,57.134.136.41,100,Canada,Blenheim,Cogeco Connexion Inc.,Cogeco Connexion Inc,Residential/Business,False
+2026-07-30 17:20:14,58.220.39.200,100,China,Nanjing,"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.",Chinanet JS,Residential/Business,False
+2026-07-30 17:20:14,120.52.18.158,100,China,Beijing,China Unicom IP network,China Unicom Cloud Data Company Limited,Data Center,False
+2026-07-30 17:20:14,210.79.142.230,100,Indonesia,Kertosono,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-07-30 17:20:14,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 17:20:14,193.176.31.197,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-30 17:20:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-30 17:20:14,172.110.223.207,100,United States,Newark,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-07-30 17:20:14,130.12.182.254,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-07-30 17:20:14,106.13.48.156,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-07-30 17:20:14,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-07-30 17:20:14,103.193.179.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Nara Cakra Studio,Data Center,False
+2026-07-30 17:20:14,201.217.12.57,100,Paraguay,Asunción,COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.),COMPAÑIA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.),Residential/Business,False
+2026-07-30 17:20:14,217.154.45.93,100,United Kingdom,Worcester,MISTRAL,,Residential/Business,False
+2026-07-30 17:20:14,158.174.210.161,100,Sweden,Färjestaden,Bahnhof AB,General Private,Residential/Business,False
+2026-07-30 17:20:14,45.82.76.103,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-07-30 17:20:14,72.253.251.3,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-07-30 17:20:14,69.5.169.46,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 17:20:14,152.32.154.44,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-30 17:20:14,120.195.35.240,100,China,Nanjing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-30 17:20:14,41.198.155.19,100,South Africa,Johannesburg,Echotel Pty Ltd,Echotel Pty Ltd,Residential/Business,False
+2026-07-30 17:20:14,92.204.128.28,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,False
+2026-07-30 17:20:14,198.98.62.211,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-07-30 17:20:14,200.153.86.250,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-07-30 17:20:14,20.38.32.246,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-30 17:20:14,113.190.149.134,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-07-30 17:20:14,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-07-30 17:20:14,45.119.212.99,100,Vietnam,Dich Vong,Vietnam Internet Network Information Center,JSC - Hanoi,Residential/Business,False
+2026-07-30 17:20:14,141.11.62.236,100,The Netherlands,Amsterdam,Wojciech Czapkowicz,Chunkserve Mateusz Peplinski,Data Center,False
+2026-07-30 17:20:14,110.49.76.244,100,Thailand,Bang Bon,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-07-30 17:20:14,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-30 17:20:14,185.173.106.25,100,Iran,Tehran,Hostiran Network,,Data Center,False
+2026-07-30 17:20:14,85.217.140.30,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-30 17:20:14,138.124.73.57,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-07-30 17:20:14,85.11.167.118,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-30 17:20:14,209.99.189.177,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-07-30 17:20:14,43.134.29.106,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-07-30 17:20:14,213.176.26.19,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-30 17:20:14,87.229.254.207,100,Russia,Mosrentgen,"PJSC ""Vimpelcom""",GoldenTeleCom ForaTec Static,Residential/Business,False
