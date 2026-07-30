@@ -98165,3 +98165,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-29 22:55:56,77.239.124.249,100,The Netherlands,Amsterdam,"Ace Data Centers II, L.L.C.",Alfahost LLC,Data Center,True
 2026-07-29 22:55:56,158.158.96.17,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
 2026-07-29 22:55:56,20.63.10.215,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,True
+2026-07-30 01:53:11,66.132.186.248,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-30 01:53:11,47.254.130.139,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-07-30 01:53:11,72.24.210.58,100,United States,Odessa,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-07-30 01:53:11,192.81.229.181,100,United States,Bourbonnais,Fabulous Fiber LLC,Fabulous Fiber LLC,Residential/Business,False
+2026-07-30 01:53:11,103.166.103.173,100,Pakistan,Islamabad,Grand Tel Private Limited,Telehouse Pvt Ltd,Residential/Business,False
+2026-07-30 01:53:11,154.16.44.243,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-07-30 01:53:11,129.153.145.135,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,True
+2026-07-30 01:53:11,144.79.249.123,100,Bangladesh,Khulna,Internet Surfing,,Residential/Business,False
+2026-07-30 01:53:11,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 01:53:11,103.88.76.27,100,India,Chennai,Thamizhaga Internet Communications Private Limited,Thamizhaga Internet Communications Private Limited,Residential/Business,False
+2026-07-30 01:53:11,193.163.125.208,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-30 01:53:11,199.45.155.94,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-30 01:53:11,217.60.78.71,100,Sweden,Stockholm,MITEFLUX,Throttle Limited,Residential/Business,False
+2026-07-30 01:53:11,104.243.42.167,100,United States,Piscataway,ReliableSite.Net LLC,samuel godbillot,Data Center,False
+2026-07-30 01:53:11,66.132.224.21,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-07-30 01:53:11,52.180.145.98,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-30 01:53:11,120.48.84.44,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-07-30 01:53:11,165.154.11.210,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-30 01:53:11,177.128.224.122,100,Brazil,Sete Lagoas,HZ TELECOMUNICAÇÕES E INFORMATICA LTDA,HZ TELECOM LTDA,Residential/Business,False
+2026-07-30 01:53:11,66.132.186.249,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-30 01:53:11,91.92.42.147,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-30 01:53:11,43.166.245.172,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-07-30 01:53:11,218.248.19.102,100,India,Vijayawada,BSNL Internet,The Principal,Residential/Business,False
+2026-07-30 01:53:11,45.56.85.254,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-30 01:53:11,79.3.96.178,100,Italy,Legnano,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-07-30 01:53:11,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-07-30 01:53:11,193.124.20.231,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 01:53:11,195.206.182.219,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-30 01:53:11,168.138.90.7,100,Canada,Montreal,Oracle Corporation,Oracle Cloud Infrastructure (ca-montreal-1),Data Center,False
+2026-07-30 01:53:11,64.62.156.192,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-30 01:53:11,20.244.20.183,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-30 01:53:11,85.217.149.53,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-30 01:53:11,91.92.40.66,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-30 01:53:11,172.190.100.10,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-30 01:53:11,76.183.36.73,100,United States,Greenville,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-07-30 01:53:11,185.217.1.243,100,Sweden,Stockholm,w1n ltd,Icme,Residential/Business,False
+2026-07-30 01:53:11,154.16.44.174,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-07-30 01:53:11,115.213.96.69,100,China,Ningbo,Chinanet,,Residential/Business,False
+2026-07-30 01:53:11,167.233.140.61,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-07-30 01:53:11,203.150.107.244,100,Thailand,Vadhana,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
+2026-07-30 01:53:11,114.80.32.225,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-07-30 01:53:11,112.216.129.27,100,South Korea,Mapo-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-07-30 01:53:11,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 01:53:11,65.49.1.111,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-30 01:53:11,94.26.106.33,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-30 01:53:11,194.62.107.79,100,United States,Salt Lake City,"Limestone Networks, Inc.","VPN Consumer Salt Lake City, UT, USA",Data Center,True
+2026-07-30 01:53:11,5.226.140.7,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-30 01:53:11,91.92.40.44,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-30 01:53:11,78.128.112.6,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-07-30 01:53:11,195.206.182.196,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
