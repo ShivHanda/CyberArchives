@@ -98510,3 +98510,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-30 17:20:14,43.134.29.106,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
 2026-07-30 17:20:14,213.176.26.19,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
 2026-07-30 17:20:14,87.229.254.207,100,Russia,Mosrentgen,"PJSC ""Vimpelcom""",GoldenTeleCom ForaTec Static,Residential/Business,False
+2026-07-30 19:16:20,114.100.49.20,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-07-30 19:16:20,101.47.27.73,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,False
+2026-07-30 19:16:20,135.119.112.84,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-07-30 19:16:20,193.32.162.15,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-07-30 19:16:20,158.174.211.17,100,Sweden,Färjestaden,Bahnhof AB,General Private,Residential/Business,False
+2026-07-30 19:16:20,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 19:16:20,5.181.85.100,100,Ukraine,Kharkiv,Pentech Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi,Pitline Ltd,Residential/Business,False
+2026-07-30 19:16:20,85.216.81.75,100,Germany,Altrip,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-07-30 19:16:20,223.123.38.120,100,Pakistan,Islamabad,CMPak Limited,CMPak Mobile Fixed Network,Residential/Business,False
+2026-07-30 19:16:20,85.133.225.217,100,Iran,Tehran,Pars Abr Toseeh Ertebatat LTD,ParsAbr,Residential/Business,False
+2026-07-30 19:16:20,172.105.69.26,100,Germany,Frankfurt am Main,Akamai Technologies,Linode,Data Center,False
+2026-07-30 19:16:20,185.61.152.14,100,United Kingdom,Scothern,"Namecheap, Inc",UK-NC,Residential/Business,True
+2026-07-30 19:16:20,66.132.172.106,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-07-30 19:16:20,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-30 19:16:20,101.36.125.72,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-30 19:16:20,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 19:16:20,37.114.50.142,100,Germany,Frankfurt am Main,Florian Kolb,Datalix,Data Center,True
+2026-07-30 19:16:20,217.154.106.153,100,Spain,Madrid,IONOS SE,IONOS SE,Data Center,False
+2026-07-30 19:16:20,213.176.26.95,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-30 19:16:20,14.103.118.140,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-07-30 19:16:20,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-07-30 19:16:20,119.92.70.82,100,Philippines,Cavite City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-07-30 19:16:20,130.12.180.39,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-07-30 19:16:20,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-30 19:16:20,91.224.92.159,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-07-30 19:16:20,223.123.42.237,100,Pakistan,Islamabad,CMPak Limited,CMPak Limited,Residential/Business,False
+2026-07-30 19:16:20,152.32.233.95,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-07-30 19:16:20,213.176.26.153,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-30 19:16:20,31.14.254.111,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-30 19:16:20,20.118.209.70,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-30 19:16:20,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-30 19:16:20,223.123.35.47,100,Pakistan,Islamabad,CMPak Limited,CMPak Limited,Residential/Business,False
+2026-07-30 19:16:20,101.47.159.50,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-07-30 19:16:20,155.94.155.147,100,United States,San Jose,HostPapa,HostPapa,Data Center,False
+2026-07-30 19:16:20,13.90.206.6,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-30 19:16:20,136.248.242.166,100,Chile,Santiago,Oracle Corporation,Oracle Cloud Infrastructure (sa-santiago-1),Data Center,False
+2026-07-30 19:16:20,4.227.177.11,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-30 19:16:20,220.179.255.54,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-07-30 19:16:20,31.56.58.134,100,France,Saint-Denis,Zkillu SAS,Zkillu SAS,Residential/Business,False
+2026-07-30 19:16:20,66.132.224.80,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-07-30 19:16:20,213.176.26.175,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-30 19:16:20,45.153.34.165,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-07-30 19:16:20,20.3.129.142,100,United States,Quincy,Microsoft Corporation,Microsoft Azure Cloud (westus2),Data Center,False
+2026-07-30 19:16:20,51.103.46.9,100,France,Paris,Microsoft,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-07-30 19:16:20,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-07-30 19:16:20,129.121.93.77,100,United Kingdom,Slough,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-30 19:16:20,103.97.101.25,100,Indonesia,Pekalongan,Dinas Kominfo Kota Pekalongan,,Residential/Business,False
+2026-07-30 19:16:20,45.133.173.96,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-07-30 19:16:20,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-07-30 19:16:20,120.193.9.167,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
