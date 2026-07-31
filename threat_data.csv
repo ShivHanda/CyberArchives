@@ -98860,3 +98860,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-31 13:50:08,185.116.161.213,100,Iran,Tehran,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin Co Ltd,Residential/Business,False
 2026-07-31 13:50:08,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-07-31 13:50:08,80.82.77.139,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-07-31 15:58:32,213.202.231.12,100,Germany,Düsseldorf,WIIT AG,myLoc managed IT AG,Data Center,False
+2026-07-31 15:58:32,192.253.248.56,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-07-31 15:58:32,81.237.155.113,100,Sweden,Kinna,Telia Company AB,,Residential/Business,False
+2026-07-31 15:58:32,103.59.163.135,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-07-31 15:58:32,85.105.56.108,100,Türkiye,Bursa,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-07-31 15:58:32,119.206.114.245,100,South Korea,Yuseong-gu,Korea Telecom,,Residential/Business,False
+2026-07-31 15:58:32,213.209.159.108,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-31 15:58:32,45.82.76.126,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-07-31 15:58:32,103.176.64.36,100,India,New Delhi,World Fibernet Private Limited,World Fibernet Private Limited,Residential/Business,False
+2026-07-31 15:58:32,45.82.110.150,100,Finland,Haapajärvi,Pyhanet,,Residential/Business,False
+2026-07-31 15:58:32,51.38.224.114,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-07-31 15:58:32,118.16.132.80,100,Japan,Seto,NTT Communications Corporation,NTT Communications Corporation,Mobile,False
+2026-07-31 15:58:32,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-31 15:58:32,188.20.244.19,100,Austria,Vienna,A1 Telekom Austria AG,A1 Telekom Austria AG,Residential/Business,False
+2026-07-31 15:58:32,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-07-31 15:58:32,45.140.192.8,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-07-31 15:58:32,114.218.57.21,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-07-31 15:58:32,64.227.168.220,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 15:58:32,35.227.125.16,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-07-31 15:58:32,49.51.231.222,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-07-31 15:58:32,45.154.244.149,100,The Netherlands,Amsterdam,Shereverov Marat Ahmedovich,Nikolov Dimitrov Georgi,Residential/Business,True
+2026-07-31 15:58:32,35.217.34.238,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-07-31 15:58:32,94.182.107.86,100,Iran,Karaj,SHATEL Network,SHTL-NET-DED,Data Center,False
+2026-07-31 15:58:32,103.252.168.4,100,India,Nagpur,UCN CABLE NETWORK PVT. LTD,UCN Cable Network Pvt. Ltd.,Residential/Business,False
+2026-07-31 15:58:32,192.161.49.2,100,United States,Ashland,HostPapa,Xiaoshuai Shuai,Data Center,False
+2026-07-31 15:58:32,103.189.235.114,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-07-31 15:58:32,80.94.95.211,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-07-31 15:58:32,221.199.172.66,100,China,Hohhot,CNC Group CHINA169 Neimeng Province Network,,Residential/Business,True
+2026-07-31 15:58:32,156.229.21.54,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology HK Limited,Data Center,False
+2026-07-31 15:58:32,193.163.125.250,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-31 15:58:32,103.207.9.246,100,India,Pune,Shree Balaji Infoway Private Limited,Shree Balaji Infoway Private Limited,Residential/Business,False
+2026-07-31 15:58:32,152.207.22.110,100,Cuba,Havana,"Empresa de Telecomunicaciones de Cuba, S.A.","Empresa de Telecomunicaciones de Cuba, S.A",Residential/Business,False
+2026-07-31 15:58:32,68.221.137.211,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-07-31 15:58:32,20.100.203.84,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-07-31 15:58:32,91.107.158.47,100,Germany,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,Data Center,False
+2026-07-31 15:58:32,103.241.45.120,100,India,Ahmedabad,Gujarat Telelink Pvt Ltd,Gtpl Broadband Pvt. Ltd.,Residential/Business,False
+2026-07-31 15:58:32,31.14.254.11,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-31 15:58:32,216.218.206.121,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-31 15:58:32,92.118.39.78,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-07-31 15:58:32,135.237.126.141,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-31 15:58:32,162.217.100.201,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-07-31 15:58:32,220.78.182.74,100,South Korea,Suwon,Korea Telecom,Sudogwongangnambonbujang,Residential/Business,False
+2026-07-31 15:58:32,221.120.73.24,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-07-31 15:58:32,64.62.156.126,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-07-31 15:58:32,45.198.224.18,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-07-31 15:58:32,162.217.100.36,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-07-31 15:58:32,123.253.162.254,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-07-31 15:58:32,177.128.224.122,100,Brazil,Sete Lagoas,HZ TELECOMUNICAÇÕES E INFORMATICA LTDA,HZ TELECOM LTDA,Residential/Business,False
+2026-07-31 15:58:32,47.251.6.85,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-31 15:58:32,221.161.235.168,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
