@@ -99060,3 +99060,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-31 20:58:03,69.5.169.175,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-07-31 20:58:03,154.221.20.92,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
 2026-07-31 20:58:03,78.128.112.6,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-07-31 22:54:15,27.71.27.209,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-07-31 22:54:15,61.160.29.34,100,China,Wuxi,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-31 22:54:15,124.133.10.66,100,China,Beijing,CHINA UNICOM China169 Backbone,Jnsjnb,Residential/Business,False
+2026-07-31 22:54:15,34.78.69.9,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-07-31 22:54:15,213.176.24.27,100,Iran,Tehran,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-31 22:54:15,65.181.127.40,100,United States,Dallas,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-07-31 22:54:15,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-07-31 22:54:15,47.236.148.6,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,True
+2026-07-31 22:54:15,185.242.226.126,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-07-31 22:54:15,47.250.160.122,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-07-31 22:54:15,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-07-31 22:54:15,52.238.192.78,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-31 22:54:15,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-31 22:54:15,106.51.92.114,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-07-31 22:54:15,202.212.191.16,100,Japan,Fujioka,"NTT PC Communications, Inc.",InfoSphere,Residential/Business,False
+2026-07-31 22:54:15,45.61.150.67,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-07-31 22:54:15,92.112.126.183,100,The Netherlands,Amsterdam,Matteo Martelloni trading as DELUXHOST,DELUXHOST,Data Center,True
+2026-07-31 22:54:15,158.158.54.131,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-07-31 22:54:15,121.189.198.60,100,South Korea,Samcheok-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-31 22:54:15,210.99.124.119,100,South Korea,Siheung-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-31 22:54:15,47.251.180.76,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-07-31 22:54:15,213.209.159.226,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-07-31 22:54:15,176.53.159.199,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-07-31 22:54:15,172.191.94.172,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-07-31 22:54:15,20.203.243.122,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-07-31 22:54:15,194.50.235.139,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-31 22:54:15,171.25.158.97,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,True
+2026-07-31 22:54:15,16.58.56.214,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-07-31 22:54:15,20.104.16.169,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-07-31 22:54:15,116.110.21.67,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-07-31 22:54:15,178.177.40.47,100,Russia,Moscow,MegaFon,,Data Center,False
+2026-07-31 22:54:15,202.134.23.229,100,Vietnam,Mai Dich,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-07-31 22:54:15,20.168.0.85,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-31 22:54:15,64.62.197.13,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-07-31 22:54:15,130.12.182.107,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-07-31 22:54:15,89.37.172.137,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-07-31 22:54:15,101.126.24.58,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-07-31 22:54:15,112.26.101.76,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-31 22:54:15,34.71.30.159,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-07-31 22:54:15,161.35.34.21,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 22:54:15,45.74.17.190,100,Singapore,Singapore,Secure Internet LLC,Internet Security - SG,Data Center,True
+2026-07-31 22:54:15,69.5.169.5,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-31 22:54:15,103.155.47.50,100,Indonesia,Ketanggungan,PRONETINDO,,Residential/Business,False
+2026-07-31 22:54:15,216.73.216.103,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,True
+2026-07-31 22:54:15,20.65.219.72,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-31 22:54:15,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-07-31 22:54:15,66.132.186.133,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-31 22:54:15,36.135.92.36,100,China,Changchun,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-07-31 22:54:15,45.198.224.15,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-07-31 22:54:15,92.118.39.62,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
