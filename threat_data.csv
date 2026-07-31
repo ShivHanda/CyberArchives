@@ -98810,3 +98810,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-31 10:32:30,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-07-31 10:32:30,20.100.190.226,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
 2026-07-31 10:32:30,107.172.57.42,100,United States,Buffalo,ColoCrossing,Hudson Valley Host,Data Center,True
+2026-07-31 13:50:08,146.190.221.253,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 13:50:08,20.169.83.197,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-31 13:50:08,190.25.75.206,100,Colombia,Bogotá,ETB - Colombia,ETB - Colombia,Residential/Business,False
+2026-07-31 13:50:08,104.28.166.126,100,United States,Wheaton,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-07-31 13:50:08,123.58.196.28,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-07-31 13:50:08,146.190.83.66,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 13:50:08,66.132.186.167,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-31 13:50:08,95.97.20.138,100,The Netherlands,Vlaardingen,UPC NL,,Residential/Business,False
+2026-07-31 13:50:08,129.151.171.7,100,South Africa,Johannesburg,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-31 13:50:08,213.176.26.123,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-07-31 13:50:08,136.92.6.165,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-07-31 13:50:08,20.91.213.224,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-31 13:50:08,69.5.169.179,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-31 13:50:08,176.65.148.4,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-07-31 13:50:08,130.12.180.126,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-07-31 13:50:08,196.196.53.4,100,Latvia,Riga,Orion Network Limited,Fiber Grid,Data Center,True
+2026-07-31 13:50:08,47.74.32.128,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-07-31 13:50:08,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-07-31 13:50:08,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-31 13:50:08,4.184.185.91,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-07-31 13:50:08,37.187.35.26,100,France,Strasbourg,OVH SAS,OVH SAS,Data Center,True
+2026-07-31 13:50:08,89.126.222.149,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Data Center,False
+2026-07-31 13:50:08,20.65.194.43,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-07-31 13:50:08,210.114.22.126,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-07-31 13:50:08,179.32.222.55,100,Colombia,Cali,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-07-31 13:50:08,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-07-31 13:50:08,103.182.132.154,100,India,Delhi,Gitelenet Private Limited,Gitelenet Private Limited,Residential/Business,False
+2026-07-31 13:50:08,95.165.144.96,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-07-31 13:50:08,104.211.93.193,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-07-31 13:50:08,169.58.76.7,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-07-31 13:50:08,20.168.120.250,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-07-31 13:50:08,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-07-31 13:50:08,47.80.63.229,100,South Korea,Seoul,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-07-31 13:50:08,85.217.149.8,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-31 13:50:08,190.129.122.12,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-07-31 13:50:08,193.163.125.148,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-07-31 13:50:08,185.177.72.5,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-07-31 13:50:08,181.48.176.134,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-07-31 13:50:08,45.43.37.254,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,True
+2026-07-31 13:50:08,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-07-31 13:50:08,114.217.10.60,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-31 13:50:08,221.229.216.1,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-07-31 13:50:08,20.91.208.34,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-07-31 13:50:08,211.224.23.239,100,South Korea,Dalseo-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-07-31 13:50:08,107.172.95.94,100,United States,Buffalo,HostPapa,ColoCrossing,Data Center,False
+2026-07-31 13:50:08,69.5.169.125,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-07-31 13:50:08,66.132.195.97,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-31 13:50:08,185.116.161.213,100,Iran,Tehran,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin Co Ltd,Residential/Business,False
+2026-07-31 13:50:08,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-07-31 13:50:08,80.82.77.139,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
