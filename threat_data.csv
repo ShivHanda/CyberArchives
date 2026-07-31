@@ -98960,3 +98960,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-07-31 17:40:32,163.7.1.218,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-07-31 17:40:32,101.99.14.34,100,Vietnam,Thủ Đức,CMC Telecom Infrastructure Company,CMC Telecom Infrastructure Company,Residential/Business,False
 2026-07-31 17:40:32,61.76.112.4,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-07-31 19:15:31,45.78.204.254,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-07-31 19:15:31,8.216.9.251,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-07-31 19:15:31,52.165.196.84,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-31 19:15:31,175.200.217.128,100,South Korea,Busan,Korea Telecom,Kornet,Residential/Business,False
+2026-07-31 19:15:31,66.132.186.165,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-07-31 19:15:31,85.217.140.5,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-31 19:15:31,141.95.162.162,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-07-31 19:15:31,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-31 19:15:31,107.150.101.128,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-07-31 19:15:31,85.217.149.6,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-31 19:15:31,85.217.140.6,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-31 19:15:31,187.110.238.50,100,Brazil,Fortaleza,DB3 SERVICOS DE TELECOMUNICACOES S.A,DB3 SERVICOS DE TELECOMUNICACOES S.A,Residential/Business,False
+2026-07-31 19:15:31,171.61.21.186,100,India,Agra,Bharti Airtel Ltd,BHARTI,Residential/Business,False
+2026-07-31 19:15:31,51.159.95.78,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-07-31 19:15:31,89.168.47.222,100,France,Paris,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-07-31 19:15:31,111.26.101.77,100,China,Changchun,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-31 19:15:31,115.140.161.61,100,South Korea,Changwon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-07-31 19:15:31,45.148.10.21,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-31 19:15:31,91.92.40.25,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-07-31 19:15:31,45.33.90.118,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-07-31 19:15:31,95.155.228.189,100,Sweden,Luleå,ALLTELE-SKEKRAFT002,,Residential/Business,False
+2026-07-31 19:15:31,34.125.71.26,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-07-31 19:15:31,208.87.241.251,100,United States,Los Angeles,Psychz Networks,Psychz Networks,Data Center,False
+2026-07-31 19:15:31,95.85.226.199,100,The Netherlands,Amsterdam,OC NETWORKS LIMITED,1Cent Host,Data Center,False
+2026-07-31 19:15:31,185.177.72.17,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-07-31 19:15:31,146.190.175.10,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 19:15:31,118.193.45.134,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-07-31 19:15:31,103.171.39.147,100,India,Jasdan,Arrow Touch Wireless Internet Private Limited,Nextnet Network Pvt Ltd,Residential/Business,False
+2026-07-31 19:15:31,163.7.11.126,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-07-31 19:15:31,20.243.176.67,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-07-31 19:15:31,135.233.97.43,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-07-31 19:15:31,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-07-31 19:15:31,112.27.129.78,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-07-31 19:15:31,43.128.111.31,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-07-31 19:15:31,154.221.20.92,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-07-31 19:15:31,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-07-31 19:15:31,103.127.222.196,100,Bangladesh,Dhaka,Media Hunt Enterprise,Abdullah AL Morshed,Residential/Business,False
+2026-07-31 19:15:31,13.70.25.162,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-07-31 19:15:31,66.132.224.223,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-07-31 19:15:31,66.132.195.96,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-07-31 19:15:31,217.154.165.93,100,Germany,Berlin,MISTRAL,,Residential/Business,False
+2026-07-31 19:15:31,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-07-31 19:15:31,102.211.152.138,100,Brazil,Fortaleza,Angola Cables,TEL Cables SA,Residential/Business,False
+2026-07-31 19:15:31,152.200.205.179,100,Colombia,Bogotá,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-07-31 19:15:31,45.135.141.18,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-07-31 19:15:31,222.108.100.117,100,South Korea,Gwangmyeong,Korea Telecom,KORNET,Residential/Business,False
+2026-07-31 19:15:31,159.65.223.164,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-07-31 19:15:31,23.137.105.154,100,United States,North Kansas City,Advin Services LLC,Advin Services LLC,Data Center,False
+2026-07-31 19:15:31,181.164.12.188,100,Argentina,Córdoba,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-07-31 19:15:31,193.32.162.103,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
