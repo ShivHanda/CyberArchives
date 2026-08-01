@@ -99560,3 +99560,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-01 20:43:02,66.132.172.158,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-08-01 20:43:02,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
 2026-08-01 20:43:02,72.215.34.135,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-01 22:48:12,52.204.81.148,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-01 22:48:12,172.178.115.83,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-01 22:48:12,211.20.14.156,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-01 22:48:12,14.103.63.16,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-01 22:48:12,82.170.128.52,100,The Netherlands,Amsterdam,KPN B.V,,Residential/Business,False
+2026-08-01 22:48:12,54.84.169.196,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-01 22:48:12,117.205.3.26,100,India,Ahmedabad,BSNL Internet,,Residential/Business,False
+2026-08-01 22:48:12,193.163.125.140,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-01 22:48:12,213.176.26.166,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 22:48:12,65.20.233.110,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-01 22:48:12,107.155.56.47,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-01 22:48:12,103.140.249.210,100,Vietnam,Ho Chi Minh City,Doan Lam Electronic and Telecommunication Joint Stock Company,Doan Lam Electronic and Telecommunication Joint Stock Company,Residential/Business,False
+2026-08-01 22:48:12,78.44.192.210,100,Czechia,Prague,Vodafone Czech Republic,UPC Broadband,Residential/Business,False
+2026-08-01 22:48:12,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 22:48:12,101.126.55.95,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-08-01 22:48:12,193.32.162.71,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 22:48:12,186.153.121.14,100,Argentina,Salta,Telecom Argentina S.A.,Camara De Empresas De Control,Residential/Business,False
+2026-08-01 22:48:12,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-01 22:48:12,14.103.114.196,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-01 22:48:12,5.226.140.16,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-01 22:48:12,58.211.39.86,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-01 22:48:12,165.227.84.14,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 22:48:12,167.172.232.142,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 22:48:12,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-01 22:48:12,103.99.214.211,100,Indonesia,Sungaigerong,Universitas Muhammadiyah Palembang,Universitas Muhammadiyah Palembang,Residential/Business,True
+2026-08-01 22:48:12,94.188.104.31,100,Russia,St Petersburg,Net By Net Holding LLC,Net By Net Holding LLC,Residential/Business,False
+2026-08-01 22:48:12,2.26.51.175,100,Germany,Frankfurt am Main,Play2go International Limited,,Data Center,False
+2026-08-01 22:48:12,167.172.145.115,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 22:48:12,130.12.182.110,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-08-01 22:48:12,47.234.138.49,100,United States,Killeen,Charter Communications LLC,Spectrum,Residential/Business,False
+2026-08-01 22:48:12,66.228.47.85,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-01 22:48:12,103.90.235.196,100,Vietnam,Quận Mười Một,WEBPANDA,Web Panda Company Ltd,Residential/Business,False
+2026-08-01 22:48:12,59.36.233.74,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-08-01 22:48:12,128.14.236.41,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-01 22:48:12,168.138.90.7,100,Canada,Montreal,Oracle Corporation,Oracle Cloud Infrastructure (ca-montreal-1),Data Center,False
+2026-08-01 22:48:12,20.226.5.174,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-08-01 22:48:12,91.92.42.64,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 22:48:12,5.175.136.100,100,Türkiye,Istanbul,AltunHOST LTD,AltunHOST,Data Center,False
+2026-08-01 22:48:12,89.32.197.160,100,Iran,Tehran,Parvaresh Dadeha Co. Private Joint Stock,Neda Gostar Saba,Residential/Business,False
+2026-08-01 22:48:12,47.245.136.243,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
+2026-08-01 22:48:12,185.223.235.2,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-01 22:48:12,212.108.130.27,100,Turkey,Mersin,Lifecell Digital LTD,LDL,Mobile,False
+2026-08-01 22:48:12,191.193.162.238,100,Brazil,Americana,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-01 22:48:12,66.132.195.39,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-01 22:48:12,189.161.43.93,100,Mexico,San Andrés Cholula,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-08-01 22:48:12,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 22:48:12,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-08-01 22:48:12,45.148.10.123,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-01 22:48:12,193.148.56.65,100,Finland,Helsinki,Alinda LLC,Partner Hosting LTD,Data Center,False
+2026-08-01 22:48:12,165.227.38.58,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
