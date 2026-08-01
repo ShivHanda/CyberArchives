@@ -99160,3 +99160,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-01 02:13:07,89.218.69.66,100,Kazakhstan,Astana,Kazakhtelecom Megaline Astana Network,,Residential/Business,False
 2026-08-01 02:13:07,109.105.210.72,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
 2026-08-01 02:13:07,163.7.9.84,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-01 06:23:11,83.249.152.222,100,Sweden,Uppsala,COMHEM,Tele2 AB,Residential/Business,False
+2026-08-01 06:23:11,150.107.38.194,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-01 06:23:11,77.90.185.78,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-01 06:23:11,103.215.74.213,100,United States,Dallas,Rekha M. Jain,,Residential/Business,False
+2026-08-01 06:23:11,114.217.10.60,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-01 06:23:11,192.42.116.62,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-08-01 06:23:11,45.153.34.32,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-01 06:23:11,122.114.241.136,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
+2026-08-01 06:23:11,79.124.62.178,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-01 06:23:11,81.171.72.93,100,Germany,Berlin,Eweka Internet Services B.V.,PRI BER,Residential/Business,True
+2026-08-01 06:23:11,92.63.197.5,100,The Netherlands,Amsterdam,FOP Dmytro Nedilskyi,Korotkij Denis Aleksandrovich,Residential/Business,False
+2026-08-01 06:23:11,173.244.60.241,100,United States,New York,LogicWeb Inc.,LogicWeb Inc,Residential/Business,False
+2026-08-01 06:23:11,69.5.169.114,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-01 06:23:11,103.183.62.0,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-01 06:23:11,187.210.77.105,100,Mexico,Mérida,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-08-01 06:23:11,182.53.28.40,100,Thailand,Chon Buri,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-08-01 06:23:11,92.62.74.41,100,Kyrgyzstan,Bishkek,Saimanet Telecomunications CJSC,Saimanet,Residential/Business,False
+2026-08-01 06:23:11,185.180.141.7,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-01 06:23:11,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 06:23:11,45.135.193.193,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-01 06:23:11,15.204.94.55,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-08-01 06:23:11,78.134.49.171,100,Italy,Fondi,NGI,NGI Spa,Residential/Business,False
+2026-08-01 06:23:11,213.209.159.25,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-01 06:23:11,45.156.128.174,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-01 06:23:11,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-08-01 06:23:11,213.209.159.26,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-01 06:23:11,20.65.193.190,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-01 06:23:11,80.27.1.40,100,Spain,Madrid,Telefonica De Espana S.A.U.,TME,Residential/Business,False
+2026-08-01 06:23:11,185.242.226.74,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-01 06:23:11,198.98.56.227,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-01 06:23:11,213.209.159.235,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-01 06:23:11,213.176.26.72,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 06:23:11,109.110.188.178,100,Indonesia,Jakarta,PT Anym Network Indonesia,IPXO,Residential/Business,False
+2026-08-01 06:23:11,43.228.157.8,100,Singapore,Singapore,Gaditek Associates,,Data Center,True
+2026-08-01 06:23:11,111.70.32.9,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-01 06:23:11,185.242.3.226,100,Germany,Frankfurt am Main,"Netiface America, Inc.",Felcloud,Data Center,False
+2026-08-01 06:23:11,20.14.93.87,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-01 06:23:11,66.132.186.216,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-01 06:23:11,200.37.241.186,100,Peru,Tarapoto,Telefonica del Peru S.A.A.,Conferencia Episcopal Peruana,Residential/Business,False
+2026-08-01 06:23:11,104.28.219.191,100,United States,Kansas City,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-01 06:23:11,198.12.148.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-01 06:23:11,213.176.26.78,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 06:23:11,43.228.157.9,100,Singapore,Singapore,Gaditek Associates,,Data Center,True
+2026-08-01 06:23:11,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 06:23:11,212.64.201.210,100,Turkey,Istanbul,Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.,Sunucun Bilgi Iletisim Teknolojileri VE Ticaret Limited Sirketi,Residential/Business,False
+2026-08-01 06:23:11,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 06:23:11,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-01 06:23:11,195.206.182.220,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-01 06:23:11,85.11.167.7,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-01 06:23:11,92.118.39.78,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
