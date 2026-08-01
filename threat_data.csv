@@ -99510,3 +99510,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-01 18:59:52,20.168.127.116,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
 2026-08-01 18:59:52,159.65.148.158,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-08-01 18:59:52,222.99.52.202,100,South Korea,Yeoju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-01 20:43:02,66.132.186.224,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-01 20:43:02,92.47.46.174,100,Kazakhstan,Aktobe,JSC Kazakhtelecom,IP KIM,Residential/Business,False
+2026-08-01 20:43:02,185.93.89.142,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,False
+2026-08-01 20:43:02,185.136.15.10,100,Kazakhstan,Almaty,Vlad Cojuhari,Vlad Cojuhari,Residential/Business,False
+2026-08-01 20:43:02,80.91.223.114,100,The Netherlands,Eygelshoven,Ferdinand Zink trading as Tube-Hosting,Alarichost,Data Center,False
+2026-08-01 20:43:02,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 20:43:02,43.134.29.106,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-01 20:43:02,177.85.247.230,100,Brazil,Timon,R R DE FRANCA SOUSA,R R DE FRANCA SOUSA,Residential/Business,False
+2026-08-01 20:43:02,5.252.83.100,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-08-01 20:43:02,35.210.61.208,100,Belgium,Brussels,Google Ireland Limited,Google Cloud (europe-west1),Data Center,False
+2026-08-01 20:43:02,187.16.96.250,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-08-01 20:43:02,51.159.149.103,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-01 20:43:02,134.122.125.41,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 20:43:02,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-01 20:43:02,93.174.95.106,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-08-01 20:43:02,187.170.224.116,100,Mexico,Álvaro Obregón,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-08-01 20:43:02,111.228.33.97,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-08-01 20:43:02,91.92.47.90,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 20:43:02,103.137.48.26,100,India,Dhatau,Dataexpress Pvt Ltd,NIXI,Residential/Business,False
+2026-08-01 20:43:02,103.18.14.190,100,Pakistan,Sehwan,Cyber Internet Services Pakistan,Broadband services,Residential/Business,False
+2026-08-01 20:43:02,3.217.171.106,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-08-01 20:43:02,20.64.106.71,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-01 20:43:02,122.191.115.237,100,China,Wuhan,China Unicom Hubei Province Network,,Residential/Business,False
+2026-08-01 20:43:02,91.92.42.52,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 20:43:02,199.45.155.111,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-01 20:43:02,1.10.185.51,100,Thailand,Bangkok,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-08-01 20:43:02,45.148.103.82,100,Canada,Toronto,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-08-01 20:43:02,163.172.143.147,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-08-01 20:43:02,86.54.31.32,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Global Gold Networks Ltd,Data Center,False
+2026-08-01 20:43:02,154.16.44.128,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-08-01 20:43:02,179.102.26.14,100,Brazil,Pinhais,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-01 20:43:02,185.242.226.90,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-01 20:43:02,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
+2026-08-01 20:43:02,192.3.251.33,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-08-01 20:43:02,193.32.162.76,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 20:43:02,35.238.83.104,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-01 20:43:02,65.20.198.159,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-01 20:43:02,66.116.241.89,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-01 20:43:02,106.13.228.234,100,China,Jinrongjie,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-01 20:43:02,49.72.212.22,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-08-01 20:43:02,146.190.112.200,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 20:43:02,20.204.81.42,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-01 20:43:02,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 20:43:02,47.88.3.142,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-01 20:43:02,165.154.206.35,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-08-01 20:43:02,31.14.254.10,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-01 20:43:02,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-01 20:43:02,66.132.172.158,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-01 20:43:02,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-01 20:43:02,72.215.34.135,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
