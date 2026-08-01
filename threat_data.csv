@@ -99310,3 +99310,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-01 11:12:26,199.247.20.248,100,Germany,Frankfurt am Main,"The Constant Company, LLC",Vultr Holdings LLC Frankfurt,Data Center,False
 2026-08-01 11:12:26,111.70.23.241,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-08-01 11:12:26,220.180.166.214,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-08-01 13:05:38,76.79.213.70,100,United States,Los Angeles,Spectrum,ARK WIRELESS & NETWORKING,Residential/Business,False
+2026-08-01 13:05:38,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-08-01 13:05:38,109.72.84.10,100,The Netherlands,Flushing,Your Hosting B.V.,Your Hosting B.V,Data Center,False
+2026-08-01 13:05:38,45.194.67.30,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-01 13:05:38,147.182.247.10,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 13:05:38,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-08-01 13:05:38,194.88.98.99,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-01 13:05:38,198.74.58.148,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-01 13:05:38,176.32.193.16,100,Armenia,Yerevan,iTV,Interactive TV LLC,Residential/Business,False
+2026-08-01 13:05:38,213.209.159.238,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-01 13:05:38,144.225.187.57,100,United States,Las Vegas,CNServer LLC,,Data Center,False
+2026-08-01 13:05:38,49.51.231.222,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-08-01 13:05:38,112.26.99.93,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-01 13:05:38,62.54.176.203,100,Germany,Hamburg,Telefonica Deutschland GmbH,Telefonica Germany GmbH & Co.,Residential/Business,False
+2026-08-01 13:05:38,62.60.130.238,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-01 13:05:38,20.203.221.142,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-01 13:05:38,5.160.159.189,100,Iran,Tehran,RSPN,,Residential/Business,False
+2026-08-01 13:05:38,152.32.155.14,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-01 13:05:38,45.121.24.222,100,Vietnam,Hanoi,MOBIFONE,Mobifone Corporation,Mobile,False
+2026-08-01 13:05:38,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-01 13:05:38,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 13:05:38,77.83.36.159,100,Seychelles,Victoria,Layer7 Networks GmbH,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-01 13:05:38,14.103.117.105,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-01 13:05:38,112.46.210.42,100,China,Guangzhou,China Mobile,China Mobile Communications Corporation,Residential/Business,False
+2026-08-01 13:05:38,27.128.240.75,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-08-01 13:05:38,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-01 13:05:38,1.209.110.147,100,South Korea,Goyang-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-01 13:05:38,213.176.26.123,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 13:05:38,146.59.32.16,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-01 13:05:38,213.176.26.72,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 13:05:38,78.142.18.40,100,The Netherlands,Amsterdam,ColocaTel Inc.,Colocatel Inc,Data Center,True
+2026-08-01 13:05:38,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-01 13:05:38,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 13:05:38,59.8.114.177,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-01 13:05:38,123.1.147.204,100,Hong Kong,Tseung Kwan O,NWT,,Residential/Business,False
+2026-08-01 13:05:38,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 13:05:38,92.62.74.41,100,Kyrgyzstan,Bishkek,Saimanet Telecomunications CJSC,Saimanet,Residential/Business,False
+2026-08-01 13:05:38,103.210.237.224,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,HK Kwaifong Group Limited,Data Center,False
+2026-08-01 13:05:38,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-08-01 13:05:38,141.98.11.11,100,Lithuania,Vilnius,UAB Host Baltic,,Data Center,False
+2026-08-01 13:05:38,40.124.174.73,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-01 13:05:38,118.69.134.243,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-08-01 13:05:38,216.167.82.155,100,United States,Los Angeles,"NTT America, Inc.","NTT America, Inc",Residential/Business,False
+2026-08-01 13:05:38,92.207.4.157,100,United Kingdom,Southampton,Gamma Mobile,,Residential/Business,False
+2026-08-01 13:05:38,193.32.162.76,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 13:05:38,54.37.235.85,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-01 13:05:38,72.253.251.3,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-08-01 13:05:38,116.228.233.93,100,China,Shanghai,China Telecom (Group),"Shanghai Xinding International Cargo Transport Angent Co., Ltd.",Residential/Business,False
+2026-08-01 13:05:38,172.205.146.41,100,Netherlands,Amsterdam,Microsoft,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-08-01 13:05:38,213.176.26.175,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
