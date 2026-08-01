@@ -99360,3 +99360,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-01 13:05:38,116.228.233.93,100,China,Shanghai,China Telecom (Group),"Shanghai Xinding International Cargo Transport Angent Co., Ltd.",Residential/Business,False
 2026-08-01 13:05:38,172.205.146.41,100,Netherlands,Amsterdam,Microsoft,Microsoft Azure Cloud (westeurope),Data Center,False
 2026-08-01 13:05:38,213.176.26.175,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 14:55:02,135.237.125.92,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-01 14:55:02,187.72.128.185,100,Brazil,Curitiba,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-08-01 14:55:02,171.231.188.193,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-01 14:55:02,80.223.167.240,100,Finland,Hämeenlinna,Telia Finland Oyj,Telia Finland Oyj,Residential/Business,False
+2026-08-01 14:55:02,95.165.27.83,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-08-01 14:55:02,91.92.42.172,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 14:55:02,49.124.155.179,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-01 14:55:02,138.199.60.23,100,Singapore,Singapore,Datacamp Limited,Cdnext SGP,Data Center,False
+2026-08-01 14:55:02,20.215.218.105,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-08-01 14:55:02,69.5.169.193,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-01 14:55:02,91.92.40.25,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 14:55:02,20.203.148.31,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-01 14:55:02,91.92.47.208,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-01 14:55:02,185.200.116.77,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-08-01 14:55:02,103.163.215.131,100,Vietnam,Phú Lâm,Lanit Technology and Communication Joint Stock Company,Dong Hung PHU Company Limited,Residential/Business,False
+2026-08-01 14:55:02,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 14:55:02,193.24.211.76,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,True
+2026-08-01 14:55:02,222.239.251.12,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-01 14:55:02,103.78.129.22,100,Cambodia,Phnom Penh,"GLOBAL CLOUD EXCHANGE Co., Ltd.","GLOBAL CLOUD EXCHANGE Co., Ltd",Data Center,False
+2026-08-01 14:55:02,20.65.194.58,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-01 14:55:02,154.92.23.249,100,United States,Washington,Yisu Cloud LTD,Yisu Cloud Ltd,Data Center,False
+2026-08-01 14:55:02,115.191.33.55,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-01 14:55:02,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-01 14:55:02,116.231.170.1,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-01 14:55:02,187.95.186.208,100,Brazil,Itupeva,AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA,Alares Cabo Servicos de Telecomunicacoes S.A,Residential/Business,False
+2026-08-01 14:55:02,62.210.142.61,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-08-01 14:55:02,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-01 14:55:02,204.76.203.222,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-01 14:55:02,79.124.62.178,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-01 14:55:02,213.176.26.74,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-01 14:55:02,122.170.115.173,100,India,Mumbai,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-08-01 14:55:02,152.52.229.94,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-01 14:55:02,134.122.125.153,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-01 14:55:02,36.52.183.188,100,Japan,Tokyo,"FreeBit Co., Ltd.","FreeBit Co., Ltd.",Residential/Business,False
+2026-08-01 14:55:02,34.26.122.100,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-01 14:55:02,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-08-01 14:55:02,65.49.1.180,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-01 14:55:02,81.19.219.208,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-01 14:55:02,196.188.116.56,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-08-01 14:55:02,201.249.192.30,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-08-01 14:55:02,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-08-01 14:55:02,211.46.188.16,100,South Korea,Cheongyang-gun,Korea Telecom,,Residential/Business,False
+2026-08-01 14:55:02,207.180.215.239,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-01 14:55:02,130.131.220.95,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-01 14:55:02,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-08-01 14:55:02,2.27.42.28,100,Finland,Helsinki,Play2go International Limited,Play2go International Limited,Residential/Business,False
+2026-08-01 14:55:02,173.201.45.116,100,United States,New York,velia.net,velia.net Internetdienste GmbH,Data Center,False
+2026-08-01 14:55:02,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-01 14:55:02,64.23.188.3,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-01 14:55:02,161.248.202.88,100,Pakistan,Gujranwala,VELOCITY TELECOM (PRIVATE) LIMITED,VELOCITY TELECOM (PRIVATE) LIMITED,Residential/Business,False
