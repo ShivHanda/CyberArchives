@@ -99710,3 +99710,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-02 06:28:20,92.118.39.78,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
 2026-08-02 06:28:20,20.29.21.127,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-08-02 06:28:20,137.184.190.246,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-02 09:50:53,20.15.200.1,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-02 09:50:53,87.236.176.111,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-02 09:50:53,216.73.216.41,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,False
+2026-08-02 09:50:53,95.87.248.223,100,Bulgaria,Sofia,NET1,NET1 Ltd.,Residential/Business,False
+2026-08-02 09:50:53,139.59.208.225,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 09:50:53,195.96.139.104,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-02 09:50:53,180.184.43.90,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-02 09:50:53,213.176.26.44,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 09:50:53,66.132.186.248,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-02 09:50:53,61.19.69.203,100,Thailand,Khlong San,National Telecom Public Company Limited,CAT ISP,Residential/Business,True
+2026-08-02 09:50:53,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-02 09:50:53,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-02 09:50:53,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-02 09:50:53,60.167.19.189,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-08-02 09:50:53,103.30.40.129,100,Hong Kong,San Po Kong,HKVPS,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-08-02 09:50:53,46.247.61.189,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-08-02 09:50:53,129.212.237.153,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 09:50:53,119.42.96.37,100,Thailand,Pai,National Telecom Public Company Limited,CAT BB,Residential/Business,False
+2026-08-02 09:50:53,185.84.159.31,100,Germany,Nuremberg,Parsun Network Solutions PTY LTD,Digitalvps,Data Center,False
+2026-08-02 09:50:53,8.209.238.191,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-02 09:50:53,178.16.55.192,100,United States,New York,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-08-02 09:50:53,187.40.215.162,100,Brazil,Boa Vista,V tal,V tal,Residential/Business,False
+2026-08-02 09:50:53,147.182.247.10,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 09:50:53,64.226.65.160,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 09:50:53,65.49.1.122,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-02 09:50:53,209.205.206.247,100,United States,Piscataway,24 SHELLS,B2 Net Solutions Inc,Residential/Business,True
+2026-08-02 09:50:53,79.124.56.138,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-02 09:50:53,40.76.140.215,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-02 09:50:53,118.99.115.14,100,Indonesia,East Jakarta,Biznet Gamers,,Residential/Business,False
+2026-08-02 09:50:53,34.34.132.249,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-02 09:50:53,69.126.144.30,100,United States,New York,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-08-02 09:50:53,192.140.149.97,100,Pakistan,Peshawar,SBPL,Cyber,Residential/Business,False
+2026-08-02 09:50:53,186.47.77.39,100,Ecuador,Guayaquil,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-08-02 09:50:53,185.190.25.168,100,Germany,Frankfurt am Main,haoxiangyun,Patron Technology Persia Ltd,Residential/Business,False
+2026-08-02 09:50:53,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-02 09:50:53,51.120.83.160,100,Norway,Lorenskog,Microsoft,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-02 09:50:53,35.231.41.225,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-02 09:50:53,40.124.174.226,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-02 09:50:53,47.253.5.130,100,United States,Henrico,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-02 09:50:53,185.223.235.53,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-02 09:50:53,20.65.195.108,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-02 09:50:53,34.100.248.63,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-02 09:50:53,47.251.125.229,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-02 09:50:53,47.77.235.8,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-02 09:50:53,4.246.61.185,100,United States,Quincy,Microsoft Corporation,Microsoft Azure Cloud (westus2),Data Center,False
+2026-08-02 09:50:53,47.113.217.218,100,China,Shenzhen,"Hangzhou Alibaba Advertising Co., Ltd.","Aliyun Computing Co., LTD",Data Center,False
+2026-08-02 09:50:53,69.5.169.119,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-02 09:50:53,179.43.159.202,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,True
+2026-08-02 09:50:53,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-02 09:50:53,68.183.68.14,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
