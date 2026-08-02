@@ -99910,3 +99910,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-02 14:56:55,35.234.173.128,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
 2026-08-02 14:56:55,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
 2026-08-02 14:56:55,35.241.67.111,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-08-02 16:53:17,85.11.167.185,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-02 16:53:17,45.135.141.8,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-08-02 16:53:17,40.67.161.175,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-02 16:53:17,165.154.163.240,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-02 16:53:17,20.153.204.5,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-08-02 16:53:17,130.12.180.126,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-08-02 16:53:17,157.245.45.84,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 16:53:17,85.217.140.47,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 16:53:17,34.228.104.231,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-02 16:53:17,125.212.235.194,100,Vietnam,Hanoi,Vietel - CHT Compamy Ltd,Viettel Group,Residential/Business,False
+2026-08-02 16:53:17,118.193.36.205,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-02 16:53:17,195.2.71.225,100,Russia,Moscow,VDSINA,,Data Center,True
+2026-08-02 16:53:17,20.104.22.47,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-02 16:53:17,34.176.145.110,100,Chile,Santiago,Google LLC,Google Cloud (southamerica-west1),Data Center,False
+2026-08-02 16:53:17,20.118.233.189,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-02 16:53:17,185.150.190.165,100,United States,Piscataway,ReliableSite.Net LLC,ReliableSite.Net LLC,Data Center,False
+2026-08-02 16:53:17,175.119.225.92,100,South Korea,Namdong-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,True
+2026-08-02 16:53:17,13.218.90.220,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-02 16:53:17,185.247.137.30,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-02 16:53:17,111.70.32.179,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-02 16:53:17,200.105.141.172,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-08-02 16:53:17,45.79.7.213,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-02 16:53:17,101.42.41.164,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-02 16:53:17,34.228.63.53,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-02 16:53:17,35.228.61.25,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-08-02 16:53:17,222.110.147.58,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-08-02 16:53:17,49.72.111.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-02 16:53:17,192.253.248.59,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-02 16:53:17,94.254.25.158,100,Sweden,Norsborg,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-08-02 16:53:17,34.50.188.47,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-02 16:53:17,31.77.146.148,100,The Netherlands,Amsterdam,Play2go International Limited,,Data Center,False
+2026-08-02 16:53:17,61.37.150.6,100,South Korea,Anyang-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-02 16:53:17,213.176.26.194,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 16:53:17,216.218.206.81,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-02 16:53:17,45.156.87.216,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-02 16:53:17,67.227.155.197,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-08-02 16:53:17,47.245.141.179,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
+2026-08-02 16:53:17,188.122.39.33,100,United Kingdom,Hounslow,Zen Internet Ltd,5G Communications Limited,Residential/Business,False
+2026-08-02 16:53:17,14.103.108.225,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-02 16:53:17,119.18.55.118,100,India,Nashik,HGINDIA,,Residential/Business,False
+2026-08-02 16:53:17,35.228.62.175,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-08-02 16:53:17,37.238.97.72,100,Iraq,Mosul,Hulum,EarthLink Ltd. Communications&,Residential/Business,False
+2026-08-02 16:53:17,89.248.172.10,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-02 16:53:17,144.172.110.122,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-08-02 16:53:17,65.49.1.141,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-02 16:53:17,185.226.92.175,100,Türkiye,Istanbul,Big Core LLC,BIGCORE,Residential/Business,True
+2026-08-02 16:53:17,34.151.177.112,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-08-02 16:53:17,198.57.219.18,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-08-02 16:53:17,47.74.54.11,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-02 16:53:17,199.45.155.84,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
