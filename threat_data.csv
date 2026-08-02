@@ -100010,3 +100010,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-02 19:00:57,172.213.2.180,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
 2026-08-02 19:00:57,125.91.35.169,100,China,Guangzhou,China Telecom,,Residential/Business,False
 2026-08-02 19:00:57,115.190.223.207,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-02 20:46:26,175.118.127.138,100,South Korea,Seongnam-si,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-08-02 20:46:26,43.160.246.215,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-02 20:46:26,187.210.77.105,100,Mexico,Mérida,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-08-02 20:46:26,20.203.243.122,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-02 20:46:26,1.27.251.252,100,China,Zhangzhou,China Unicom Neimeng Province Network,,Residential/Business,False
+2026-08-02 20:46:26,45.148.10.230,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-02 20:46:26,172.203.149.63,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-02 20:46:26,51.159.214.31,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-02 20:46:26,34.125.117.155,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,True
+2026-08-02 20:46:26,103.187.147.0,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-02 20:46:26,20.171.55.167,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-02 20:46:26,24.144.116.167,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 20:46:26,2.57.17.182,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-08-02 20:46:26,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-02 20:46:26,143.42.1.84,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-02 20:46:26,41.128.181.199,100,Egypt,Cairo,LINKdotNET AS number,Link Egypt (Link.NET),Residential/Business,False
+2026-08-02 20:46:26,185.116.161.214,100,Iran,Tehran,Green Web Samaneh Novin PJSC,Green Web Samaneh Novin Co Ltd,Residential/Business,False
+2026-08-02 20:46:26,158.158.105.63,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-08-02 20:46:26,152.32.212.226,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-02 20:46:26,49.247.202.239,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-08-02 20:46:26,220.180.107.193,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-08-02 20:46:26,20.42.104.13,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-02 20:46:26,91.92.40.19,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-02 20:46:26,183.223.46.28,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-02 20:46:26,36.163.227.186,100,China,Guangzhou,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-02 20:46:26,34.32.108.214,100,Germany,Berlin,Google LLC,Google Cloud,Data Center,False
+2026-08-02 20:46:26,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-02 20:46:26,168.253.224.242,100,Malawi,Blantyre,TNM Enterprise1,,Residential/Business,False
+2026-08-02 20:46:26,213.176.26.144,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 20:46:26,213.176.26.133,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 20:46:26,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-08-02 20:46:26,136.107.233.192,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-02 20:46:26,45.78.194.242,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-02 20:46:26,117.36.231.242,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,True
+2026-08-02 20:46:26,123.253.162.254,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-08-02 20:46:26,158.158.54.131,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-08-02 20:46:26,77.22.211.47,100,Germany,Delmenhorst,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-08-02 20:46:26,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-02 20:46:26,45.156.129.83,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-02 20:46:26,103.200.25.198,100,Vietnam,Nguyễn Du,MAXDATA,,Residential/Business,False
+2026-08-02 20:46:26,103.14.33.129,100,Hong Kong,Hong Kong,UCloud-HK,,Data Center,False
+2026-08-02 20:46:26,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-08-02 20:46:26,194.187.176.66,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-02 20:46:26,193.39.9.191,100,Iran,Tehran,Mahdiar Rafiee,"MB ""Teorita""",Data Center,False
+2026-08-02 20:46:26,103.143.238.100,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Data Center,False
+2026-08-02 20:46:26,41.193.100.133,100,South Africa,Johannesburg,Vox Telecommunications PTY Ltd,CPT Voice & Connectivity Solutions,Residential/Business,False
+2026-08-02 20:46:26,34.67.216.136,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-02 20:46:26,34.40.104.228,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-08-02 20:46:26,111.11.93.87,100,China,Shijiazhuang,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-02 20:46:26,182.253.79.195,100,Indonesia,Denpasar,BIZNET,,Residential/Business,False
