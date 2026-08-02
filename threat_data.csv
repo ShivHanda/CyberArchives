@@ -99660,3 +99660,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-02 02:10:15,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
 2026-08-02 02:10:15,173.255.223.143,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
 2026-08-02 02:10:15,159.65.5.51,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 06:28:20,31.77.192.4,100,Germany,Frankfurt am Main,Chsl ONE LTD,Chsl ONE LTD,Residential/Business,False
+2026-08-02 06:28:20,16.176.125.156,100,Australia,Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),Data Center,False
+2026-08-02 06:28:20,152.32.199.73,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-02 06:28:20,213.176.26.78,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 06:28:20,64.62.156.87,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-02 06:28:20,85.217.140.44,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 06:28:20,185.216.145.188,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-02 06:28:20,189.203.163.10,100,Mexico,Benito Juarez,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-08-02 06:28:20,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-02 06:28:20,85.217.140.38,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 06:28:20,45.153.34.112,100,The Netherlands,Eygelshoven,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-02 06:28:20,182.43.235.218,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-08-02 06:28:20,220.127.148.6,100,South Korea,Yangju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-02 06:28:20,102.210.148.92,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-08-02 06:28:20,190.223.36.108,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Mobile,False
+2026-08-02 06:28:20,104.211.93.193,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-02 06:28:20,85.217.140.12,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 06:28:20,51.161.8.211,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-08-02 06:28:20,20.65.194.84,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-02 06:28:20,202.165.26.42,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,TM VADS,Residential/Business,False
+2026-08-02 06:28:20,190.194.81.108,100,Argentina,Mar del Plata,Telecom Argentina S.A.,Telecom Argentina S.A,Residential/Business,False
+2026-08-02 06:28:20,172.94.9.37,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-02 06:28:20,64.89.160.242,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-02 06:28:20,2.57.122.13,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-02 06:28:20,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 06:28:20,117.50.119.17,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,True
+2026-08-02 06:28:20,119.63.76.106,100,Thailand,Din Daeng,"United Information Highway Co., Ltd.","United Information Highway Co., Ltd",Residential/Business,False
+2026-08-02 06:28:20,78.25.5.164,100,Ukraine,Shepetivka,WESTNET,,Residential/Business,False
+2026-08-02 06:28:20,207.175.75.171,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-02 06:28:20,104.248.210.24,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-02 06:28:20,83.255.209.245,100,Sweden,Karlstad,COMHEM,Com Hem AB,Residential/Business,False
+2026-08-02 06:28:20,194.88.98.121,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-02 06:28:20,85.217.140.42,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-02 06:28:20,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-02 06:28:20,94.154.43.213,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-02 06:28:20,213.176.26.95,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
+2026-08-02 06:28:20,112.217.188.122,100,South Korea,Yongin-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-08-02 06:28:20,178.27.90.142,100,Germany,Bad Kreuznach,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-08-02 06:28:20,44.205.74.196,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-02 06:28:20,141.11.32.150,100,The Netherlands,Amsterdam,OVH SAS,,Residential/Business,False
+2026-08-02 06:28:20,187.50.194.182,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-02 06:28:20,198.98.56.227,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-02 06:28:20,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-02 06:28:20,203.145.143.163,100,India,Marauli,Bharti Airtel,Bharti Hexacom Limited,Mobile,False
+2026-08-02 06:28:20,92.205.177.212,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Data Center,False
+2026-08-02 06:28:20,149.50.107.51,100,Poland,Warsaw,Cogent Communications,Meverywhere sp.zo.o,Data Center,False
+2026-08-02 06:28:20,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-02 06:28:20,92.118.39.78,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-08-02 06:28:20,20.29.21.127,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-02 06:28:20,137.184.190.246,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
