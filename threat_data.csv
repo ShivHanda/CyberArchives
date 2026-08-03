@@ -100460,3 +100460,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-03 20:57:33,34.124.225.147,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
 2026-08-03 20:57:33,213.176.26.182,100,Iran,Nasimshahr,Iranian Research Organization Science & Technology,Iranian Research Organization Science & Technology,Residential/Business,False
 2026-08-03 20:57:33,172.172.186.3,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-03 22:54:52,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,UNE EPM TELECOMUNICACIONES S.A,Residential/Business,False
+2026-08-03 22:54:52,49.124.152.148,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-03 22:54:52,34.50.99.71,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-08-03 22:54:52,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-08-03 22:54:52,69.5.169.222,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-03 22:54:52,196.251.121.130,100,Ukraine,Kyiv,Ghosty Networks LLC,,Data Center,True
+2026-08-03 22:54:52,45.156.129.67,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-03 22:54:52,146.190.112.200,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-03 22:54:52,185.242.226.104,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-03 22:54:52,196.251.121.128,100,Ukraine,Kyiv,Ghosty Networks LLC,,Data Center,True
+2026-08-03 22:54:52,192.250.232.142,100,Australia,Sydney,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-08-03 22:54:52,104.234.4.3,100,United States,San Jose,Virtua Systems SAS,Virtuasys LLC,Data Center,False
+2026-08-03 22:54:52,72.146.33.199,100,Italy,Milan,BellSouth.net Inc.,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-03 22:54:52,122.10.18.90,100,Hong Kong,Hong Kong,HongKong Service,,Residential/Business,False
+2026-08-03 22:54:52,84.23.146.183,100,Sweden,Gävle,Gavle Energi AB,FTTH Hemlingby2,Residential/Business,False
+2026-08-03 22:54:52,196.251.121.123,100,Ukraine,Kyiv,Ghosty Networks LLC,,Data Center,True
+2026-08-03 22:54:52,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-03 22:54:52,65.20.150.62,100,Iraq,Zayouna,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-03 22:54:52,196.251.121.126,100,Ukraine,Kyiv,Ghosty Networks LLC,,Data Center,True
+2026-08-03 22:54:52,2.26.50.151,100,Germany,Frankfurt am Main,Play2go International Limited,,Data Center,False
+2026-08-03 22:54:52,3.129.187.38,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-03 22:54:52,185.177.72.12,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-08-03 22:54:52,94.132.0.254,100,Portugal,Queluz,NOS COMUNICACOES S.A,NOS Comunicacoes S.A.,Residential/Business,False
+2026-08-03 22:54:52,159.203.109.230,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-08-03 22:54:52,206.189.19.232,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-03 22:54:52,136.85.76.191,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-03 22:54:52,27.79.4.141,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-03 22:54:52,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-03 22:54:52,41.203.212.69,100,Kenya,Nairobi,Safaricom Limited,Fixed Wimax Nairobi,Residential/Business,False
+2026-08-03 22:54:52,66.132.172.141,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-03 22:54:52,81.192.46.49,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-03 22:54:52,222.223.57.101,100,China,Cangzhou,Chinanet,Chinanet HE,Residential/Business,False
+2026-08-03 22:54:52,171.244.141.86,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-03 22:54:52,172.202.117.220,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-03 22:54:52,43.160.234.6,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-03 22:54:52,157.230.18.133,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-03 22:54:52,66.132.186.170,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-03 22:54:52,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-03 22:54:52,94.154.43.10,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-03 22:54:52,20.192.5.254,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-03 22:54:52,95.90.13.168,100,Germany,Feucht,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-08-03 22:54:52,156.236.31.85,100,The Netherlands,Amsterdam,BitCommand LLC,BitCommand LLC,Residential/Business,False
+2026-08-03 22:54:52,69.5.169.194,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-03 22:54:52,20.169.106.155,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-03 22:54:52,187.210.77.105,100,Mexico,Mérida,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-08-03 22:54:52,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-03 22:54:52,41.204.82.238,100,Cameroon,Yaoundé,CAMTEL,,Residential/Business,False
+2026-08-03 22:54:52,20.168.122.37,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-03 22:54:52,111.33.71.238,100,China,Youyilu,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-03 22:54:52,41.79.235.70,100,Democratic Republic of the Congo,Kinshasa,Societe Congolaise des Postes et Telecommunications,Scpt Network,Residential/Business,False
