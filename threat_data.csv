@@ -100560,3 +100560,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-04 01:58:07,195.178.110.101,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-04 01:58:07,144.172.94.85,100,United States,Ogden,RouterHosting LLC,RouterHosting LLC,Data Center,False
 2026-08-04 01:58:07,155.103.158.59,100,Canada,Montreal,VH-GLOBAL,FSTcloud,Data Center,False
+2026-08-04 05:16:06,167.71.32.67,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-04 05:16:06,196.191.142.67,100,Ethiopia,Awasa,Ethiotelecom,,Residential/Business,False
+2026-08-04 05:16:06,197.155.225.93,100,Zimbabwe,Harare,Maintainer Liquid Telecommunications Operations Limited,,Residential/Business,False
+2026-08-04 05:16:06,20.168.122.53,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-04 05:16:06,31.76.77.236,100,Finland,Helsinki,Play2go International Limited,,Data Center,False
+2026-08-04 05:16:06,68.183.236.1,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-04 05:16:06,196.190.41.137,100,Ethiopia,Addis Ababa,EthioNet,Refugee Council,Residential/Business,False
+2026-08-04 05:16:06,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-04 05:16:06,89.21.67.176,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-04 05:16:06,123.58.213.117,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-04 05:16:06,172.178.83.199,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-04 05:16:06,196.189.126.10,100,Ethiopia,Addis Ababa,EthioNet,Ethio Telecom,Mobile,False
+2026-08-04 05:16:06,193.176.31.234,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-04 05:16:06,20.250.24.46,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-04 05:16:06,61.48.253.83,100,China,Jinrongjie,China Unicom Beijing Province Network,,Residential/Business,False
+2026-08-04 05:16:06,106.13.182.13,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-04 05:16:06,196.188.187.85,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-08-04 05:16:06,35.153.86.200,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-08-04 05:16:06,196.0.41.134,100,Uganda,Kampala,Uganda Telecom Ltd,UTCL,Residential/Business,False
+2026-08-04 05:16:06,196.189.124.229,100,Ethiopia,Addis Ababa,EthioNet,Ethio Telecom,Mobile,False
+2026-08-04 05:16:06,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-04 05:16:06,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-04 05:16:06,195.158.26.59,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-08-04 05:16:06,195.222.57.183,100,Bosnia and Herzegovina,Mostar,BH Telecom d.d. Sarajevo,ServeriWebTV,Residential/Business,False
+2026-08-04 05:16:06,155.94.155.147,100,United States,San Jose,HostPapa,HostPapa,Data Center,False
+2026-08-04 05:16:06,5.135.51.76,100,Poland,Warsaw,OVH SAS,OVH Srl,Data Center,False
+2026-08-04 05:16:06,5.196.63.60,100,France,Paris,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-04 05:16:06,182.138.158.68,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-08-04 05:16:06,152.32.143.6,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-04 05:16:06,103.48.84.200,100,Vietnam,Quận Một,LVHN,,Residential/Business,False
+2026-08-04 05:16:06,118.194.233.182,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-04 05:16:06,192.42.116.114,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-08-04 05:16:06,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-04 05:16:06,178.104.110.162,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Residential/Business,False
+2026-08-04 05:16:06,31.56.206.108,100,Latvia,Riga,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-08-04 05:16:06,110.25.107.25,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-08-04 05:16:06,45.15.227.120,100,Moldova,Chisinau,Primanet SRL,Primanet SRL,Residential/Business,False
+2026-08-04 05:16:06,135.237.126.90,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-04 05:16:06,45.133.173.58,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-04 05:16:06,192.42.116.93,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-08-04 05:16:06,135.237.123.246,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-04 05:16:06,146.88.241.112,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-08-04 05:16:06,165.154.36.225,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-04 05:16:06,192.42.116.67,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-08-04 05:16:06,46.10.56.170,100,Bulgaria,Sofia,BTC-BROADBAND,Bulgarian Telecommunications Company Plc.,Residential/Business,False
+2026-08-04 05:16:06,40.124.185.25,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-04 05:16:06,66.132.195.71,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-04 05:16:06,120.48.175.69,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-04 05:16:06,139.167.225.182,100,India,Ghaziabad,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Residential/Business,False
+2026-08-04 05:16:06,192.42.116.109,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
