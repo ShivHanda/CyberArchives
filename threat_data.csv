@@ -100805,3 +100805,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-04 17:39:15,3.232.82.72,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
 2026-08-04 17:39:15,195.206.182.209,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-08-04 17:39:15,85.217.149.24,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-04 19:22:54,37.111.53.110,100,Myanmar,Yangon,Atom Myanmar Limited,Atom Myanmar Limited,Residential/Business,False
+2026-08-04 19:22:54,129.121.123.80,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-04 19:22:54,101.47.155.9,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-08-04 19:22:54,5.161.82.170,100,United States,Ashburn,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-08-04 19:22:54,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-04 19:22:54,101.100.216.61,100,Singapore,Singapore,Vodien Internet Solutions Pte Ltd,Vodien Internet Solutions Pte Ltd,Residential/Business,False
+2026-08-04 19:22:54,178.178.194.131,100,Russia,Moscow,PJSC MegaFon,MegaFon,Mobile,False
+2026-08-04 19:22:54,5.175.189.20,100,The Netherlands,Amsterdam,AceRDP Ltd,GHOSTNET GmbH,Data Center,True
+2026-08-04 19:22:54,81.30.147.158,100,Germany,Düsseldorf,MYLOC-SIMPLEASP,myLoc managed IT AG,Data Center,False
+2026-08-04 19:22:54,4.232.91.42,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-04 19:22:54,27.124.53.3,100,Thailand,Lak Si,"BGP Network Limited Co., Ltd",Rackip Consultancy Pte. LTD,Residential/Business,False
+2026-08-04 19:22:54,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-04 19:22:54,186.195.16.41,100,Brazil,Garibaldi,BRASIL TECNOLOGIA E PARTICIPACOES S/A,BRASIL TECPAR | AMIGO | AVATO,Residential/Business,False
+2026-08-04 19:22:54,20.203.205.96,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-04 19:22:54,178.156.225.176,100,United States,Ashburn,Hetzner Online GmbH,HETZNER-DC,Data Center,False
+2026-08-04 19:22:54,35.254.175.11,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-04 19:22:54,66.132.186.170,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-04 19:22:54,211.106.133.202,100,South Korea,Songpa-gu,Korea Telecom,,Residential/Business,False
+2026-08-04 19:22:54,138.124.20.112,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-04 19:22:54,216.73.217.60,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,True
+2026-08-04 19:22:54,80.94.92.242,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-04 19:22:54,50.116.72.139,100,United States,Ashburn,"Network Solutions, LLC",WEBSITEWELCOME.COM (gator1711.hostgator.com),Data Center,False
+2026-08-04 19:22:54,120.48.14.39,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-04 19:22:54,212.132.101.37,100,Germany,Berlin,IONOS SE ber.de,IONOS SE,Data Center,False
+2026-08-04 19:22:54,103.75.182.135,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-08-04 19:22:54,213.176.26.44,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-04 19:22:54,83.219.248.100,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-04 19:22:54,85.217.149.54,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-04 19:22:54,49.206.201.253,100,India,Chennai,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-04 19:22:54,103.82.92.171,100,Indonesia,Padalarang,PT Cloud Hosting Indonesia,PT Situs Kreatif Indonesia,Data Center,False
+2026-08-04 19:22:54,31.14.32.8,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-04 19:22:54,66.132.186.211,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-04 19:22:54,103.59.163.133,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-08-04 19:22:54,220.85.210.200,100,South Korea,Yeonsu-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-04 19:22:54,138.197.164.175,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-04 19:22:54,172.213.153.79,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-04 19:22:54,200.196.50.91,100,Brazil,Rio de Janeiro,Mundivox Do Brasil Ltda,Mundivox Do Brasil Ltda,Residential/Business,False
+2026-08-04 19:22:54,103.187.146.107,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-04 19:22:54,185.242.226.92,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-04 19:22:54,115.190.159.160,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-04 19:22:54,74.82.47.54,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-04 19:22:54,20.104.16.169,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-04 19:22:54,51.103.143.138,100,Switzerland,Zurich,Microsoft,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-04 19:22:54,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-04 19:22:54,94.16.17.141,100,Germany,Frankfurt am Main,Anexia Cloud Solutions GmbH,ANX,Data Center,False
+2026-08-04 19:22:54,185.128.138.138,100,Iran,Tehran,Sefroyek Pardaz Engineering PJSC,Sefroyek Pardaz Engineering Company,Residential/Business,False
+2026-08-04 19:22:54,217.160.226.51,100,Spain,Madrid,IONOS SE,,Data Center,False
+2026-08-04 19:22:54,80.66.83.80,100,Finland,Helsinki,Bashinskii Vadim Ruslanovich,Bashinskii Vadim Ruslanovich,Data Center,False
+2026-08-04 19:22:54,80.66.83.43,100,Finland,Helsinki,Bashinskii Vadim Ruslanovich,Bashinskii Vadim Ruslanovich,Data Center,False
+2026-08-04 19:22:54,201.28.237.90,100,Brazil,São Vicente,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
