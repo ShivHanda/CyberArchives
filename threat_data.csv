@@ -101005,3 +101005,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-05 01:57:30,213.209.159.226,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
 2026-08-05 01:57:30,194.102.104.178,100,Moldova,Chisinau,AVA HOST SRL,AlexHost SRL,Data Center,False
 2026-08-05 01:57:30,34.6.59.249,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-08-05 05:14:28,85.217.149.31,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 05:14:28,206.168.173.146,100,United States,Heber,Sparked Host LLC,Sparked Host LLC,Data Center,False
+2026-08-05 05:14:28,213.176.26.182,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 05:14:28,77.239.124.247,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-05 05:14:28,199.45.154.61,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-05 05:14:28,138.68.243.18,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-05 05:14:28,116.110.156.139,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-05 05:14:28,171.244.39.95,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-05 05:14:28,193.163.125.47,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-05 05:14:28,13.86.116.180,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-05 05:14:28,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 05:14:28,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-05 05:14:28,172.202.118.67,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-05 05:14:28,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 05:14:28,34.131.104.242,100,India,New Delhi,Google LLC,Google Cloud (asia-south2),Data Center,False
+2026-08-05 05:14:28,124.226.216.189,100,China,Liuzhou,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
+2026-08-05 05:14:28,180.76.232.26,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-05 05:14:28,83.219.248.100,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-05 05:14:28,64.62.197.218,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-05 05:14:28,104.42.186.50,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-08-05 05:14:28,13.89.125.253,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-05 05:14:28,185.93.89.79,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,True
+2026-08-05 05:14:28,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 05:14:28,213.176.26.78,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 05:14:28,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-05 05:14:28,61.76.38.54,100,South Korea,Ulju-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-05 05:14:28,85.217.149.72,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 05:14:28,202.29.232.244,100,Thailand,Ratchathewi,Office of Info.Tech. Admin. for Educational Development,Office of Info.Tech. Admin. Educational Development,Residential/Business,False
+2026-08-05 05:14:28,14.42.47.150,100,South Korea,Goyang-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-05 05:14:28,213.176.26.76,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 05:14:28,20.15.200.1,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-05 05:14:28,124.160.45.26,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,False
+2026-08-05 05:14:28,113.172.122.112,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-05 05:14:28,51.103.143.138,100,Switzerland,Zurich,Microsoft,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-05 05:14:28,66.132.195.82,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-05 05:14:28,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-08-05 05:14:28,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-05 05:14:28,101.32.52.164,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-08-05 05:14:28,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-08-05 05:14:28,171.25.158.70,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-08-05 05:14:28,92.154.95.236,100,France,Paris,France Telecom Orange,,Residential/Business,False
+2026-08-05 05:14:28,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 05:14:28,213.176.26.88,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 05:14:28,46.149.83.62,100,Ukraine,Chernihiv,Osnova-Internet LLC,Osnova-Internet LLC,Residential/Business,False
+2026-08-05 05:14:28,146.59.32.16,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-05 05:14:28,213.209.159.241,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-05 05:14:28,201.149.53.246,100,Mexico,Benito Juarez,"Megacable Comunicaciones de Mexico, S.A. de C.V.","Megacable Comunicaciones de Mexico, S.A. de C.V",Residential/Business,False
+2026-08-05 05:14:28,213.176.26.19,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 05:14:28,40.80.207.25,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-05 05:14:28,111.42.175.101,100,China,Harbin,China Mobile communications corporation,China Mobile,Mobile,False
