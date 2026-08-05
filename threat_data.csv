@@ -100955,3 +100955,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-04 22:56:54,83.168.110.23,100,Poland,Warsaw,SkyPass Solutions Sp. z.o.o.,SkillHost,Data Center,False
 2026-08-04 22:56:54,116.110.211.27,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
 2026-08-04 22:56:54,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 01:57:30,4.240.51.2,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-05 01:57:30,47.251.13.59,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-05 01:57:30,2001:470:1:fb5::220,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-05 01:57:30,8.210.123.17,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-08-05 01:57:30,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-05 01:57:30,193.176.29.13,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-05 01:57:30,38.137.11.14,100,India,Chandigarh,Netplus Broadband Services Pvt ltd,Netplus Broadband Services Pvt ltd,Residential/Business,False
+2026-08-05 01:57:30,190.167.237.191,100,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
+2026-08-05 01:57:30,64.62.197.90,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-05 01:57:30,66.132.195.60,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-05 01:57:30,211.253.37.225,100,South Korea,Guri-si,Korea Telecom-PUBNET,(jae)hoseojeonsanjikeobjeonmunhakkyo,Residential/Business,False
+2026-08-05 01:57:30,182.53.207.106,100,Thailand,Pakham,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-08-05 01:57:30,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-05 01:57:30,185.187.169.232,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-05 01:57:30,221.228.203.3,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-08-05 01:57:30,106.13.56.235,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-05 01:57:30,49.124.132.53,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-05 01:57:30,8.229.144.180,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-05 01:57:30,143.202.145.6,100,Argentina,Los Toldos,Coop De Gral Viamonte,Coop De Gral Viamonte,Residential/Business,False
+2026-08-05 01:57:30,129.121.114.179,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-05 01:57:30,150.5.169.176,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-05 01:57:30,78.128.113.22,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-08-05 01:57:30,138.124.30.225,100,Netherlands,Dronten,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-05 01:57:30,164.92.109.155,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 01:57:30,203.170.192.251,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-08-05 01:57:30,27.124.53.3,100,Thailand,Lak Si,"BGP Network Limited Co., Ltd",Rackip Consultancy Pte. LTD,Residential/Business,False
+2026-08-05 01:57:30,37.110.113.113,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-08-05 01:57:30,172.178.16.179,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-05 01:57:30,122.187.230.82,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-05 01:57:30,195.140.214.30,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-05 01:57:30,213.176.24.64,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 01:57:30,91.92.240.64,100,Germany,Frankfurt am Main,Omegatech LTD,Omegatech LTD,Data Center,False
+2026-08-05 01:57:30,85.217.149.57,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 01:57:30,64.62.197.59,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-05 01:57:30,27.110.166.67,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-08-05 01:57:30,213.176.26.133,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 01:57:30,152.32.183.27,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-05 01:57:30,194.50.235.157,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-05 01:57:30,2.58.56.101,100,France,Bavilliers,Sapinet,Mifsud Florian,Data Center,False
+2026-08-05 01:57:30,8.216.8.161,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-05 01:57:30,40.124.175.52,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-05 01:57:30,65.110.40.43,100,United States,Kansas City,Advin Services LLC,Octopus Web Solution Inc,Residential/Business,False
+2026-08-05 01:57:30,193.163.125.196,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-05 01:57:30,118.43.202.68,100,South Korea,Jeju-si,Korea Telecom,,Residential/Business,False
+2026-08-05 01:57:30,51.103.143.138,100,Switzerland,Zurich,Microsoft,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-05 01:57:30,104.168.92.214,100,United States,Los Angeles,HostPapa,Danny Dahl,Data Center,False
+2026-08-05 01:57:30,190.153.21.124,100,Venezuela,Caracas,"Net Uno, C.A.","Net Uno, C.A",Residential/Business,False
+2026-08-05 01:57:30,213.209.159.226,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-05 01:57:30,194.102.104.178,100,Moldova,Chisinau,AVA HOST SRL,AlexHost SRL,Data Center,False
+2026-08-05 01:57:30,34.6.59.249,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
