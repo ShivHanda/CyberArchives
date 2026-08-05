@@ -101355,3 +101355,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-05 19:21:08,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
 2026-08-05 19:21:08,45.194.67.30,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
 2026-08-05 19:21:08,68.198.1.144,100,United States,Freeport,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-08-05 21:01:50,34.89.89.64,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-08-05 21:01:50,193.163.125.105,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-05 21:01:50,159.65.223.164,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 21:01:50,85.217.140.16,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 21:01:50,199.45.155.93,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-05 21:01:50,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-05 21:01:50,107.148.158.24,100,United States,Piscataway,Ipxo LLC,Ipxo LLC,Data Center,False
+2026-08-05 21:01:50,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-05 21:01:50,85.217.149.57,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 21:01:50,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-05 21:01:50,85.217.140.30,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 21:01:50,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-05 21:01:50,190.119.63.98,100,Peru,La Victoria,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-08-05 21:01:50,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-05 21:01:50,87.120.104.75,100,Norway,Sandefjord,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,False
+2026-08-05 21:01:50,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-05 21:01:50,188.121.107.157,100,Iran,Tehran,Noyan Abr Arvan Co. ( Private Joint Stock),Noyan Abr Arvan Co. ( Private Joint Stock),Residential/Business,False
+2026-08-05 21:01:50,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 21:01:50,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-08-05 21:01:50,60.250.246.239,100,Taiwan,Bade District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-05 21:01:50,123.132.119.244,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-05 21:01:50,204.76.203.49,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-05 21:01:50,91.92.40.37,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-05 21:01:50,196.188.93.169,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-08-05 21:01:50,172.190.51.254,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-05 21:01:50,71.6.134.231,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-05 21:01:50,85.217.149.48,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 21:01:50,43.157.200.91,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-05 21:01:50,170.64.209.25,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 21:01:50,211.253.31.30,100,South Korea,Guri-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-05 21:01:50,34.64.206.94,100,South Korea,Seoul,Google LLC,Google Cloud (asia-northeast3),Data Center,False
+2026-08-05 21:01:50,109.86.254.252,100,Ukraine,Kharkiv,Triolan,,Residential/Business,False
+2026-08-05 21:01:50,92.118.39.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-05 21:01:50,34.84.122.73,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-08-05 21:01:50,14.248.82.157,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-05 21:01:50,46.36.123.40,100,Armenia,Zovuni,LikeNet LLC,Inecobank,Residential/Business,True
+2026-08-05 21:01:50,197.5.145.114,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-08-05 21:01:50,138.226.237.165,100,Belize,Belize City,Neon Core Network LLC,Neon Core Network LLC,Residential/Business,False
+2026-08-05 21:01:50,210.129.184.11,100,Japan,Chiyoda City,IDC Frontier Inc.,Vlan24 Inc.,Residential/Business,False
+2026-08-05 21:01:50,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-08-05 21:01:50,58.152.42.212,100,Hong Kong,Banyan Garden,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-08-05 21:01:50,175.144.16.1,100,Malaysia,Ipoh,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-08-05 21:01:50,213.176.26.153,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 21:01:50,152.32.218.149,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-05 21:01:50,91.191.209.118,100,Bulgaria,Sofia,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-08-05 21:01:50,52.188.191.193,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-05 21:01:50,125.212.235.194,100,Vietnam,Hanoi,Vietel - CHT Compamy Ltd,Viettel Group,Residential/Business,False
+2026-08-05 21:01:50,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-05 21:01:50,27.0.174.181,100,Spain,Barcelona,Cloudi Nextgen SL,Clouding VM,Data Center,False
+2026-08-05 21:01:50,20.100.186.69,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,True
