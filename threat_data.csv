@@ -101305,3 +101305,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-05 17:40:47,103.241.45.120,100,India,Ahmedabad,Gujarat Telelink Pvt Ltd,Gtpl Broadband Pvt. Ltd.,Residential/Business,False
 2026-08-05 17:40:47,41.208.147.131,100,Senegal,Dakar,Sonatel,,Residential/Business,False
 2026-08-05 17:40:47,171.237.176.209,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-08-05 19:21:08,94.154.43.230,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-05 19:21:08,71.6.134.229,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-05 19:21:08,45.153.34.41,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-05 19:21:08,91.134.133.184,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-05 19:21:08,45.156.129.194,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-05 19:21:08,165.154.120.29,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-05 19:21:08,113.164.66.10,100,Vietnam,Bắc Giang,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-05 19:21:08,138.124.30.225,100,Netherlands,Dronten,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-05 19:21:08,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-05 19:21:08,91.231.218.149,100,Russia,Moldovka,SYSTEMA Ltd,SYSTEMA Ltd,Residential/Business,False
+2026-08-05 19:21:08,47.251.94.248,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-05 19:21:08,213.176.26.62,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 19:21:08,124.226.216.189,100,China,Liuzhou,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
+2026-08-05 19:21:08,34.125.235.19,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-05 19:21:08,213.176.26.88,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 19:21:08,80.211.139.41,100,Italy,Arezzo,Aruba S.p.A. Network,Aruba S.p.A. - Cloud Services,Data Center,False
+2026-08-05 19:21:08,64.225.72.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 19:21:08,201.63.223.141,100,Brazil,Sorocaba,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-05 19:21:08,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 19:21:08,87.236.176.112,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,True
+2026-08-05 19:21:08,71.125.47.214,100,United States,Queens,Verizon Business,Verizon Business,Residential/Business,False
+2026-08-05 19:21:08,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-05 19:21:08,152.32.189.236,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-05 19:21:08,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 19:21:08,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 19:21:08,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-05 19:21:08,57.129.47.135,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
+2026-08-05 19:21:08,108.165.123.101,100,United States,Orlando,Snaju Development,Ace Data Centers,Data Center,False
+2026-08-05 19:21:08,41.204.63.118,100,Ghana,Accra,Vodafone Ghana AS International Transit,Ghanatel,Residential/Business,True
+2026-08-05 19:21:08,66.132.186.134,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-05 19:21:08,149.13.96.133,100,Poland,Warsaw,Cogent Communications,Enjoyvc Cloud Group Limited,Data Center,False
+2026-08-05 19:21:08,98.190.40.102,100,United States,Ocala,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-05 19:21:08,173.212.231.232,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-05 19:21:08,2.180.32.104,100,Iran,Sedeh Lanjān,mashhad,Telecommunication Company,Residential/Business,False
+2026-08-05 19:21:08,128.140.86.145,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-08-05 19:21:08,91.92.40.27,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-05 19:21:08,130.61.140.120,100,Germany,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),Data Center,False
+2026-08-05 19:21:08,147.45.211.139,100,Russia,Novosibirsk,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,False
+2026-08-05 19:21:08,31.14.97.32,100,The Netherlands,Amsterdam,Signet B.V.,TransIP BV,Residential/Business,False
+2026-08-05 19:21:08,103.154.62.14,100,Vietnam,Cầu Giấy,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Data Center,False
+2026-08-05 19:21:08,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 19:21:08,188.240.59.38,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-05 19:21:08,201.253.167.99,100,Argentina,Santa María de Punilla,Telecom Argentina S.A.,Apolo -Gold-Telecom-Per,Residential/Business,False
+2026-08-05 19:21:08,154.16.44.75,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-08-05 19:21:08,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 19:21:08,199.45.155.96,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-05 19:21:08,45.129.87.202,100,India,New Delhi,VCCL Cloud Private Limited,VCCL Cloud Private Limited,Data Center,False
+2026-08-05 19:21:08,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-08-05 19:21:08,45.194.67.30,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-05 19:21:08,68.198.1.144,100,United States,Freeport,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
