@@ -101155,3 +101155,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-05 11:53:25,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-08-05 11:53:25,124.158.10.21,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMC Telecom Infrastructure Company,Residential/Business,False
 2026-08-05 11:53:25,111.42.60.82,100,China,Harbin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-05 13:53:33,164.52.24.182,100,Japan,Osaka,Capitalonline Data Service (HK) Co,,Data Center,False
+2026-08-05 13:53:33,64.62.156.208,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-05 13:53:33,66.132.172.233,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-05 13:53:33,64.89.161.90,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-05 13:53:33,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-08-05 13:53:33,121.101.133.168,100,Indonesia,Sleman,PT SELARAS CITRA TERABIT,Terabit,Residential/Business,False
+2026-08-05 13:53:33,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-05 13:53:33,180.184.52.206,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,True
+2026-08-05 13:53:33,128.199.109.198,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 13:53:33,85.239.147.3,100,Finland,Helsinki,HomeLine Broadband LLC,Aeza Network,Residential/Business,False
+2026-08-05 13:53:33,89.248.172.10,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-05 13:53:33,66.132.172.188,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-05 13:53:33,150.251.234.47,100,Israel,Giv‘atayim,Pelephone Communications Ltd.,Pelephone Communications Ltd,Mobile,False
+2026-08-05 13:53:33,45.79.98.252,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-05 13:53:33,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-05 13:53:33,99.246.98.115,100,Canada,Mississauga,Rogers Communications Canada Inc.,Rogers Cable Inc. RCHRD,Residential/Business,False
+2026-08-05 13:53:33,205.169.39.25,100,United States,Santa Clara,CenturyLink Communications,"Palo Alto Networks, Inc",Data Center,False
+2026-08-05 13:53:33,52.186.171.52,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-05 13:53:33,220.86.7.26,100,South Korea,Yangcheon-gu,KORNET,(sa)KHjeongbogyoyougwon,Residential/Business,False
+2026-08-05 13:53:33,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-05 13:53:33,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-05 13:53:33,178.33.224.189,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,True
+2026-08-05 13:53:33,114.141.59.195,100,Indonesia,Jakarta,PT. Smartlink Global Media,,Data Center,False
+2026-08-05 13:53:33,34.18.141.120,100,Qatar,Doha,Google LLC,Google Cloud,Data Center,False
+2026-08-05 13:53:33,47.89.154.16,100,United States,Charlottesville,Alibaba.com LLC,ALICLOUD-US,Data Center,False
+2026-08-05 13:53:33,172.213.208.13,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-05 13:53:33,176.12.77.73,100,Kazakhstan,Almaty,Netfire TEC,,Data Center,False
+2026-08-05 13:53:33,45.135.141.13,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-08-05 13:53:33,213.176.26.182,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 13:53:33,66.132.186.170,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-05 13:53:33,201.86.46.145,100,Brazil,Maringá,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-05 13:53:33,157.245.34.56,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 13:53:33,34.38.43.90,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-05 13:53:33,172.213.225.209,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-05 13:53:33,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 13:53:33,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-05 13:53:33,160.154.103.129,100,Ivory Coast,Abidjan,Ftth-bng-bar RES,,Residential/Business,False
+2026-08-05 13:53:33,103.75.183.177,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-08-05 13:53:33,120.48.1.102,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-05 13:53:33,64.62.156.124,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-05 13:53:33,85.217.149.26,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 13:53:33,115.187.45.20,100,India,Bardhaman,Alliance Broadband Services,Alliance Broadband Services Pvt. Ltd.,Residential/Business,False
+2026-08-05 13:53:33,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 13:53:33,213.209.159.11,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-05 13:53:33,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-05 13:53:33,78.109.200.147,100,Iran,Tehran,Afranet,Afranet,Residential/Business,False
+2026-08-05 13:53:33,83.191.181.23,100,Sweden,Karlstad,TELE2-BROADBAND,Tele2 AB,Residential/Business,False
+2026-08-05 13:53:33,178.128.80.167,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-08-05 13:53:33,144.62.148.88,100,United States,Brooklyn,Cablevision Systems Corp.,Optimum Online,Residential/Business,False
+2026-08-05 13:53:33,41.59.200.166,100,Tanzania,Dar es Salaam,Tanzania Telecommunications CO. LTD,TTCL Corporation,Residential/Business,False
