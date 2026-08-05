@@ -101205,3 +101205,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-05 13:53:33,178.128.80.167,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
 2026-08-05 13:53:33,144.62.148.88,100,United States,Brooklyn,Cablevision Systems Corp.,Optimum Online,Residential/Business,False
 2026-08-05 13:53:33,41.59.200.166,100,Tanzania,Dar es Salaam,Tanzania Telecommunications CO. LTD,TTCL Corporation,Residential/Business,False
+2026-08-05 15:58:31,40.74.68.248,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-08-05 15:58:31,165.22.204.196,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 15:58:31,20.65.185.255,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-05 15:58:31,85.217.149.48,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 15:58:31,31.76.57.198,100,Germany,Frankfurt am Main,Chsl ONE LTD,Chsl ONE LTD,Residential/Business,False
+2026-08-05 15:58:31,170.106.167.30,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-08-05 15:58:31,172.213.153.79,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-05 15:58:31,178.104.22.197,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Residential/Business,False
+2026-08-05 15:58:31,103.48.194.118,100,Vietnam,Dich Vong,Vietnam Internet Network Information Center,JSC - Hanoi,Residential/Business,False
+2026-08-05 15:58:31,159.65.236.237,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 15:58:31,46.151.182.247,100,Germany,Frankfurt am Main,Ghosty Networks LLC,Ghosty Networks LLC,Data Center,True
+2026-08-05 15:58:31,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 15:58:31,217.25.83.245,100,Ukraine,Donetsk,"LIMITED LIABILITY COMPANY ""INTERNET SERVICE PROVIDER ""MEGA""",LLC ISP Mega,Residential/Business,False
+2026-08-05 15:58:31,109.196.100.105,100,Russia,Moscow,"JSC ""TIMEWEB""",Timeweb.Cloud LLC,Data Center,False
+2026-08-05 15:58:31,177.37.142.160,100,Brazil,João Pessoa,Brisanet Servicos De Telecomunicacoes S.A,Brisanet Servicos De Telecomunicacoes Ltda,Residential/Business,False
+2026-08-05 15:58:31,111.113.89.39,100,China,Yinchuan,Chinanet,Chinanet NX,Residential/Business,False
+2026-08-05 15:58:31,34.21.232.141,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-05 15:58:31,206.189.126.203,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-05 15:58:31,91.92.240.92,100,Germany,Frankfurt am Main,Omegatech LTD,Omegatech LTD,Data Center,False
+2026-08-05 15:58:31,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-08-05 15:58:31,49.37.115.34,100,India,Bhubaneswar,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Residential/Business,False
+2026-08-05 15:58:31,164.52.24.182,100,Japan,Osaka,Capitalonline Data Service (HK) Co,,Data Center,False
+2026-08-05 15:58:31,136.243.63.134,100,Germany,Falkenstein,Hetzner Online GmbH,Webo group,Data Center,False
+2026-08-05 15:58:31,103.14.33.129,100,Hong Kong,Hong Kong,UCloud-HK,,Data Center,False
+2026-08-05 15:58:31,85.217.149.56,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 15:58:31,216.218.206.104,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-05 15:58:31,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-05 15:58:31,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 15:58:31,23.147.56.51,100,United States,Los Angeles,NetLab Global,DotNet Solutions LLC,Residential/Business,False
+2026-08-05 15:58:31,143.110.241.64,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-05 15:58:31,120.29.90.62,100,Philippines,Baguio City,Converge-ict Solution Inc,Converge ICT Solution Inc,Residential/Business,False
+2026-08-05 15:58:31,165.232.37.72,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-05 15:58:31,136.232.11.10,100,India,Chennai,Reliance Jio Infocomm Limited,Rjil Internet,Mobile,False
+2026-08-05 15:58:31,149.104.6.62,100,Singapore,Singapore,Cogent Communications,Starcloud Global Pte. LTD,Data Center,True
+2026-08-05 15:58:31,213.176.26.94,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 15:58:31,172.213.208.13,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-05 15:58:31,112.137.143.2,100,Vietnam,Hanoi,VietNam National University,VietNam National University,Residential/Business,False
+2026-08-05 15:58:31,120.48.60.18,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-05 15:58:31,122.165.72.15,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-08-05 15:58:31,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-05 15:58:31,179.176.210.17,100,Brazil,Campinas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-08-05 15:58:31,89.248.172.10,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-05 15:58:31,45.13.186.114,100,Germany,Frankfurt am Main,Alinda LLC,Partner Hosting LTD,Data Center,True
+2026-08-05 15:58:31,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-08-05 15:58:31,34.181.254.218,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-05 15:58:31,35.199.61.101,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-05 15:58:31,97.74.236.4,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-05 15:58:31,213.176.26.21,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-05 15:58:31,171.22.26.85,100,Iran,Tehran,Pars Parva System LLC,ParsPack,Residential/Business,False
+2026-08-05 15:58:31,34.155.37.252,100,France,Paris,Google LLC,Google Cloud (europe-west9),Data Center,False
