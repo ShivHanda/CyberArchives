@@ -101605,3 +101605,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-06 10:32:47,13.70.25.162,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
 2026-08-06 10:32:47,200.119.252.26,100,Chile,Antofagasta,Manquehuenet,Gtd Internet S.A,Residential/Business,False
 2026-08-06 10:32:47,206.183.111.36,100,India,Mumbai,Web Werks,Web Werks India Pvt. Ltd.,Data Center,False
+2026-08-06 13:50:45,78.188.205.20,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-08-06 13:50:45,182.138.158.7,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-08-06 13:50:45,8.216.5.21,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-06 13:50:45,64.62.156.45,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-06 13:50:45,69.87.207.136,100,United States,Los Angeles,eSited Solutions,Esited LLC,Residential/Business,False
+2026-08-06 13:50:45,34.77.199.131,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-06 13:50:45,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-06 13:50:45,37.59.123.164,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-08-06 13:50:45,209.99.189.177,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-08-06 13:50:45,202.152.201.166,100,Indonesia,Astanajapura,PT. Bakrie Telecom Tbk,,Residential/Business,False
+2026-08-06 13:50:45,46.101.174.194,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-06 13:50:45,188.129.77.104,100,Croatia,Zagreb,Amis Telekom d.o.o.,,Residential/Business,False
+2026-08-06 13:50:45,167.71.102.95,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-06 13:50:45,34.93.128.179,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-06 13:50:45,45.156.87.216,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-06 13:50:45,78.109.200.147,100,Iran,Tehran,Afranet,Afranet,Residential/Business,False
+2026-08-06 13:50:45,120.48.28.60,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-06 13:50:45,159.65.223.126,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-06 13:50:45,105.158.169.213,100,Morocco,Rabat,ADSL Maroc telecom,,Residential/Business,False
+2026-08-06 13:50:45,217.60.195.234,100,The Netherlands,Eygelshoven,Swissnet LLC,pfcloude,Data Center,False
+2026-08-06 13:50:45,138.2.229.45,100,United States,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),Data Center,False
+2026-08-06 13:50:45,64.177.67.158,100,Israel,Kiryat Tiv'on,"The Constant Company, LLC","The Constant Company, LLC",Data Center,False
+2026-08-06 13:50:45,202.51.214.99,100,Indonesia,Jakarta,PT. Sejahtera Globalindo,,Residential/Business,False
+2026-08-06 13:50:45,168.235.210.157,100,United States,Linden,"Surf Air Wireless, LLC",FreedomNet,Residential/Business,False
+2026-08-06 13:50:45,45.153.34.72,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-06 13:50:45,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-06 13:50:45,85.217.149.73,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-06 13:50:45,106.246.89.72,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-06 13:50:45,204.76.203.221,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-06 13:50:45,190.6.32.107,100,Venezuela,Caracas,"Net Uno, C.A.","Net Uno, C.A",Residential/Business,False
+2026-08-06 13:50:45,5.83.214.6,100,United Kingdom,Redditch,Kuroit Limited,Kuroit,Residential/Business,False
+2026-08-06 13:50:45,34.17.132.109,100,Italy,Turin,Google LLC,Google Cloud,Data Center,False
+2026-08-06 13:50:45,83.97.78.224,100,Finland,Helsinki,Global Connectivity Solutions LLP,OY Creanova Hosting Solutions LTD,Residential/Business,True
+2026-08-06 13:50:45,103.164.137.9,100,Indonesia,South Tangerang,PT iForte Global Internet,PT Garuda Metal Jaya Raya,Residential/Business,False
+2026-08-06 13:50:45,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-06 13:50:45,216.218.206.86,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-06 13:50:45,107.189.14.87,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-06 13:50:45,107.148.229.185,100,Singapore,Singapore,PEG TECH INC,PEG TECH INC,Residential/Business,True
+2026-08-06 13:50:45,31.14.32.6,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-06 13:50:45,68.183.123.81,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-06 13:50:45,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-06 13:50:45,216.126.225.6,100,United States,Ogden,RouterHosting LLC,anyNode,Data Center,False
+2026-08-06 13:50:45,103.143.231.24,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,"Hongkong Hongdou Technology Co., Limited",Data Center,False
+2026-08-06 13:50:45,74.87.117.150,100,United States,Appleton,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-08-06 13:50:45,181.47.9.103,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-08-06 13:50:45,135.106.176.69,100,Russia,Moscow,JSC Selectel,Selectel,Residential/Business,False
+2026-08-06 13:50:45,213.209.159.242,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-06 13:50:45,45.33.46.249,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-06 13:50:45,199.45.154.177,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-06 13:50:45,20.153.204.5,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
