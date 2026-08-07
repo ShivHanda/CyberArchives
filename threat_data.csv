@@ -102145,3 +102145,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-07 18:45:40,222.232.176.7,100,South Korea,Seodaemun-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
 2026-08-07 18:45:40,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-08-07 18:45:40,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 20:34:06,200.159.0.218,100,Brazil,Osasco,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-07 20:34:06,20.102.98.235,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 20:34:06,85.217.140.33,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-07 20:34:06,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-07 20:34:06,58.220.39.200,100,China,Nanjing,"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.",Chinanet JS,Residential/Business,False
+2026-08-07 20:34:06,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-07 20:34:06,180.100.207.169,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-07 20:34:06,213.230.111.14,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-08-07 20:34:06,20.215.185.25,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-08-07 20:34:06,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-08-07 20:34:06,155.212.17.174,100,Russia,Kvarsa,"OOO ""NI""",LLC,Residential/Business,False
+2026-08-07 20:34:06,213.209.159.154,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-07 20:34:06,179.32.203.127,100,Colombia,Cali,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-08-07 20:34:06,168.91.173.57,100,United States,Allentown,RCN,RCN,Residential/Business,False
+2026-08-07 20:34:06,193.151.151.92,100,Iran,Tehran,Asre Dadeha Asiatech,Asiatech Data Transmission company,Data Center,False
+2026-08-07 20:34:06,167.99.41.127,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-07 20:34:06,8.209.82.97,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-08-07 20:34:06,69.49.246.176,100,United States,Atlanta,"Network Solutions, LLC","Newfold Digital, Inc.",Data Center,False
+2026-08-07 20:34:06,149.54.62.54,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-08-07 20:34:06,149.54.62.170,100,Afghanistan,Kabul,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-08-07 20:34:06,209.99.185.195,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-08-07 20:34:06,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-07 20:34:06,165.154.10.201,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-07 20:34:06,71.6.167.142,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-07 20:34:06,121.189.97.58,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-07 20:34:06,91.219.196.17,100,Russia,Moscow,Private Enterprise Tron Vitaliy Vladimirovich,PLANETA,Residential/Business,False
+2026-08-07 20:34:06,172.172.170.199,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 20:34:06,130.25.201.139,100,Italy,Milan,VODAFONE,,Residential/Business,False
+2026-08-07 20:34:06,196.188.93.169,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-08-07 20:34:06,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-08-07 20:34:06,59.28.253.154,100,South Korea,Sacheon-si,Korea Telecom,Busanbonbu(saeop),Residential/Business,False
+2026-08-07 20:34:06,37.32.20.103,100,Iran,Tehran,Noyan Abr Arvan Co. ( Private Joint Stock),Noyan Abr Arvan Co. ( Private Joint Stock),Residential/Business,False
+2026-08-07 20:34:06,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 20:34:06,80.1.51.168,100,United Kingdom,Rochdale,Virgin Media,,Residential/Business,False
+2026-08-07 20:34:06,190.247.37.17,100,Argentina,Río Tercero,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-08-07 20:34:06,72.179.206.48,100,United States,Garland,Spectrum,Road Runner,Residential/Business,False
+2026-08-07 20:34:06,185.173.106.25,100,Iran,Tehran,Hostiran Network,,Data Center,False
+2026-08-07 20:34:06,49.124.147.117,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-07 20:34:06,46.24.47.94,100,Spain,Madrid,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-08-07 20:34:06,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-07 20:34:06,110.175.149.222,100,Australia,Brisbane,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-08-07 20:34:06,45.114.84.126,100,Bangladesh,Dhaka,Race Online Limited,Earth Telecommunication (Pvt.) Ltd,Residential/Business,False
+2026-08-07 20:34:06,24.105.160.100,100,United States,Albany,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-08-07 20:34:06,38.147.171.53,100,Hong Kong,Mong Kok,Lucidacloud Limited,Xnnet LLC,Data Center,False
+2026-08-07 20:34:06,14.225.206.171,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-08-07 20:34:06,20.64.106.39,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-07 20:34:06,93.123.109.167,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 20:34:06,182.95.102.190,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-07 20:34:06,37.60.239.199,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-07 20:34:06,45.142.193.169,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
