@@ -101855,3 +101855,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-07 07:05:06,65.254.93.170,100,Australia,Bungarribee,P.D.R Solutions FZC,,Residential/Business,False
 2026-08-07 07:05:06,34.197.70.90,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-08-07 07:05:06,85.217.149.53,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-07 08:51:13,35.207.202.141,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-07 08:51:13,116.109.216.74,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-07 08:51:13,185.223.235.61,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-07 08:51:13,100.59.45.97,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-07 08:51:13,4.225.166.176,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-07 08:51:13,171.243.150.99,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-07 08:51:13,52.60.122.88,100,Canada,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),Data Center,False
+2026-08-07 08:51:13,103.183.62.3,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-07 08:51:13,193.163.125.52,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-07 08:51:13,213.176.26.74,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-07 08:51:13,147.50.227.79,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,CS Loxinfo Public Company Limited,Residential/Business,True
+2026-08-07 08:51:13,106.75.145.110,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-07 08:51:13,213.176.26.114,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-07 08:51:13,66.132.224.26,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-07 08:51:13,217.113.5.102,100,Armenia,Yerevan,WEB LLC,WEB Ltd,Data Center,False
+2026-08-07 08:51:13,94.16.17.136,100,Germany,Frankfurt am Main,Anexia Cloud Solutions GmbH,ANX,Data Center,False
+2026-08-07 08:51:13,193.163.125.33,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-07 08:51:13,20.203.243.122,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-07 08:51:13,45.135.194.99,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-07 08:51:13,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-07 08:51:13,45.131.195.60,100,United States,Secaucus,Clouvider Limited,"VPN Consumer Secaucus, NJ, USA",Data Center,True
+2026-08-07 08:51:13,178.104.110.162,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Residential/Business,False
+2026-08-07 08:51:13,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-08-07 08:51:13,193.163.125.70,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-07 08:51:13,43.153.138.134,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-07 08:51:13,93.91.6.75,100,Russia,Moscow,TEL-NET Gospital,OOO Komtechtrade,Residential/Business,False
+2026-08-07 08:51:13,72.56.111.180,100,Germany,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP",Data Center,False
+2026-08-07 08:51:13,34.48.110.165,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-07 08:51:13,82.156.246.251,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-07 08:51:13,43.155.134.4,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-07 08:51:13,65.49.1.153,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-07 08:51:13,96.126.101.72,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-07 08:51:13,69.5.169.99,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-07 08:51:13,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-08-07 08:51:13,20.163.61.13,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-07 08:51:13,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-08-07 08:51:13,94.16.17.140,100,Germany,Frankfurt am Main,Anexia Cloud Solutions GmbH,ANX,Data Center,False
+2026-08-07 08:51:13,58.42.204.29,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
+2026-08-07 08:51:13,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-08-07 08:51:13,197.220.92.185,100,Somalia,Mogadishu,GICO,,Residential/Business,False
+2026-08-07 08:51:13,71.6.134.229,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-07 08:51:13,20.208.41.112,100,Switzerland,Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-07 08:51:13,167.172.66.42,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-07 08:51:13,104.204.222.170,100,United States,Herndon,AME Hosting LLC,AME Hosting LLC,Data Center,False
+2026-08-07 08:51:13,183.250.25.11,100,China,Xiamen,China Mobile,China Mobile Communications Corporation,Mobile,False
+2026-08-07 08:51:13,50.116.24.167,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-07 08:51:13,194.44.50.109,100,Ukraine,Lviv,LLC EKSINTECH,"TzOV ""Biznes i Technologii""",Residential/Business,False
+2026-08-07 08:51:13,104.131.176.217,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-07 08:51:13,129.226.201.189,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,Aceville Pte.ltd,Data Center,False
+2026-08-07 08:51:13,66.132.186.127,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
