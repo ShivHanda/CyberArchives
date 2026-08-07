@@ -102095,3 +102095,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-07 16:46:38,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-08-07 16:46:38,115.68.220.142,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
 2026-08-07 16:46:38,20.118.32.242,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-07 18:45:40,138.197.174.194,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-07 18:45:40,180.252.152.193,100,Indonesia,Pamulang,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-08-07 18:45:40,40.121.200.75,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 18:45:40,169.40.4.177,100,Latvia,Riga,SIA VEESP,SIA VEESP,Residential/Business,False
+2026-08-07 18:45:40,8.211.149.145,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-07 18:45:40,106.75.143.177,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-07 18:45:40,104.28.237.79,100,United States,Miami,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-07 18:45:40,91.191.209.198,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-08-07 18:45:40,36.135.62.79,100,China,Changchun,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-07 18:45:40,118.145.239.129,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-07 18:45:40,51.103.143.138,100,Switzerland,Zurich,Microsoft,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-07 18:45:40,70.39.27.75,100,United States,Toddville,"Eastern Iowa IP, LLC",Aureon Network Services,Residential/Business,False
+2026-08-07 18:45:40,103.147.157.122,100,Indonesia,Jakarta,PT Internet Mulia Untuk Negeri,PT. QAULI AMALI INTEGRA,Residential/Business,False
+2026-08-07 18:45:40,194.88.98.93,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-07 18:45:40,95.181.179.109,100,Russia,Moscow,EdgeCenter LLC,EdgeCenter LLC,Data Center,False
+2026-08-07 18:45:40,125.22.42.210,100,India,Sonīpat,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-08-07 18:45:40,15.204.118.38,100,United States,Hillsboro,OVH SAS,OVH US LLC,Data Center,False
+2026-08-07 18:45:40,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-07 18:45:40,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 18:45:40,45.78.204.246,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-07 18:45:40,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-08-07 18:45:40,111.70.23.241,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-07 18:45:40,85.217.140.11,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-07 18:45:40,103.82.21.8,100,Vietnam,Dich Vong,INETACADEMY,Unica Academy Joint Stock Company,Residential/Business,False
+2026-08-07 18:45:40,36.163.118.106,100,China,Nanjing,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-07 18:45:40,171.217.254.120,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Data Center,False
+2026-08-07 18:45:40,220.240.104.100,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-08-07 18:45:40,45.134.20.148,100,Australia,Sydney,VPN,VPN-Consumer-AU,Residential/Business,True
+2026-08-07 18:45:40,46.101.107.202,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-08-07 18:45:40,5.83.129.177,100,Germany,Frankfurt am Main,TAKEHOST OU,TakeHost.Biz,Data Center,False
+2026-08-07 18:45:40,203.55.176.239,100,Singapore,Singapore,xTom Pty Ltd,365 Group LLC,Data Center,False
+2026-08-07 18:45:40,94.154.43.215,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-07 18:45:40,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-07 18:45:40,69.5.169.137,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-07 18:45:40,62.60.130.148,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-07 18:45:40,65.254.93.170,100,Australia,Bungarribee,P.D.R Solutions FZC,,Residential/Business,False
+2026-08-07 18:45:40,211.198.128.124,100,South Korea,Seoul,Korea Telecom,(ju)daimneteu,Residential/Business,False
+2026-08-07 18:45:40,64.227.168.220,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-07 18:45:40,135.125.199.17,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-08-07 18:45:40,77.239.124.242,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-07 18:45:40,45.156.129.175,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-07 18:45:40,45.205.1.246,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-07 18:45:40,51.68.226.87,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-08-07 18:45:40,85.208.96.200,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-08-07 18:45:40,2.27.41.215,100,Germany,Frankfurt am Main,Play2go International Limited,Play2go International Limited,Data Center,False
+2026-08-07 18:45:40,103.70.40.36,100,India,New Delhi,Sdh Network Pvt Ltd,Sdh Network Pvt Ltd,Residential/Business,False
+2026-08-07 18:45:40,87.103.126.54,100,Portugal,Lisbon,Vodafone Portugal - Communicacoes Pessoais S.A.,VDF,Residential/Business,False
+2026-08-07 18:45:40,222.232.176.7,100,South Korea,Seodaemun-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-07 18:45:40,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-07 18:45:40,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
