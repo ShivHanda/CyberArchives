@@ -102195,3 +102195,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-07 20:34:06,182.95.102.190,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
 2026-08-07 20:34:06,37.60.239.199,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
 2026-08-07 20:34:06,45.142.193.169,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-08-07 22:28:28,68.235.46.132,100,United States,Chicago,"tzulo, inc.","tzulo, inc.",Data Center,True
+2026-08-07 22:28:28,172.237.156.206,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-07 22:28:28,213.176.26.175,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-07 22:28:28,45.153.34.151,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-07 22:28:28,89.21.67.136,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-07 22:28:28,103.210.21.36,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-08-07 22:28:28,66.132.172.213,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-07 22:28:28,66.132.195.71,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-07 22:28:28,193.233.48.169,100,Russia,Moscow,GIR SER,,Residential/Business,False
+2026-08-07 22:28:28,100.29.192.72,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-07 22:28:28,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 22:28:28,172.234.192.12,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-07 22:28:28,45.157.156.222,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-08-07 22:28:28,8.235.75.175,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-07 22:28:28,193.163.125.111,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-07 22:28:28,87.120.186.70,100,Germany,Frankfurt am Main,Play2go International Limited,Play2go International Limited,Data Center,False
+2026-08-07 22:28:28,223.70.246.36,100,China,Beijing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-07 22:28:28,94.183.177.21,100,The Netherlands,Amsterdam,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-08-07 22:28:28,211.251.245.88,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-07 22:28:28,45.153.34.161,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-07 22:28:28,116.181.16.25,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-08-07 22:28:28,24.176.254.53,100,United States,Reno,Charter Communications,Spectrum,Residential/Business,False
+2026-08-07 22:28:28,201.149.53.246,100,Mexico,Benito Juarez,"Megacable Comunicaciones de Mexico, S.A. de C.V.","Megacable Comunicaciones de Mexico, S.A. de C.V",Residential/Business,False
+2026-08-07 22:28:28,34.65.17.246,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-08-07 22:28:28,34.39.108.248,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-08-07 22:28:28,213.176.26.114,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-07 22:28:28,41.173.43.34,100,Zimbabwe,Harare,Liquid Telecommunications Ltd,Liquid Telecommunications Operations Limited,Residential/Business,False
+2026-08-07 22:28:28,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-07 22:28:28,218.56.160.82,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,Laiwu  Luhua earthpea oil corporation,Residential/Business,False
+2026-08-07 22:28:28,43.156.115.92,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-07 22:28:28,43.155.141.192,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-07 22:28:28,152.228.219.218,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-08-07 22:28:28,31.173.29.136,100,Russia,Samara,MegaFon,,Mobile,False
+2026-08-07 22:28:28,57.151.98.124,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 22:28:28,41.33.98.56,100,Egypt,Giza,TE Data,,Residential/Business,False
+2026-08-07 22:28:28,181.28.19.231,100,Argentina,Río Ceballos,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-08-07 22:28:28,34.63.42.56,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-07 22:28:28,103.146.159.173,100,Hong Kong,Sheung Wan,Yisu Cloud LTD,"HK KXSY TECHNOLOGY CO., LIMITED",Data Center,False
+2026-08-07 22:28:28,71.229.1.186,100,United States,Mobile,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-08-07 22:28:28,183.234.72.66,100,China,Shenzhen,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-07 22:28:28,14.225.204.246,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-08-07 22:28:28,27.205.154.73,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-07 22:28:28,193.32.162.76,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-07 22:28:28,158.51.126.91,100,United States,Las Vegas,Hostodo,Hostodo,Data Center,False
+2026-08-07 22:28:28,91.92.47.55,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-07 22:28:28,172.202.118.82,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-07 22:28:28,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 22:28:28,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-07 22:28:28,85.217.140.20,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-07 22:28:28,104.218.165.188,100,United Kingdom,London,Zenlayer Inc,UCLOUD,Data Center,False
