@@ -101755,3 +101755,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-07 02:22:25,92.30.240.103,100,United Kingdom,Brighouse,TalkTalk,Carphone Warehouse Broadband Services,Residential/Business,False
 2026-08-07 02:22:25,34.228.104.231,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-08-07 02:22:25,43.162.114.69,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-07 05:34:39,152.32.204.21,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-07 05:34:39,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 05:34:39,101.53.236.155,100,Pakistan,Lahore,Cyber Internet Services Pakistan,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-08-07 05:34:39,46.250.246.46,100,United Kingdom,London,Contabo Asia Private Limited,Yorkshire Tech Limited,Residential/Business,False
+2026-08-07 05:34:39,20.100.186.69,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,True
+2026-08-07 05:34:39,85.217.140.44,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-07 05:34:39,185.180.141.48,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-07 05:34:39,145.220.91.19,100,The Netherlands,Amsterdam,Surf B.V.,Hadrian,Residential/Business,False
+2026-08-07 05:34:39,185.180.141.50,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-07 05:34:39,185.180.141.49,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-07 05:34:39,122.187.230.193,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-07 05:34:39,4.225.166.176,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-07 05:34:39,34.38.53.91,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-07 05:34:39,182.92.158.141,100,China,Beijing,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-08-07 05:34:39,182.93.7.194,100,Macao,Macao,CTM Internet Service,,Residential/Business,False
+2026-08-07 05:34:39,213.91.234.180,100,Bulgaria,Sofia,BTC-NET Ltd,Bulgarian Telecommunications Company Plc,Residential/Business,False
+2026-08-07 05:34:39,185.11.134.17,100,The Netherlands,Amsterdam,"Timeweb, LLP",TW Cloud,Data Center,False
+2026-08-07 05:34:39,162.14.66.219,100,China,Chengdu,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-07 05:34:39,212.79.122.113,100,Ukraine,Bilhorod-Dnistrovskyi,"Private Enterprise TRK ""ATV-PLUS""",,Residential/Business,False
+2026-08-07 05:34:39,172.178.16.179,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 05:34:39,181.115.171.107,100,Bolivia,Oruro,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-08-07 05:34:39,111.56.169.222,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-07 05:34:39,192.236.214.139,100,United States,Los Angeles,HostPapa,CENTRIOHOST-LLC,Data Center,False
+2026-08-07 05:34:39,20.12.41.6,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-08-07 05:34:39,20.29.19.156,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-07 05:34:39,193.124.20.238,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-07 05:34:39,51.103.152.96,100,Switzerland,Zurich,Microsoft,Microsoft Azure Cloud (switzerlandnorth),Data Center,False
+2026-08-07 05:34:39,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-07 05:34:39,194.180.49.71,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-07 05:34:39,124.67.202.172,100,China,Hohhot,CNC Group CHINA169 Neimeng Province Network,,Residential/Business,False
+2026-08-07 05:34:39,119.145.5.194,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-07 05:34:39,217.199.232.159,100,Ukraine,Mariupol,Kompeatelecom Ltd.,Kompeatelecom Ltd,Residential/Business,False
+2026-08-07 05:34:39,146.148.123.253,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-07 05:34:39,82.148.120.22,100,Qatar,Nu‘ayjah,MOBILE-BROADBAND,,Residential/Business,False
+2026-08-07 05:34:39,35.210.61.208,100,Belgium,Brussels,Google Ireland Limited,Google Cloud (europe-west1),Data Center,False
+2026-08-07 05:34:39,210.206.24.237,100,South Korea,Yongsan-dong,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-07 05:34:39,196.196.150.100,100,Spain,Valencia,Orion Network Limited,Fiber Grid,Data Center,True
+2026-08-07 05:34:39,89.248.172.11,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-07 05:34:39,14.103.118.106,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-07 05:34:39,66.132.172.230,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-07 05:34:39,152.32.220.188,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-07 05:34:39,185.216.145.171,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-07 05:34:39,65.49.20.111,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-07 05:34:39,194.164.127.114,100,United Kingdom,London,IONOS SE,IONOS SE,Data Center,False
+2026-08-07 05:34:39,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-07 05:34:39,138.124.158.150,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-08-07 05:34:39,135.237.125.201,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-07 05:34:39,2.27.37.60,100,Germany,Frankfurt am Main,DpkgSoft International Limited,Xorek.Cloud Frankfurt,Data Center,False
+2026-08-07 05:34:39,59.8.52.102,100,South Korea,Seogwipo,Korea Telecom,Kornet,Residential/Business,False
+2026-08-07 05:34:39,66.132.186.233,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
