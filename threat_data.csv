@@ -102395,3 +102395,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-08 04:50:25,165.154.162.212,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-08-08 04:50:25,66.29.156.133,100,United States,Phoenix,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
 2026-08-08 04:50:25,3.130.168.2,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-08 06:40:19,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-08 06:40:19,107.174.137.235,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,True
+2026-08-08 06:40:19,202.53.94.246,100,India,Guntur,Nettlinx Limited,Nettlinx Limited,Residential/Business,False
+2026-08-08 06:40:19,144.225.187.68,100,United States,Las Vegas,CNServer LLC,,Data Center,False
+2026-08-08 06:40:19,194.87.189.167,100,Germany,Frankfurt Am Main,xorek.cloud International LTD,xorek.cloud International LTD,Data Center,False
+2026-08-08 06:40:19,91.92.241.163,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Data Center,False
+2026-08-08 06:40:19,4.225.203.22,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-08 06:40:19,34.22.213.156,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-08 06:40:19,115.231.78.11,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,True
+2026-08-08 06:40:19,195.178.110.159,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-08 06:40:19,120.52.92.90,100,China,Beijing,CU-CDC,China Unicom Cloud Data Company Limited,Data Center,False
+2026-08-08 06:40:19,91.92.40.200,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-08 06:40:19,91.227.220.35,100,United Kingdom,Maidstone,Vinters IT Ltd,Vinters IT Ltd,Data Center,False
+2026-08-08 06:40:19,64.89.163.251,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-08 06:40:19,85.217.149.30,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-08 06:40:19,104.28.233.73,100,United States,San Jose,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-08 06:40:19,65.49.1.177,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-08 06:40:19,66.132.195.56,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-08 06:40:19,34.92.60.37,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-08-08 06:40:19,124.9.95.37,100,Taiwan,Neihu District,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-08-08 06:40:19,86.54.31.44,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-08-08 06:40:19,104.155.5.164,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-08 06:40:19,47.251.175.17,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-08 06:40:19,100.28.153.226,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-08 06:40:19,115.190.159.160,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-08 06:40:19,213.176.26.82,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-08 06:40:19,199.45.154.50,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-08 06:40:19,213.176.26.69,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-08 06:40:19,52.207.215.86,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-08 06:40:19,120.48.199.28,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd",Residential/Business,False
+2026-08-08 06:40:19,199.45.155.111,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-08 06:40:19,182.95.229.110,100,India,Dadri,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-08 06:40:19,35.187.231.181,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-08-08 06:40:19,120.195.26.54,100,China,Nanjing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-08 06:40:19,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-08 06:40:19,121.204.171.142,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-08-08 06:40:19,179.228.151.14,100,Brazil,Registro,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-08 06:40:19,23.88.47.15,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-08-08 06:40:19,117.211.77.86,100,India,Hazaribagh,Bharat Sanchar Nigam Ltd,,Residential/Business,False
+2026-08-08 06:40:19,79.124.49.226,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-08 06:40:19,185.223.235.25,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-08 06:40:19,150.107.38.251,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-08 06:40:19,59.34.34.41,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-08 06:40:19,213.176.26.22,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-08 06:40:19,64.62.197.128,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
