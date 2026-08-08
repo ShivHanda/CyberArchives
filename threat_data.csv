@@ -102635,3 +102635,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-08 14:25:43,66.132.172.113,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-08-08 14:25:43,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-08-08 14:25:43,20.215.185.25,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-08-08 16:25:32,87.237.198.139,100,Bahrain,Manama,MENA-CORE,Mena Broadband Services,Residential/Business,False
+2026-08-08 16:25:32,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-08-08 16:25:32,103.200.25.198,100,Vietnam,Nguyễn Du,MAXDATA,,Residential/Business,False
+2026-08-08 16:25:32,152.32.212.224,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-08 16:25:32,216.218.206.68,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-08 16:25:32,47.84.141.13,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-08 16:25:32,107.180.88.176,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,True
+2026-08-08 16:25:32,131.222.253.99,100,Türkiye,Istanbul,High Speed For Internet Services L.L.C,Turk Telekomunikasyon Anonim Sirketi,Residential/Business,False
+2026-08-08 16:25:32,185.252.234.171,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-08 16:25:32,72.146.33.199,100,Italy,Milan,BellSouth.net Inc.,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-08 16:25:32,159.65.35.52,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-08 16:25:32,195.154.103.239,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-08-08 16:25:32,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-08 16:25:32,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-08 16:25:32,45.169.200.254,100,Brazil,Cariacica,Net Sini Fiber Home Telecomunicação LTDA - me,Net Sini Fiber Home Telecomunicação LTDA - me,Residential/Business,False
+2026-08-08 16:25:32,31.56.44.38,100,Brazil,São Paulo,Gamers Club Ltda,,Residential/Business,False
+2026-08-08 16:25:32,222.76.248.54,100,China,Xiamen,Chinanet,Chinanet FJ,Residential/Business,True
+2026-08-08 16:25:32,180.245.128.200,100,Indonesia,Baturaden,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-08-08 16:25:32,165.1.78.209,100,United States,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),Data Center,True
+2026-08-08 16:25:32,100.29.192.17,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-08 16:25:32,66.132.186.250,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-08 16:25:32,35.226.159.142,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-08 16:25:32,77.206.3.51,100,France,Paris,Societe Francaise Du Radiotelephone - SFR SA,FR Ncnumericable,Residential/Business,False
+2026-08-08 16:25:32,152.32.252.65,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-08 16:25:32,217.154.38.181,100,United Kingdom,Worcester,MISTRAL,,Residential/Business,False
+2026-08-08 16:25:32,152.53.52.136,100,United States,Manassas,netcup GmbH,netcup GmbH,Data Center,False
+2026-08-08 16:25:32,52.172.177.191,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-08 16:25:32,138.124.158.150,100,Iraq,Baghdad,Horizon Scope Mobile Telecom WLL - Vercara,Horizon Scope Mobile Telecom WLL,Mobile,False
+2026-08-08 16:25:32,113.201.68.111,100,China,Xi'an,CNC Group CHINA169 Shannxi Province Network,,Mobile,False
+2026-08-08 16:25:32,152.32.189.236,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-08 16:25:32,184.154.245.42,100,United States,Miami,X99,X99,Data Center,False
+2026-08-08 16:25:32,160.30.157.214,100,Vietnam,Hanoi,TRUMCLOUDDATA,TrumCloud LLC,Data Center,False
+2026-08-08 16:25:32,54.37.226.197,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-08 16:25:32,172.110.223.73,100,Hong Kong,Hong Kong,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-08-08 16:25:32,45.78.204.254,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-08 16:25:32,8.208.44.152,100,United Kingdom,London,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,Data Center,True
+2026-08-08 16:25:32,27.24.141.156,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-08 16:25:32,125.23.204.74,100,India,Hyderabad,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-08-08 16:25:32,107.150.105.116,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-08-08 16:25:32,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-08 16:25:32,186.251.71.202,100,Brazil,Trindade,PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,Residential/Business,False
+2026-08-08 16:25:32,143.198.41.73,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-08 16:25:32,65.20.133.208,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-08 16:25:32,4.210.91.174,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-08-08 16:25:32,37.10.113.214,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-08 16:25:32,114.100.49.20,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-08-08 16:25:32,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-08 16:25:32,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
+2026-08-08 16:25:32,23.147.56.51,100,United States,Los Angeles,NetLab Global,DotNet Solutions LLC,Residential/Business,False
+2026-08-08 16:25:32,109.69.4.193,100,Albania,Tirana,Vodafone Network,,Residential/Business,False
