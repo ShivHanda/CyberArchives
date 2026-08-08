@@ -102590,3 +102590,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-08 12:35:02,5.181.124.40,100,United Kingdom,City of London,UK Dedicated Servers Limited,Hostworld,Data Center,False
 2026-08-08 12:35:02,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-08 12:35:02,160.154.84.189,100,Ivory Coast,Abidjan,ORANGE COTE D'IVOIRE,Ftth BNG 2PL PRO,Residential/Business,False
+2026-08-08 14:25:43,194.187.176.56,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-08 14:25:43,122.176.23.166,100,India,New Delhi,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-08 14:25:43,47.250.127.108,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-08 14:25:43,8.228.65.202,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-08 14:25:43,194.206.129.219,100,France,Chartres,Orange S.A.,Amaclio Productions,Residential/Business,False
+2026-08-08 14:25:43,197.153.57.103,100,Morocco,Tangier,MEDITELECOM,,Residential/Business,False
+2026-08-08 14:25:43,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-08-08 14:25:43,85.217.140.49,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-08 14:25:43,213.108.3.171,100,United States,Secaucus,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-08 14:25:43,66.116.224.33,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-08 14:25:43,171.231.184.215,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-08 14:25:43,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-08 14:25:43,155.94.155.147,100,United States,San Jose,HostPapa,HostPapa,Data Center,False
+2026-08-08 14:25:43,213.176.26.194,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-08 14:25:43,91.224.92.159,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-08 14:25:43,103.59.163.132,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-08-08 14:25:43,160.119.69.14,100,United States,Los Angeles,HostUS,,Data Center,False
+2026-08-08 14:25:43,14.48.251.107,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-08 14:25:43,74.248.24.61,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-08-08 14:25:43,2a0f:ca80:b00b:1f3::5,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-08 14:25:43,193.32.209.249,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-08 14:25:43,199.45.154.188,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-08 14:25:43,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-08-08 14:25:43,104.28.214.113,100,United States,St Louis,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-08 14:25:43,94.154.43.114,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-08 14:25:43,27.79.47.77,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-08 14:25:43,81.193.216.17,100,Portugal,Madalena,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-08-08 14:25:43,162.216.18.113,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-08 14:25:43,94.154.43.43,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-08 14:25:43,116.59.9.114,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-08 14:25:43,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-08-08 14:25:43,171.244.39.95,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-08 14:25:43,193.163.125.249,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-08 14:25:43,18.215.153.3,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-08 14:25:43,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-08 14:25:43,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-08 14:25:43,45.33.12.122,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-08 14:25:43,109.238.140.87,100,Sweden,Stockholm,Bredband2 Stockholms Stadsnaet AB,HPDC FTTH Zinken38,Residential/Business,False
+2026-08-08 14:25:43,223.197.178.95,100,Hong Kong,Tsing Yi,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-08-08 14:25:43,35.201.239.0,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-08-08 14:25:43,139.59.80.46,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-08-08 14:25:43,34.124.225.147,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-08 14:25:43,66.132.172.113,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-08 14:25:43,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-08 14:25:43,20.215.185.25,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
