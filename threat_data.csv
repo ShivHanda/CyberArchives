@@ -102490,3 +102490,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-08 08:32:42,43.134.175.151,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
 2026-08-08 08:32:42,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-08-08 08:32:42,180.76.177.88,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-08 10:24:40,151.243.11.230,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-08 10:24:40,197.153.71.12,100,Morocco,Rabat,MEDITELECOM,,Residential/Business,False
+2026-08-08 10:24:40,34.104.241.79,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-08-08 10:24:40,14.55.144.22,100,South Korea,Jeonju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-08 10:24:40,61.76.38.54,100,South Korea,Ulju-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-08 10:24:40,112.19.31.13,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-08 10:24:40,213.176.26.87,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-08 10:24:40,118.26.109.7,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-08 10:24:40,8.216.5.114,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-08 10:24:40,92.118.39.211,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-08 10:24:40,65.20.153.146,100,Iraq,Zayouna,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-08 10:24:40,64.226.70.41,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-08 10:24:40,186.148.224.83,100,Argentina,Villa José León Suárez,Grupo in S.A.S,GRUPO IN,Residential/Business,False
+2026-08-08 10:24:40,51.158.124.70,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-08 10:24:40,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-08 10:24:40,108.165.164.23,100,Germany,Frankfurt am Main,Kyonix Networks Limited,Ace Data Centers,Data Center,False
+2026-08-08 10:24:40,171.25.158.47,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-08-08 10:24:40,88.84.209.146,100,Russia,Moscow,Flex Ltd.,FlexHome,Residential/Business,False
+2026-08-08 10:24:40,98.71.8.129,100,Ireland,Dublin,BellSouth.net Inc.,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-08-08 10:24:40,27.24.141.156,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-08 10:24:40,190.181.25.210,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-08-08 10:24:40,196.188.116.56,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-08-08 10:24:40,95.81.103.109,100,The Netherlands,Amsterdam,Clodo Cloud Service CO. L.L.C,,Data Center,True
+2026-08-08 10:24:40,185.242.226.72,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-08 10:24:40,20.64.105.77,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-08 10:24:40,162.217.100.196,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-08-08 10:24:40,52.159.119.130,100,United States,Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-08-08 10:24:40,165.154.227.158,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-08-08 10:24:40,172.208.65.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-08 10:24:40,200.159.177.30,100,Brazil,Novo Hamburgo,Defferrari Solucoes em Internet Ltda,Flux Tecnologia Ltda,Residential/Business,False
+2026-08-08 10:24:40,189.167.196.66,100,Mexico,Apizaco,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-08-08 10:24:40,50.28.37.221,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-08-08 10:24:40,34.38.57.241,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-08 10:24:40,213.209.159.236,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-08 10:24:40,14.225.173.146,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-08-08 10:24:40,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-08 10:24:40,5.202.169.252,100,Iran,Tehran,PTS-Network,,Residential/Business,False
+2026-08-08 10:24:40,50.84.211.204,100,United States,Austin,Spectrum,RGB Hospitality,Residential/Business,False
+2026-08-08 10:24:40,92.118.39.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-08 10:24:40,190.167.237.191,100,Dominican Republic,Santiago de los Caballeros,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,Residential/Business,False
+2026-08-08 10:24:40,20.157.117.15,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-08-08 10:24:40,95.211.91.87,100,The Netherlands,Amsterdam,LeaseWeb Netherlands B.V.,Leaseweb,Data Center,False
+2026-08-08 10:24:40,94.16.17.139,100,Germany,Frankfurt am Main,Anexia Cloud Solutions GmbH,ANX,Data Center,False
+2026-08-08 10:24:40,66.132.186.191,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-08 10:24:40,210.204.157.133,100,South Korea,Pyeongtaek-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-08 10:24:40,101.36.97.74,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-08 10:24:40,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-08 10:24:40,192.236.168.195,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-08-08 10:24:40,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-08 10:24:40,155.94.155.147,100,United States,San Jose,HostPapa,HostPapa,Data Center,False
