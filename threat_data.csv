@@ -103130,3 +103130,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-09 10:27:16,34.14.15.149,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-08-09 10:27:16,103.154.176.95,100,Vietnam,Thành Phố Vinh,Vinh Railway Signalling - Telecom Joint Stock Company,VISITEC,Residential/Business,False
 2026-08-09 10:27:16,66.132.172.119,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-09 12:37:14,180.76.176.49,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-09 12:37:14,185.74.7.77,100,Uzbekistan,Salor,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Data Center,False
+2026-08-09 12:37:14,45.194.67.8,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,True
+2026-08-09 12:37:14,20.163.32.79,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-09 12:37:14,172.190.216.105,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-09 12:37:14,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-09 12:37:14,136.117.122.88,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-09 12:37:14,65.49.1.132,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-09 12:37:14,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-09 12:37:14,116.110.211.135,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-09 12:37:14,36.64.131.68,100,Indonesia,Depok,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-08-09 12:37:14,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-09 12:37:14,91.92.43.130,100,Germany,Frankfurt am Main,Dedik Services Limited,Dedik Services Limited,Residential/Business,True
+2026-08-09 12:37:14,37.59.123.164,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-08-09 12:37:14,47.251.30.94,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,True
+2026-08-09 12:37:14,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-09 12:37:14,159.65.148.75,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 12:37:14,119.18.52.5,100,India,Nashik,HGINDIA,,Residential/Business,False
+2026-08-09 12:37:14,20.65.193.198,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-09 12:37:14,91.92.47.117,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-09 12:37:14,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-09 12:37:14,51.254.113.225,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-09 12:37:14,201.222.1.29,100,Venezuela,Caracas,"TELECOMUNICACIONES BANTEL, C.A.","TELECOMUNICACIONES BANTEL, C.A",Residential/Business,False
+2026-08-09 12:37:14,199.45.154.176,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-09 12:37:14,129.121.115.193,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-09 12:37:14,103.253.245.222,100,Indonesia,Jakarta,PT Dewa Bisnis Digital,PT Fasma Multi Solusindo,Residential/Business,False
+2026-08-09 12:37:14,86.102.111.211,100,Russia,St Petersburg,PJSC Rostelecom,PRIMORYE,Residential/Business,False
+2026-08-09 12:37:14,45.153.34.161,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-09 12:37:14,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-09 12:37:14,34.48.179.192,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-09 12:37:14,20.52.159.242,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-09 12:37:14,144.202.92.17,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-08-09 12:37:14,116.99.171.175,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-09 12:37:14,94.16.17.141,100,Germany,Frankfurt am Main,Anexia Cloud Solutions GmbH,ANX,Data Center,False
+2026-08-09 12:37:14,152.32.239.90,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-09 12:37:14,80.153.25.57,100,Germany,Eichstätt,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-08-09 12:37:14,5.188.67.135,100,Kazakhstan,Almaty,NLS,,Residential/Business,False
+2026-08-09 12:37:14,20.100.198.199,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-09 12:37:14,185.221.219.201,100,Netherlands,Amsterdam,GTHost,Global Managed Hosting Inc,Residential/Business,False
+2026-08-09 12:37:14,121.189.198.60,100,South Korea,Samcheok-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-09 12:37:14,144.48.224.10,100,India,Guntakal,ALLIANCEBROADBAND,Alliance Broadband Services Pvt. Ltd.,Residential/Business,False
+2026-08-09 12:37:14,57.152.34.196,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-09 12:37:14,118.196.84.13,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,True
+2026-08-09 12:37:14,77.90.42.3,100,Germany,Düsseldorf,Felix Gassan,Realtox Media,Residential/Business,False
+2026-08-09 12:37:14,20.96.179.87,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-08-09 12:37:14,8.152.209.0,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-09 12:37:14,49.125.201.90,100,Malaysia,Kuala Lumpur,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-09 12:37:14,143.244.172.83,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 12:37:14,197.134.248.163,100,Egypt,Cairo,Vodafone Data,,Residential/Business,False
+2026-08-09 12:37:14,8.152.99.77,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
