@@ -103180,3 +103180,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-09 12:37:14,143.244.172.83,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-08-09 12:37:14,197.134.248.163,100,Egypt,Cairo,Vodafone Data,,Residential/Business,False
 2026-08-09 12:37:14,8.152.99.77,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-09 14:28:13,15.235.148.79,100,Singapore,Singapore,OVH SAS,"LTD, MassiveGRID",Data Center,False
+2026-08-09 14:28:13,148.66.142.9,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-08-09 14:28:13,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-08-09 14:28:13,123.253.162.254,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-08-09 14:28:13,161.35.190.246,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 14:28:13,129.121.121.186,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-09 14:28:13,172.185.24.228,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-08-09 14:28:13,116.231.170.1,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-09 14:28:13,192.185.2.195,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-09 14:28:13,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-08-09 14:28:13,152.53.148.66,100,Germany,Nuremberg,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-08-09 14:28:13,103.84.236.242,100,India,Dehradun,Blue Sky Broadband Pvt. Ltd,Blue Sky Broadband Pvt. Ltd.,Residential/Business,False
+2026-08-09 14:28:13,193.32.21.178,100,Ukraine,Bohdan,"LLC ""MicroTeam""",FOP Barta Andrii Deziderovich,Residential/Business,False
+2026-08-09 14:28:13,2405:9800:b652:706a:20ee:15c0:ad54:76ad,100,Thailand,Bangkok,AIS-Fibre,,Residential/Business,False
+2026-08-09 14:28:13,116.99.171.175,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-09 14:28:13,98.70.48.241,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-09 14:28:13,45.153.34.186,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-09 14:28:13,172.190.100.10,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-09 14:28:13,91.92.42.61,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-09 14:28:13,3.147.122.184,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-09 14:28:13,135.237.126.220,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-09 14:28:13,114.111.54.189,100,Singapore,Singapore,Meteverse Limited.,CDNETWORKS,Data Center,False
+2026-08-09 14:28:13,65.49.1.44,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-08-09 14:28:13,52.0.41.164,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-09 14:28:13,182.71.135.110,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-08-09 14:28:13,85.217.140.54,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 14:28:13,69.5.169.128,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-09 14:28:13,101.36.116.232,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-09 14:28:13,213.176.26.175,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-09 14:28:13,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-08-09 14:28:13,45.153.34.72,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-09 14:28:13,129.121.115.193,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-09 14:28:13,77.90.185.16,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-09 14:28:13,91.92.40.239,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-09 14:28:13,154.221.25.99,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-08-09 14:28:13,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-09 14:28:13,193.163.125.10,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-09 14:28:13,20.171.28.177,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-09 14:28:13,194.180.49.218,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-09 14:28:13,65.49.1.71,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-09 14:28:13,197.134.248.163,100,Egypt,Cairo,Vodafone Data,,Residential/Business,False
+2026-08-09 14:28:13,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-09 14:28:13,176.65.148.158,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-09 14:28:13,88.201.248.148,100,Russia,Murino,SkyNet Ltd.,SkyNet,Residential/Business,False
+2026-08-09 14:28:13,212.58.102.9,100,Georgia,Tbilisi,Caucasus Online LLC,Caucasus Online Ltd.,Residential/Business,False
+2026-08-09 14:28:13,142.248.80.222,100,United States,North Kansas City,Advin Services LLC,Ambyre LLC,Residential/Business,False
+2026-08-09 14:28:13,95.216.13.46,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-08-09 14:28:13,64.62.156.186,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-09 14:28:13,80.93.123.134,100,Ukraine,Bozhedarivka,Eurotranstelecom Ltd,Megalan Pp Ua,Residential/Business,False
+2026-08-09 14:28:13,183.224.237.233,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
