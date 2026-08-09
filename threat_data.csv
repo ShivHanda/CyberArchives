@@ -103280,3 +103280,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-09 16:26:41,112.225.72.174,100,China,Jinan,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
 2026-08-09 16:26:41,20.113.142.140,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
 2026-08-09 16:26:41,100.29.192.12,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-09 18:30:45,31.25.238.92,100,Germany,Frankfurt am Main,Massivegrid LTD,,Data Center,False
+2026-08-09 18:30:45,185.226.92.110,100,Türkiye,Istanbul,Big Core LLC,BIGCORE,Residential/Business,False
+2026-08-09 18:30:45,43.128.3.201,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-09 18:30:45,85.217.140.22,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 18:30:45,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-09 18:30:45,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-09 18:30:45,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-09 18:30:45,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-09 18:30:45,221.162.63.50,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-09 18:30:45,213.176.26.159,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-09 18:30:45,34.44.100.235,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-09 18:30:45,31.14.32.6,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-09 18:30:45,47.88.20.3,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-09 18:30:45,199.45.155.76,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-09 18:30:45,163.7.6.114,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-09 18:30:45,107.189.28.96,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-09 18:30:45,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-09 18:30:45,51.91.96.79,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-09 18:30:45,115.245.172.214,100,India,Chennai,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Residential/Business,False
+2026-08-09 18:30:45,213.209.159.223,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-08-09 18:30:45,106.75.23.247,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-09 18:30:45,54.36.99.29,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-09 18:30:45,167.172.46.213,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 18:30:45,43.155.238.153,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-09 18:30:45,194.180.49.71,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-09 18:30:45,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-09 18:30:45,95.173.216.11,100,United States,Dallas,Datacamp Limited,Cdn77 DAL,Data Center,False
+2026-08-09 18:30:45,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-09 18:30:45,121.46.239.199,100,China,Beijing,ZHAOONE,shanghai wexchange network technology Co. Ltd.,Residential/Business,False
+2026-08-09 18:30:45,45.148.10.25,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-09 18:30:45,66.132.186.177,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-09 18:30:45,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-09 18:30:45,112.169.8.251,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-09 18:30:45,103.147.248.23,100,India,Guwahati,Softcrop It,,Residential/Business,False
+2026-08-09 18:30:45,185.113.139.51,100,Latvia,Riga,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-08-09 18:30:45,85.217.140.2,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 18:30:45,85.120.229.88,100,Romania,Năvodari,Hostingbit SRL,Urban Network Solutions SRL,Data Center,True
+2026-08-09 18:30:45,68.183.220.137,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-09 18:30:45,156.47.118.34,100,United States,Mankato,Fidium,Consolidated Communications,Residential/Business,False
+2026-08-09 18:30:45,203.116.129.55,100,Singapore,Singapore,STARHUBINTERNET,,Residential/Business,False
+2026-08-09 18:30:45,43.132.150.89,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,False
+2026-08-09 18:30:45,213.209.159.241,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-09 18:30:45,51.195.149.120,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-09 18:30:45,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-09 18:30:45,213.176.26.94,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
