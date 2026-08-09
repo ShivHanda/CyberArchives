@@ -102880,3 +102880,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-09 01:13:51,172.172.196.177,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
 2026-08-09 01:13:51,118.194.250.22,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-08-09 01:13:51,184.162.211.213,100,Canada,Bromont,Le Groupe Videotron Ltee,Videotron Ltee,Residential/Business,False
+2026-08-09 03:27:44,185.242.226.62,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-09 03:27:44,172.197.168.125,100,Malaysia,Kuala Lumpur,Foxtel ISP,Microsoft Azure Cloud (malaysiawest),Residential/Business,False
+2026-08-09 03:27:44,137.184.119.139,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-09 03:27:44,78.128.113.74,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,True
+2026-08-09 03:27:44,34.53.184.157,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-09 03:27:44,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-09 03:27:44,47.254.248.130,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-09 03:27:44,85.217.140.46,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 03:27:44,8.209.119.143,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-08-09 03:27:44,172.174.72.225,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-08-09 03:27:44,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-09 03:27:44,218.25.89.208,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
+2026-08-09 03:27:44,94.154.43.213,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-09 03:27:44,57.128.225.99,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-09 03:27:44,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-09 03:27:44,198.98.62.211,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-09 03:27:44,175.100.126.158,100,Cambodia,Phnom Penh,"VIETTEL (CAMBODIA) PTE., LTD","Viettel (cambodia) Pte., Ltd.",Mobile,False
+2026-08-09 03:27:44,60.174.35.18,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-08-09 03:27:44,69.5.169.129,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-09 03:27:44,203.121.40.210,100,Malaysia,Kuala Lumpur,TTDOTCOM,,Residential/Business,False
+2026-08-09 03:27:44,210.16.100.120,100,United States,Dallas,Psychz Networks,Scalebuzz Solutions Pvt Ltd,Residential/Business,False
+2026-08-09 03:27:44,34.197.70.90,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-09 03:27:44,142.93.165.255,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 03:27:44,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-09 03:27:44,138.197.204.32,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-09 03:27:44,207.154.239.237,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-09 03:27:44,39.115.195.164,100,South Korea,Gwanak-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-09 03:27:44,213.32.22.42,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-09 03:27:44,85.239.147.3,100,Finland,Helsinki,HomeLine Broadband LLC,Aeza Network,Residential/Business,False
+2026-08-09 03:27:44,94.250.202.104,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-09 03:27:44,172.190.24.225,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-09 03:27:44,193.163.125.3,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-09 03:27:44,46.101.180.162,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-09 03:27:44,64.62.197.40,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-08-09 03:27:44,185.177.72.12,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-08-09 03:27:44,178.16.89.149,100,Ukraine,Sevastopol,ISP Reedlan (LCC Korad Plus),,Residential/Business,True
+2026-08-09 03:27:44,147.203.255.20,100,United States,San Diego,LightEdge Solutions,ALPHAREL/optigraphics Corporation,Data Center,False
+2026-08-09 03:27:44,93.123.72.183,100,The Netherlands,Amsterdam,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-08-09 03:27:44,98.89.204.118,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-09 03:27:44,2001:470:1:332::5,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-09 03:27:44,186.116.194.170,100,Colombia,Cartagena,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-08-09 03:27:44,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-09 03:27:44,125.19.231.38,100,India,New Delhi,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-08-09 03:27:44,103.250.10.63,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-09 03:27:44,80.155.140.197,100,Germany,Winterberg,Deutsche Telekom AG,Ferienpark Neuastenberg GmbH & Co.,Residential/Business,False
+2026-08-09 03:27:44,85.217.149.71,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 03:27:44,193.176.31.206,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-09 03:27:44,85.217.140.12,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-09 03:27:44,91.92.241.196,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Data Center,True
+2026-08-09 03:27:44,51.68.107.154,100,France,Roubaix,OVH SAS,OVH,Data Center,False
