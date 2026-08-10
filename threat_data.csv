@@ -103815,3 +103815,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-10 14:52:40,67.52.95.38,100,United States,Waikoloa,Spectrum,Hilton Grand Vacations Club,Residential/Business,False
 2026-08-10 14:52:40,192.236.168.195,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
 2026-08-10 14:52:40,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-10 16:47:42,213.176.26.85,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-10 16:47:42,167.172.203.111,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 16:47:42,185.247.137.7,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-10 16:47:42,77.239.124.240,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-10 16:47:42,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-10 16:47:42,77.90.185.248,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-10 16:47:42,51.254.113.225,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-10 16:47:42,51.75.27.166,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-10 16:47:42,144.172.114.51,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-08-10 16:47:42,34.79.95.217,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-10 16:47:42,27.79.3.164,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-10 16:47:42,37.110.113.113,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-08-10 16:47:42,213.176.26.123,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-10 16:47:42,35.245.175.247,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-10 16:47:42,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-10 16:47:42,159.223.22.139,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-10 16:47:42,107.189.2.131,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-08-10 16:47:42,20.127.202.128,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-10 16:47:42,117.205.3.26,100,India,Ahmedabad,BSNL Internet,,Residential/Business,False
+2026-08-10 16:47:42,45.205.1.240,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-10 16:47:42,185.226.196.29,100,United States,Los Angeles,Zenlayer Inc,ICG 3 ZEN LAX,Residential/Business,False
+2026-08-10 16:47:42,95.84.137.185,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-08-10 16:47:42,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-10 16:47:42,42.202.32.73,100,China,Shenyang,Chinanet,Chinanet LN,Residential/Business,False
+2026-08-10 16:47:42,85.121.54.43,100,The Netherlands,The Hague,M247 Europe SRL,Urban Network Solutions SRL,Data Center,True
+2026-08-10 16:47:42,80.94.92.242,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-10 16:47:42,91.148.190.13,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-10 16:47:42,20.127.195.188,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-10 16:47:42,20.87.219.67,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-08-10 16:47:42,193.32.162.34,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-10 16:47:42,176.31.21.38,100,Spain,Madrid,OVH SAS,OVH Hispano,Data Center,False
+2026-08-10 16:47:42,77.239.124.249,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,True
+2026-08-10 16:47:42,45.63.4.69,100,United States,Piscataway,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-08-10 16:47:42,101.36.116.232,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-10 16:47:42,80.99.217.58,100,Hungary,Budapest,One Hungary Ltd.,One Hungary Ltd,Residential/Business,False
+2026-08-10 16:47:42,14.103.111.16,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-10 16:47:42,85.217.149.73,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-10 16:47:42,44.218.6.93,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-10 16:47:42,157.119.70.200,100,Nepal,Pokhara,CG Communications Ltd,CG Digital,Residential/Business,False
+2026-08-10 16:47:42,193.148.56.215,100,Finland,Helsinki,Alinda LLC,Partner Hosting LTD,Data Center,False
+2026-08-10 16:47:42,51.68.151.167,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-10 16:47:42,192.3.176.32,100,United States,Buffalo,HostPapa,,Data Center,True
+2026-08-10 16:47:42,34.14.122.221,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-10 16:47:42,66.228.36.223,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-10 16:47:42,52.73.212.207,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-10 16:47:42,45.148.10.125,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-10 16:47:42,8.234.160.122,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-10 16:47:42,5.144.179.246,100,Latvia,Riga,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-08-10 16:47:42,144.24.147.7,100,India,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),Data Center,False
+2026-08-10 16:47:42,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
