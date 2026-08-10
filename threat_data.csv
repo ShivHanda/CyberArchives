@@ -103715,3 +103715,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-10 11:02:06,203.55.81.2,100,France,Paris,Moji SAS,MOJI,Data Center,True
 2026-08-10 11:02:06,176.120.110.188,100,Ukraine,Kyiv,Gigabit-Online LLC,Gigabit-Online LLC,Residential/Business,False
 2026-08-10 11:02:06,193.176.31.211,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-10 12:54:37,189.204.230.91,100,Mexico,Naucalpan,"Operbes, S.A. de C.V.","Operbes, S.A. de C.V",Residential/Business,False
+2026-08-10 12:54:37,74.87.117.150,100,United States,Appleton,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-08-10 12:54:37,20.198.118.186,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-10 12:54:37,136.65.73.43,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-10 12:54:37,218.78.131.154,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-10 12:54:37,35.247.13.244,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-10 12:54:37,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-10 12:54:37,206.81.24.74,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-10 12:54:37,45.144.233.139,100,Germany,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
+2026-08-10 12:54:37,87.106.29.151,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
+2026-08-10 12:54:37,174.134.45.64,100,United States,Bakersfield,"Charter Communications, Inc",Spectrum,Residential/Business,False
+2026-08-10 12:54:37,59.29.219.54,100,South Korea,Gangneung,Korea Telecom,Kornet,Residential/Business,False
+2026-08-10 12:54:37,66.132.172.234,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-10 12:54:37,143.244.168.161,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 12:54:37,69.5.169.201,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-10 12:54:37,193.3.53.10,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-08-10 12:54:37,114.198.138.124,100,Philippines,City of Muntinlupa,Globalreach,"Globalreach eBusiness Networks, Inc.",Residential/Business,False
+2026-08-10 12:54:37,152.53.54.144,100,United States,Manassas,netcup GmbH,netcup GmbH,Data Center,False
+2026-08-10 12:54:37,14.103.118.153,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-10 12:54:37,146.70.194.228,100,France,Rixheim,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-08-10 12:54:37,159.89.174.87,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 12:54:37,209.38.208.202,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 12:54:37,64.225.75.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 12:54:37,5.226.140.93,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-10 12:54:37,101.13.5.50,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-08-10 12:54:37,57.128.223.80,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-10 12:54:37,79.175.133.33,100,Iran,Tehran,AFranet Co,Afranet,Residential/Business,False
+2026-08-10 12:54:37,172.208.24.40,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-10 12:54:37,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-10 12:54:37,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-10 12:54:37,54.38.180.48,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-08-10 12:54:37,34.156.145.167,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-10 12:54:37,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-08-10 12:54:37,134.122.121.165,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-10 12:54:37,100.53.85.177,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-10 12:54:37,36.255.97.27,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-08-10 12:54:37,65.49.1.150,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-10 12:54:37,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-10 12:54:37,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-10 12:54:37,103.25.47.94,100,India,Salem,Rainbow communications India Pvt Ltd,Rainbow communications India Pvt Ltd,Residential/Business,False
+2026-08-10 12:54:37,118.193.33.216,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-10 12:54:37,45.153.34.112,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-10 12:54:37,47.251.119.40,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-10 12:54:37,81.193.216.17,100,Portugal,Madalena,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-08-10 12:54:37,196.196.53.12,100,Latvia,Riga,Orion Network Limited,Fiber Grid,Data Center,True
+2026-08-10 12:54:37,107.150.105.10,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-08-10 12:54:37,64.62.156.22,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-10 12:54:37,64.62.156.36,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-10 12:54:37,103.84.236.242,100,India,Dehradun,Blue Sky Broadband Pvt. Ltd,Blue Sky Broadband Pvt. Ltd.,Residential/Business,False
+2026-08-10 12:54:37,187.58.241.90,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
