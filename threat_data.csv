@@ -104005,3 +104005,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-10 22:30:54,85.30.248.213,100,Russia,Shchyolkovo,Corvette Telecom,,Residential/Business,False
 2026-08-10 22:30:54,104.168.100.167,100,United States,Buffalo,HostPapa,ColoCrossing,Data Center,True
 2026-08-10 22:30:54,103.171.39.147,100,India,Jasdan,Arrow Touch Wireless Internet Private Limited,Nextnet Network Pvt Ltd,Residential/Business,False
+2026-08-11 01:13:53,94.20.62.126,100,Azerbaijan,Baku,DELTA-CC,,Residential/Business,False
+2026-08-11 01:13:53,213.176.26.51,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-11 01:13:53,45.70.131.21,100,Brazil,Passos,EI TELECOM EIRELI - EPP,Ei Telecom LTDA,Residential/Business,False
+2026-08-11 01:13:53,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-11 01:13:53,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 01:13:53,66.132.172.145,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-11 01:13:53,66.132.186.138,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-11 01:13:53,78.128.113.46,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-08-11 01:13:53,116.109.216.74,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-11 01:13:53,80.94.95.185,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-08-11 01:13:53,85.217.149.32,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 01:13:53,34.22.193.156,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-11 01:13:53,69.5.169.206,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-11 01:13:53,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 01:13:53,103.75.183.165,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-08-11 01:13:53,193.32.209.241,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 01:13:53,101.227.79.195,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-11 01:13:53,216.126.224.30,100,United States,Ogden,anyNode,Webnx Inc,Data Center,True
+2026-08-11 01:13:53,91.92.40.175,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-11 01:13:53,172.174.244.189,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-11 01:13:53,182.188.24.243,100,Pakistan,Taunsa,Triple Play Project SOUTH,,Mobile,False
+2026-08-11 01:13:53,121.167.195.53,100,South Korea,Gangbuk-gu,Korea Telecom,KT Corporation,Residential/Business,False
+2026-08-11 01:13:53,43.248.10.233,100,Hong Kong,Mong Kok,VH-GLOBAL,Hong Kong Alpha Intl LTD,Residential/Business,False
+2026-08-11 01:13:53,64.62.197.171,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-11 01:13:53,46.247.61.124,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-08-11 01:13:53,136.116.129.132,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-11 01:13:53,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 01:13:53,103.164.57.37,100,Indonesia,Maros,PT Natha Buana Indonesia,PT Natha Buana Indonesia,Residential/Business,False
+2026-08-11 01:13:53,172.234.199.190,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-11 01:13:53,85.217.149.12,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 01:13:53,213.209.159.26,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-11 01:13:53,45.148.101.101,100,Finland,Helsinki,GCS SER,,Residential/Business,True
+2026-08-11 01:13:53,43.134.68.207,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-11 01:13:53,47.84.143.211,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-11 01:13:53,103.183.62.1,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-11 01:13:53,152.53.185.81,100,Germany,Nuremberg,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-08-11 01:13:53,62.60.144.68,100,Iran,Arak,Abr Baran Information Technologists LLC,,Data Center,False
+2026-08-11 01:13:53,45.238.55.67,100,Argentina,La Plata,Magalajo S.A.,Magalajo S.A,Residential/Business,True
+2026-08-11 01:13:53,27.79.5.184,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-11 01:13:53,47.84.49.122,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-11 01:13:53,210.68.105.68,100,Taiwan,Taipei,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-08-11 01:13:53,193.39.116.48,100,Russia,Moscow,Vnet LLC,Vnet LLC,Residential/Business,False
+2026-08-11 01:13:53,54.38.109.115,100,France,Wattrelos,OVH SAS,OVH,Data Center,False
+2026-08-11 01:13:53,89.37.172.134,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 01:13:53,139.198.29.172,100,China,Longtan,Yunify Technologies Inc,Yunify Technologies Inc.,Residential/Business,False
+2026-08-11 01:13:53,34.170.94.251,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-11 01:13:53,192.109.220.3,100,Albania,Ksamil,Roland Delia trading as NEWAVE,neWave,Residential/Business,False
+2026-08-11 01:13:53,43.133.91.48,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-08-11 01:13:53,4.232.93.83,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-11 01:13:53,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
