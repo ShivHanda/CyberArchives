@@ -104105,3 +104105,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-11 03:37:35,45.82.76.102,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
 2026-08-11 03:37:35,116.99.49.208,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,True
 2026-08-11 03:37:35,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-11 05:00:53,91.92.40.151,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-11 05:00:53,118.194.250.245,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-11 05:00:53,31.14.254.73,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-11 05:00:53,85.217.140.35,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 05:00:53,34.18.141.120,100,Qatar,Doha,Google LLC,Google Cloud,Data Center,False
+2026-08-11 05:00:53,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-11 05:00:53,138.68.100.88,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-11 05:00:53,45.227.254.154,100,Lithuania,Vilnius,Flyservers S.A.,Xwin Universal LTD,Data Center,False
+2026-08-11 05:00:53,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-11 05:00:53,103.94.251.136,100,Indonesia,Dalududalu,PT Centronet Data Indonesia,PT Ciptabangun Bumi Mulya,Residential/Business,False
+2026-08-11 05:00:53,129.121.48.235,100,Brazil,Vinhedo,Oracle Corporation,"Oso Grande IP Services, LLC",Residential/Business,False
+2026-08-11 05:00:53,64.62.156.199,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-11 05:00:53,128.203.200.182,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-11 05:00:53,43.161.246.189,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,False
+2026-08-11 05:00:53,163.7.6.114,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-11 05:00:53,159.223.97.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-11 05:00:53,20.212.60.221,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-08-11 05:00:53,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 05:00:53,194.88.98.92,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 05:00:53,189.60.153.181,100,Brazil,Rio de Janeiro,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-08-11 05:00:53,35.252.155.100,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-11 05:00:53,34.30.255.118,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-11 05:00:53,20.65.194.129,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-11 05:00:53,104.208.119.209,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-08-11 05:00:53,183.81.168.186,100,United States,Ashburn,Amarutu Technology Ltd,Amarutu Technology Ltd.,Residential/Business,False
+2026-08-11 05:00:53,115.68.226.19,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-08-11 05:00:53,172.172.196.177,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-11 05:00:53,15.204.173.173,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-08-11 05:00:53,43.155.131.250,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-11 05:00:53,185.220.101.108,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,Digitalcourage e.V,Data Center,True
+2026-08-11 05:00:53,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-11 05:00:53,193.189.100.200,100,Sweden,Stockholm,KeFF Networks Ltd,KeFF Networks Ltd,Data Center,True
+2026-08-11 05:00:53,213.209.159.25,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-11 05:00:53,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-11 05:00:53,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-11 05:00:53,152.32.245.170,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-11 05:00:53,207.154.230.149,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-11 05:00:53,68.183.177.63,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-11 05:00:53,157.230.239.134,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-11 05:00:53,65.49.1.174,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-11 05:00:53,160.251.173.161,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-08-11 05:00:53,172.86.66.40,100,Germany,Frankfurt am Main,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-08-11 05:00:53,197.5.145.102,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-08-11 05:00:53,5.61.209.44,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-11 05:00:53,194.88.98.122,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 05:00:53,80.67.172.162,100,France,Paris,Association Globenet,Gitoyen,Data Center,True
+2026-08-11 05:00:53,62.164.177.222,100,The Netherlands,Amsterdam,Data Campus Limited,Data Campus Limited,Residential/Business,False
+2026-08-11 05:00:53,165.154.163.113,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-11 05:00:53,45.225.135.21,100,The Netherlands,Amsterdam,Rack Sphere Hosting S.A.,Rack Sphere Hosting S.A,Data Center,False
+2026-08-11 05:00:53,194.187.176.62,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
