@@ -104205,3 +104205,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-11 06:56:23,124.134.73.200,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
 2026-08-11 06:56:23,45.40.57.172,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
 2026-08-11 06:56:23,111.47.243.219,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-11 08:47:31,182.18.139.237,100,India,Madhapur,CtrlS,CtrlS Datacenters Ltd.,Data Center,False
+2026-08-11 08:47:31,150.107.36.82,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-11 08:47:31,106.119.165.171,100,China,Shijiazhuang,"Shijiazhuang IDC network, CHINANET Hebei province",Chinanet HE,Residential/Business,False
+2026-08-11 08:47:31,180.76.239.185,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-11 08:47:31,103.108.67.180,100,Hong Kong,Hong Kong,cognetcloud INC,HUANGYUN,Data Center,False
+2026-08-11 08:47:31,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-11 08:47:31,122.96.12.103,100,China,Suzhou,CNC Group CHINA169 Jiangsu Province Network,,Residential/Business,False
+2026-08-11 08:47:31,125.138.9.76,100,South Korea,Dong-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-11 08:47:31,31.14.32.7,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-11 08:47:31,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-11 08:47:31,45.89.239.181,100,Iran,Tehran,Faraso Samaneh Pasargad Ltd.,Faraso Samaneh Pasargad Ltd,Residential/Business,False
+2026-08-11 08:47:31,65.254.93.170,100,Australia,Bungarribee,P.D.R Solutions FZC,,Residential/Business,False
+2026-08-11 08:47:31,64.89.160.201,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-11 08:47:31,121.159.41.81,100,South Korea,Gumi,Korea Telecom,Kornet,Residential/Business,False
+2026-08-11 08:47:31,193.37.32.195,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-11 08:47:31,193.163.125.194,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-11 08:47:31,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-11 08:47:31,181.104.43.225,100,Argentina,Beccar,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
+2026-08-11 08:47:31,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 08:47:31,43.173.11.104,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-11 08:47:31,34.38.237.247,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-11 08:47:31,23.129.64.156,100,United States,Seattle,Emerald Onion,Emerald Onion,Data Center,True
+2026-08-11 08:47:31,13.89.124.208,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-11 08:47:31,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-11 08:47:31,92.118.39.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-11 08:47:31,186.158.183.66,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Residential/Business,False
+2026-08-11 08:47:31,193.176.31.211,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 08:47:31,212.83.165.60,100,France,Paris,Online,Free SAS,Data Center,False
+2026-08-11 08:47:31,172.172.131.149,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-11 08:47:31,118.38.44.223,100,South Korea,Gijang-gun,Korea Telecom,,Residential/Business,False
+2026-08-11 08:47:31,185.50.202.190,100,Russia,Moscow,"""Cloud Technologies"" LLC trading as Cloud.ru",Sbercloud,Data Center,False
+2026-08-11 08:47:31,85.217.149.18,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 08:47:31,83.130.30.188,100,Israel,Ramat Gan,Partner Communications,,Residential/Business,False
+2026-08-11 08:47:31,190.223.60.209,100,Peru,Tacna,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-08-11 08:47:31,176.65.148.142,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-11 08:47:31,147.182.177.180,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-11 08:47:31,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 08:47:31,37.110.113.113,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-08-11 08:47:31,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-11 08:47:31,103.187.147.214,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,True
+2026-08-11 08:47:31,152.32.141.9,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-11 08:47:31,176.65.132.131,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-11 08:47:31,45.148.10.62,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 08:47:31,223.197.186.7,100,Hong Kong,Central,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-08-11 08:47:31,160.119.66.49,100,The Netherlands,Amsterdam,HostUS,,Data Center,False
+2026-08-11 08:47:31,221.213.129.46,100,China,Kunming,China Unicom China169 Network,,Residential/Business,True
+2026-08-11 08:47:31,69.5.169.72,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-11 08:47:31,65.20.175.6,100,Iraq,Basra,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-11 08:47:31,85.29.246.199,100,Estonia,Tallinn,Telia Eesti AS,,Residential/Business,False
+2026-08-11 08:47:31,106.75.25.139,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
