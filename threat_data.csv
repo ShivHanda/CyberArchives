@@ -104555,3 +104555,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-11 20:37:17,104.218.166.62,100,Vietnam,Quận Năm,Zenlayer Inc,UCLOUD,Data Center,False
 2026-08-11 20:37:17,213.108.3.171,100,United States,Secaucus,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
 2026-08-11 20:37:17,54.163.206.20,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-11 22:35:10,4.182.219.135,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-11 22:35:10,115.190.213.206,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-11 22:35:10,194.180.49.71,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-11 22:35:10,114.217.10.60,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-11 22:35:10,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-08-11 22:35:10,172.234.199.93,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-11 22:35:10,103.189.208.13,100,Vietnam,Sơn Trà,Tedev Technological Development Company Limited,TEDEV,Residential/Business,False
+2026-08-11 22:35:10,213.176.26.44,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-11 22:35:10,91.148.190.26,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-11 22:35:10,101.47.155.9,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-08-11 22:35:10,168.100.161.249,100,United Kingdom,London,Gameserverkings,Gameserverkings,Data Center,False
+2026-08-11 22:35:10,91.225.162.37,100,Ukraine,Odesa,SPD Chernega Aleksandr Anatolevich,Flycom ISP,Residential/Business,False
+2026-08-11 22:35:10,66.116.225.71,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-11 22:35:10,187.0.18.168,100,Brazil,Quipapá,Terra Fiber Telecom Ltda-me,Veloo NET Ltda,Residential/Business,False
+2026-08-11 22:35:10,185.220.101.128,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,Data Center,True
+2026-08-11 22:35:10,204.76.203.225,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-11 22:35:10,204.76.203.226,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-11 22:35:10,204.76.203.73,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-11 22:35:10,137.74.174.37,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-11 22:35:10,204.76.203.224,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-11 22:35:10,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-11 22:35:10,115.190.115.237,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-11 22:35:10,94.26.106.19,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-11 22:35:10,183.91.11.36,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-08-11 22:35:10,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-11 22:35:10,45.135.141.18,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-08-11 22:35:10,103.172.20.218,100,Indonesia,Rengasdengklok,PT Vaiotech Lintas Nusantara,PT Vaiotech Lintas Nusantara,Residential/Business,False
+2026-08-11 22:35:10,195.178.110.218,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-11 22:35:10,188.143.170.185,100,Russia,St Petersburg,PIN morespecific,,Residential/Business,False
+2026-08-11 22:35:10,185.144.55.16,100,Spain,Ponferrada,REDYTEL-SUBNET2,,Residential/Business,False
+2026-08-11 22:35:10,194.88.98.99,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-11 22:35:10,69.5.169.7,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-11 22:35:10,85.217.149.63,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-11 22:35:10,132.148.26.32,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-11 22:35:10,190.137.193.41,100,Argentina,Villa Constitucion,Telecom Argentina S.A.,Apolo -Gold-Telecom-Per,Residential/Business,False
+2026-08-11 22:35:10,59.127.68.250,100,Taiwan,Pingtung City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-11 22:35:10,192.185.176.97,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-11 22:35:10,136.70.88.24,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-11 22:35:10,125.77.73.145,100,China,Fuzhou,Chinanet,Chinanet FJ,Residential/Business,False
+2026-08-11 22:35:10,162.241.29.37,100,United States,Atlanta,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-08-11 22:35:10,85.132.42.218,100,Azerbaijan,Baku,AzerSat,,Residential/Business,True
+2026-08-11 22:35:10,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,,Residential/Business,False
+2026-08-11 22:35:10,103.54.56.236,100,United States,New York,"Kamatera, Inc.",Cloud Web Manage,Data Center,False
+2026-08-11 22:35:10,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-11 22:35:10,18.215.183.116,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-11 22:35:10,91.92.47.53,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-11 22:35:10,146.70.178.124,100,Germany,Frankfurt am Main,M247 Europe SRL,M247 Ltd Frankfurt,Data Center,True
+2026-08-11 22:35:10,91.92.47.117,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-11 22:35:10,193.3.53.7,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-08-11 22:35:10,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
