@@ -104705,3 +104705,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-12 04:00:23,43.239.249.184,100,Japan,Tokyo,365 Group LLC,365 Group LLC,Data Center,False
 2026-08-12 04:00:23,146.88.240.214,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
 2026-08-12 04:00:23,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-12 05:42:02,51.68.236.64,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-12 05:42:02,175.206.1.60,100,South Korea,Wŏnju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-12 05:42:02,185.200.116.80,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-08-12 05:42:02,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-12 05:42:02,222.91.124.34,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,False
+2026-08-12 05:42:02,35.240.104.212,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-12 05:42:02,64.62.197.152,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-12 05:42:02,31.57.109.72,100,France,Paris,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Residential/Business,False
+2026-08-12 05:42:02,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-12 05:42:02,192.159.99.144,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Data Center,True
+2026-08-12 05:42:02,71.6.232.20,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-12 05:42:02,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-12 05:42:02,81.19.219.198,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-12 05:42:02,85.217.149.72,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-12 05:42:02,106.75.252.61,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-12 05:42:02,46.105.132.32,100,France,Courbevoie,OVH SAS,abuse.intrinsec.com Site Abuse,Data Center,False
+2026-08-12 05:42:02,165.154.51.27,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-12 05:42:02,218.233.182.39,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-12 05:42:02,101.36.112.101,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-12 05:42:02,42.96.19.37,100,Vietnam,Quận Một,Long Van System Solution,,Residential/Business,False
+2026-08-12 05:42:02,64.62.156.175,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-12 05:42:02,152.32.158.219,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-12 05:42:02,167.71.70.246,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-12 05:42:02,69.5.169.242,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-12 05:42:02,222.127.171.12,100,Philippines,Iloilo City,Globe Telecom Inc.,,Mobile,False
+2026-08-12 05:42:02,47.250.188.48,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-12 05:42:02,94.154.43.100,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-12 05:42:02,185.107.80.93,100,The Netherlands,Roosendaal,NFOrce Entertainment BV,NForce Entertainment B.V,Data Center,True
+2026-08-12 05:42:02,4.223.171.122,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-12 05:42:02,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-12 05:42:02,103.43.191.43,100,Hong Kong,Kwai Chung,West263 International Limited,Zhongya PTE LTD,Residential/Business,False
+2026-08-12 05:42:02,193.163.125.149,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-12 05:42:02,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-12 05:42:02,184.105.247.239,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-12 05:42:02,45.153.34.217,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-12 05:42:02,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-12 05:42:02,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-12 05:42:02,136.113.183.172,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-12 05:42:02,185.216.145.167,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-12 05:42:02,91.92.42.19,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-12 05:42:02,65.49.1.134,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-12 05:42:02,64.62.156.156,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-12 05:42:02,20.218.66.54,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-12 05:42:02,194.50.235.148,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-12 05:42:02,20.40.208.55,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-12 05:42:02,128.185.12.179,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-12 05:42:02,163.7.1.156,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-12 05:42:02,173.255.221.189,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-12 05:42:02,104.155.114.226,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-12 05:42:02,20.64.105.145,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
