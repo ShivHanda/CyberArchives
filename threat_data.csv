@@ -104805,3 +104805,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-12 07:15:19,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-08-12 07:15:19,8.216.8.213,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-08-12 07:15:19,222.134.147.66,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-12 09:06:04,41.216.213.130,100,Botswana,Gaborone,VBN Services,,Residential/Business,False
+2026-08-12 09:06:04,94.154.43.99,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-12 09:06:04,54.37.10.124,100,United Kingdom,London,OVH SAS,OVH,Data Center,True
+2026-08-12 09:06:04,109.205.211.91,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-08-12 09:06:04,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-12 09:06:04,66.132.186.246,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-12 09:06:04,165.154.12.137,100,United Arab Emirates,Dubai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-12 09:06:04,152.67.48.120,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-08-12 09:06:04,182.18.161.165,100,India,Hyderabad,CtrlS,Pioneer Elabs Ltd.,Data Center,False
+2026-08-12 09:06:04,175.156.127.127,100,Singapore,Singapore,M1 LIMITED,M1 Ltd,Residential/Business,False
+2026-08-12 09:06:04,66.132.172.190,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-12 09:06:04,173.239.196.105,100,Macao,Macao,F.N.S. HOLDINGS LIMITED,LogicWeb Inc,Data Center,True
+2026-08-12 09:06:04,31.76.9.4,100,The Netherlands,Amsterdam,Play2go International Limited,,Data Center,False
+2026-08-12 09:06:04,91.148.190.25,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-12 09:06:04,202.70.78.237,100,United States,Los Angeles,Nepal Telecom,Nepal Telecommunications Corporation,Residential/Business,False
+2026-08-12 09:06:04,195.93.244.97,100,Netherlands,Dronten,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
+2026-08-12 09:06:04,195.206.182.200,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-12 09:06:04,34.140.228.27,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-12 09:06:04,81.192.46.49,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-12 09:06:04,207.244.226.205,100,United States,St Louis,Contabo Inc.,Contabo Inc,Data Center,False
+2026-08-12 09:06:04,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-12 09:06:04,175.207.239.222,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-12 09:06:04,15.204.214.220,100,United States,Newark,OVH SAS,OVH US LLC,Data Center,False
+2026-08-12 09:06:04,35.187.127.227,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-12 09:06:04,69.5.169.28,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-12 09:06:04,81.192.46.36,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-12 09:06:04,196.191.212.112,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-08-12 09:06:04,185.89.159.14,100,Albania,Tirana,Albanian Telecommunications Union SH. P.K.,ATU AL Network,Residential/Business,False
+2026-08-12 09:06:04,46.101.180.162,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-12 09:06:04,194.165.16.167,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Data Center,False
+2026-08-12 09:06:04,64.89.163.81,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-12 09:06:04,85.217.149.61,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-12 09:06:04,47.77.218.117,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-12 09:06:04,103.100.211.71,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,Ancent Group Limited,Data Center,False
+2026-08-12 09:06:04,118.145.82.180,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-12 09:06:04,103.218.27.217,100,Bangladesh,Dhaka,Carnival Internet,,Residential/Business,False
+2026-08-12 09:06:04,77.90.185.248,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-12 09:06:04,181.173.139.104,100,Chile,Santiago,TELEFÓNICA CHILE S.A.,Telefonica Movil De Chile S.A,Residential/Business,False
+2026-08-12 09:06:04,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-08-12 09:06:04,85.215.122.94,100,Germany,Berlin,IONOS SE,Strato GmbH,Data Center,False
+2026-08-12 09:06:04,89.21.67.162,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-12 09:06:04,14.103.118.198,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-12 09:06:04,165.154.135.73,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-12 09:06:04,77.239.124.238,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,True
+2026-08-12 09:06:04,103.218.241.7,100,Hong Kong,Hong Kong,Ucloud Information Technology (hk) Limited,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-08-12 09:06:04,209.112.91.75,100,United States,Piscataway,Ambyre LLC,Ambyre LLC,Residential/Business,False
+2026-08-12 09:06:04,23.171.177.62,100,United States,Kingston,Ethernic LLC,VMS Networks LLC,Residential/Business,False
+2026-08-12 09:06:04,79.124.56.222,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-12 09:06:04,176.65.148.243,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-12 09:06:04,154.127.69.28,100,Libya,Tripoli,Aljeel Aljadeed Technology,Zagel Tech Solutions,Residential/Business,False
