@@ -105705,3 +105705,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-13 20:35:33,70.183.236.209,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
 2026-08-13 20:35:33,72.219.214.226,100,United States,Ocala,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
 2026-08-13 20:35:33,20.104.82.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-13 22:34:38,8.216.7.68,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-13 22:34:38,83.197.108.78,100,France,Morlaix,France Telecom,,Residential/Business,False
+2026-08-13 22:34:38,14.36.38.211,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-13 22:34:38,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 22:34:38,136.70.65.172,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-08-13 22:34:38,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 22:34:38,202.111.183.30,100,China,Jilin,CHINA UNICOM China169 Backbone,CC Trust Finance INF,Residential/Business,False
+2026-08-13 22:34:38,31.43.49.11,100,Ukraine,Svaliava,Ukrainian Telecommunication Group LLC,Ukraine telecommunication group Ltd,Residential/Business,False
+2026-08-13 22:34:38,89.37.172.158,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-13 22:34:38,97.74.87.119,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-13 22:34:38,170.106.153.232,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-08-13 22:34:38,157.245.75.15,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-13 22:34:38,107.150.103.155,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-13 22:34:38,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-13 22:34:38,103.183.62.3,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-13 22:34:38,193.176.31.232,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-13 22:34:38,103.200.25.198,100,Vietnam,Nguyễn Du,MAXDATA,,Residential/Business,False
+2026-08-13 22:34:38,150.107.36.105,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-13 22:34:38,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-13 22:34:38,80.94.92.145,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-13 22:34:38,96.19.180.207,100,United States,Texarkana,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-08-13 22:34:38,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-13 22:34:38,202.145.0.61,100,Indonesia,Jakarta,PT UniNET Media Sakti,,Residential/Business,False
+2026-08-13 22:34:38,193.32.209.246,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-13 22:34:38,118.26.109.7,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-13 22:34:38,1.62.157.156,100,China,Harbin,China Unicom Heilongjiang Province Network,,Residential/Business,False
+2026-08-13 22:34:38,118.193.69.67,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-13 22:34:38,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 22:34:38,191.96.168.41,100,The Netherlands,Amsterdam,Cogent Communications,Ipxo,Data Center,True
+2026-08-13 22:34:38,116.71.136.125,100,Pakistan,Dera Ismail Khan,PTCL Triple Play Project,,Residential/Business,False
+2026-08-13 22:34:38,159.223.97.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-13 22:34:38,104.143.77.9,100,United States,Salt Lake City,InstaVPS,SentraCam,Data Center,False
+2026-08-13 22:34:38,118.26.111.107,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-13 22:34:38,109.105.210.68,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-08-13 22:34:38,194.88.98.113,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-13 22:34:38,185.143.197.45,100,Azerbaijan,Baku,AzInTelecom LLC,AzInTelecom LLC,Residential/Business,False
+2026-08-13 22:34:38,185.91.69.38,100,United Kingdom,Redditch,Hostgnome LTD,Hostgnome LTD,Data Center,False
+2026-08-13 22:34:38,54.38.52.18,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-13 22:34:38,49.124.152.235,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-13 22:34:38,80.94.95.211,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-08-13 22:34:38,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-13 22:34:38,66.132.195.29,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-13 22:34:38,91.92.42.87,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-13 22:34:38,45.236.251.136,100,Brazil,São Paulo,Nossanet Fibra Eireli,Nossanet Fibra Eireli,Residential/Business,False
+2026-08-13 22:34:38,59.126.116.85,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-13 22:34:38,213.176.26.42,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-13 22:34:38,66.102.134.13,100,Canada,Toronto,HostPapa,HostPapa,Data Center,False
+2026-08-13 22:34:38,110.173.190.221,100,India,Ghaziabad,PRIMENET,Primenet Global Ltd.,Residential/Business,False
+2026-08-13 22:34:38,158.173.101.49,100,Belgium,Brussels,Datacamp Limited,"VPN Consumer Brussels, Belgium",Residential/Business,True
+2026-08-13 22:34:38,34.82.123.219,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
