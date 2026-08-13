@@ -105255,3 +105255,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-13 01:23:38,146.88.240.170,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
 2026-08-13 01:23:38,94.183.203.2,100,The Netherlands,Eygelshoven,Eternity International Limited,Hostes LLC,Data Center,False
 2026-08-13 01:23:38,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-13 04:05:08,185.242.226.85,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-13 04:05:08,45.194.67.8,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,True
+2026-08-13 04:05:08,108.179.192.110,100,Brazil,Vinhedo,WEBSITEWELCOME.COM,qra.qralt.com,Data Center,False
+2026-08-13 04:05:08,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-13 04:05:08,77.66.192.139,100,Russia,Rostov-on-Don,Shakhty via TTK - CTSRND,,Mobile,False
+2026-08-13 04:05:08,85.217.140.32,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 04:05:08,60.220.241.50,100,China,Liuxiang,China Unicom China169 Network,,Residential/Business,False
+2026-08-13 04:05:08,221.213.129.46,100,China,Kunming,China Unicom China169 Network,,Residential/Business,True
+2026-08-13 04:05:08,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-13 04:05:08,43.226.36.17,100,China,Guangzhou,CHINANET Liaoning province Dalian MAN network,Shenzhen Qianhai bird cloud computing Co. Ltd.,Data Center,False
+2026-08-13 04:05:08,123.149.137.95,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-08-13 04:05:08,64.62.197.66,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-13 04:05:08,102.110.7.34,100,Tunisia,Tunis,Ooredoo Tunisie SA,Siege Social Ooredoo Tunisie SA,Residential/Business,False
+2026-08-13 04:05:08,159.203.83.195,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-13 04:05:08,162.214.211.238,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-13 04:05:08,8.211.27.182,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-13 04:05:08,172.202.117.170,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-13 04:05:08,46.151.182.197,100,Germany,Frankfurt am Main,Ghosty Networks LLC,Ghosty Networks LLC,Data Center,True
+2026-08-13 04:05:08,201.17.146.173,100,Brazil,Nova Lima,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-08-13 04:05:08,111.70.9.87,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-13 04:05:08,45.88.186.250,100,United States,Miami,1337 Services GmbH,1337 Services GmbH,Data Center,False
+2026-08-13 04:05:08,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-13 04:05:08,45.153.34.114,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-13 04:05:08,200.199.32.174,100,Brazil,Belo Horizonte,V tal,V tal,Residential/Business,False
+2026-08-13 04:05:08,2001:470:1:c84::11,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-13 04:05:08,122.160.119.213,100,India,New Delhi,BHARTI,Abts Delhi,Residential/Business,False
+2026-08-13 04:05:08,192.248.150.180,100,United Kingdom,Canary Wharf,"The Constant Company, LLC",Vultr Holdings LLC London,Data Center,False
+2026-08-13 04:05:08,43.166.7.113,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-13 04:05:08,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-13 04:05:08,35.190.142.170,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-13 04:05:08,69.73.187.130,100,United States,Spring,Network Transit Holdings LLC,Network Transit Holdings LLC,Data Center,True
+2026-08-13 04:05:08,121.131.220.155,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-08-13 04:05:08,189.126.4.42,100,Brazil,Sapé,GA Telecom,GA Telecom,Residential/Business,False
+2026-08-13 04:05:08,45.205.1.124,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-13 04:05:08,91.92.42.195,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-13 04:05:08,158.158.74.177,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-08-13 04:05:08,45.198.224.5,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-13 04:05:08,85.217.140.20,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 04:05:08,14.141.157.218,100,India,Mohali,Tata Communications Limited,Tata Communications Limited,Residential/Business,False
+2026-08-13 04:05:08,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-13 04:05:08,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-13 04:05:08,54.36.99.29,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-13 04:05:08,213.176.26.63,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-13 04:05:08,180.76.185.216,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-13 04:05:08,125.229.237.151,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-13 04:05:08,2.26.26.244,100,Germany,Frankfurt am Main,Senko Digital LLC,Senko Digital LLC,Residential/Business,False
+2026-08-13 04:05:08,65.49.20.109,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-13 04:05:08,69.5.169.131,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-13 04:05:08,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 04:05:08,45.153.34.43,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
