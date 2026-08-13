@@ -105455,3 +105455,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-13 10:56:22,185.226.197.42,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
 2026-08-13 10:56:22,104.197.163.112,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
 2026-08-13 10:56:22,5.226.140.6,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-13 12:56:02,213.209.159.242,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-13 12:56:02,152.32.142.188,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-13 12:56:02,165.154.162.237,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-13 12:56:02,85.11.167.237,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-13 12:56:02,123.58.198.35,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-13 12:56:02,51.222.86.241,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-08-13 12:56:02,49.207.40.162,100,India,Delhi,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-13 12:56:02,85.217.140.7,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 12:56:02,192.81.131.141,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-13 12:56:02,20.220.195.189,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-13 12:56:02,213.176.26.159,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-13 12:56:02,34.156.164.254,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-13 12:56:02,82.102.18.124,100,France,Paris 09 Opéra,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-08-13 12:56:02,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-13 12:56:02,46.147.195.11,100,Russia,Tula,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Tula Branch",Residential/Business,False
+2026-08-13 12:56:02,5.88.119.21,100,Italy,Casoria,Vodafone,,Residential/Business,False
+2026-08-13 12:56:02,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-13 12:56:02,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-13 12:56:02,103.62.140.53,100,Bangladesh,Bhatara,Circle Network,Circle Network,Residential/Business,False
+2026-08-13 12:56:02,213.176.26.87,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-13 12:56:02,141.227.154.98,100,France,Marseille,OVH SAS,OVH,Data Center,False
+2026-08-13 12:56:02,36.135.62.85,100,China,Changchun,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-13 12:56:02,34.26.195.80,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-13 12:56:02,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 12:56:02,43.228.157.8,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-13 12:56:02,136.109.227.121,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-13 12:56:02,45.205.1.243,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-13 12:56:02,177.44.61.14,100,Brazil,Unaí,Rede Brasileira de Comunicacao S/A,MASTER S/A,Residential/Business,False
+2026-08-13 12:56:02,103.70.40.36,100,India,New Delhi,Sdh Network Pvt Ltd,Sdh Network Pvt Ltd,Residential/Business,False
+2026-08-13 12:56:02,185.226.118.222,100,Iran,Tehran,Noyan Abr Arvan Co. ( Private Joint Stock),Noyan Abr Arvan Co. ( Private Joint Stock),Residential/Business,False
+2026-08-13 12:56:02,85.217.140.23,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 12:56:02,181.116.220.27,100,Argentina,La Plata,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-08-13 12:56:02,20.127.185.37,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-13 12:56:02,130.12.180.126,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-08-13 12:56:02,207.175.176.199,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-13 12:56:02,20.65.224.144,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-13 12:56:02,91.92.42.64,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-13 12:56:02,185.180.141.10,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-13 12:56:02,36.64.68.99,100,Indonesia,Depok,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-08-13 12:56:02,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-13 12:56:02,37.28.181.6,100,Russia,Moscow,MegaFon-Moscow,,Mobile,False
+2026-08-13 12:56:02,155.4.244.169,100,Sweden,Helsingborg,Bahnhof AB,,Residential/Business,False
+2026-08-13 12:56:02,136.110.61.242,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-13 12:56:02,157.245.37.206,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-13 12:56:02,72.253.251.3,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-08-13 12:56:02,34.78.158.246,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-13 12:56:02,119.200.229.33,100,South Korea,Seongnam-si,Korea Telecom,KORNET,Residential/Business,False
+2026-08-13 12:56:02,45.195.159.28,100,India,Navi Mumbai,MilesWeb  Pvt Ltd,Soon Bodywerkz Auto Pte. LTD,Residential/Business,False
+2026-08-13 12:56:02,80.172.227.24,100,Portugal,Lisbon,Claranet Portugal,,Residential/Business,False
+2026-08-13 12:56:02,107.161.90.176,100,United States,Dallas,HostPapa,HostPapa,Data Center,False
