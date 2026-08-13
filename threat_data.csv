@@ -105555,3 +105555,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-13 14:51:28,5.99.196.202,100,Italy,Grosseto,Telecom Italia S.p.A,INTERBUSINESS,Residential/Business,False
 2026-08-13 14:51:28,101.47.156.21,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
 2026-08-13 14:51:28,34.34.185.169,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-13 16:50:15,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 16:50:15,154.18.197.35,100,Philippines,Quezon City,Cogent Communications,Ping Networks PH,Residential/Business,False
+2026-08-13 16:50:15,97.74.230.245,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-13 16:50:15,14.103.118.197,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,True
+2026-08-13 16:50:15,194.180.49.216,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-13 16:50:15,117.50.199.249,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,True
+2026-08-13 16:50:15,66.132.224.92,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-13 16:50:15,91.92.40.153,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-13 16:50:15,89.248.172.10,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-13 16:50:15,61.221.3.5,100,Taiwan,Nanqu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-13 16:50:15,84.32.70.204,100,United States,Chicago,UAB Cherry Servers,"Cherry Servers, UAB",Data Center,False
+2026-08-13 16:50:15,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-08-13 16:50:15,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 16:50:15,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-13 16:50:15,49.49.232.17,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-08-13 16:50:15,139.84.243.201,100,South Africa,Isando,"The Constant Company, LLC","The Constant Company, LLC",Data Center,False
+2026-08-13 16:50:15,64.89.160.135,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-13 16:50:15,58.242.118.12,100,China,Hefei,CNC Group CHINA169 AnHui province network,,Residential/Business,False
+2026-08-13 16:50:15,212.73.148.40,100,Singapore,Singapore,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 16:50:15,54.83.95.119,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-13 16:50:15,90.162.116.66,100,Spain,Valencia,UNI2,,Residential/Business,False
+2026-08-13 16:50:15,44.204.28.166,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-13 16:50:15,34.125.8.251,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-13 16:50:15,136.65.181.23,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-13 16:50:15,222.134.147.66,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-13 16:50:15,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-13 16:50:15,20.100.177.66,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-13 16:50:15,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-08-13 16:50:15,213.209.159.154,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-13 16:50:15,51.254.130.161,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-13 16:50:15,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-08-13 16:50:15,52.206.216.57,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-13 16:50:15,66.132.224.86,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-13 16:50:15,109.194.108.203,100,Russia,Moscow,"OJSC ""ER-Telecom"" Perm'","CJSC ""ER-Telecom Holding""",Residential/Business,False
+2026-08-13 16:50:15,54.163.40.36,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-13 16:50:15,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-13 16:50:15,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-08-13 16:50:15,213.176.26.114,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-13 16:50:15,163.245.193.121,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-08-13 16:50:15,51.178.84.57,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-08-13 16:50:15,20.151.168.176,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-13 16:50:15,85.217.149.73,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-13 16:50:15,192.3.249.145,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-08-13 16:50:15,65.49.1.119,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-13 16:50:15,120.76.116.45,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-08-13 16:50:15,181.78.0.82,100,Colombia,Ibague,Ufinet Panama S.A.,,Residential/Business,False
+2026-08-13 16:50:15,210.79.142.230,100,Indonesia,Nganjuk,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-08-13 16:50:15,101.96.202.177,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-13 16:50:15,112.27.38.203,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-13 16:50:15,34.139.95.215,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
