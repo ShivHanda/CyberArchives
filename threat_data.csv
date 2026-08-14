@@ -105855,3 +105855,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-14 04:01:39,85.217.140.10,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-08-14 04:01:39,213.176.26.122,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
 2026-08-14 04:01:39,123.234.6.197,100,China,Qingdao,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-14 07:15:24,193.111.3.59,100,Russia,Volgodonsk,Mikroel Ltd,Mikroel Ltd,Residential/Business,False
+2026-08-14 07:15:24,35.207.202.141,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-14 07:15:24,185.2.80.253,100,The Netherlands,Naaldwijk,WorldStream B.V.,Moto,Data Center,False
+2026-08-14 07:15:24,137.255.13.211,100,Benin,Cotonou,Benin Telecoms Infrastructures SA,Bloc SBIN SA,Residential/Business,False
+2026-08-14 07:15:24,85.217.149.50,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,77.239.124.235,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-14 07:15:24,159.65.1.75,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 07:15:24,171.67.71.223,100,United States,Palo Alto,Stanford University,Stanford University - Durumeric,Residential/Business,False
+2026-08-14 07:15:24,122.187.227.152,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-14 07:15:24,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 07:15:24,78.128.114.166,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-14 07:15:24,80.223.190.179,100,Finland,Lahti,Telia Finland Oyj,Telia Finland Oyj,Residential/Business,False
+2026-08-14 07:15:24,101.126.4.215,100,China,Chaowai,GHSX,,Residential/Business,True
+2026-08-14 07:15:24,137.184.112.192,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-14 07:15:24,85.203.23.27,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-14 07:15:24,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-14 07:15:24,185.242.226.18,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-14 07:15:24,103.240.4.72,100,Bangladesh,Joypurhat,MD BAKHTIYAR HOSSAIN,,Residential/Business,False
+2026-08-14 07:15:24,57.129.47.135,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
+2026-08-14 07:15:24,85.217.140.18,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,118.26.111.107,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-14 07:15:24,85.217.140.4,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,141.98.10.174,100,Lithuania,Kaunas,UAB Host Baltic,,Data Center,True
+2026-08-14 07:15:24,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,157.254.54.246,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-08-14 07:15:24,163.7.9.84,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-14 07:15:24,176.65.148.107,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-14 07:15:24,88.214.25.125,100,Hong Kong,Royal Peninsula,NOC EMAIL: noc@one-host.net,ThinkTech Technology Industrial CO. Limited,Data Center,False
+2026-08-14 07:15:24,47.245.63.238,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-14 07:15:24,85.217.149.52,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,14.103.117.84,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-14 07:15:24,103.183.62.0,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-14 07:15:24,212.38.189.186,100,United Kingdom,Hoghton,Iomart Cloud Services Limited,iomart Group PLC,Data Center,True
+2026-08-14 07:15:24,194.180.49.218,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-14 07:15:24,34.169.204.177,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-14 07:15:24,79.124.59.106,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-14 07:15:24,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,221.228.203.3,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-08-14 07:15:24,165.154.173.39,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-14 07:15:24,195.206.182.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-14 07:15:24,169.211.128.234,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-14 07:15:24,185.180.141.14,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-14 07:15:24,31.58.51.57,100,Poland,Chojnice,Wojciech Czapkowicz,Chunkserve Mateusz Peplinski,Data Center,False
+2026-08-14 07:15:24,34.23.79.164,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-14 07:15:24,85.217.140.6,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 07:15:24,212.154.234.9,100,Kazakhstan,Almaty,JSC Kazakhtelecom,"Co-location, LLC",Residential/Business,False
+2026-08-14 07:15:24,34.132.86.117,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-14 07:15:24,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-14 07:15:24,161.35.119.170,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 07:15:24,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
