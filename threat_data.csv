@@ -106005,3 +106005,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-14 10:52:58,112.158.102.108,100,South Korea,Yongsan-dong,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
 2026-08-14 10:52:58,164.52.24.190,100,Japan,Osaka,Capitalonline Data Service (HK) Co,,Data Center,True
 2026-08-14 10:52:58,167.233.211.213,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-08-14 12:52:16,150.139.201.247,100,China,Jinan,"Qingdao, ",Chinanet SD,Residential/Business,True
+2026-08-14 12:52:16,223.100.248.64,100,China,Tieling,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-14 12:52:16,101.36.105.94,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-14 12:52:16,71.6.134.233,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-14 12:52:16,213.176.26.95,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-14 12:52:16,194.180.49.217,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-14 12:52:16,43.245.248.2,100,Indonesia,Pekanbaru,PT Smart Media Pratama,,Residential/Business,False
+2026-08-14 12:52:16,148.163.69.145,100,United States,Phoenix,Input Output Flood LLC,3402 East University,Data Center,False
+2026-08-14 12:52:16,174.138.44.8,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-14 12:52:16,85.217.140.52,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 12:52:16,85.240.193.104,100,Portugal,Ribeira Grande,PT Comunicacoes S.A.,PT Comunicacoes S.A.,Residential/Business,False
+2026-08-14 12:52:16,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 12:52:16,89.248.172.14,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-14 12:52:16,88.208.212.211,100,United Kingdom,Gloucestershire,IONOS SE,Fasthosts Internet Limited,Data Center,False
+2026-08-14 12:52:16,94.154.43.24,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-14 12:52:16,88.201.248.148,100,Russia,Murino,SkyNet Ltd.,SkyNet,Residential/Business,False
+2026-08-14 12:52:16,160.25.89.96,100,Vietnam,Hà Giang,Dainty Cloud Inc,DMX,Data Center,False
+2026-08-14 12:52:16,119.166.189.71,100,China,Qingdao,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-14 12:52:16,45.148.10.125,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-14 12:52:16,143.244.178.70,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-14 12:52:16,222.239.251.12,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-14 12:52:16,34.53.244.127,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-14 12:52:16,20.15.201.69,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-14 12:52:16,13.89.125.224,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-14 12:52:16,45.156.129.97,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-14 12:52:16,31.132.232.163,100,Russia,Angarsk,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Irkutsk Branch",Residential/Business,False
+2026-08-14 12:52:16,165.154.163.182,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-14 12:52:16,149.202.50.58,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-08-14 12:52:16,45.156.129.98,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-14 12:52:16,111.70.1.159,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-14 12:52:16,174.35.25.181,100,United States,Los Angeles,Meteverse Limited.,CDNetworks Inc,Data Center,False
+2026-08-14 12:52:16,118.196.119.108,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-14 12:52:16,103.251.143.14,100,India,Noida,FusionNet,,Residential/Business,False
+2026-08-14 12:52:16,93.152.221.213,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-14 12:52:16,36.134.27.91,100,China,Guangzhou,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-14 12:52:16,102.53.15.56,100,Morocco,Benslimane,Casa Marrakech 4G MarocTelecom,,Residential/Business,False
+2026-08-14 12:52:16,178.83.188.241,100,Indonesia,Surabaya,Hadi Santosa,ArenHost,Data Center,False
+2026-08-14 12:52:16,51.170.84.58,100,United Arab Emirates,Masdar City,Oracle Corporation,Oracle Svenska AB,Data Center,False
+2026-08-14 12:52:16,91.92.47.208,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-14 12:52:16,60.166.31.198,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-08-14 12:52:16,34.156.226.48,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-14 12:52:16,143.244.173.245,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 12:52:16,203.121.40.210,100,Malaysia,Kuala Lumpur,TTDOTCOM,,Residential/Business,False
+2026-08-14 12:52:16,114.70.63.104,100,South Korea,Wŏlgye-dong,Kwangwoon University,Kren,Residential/Business,False
+2026-08-14 12:52:16,176.65.139.196,100,The Netherlands,Amsterdam,Storm Industries LLC,Storm Industries LLC,Data Center,False
+2026-08-14 12:52:16,116.99.172.41,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-14 12:52:16,49.124.133.102,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-14 12:52:16,172.213.243.2,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-14 12:52:16,20.163.10.187,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-14 12:52:16,171.67.71.223,100,United States,Palo Alto,Stanford University,Stanford University - Durumeric,Residential/Business,False
