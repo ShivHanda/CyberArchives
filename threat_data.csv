@@ -105955,3 +105955,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-14 09:01:57,152.32.142.188,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-08-14 09:01:57,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-14 09:01:57,45.135.141.7,100,United Kingdom,London,IFO.net Internet Service GmbH,AZ International LLC,Residential/Business,False
+2026-08-14 10:52:58,3.144.231.7,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-14 10:52:58,83.110.117.26,100,United Arab Emirates,Sharjah,Emirates Telecommunications Corporation,Al Laith,Residential/Business,False
+2026-08-14 10:52:58,45.4.179.4,100,Brazil,Igaci,Yuhoo NET,YUHOO,Residential/Business,False
+2026-08-14 10:52:58,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-14 10:52:58,27.79.41.76,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-14 10:52:58,120.48.177.102,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-14 10:52:58,216.144.233.14,100,United States,Buffalo,HostPapa,HostPapa,Data Center,False
+2026-08-14 10:52:58,69.5.169.203,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-14 10:52:58,193.163.125.213,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-14 10:52:58,43.155.206.57,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-14 10:52:58,100.28.153.226,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-14 10:52:58,116.43.239.229,100,South Korea,Bucheon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-08-14 10:52:58,196.192.181.202,100,South Africa,Midrand,Metrofibre Networx,,Residential/Business,False
+2026-08-14 10:52:58,72.47.208.106,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-14 10:52:58,66.132.172.231,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-14 10:52:58,62.60.130.142,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-14 10:52:58,104.244.74.84,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-08-14 10:52:58,195.182.16.52,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-08-14 10:52:58,43.153.138.134,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-14 10:52:58,103.155.47.50,100,Indonesia,Ketanggungan,PRONETINDO,,Residential/Business,False
+2026-08-14 10:52:58,204.76.203.30,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-14 10:52:58,213.176.26.21,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-14 10:52:58,155.4.244.179,100,Sweden,Helsingborg,Bahnhof AB,,Residential/Business,False
+2026-08-14 10:52:58,70.32.81.179,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-14 10:52:58,191.101.59.133,100,United Kingdom,City of London,UK Dedicated Servers Limited,Ipxo,Data Center,False
+2026-08-14 10:52:58,51.68.226.87,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-08-14 10:52:58,66.132.172.212,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-14 10:52:58,34.156.226.48,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-14 10:52:58,93.123.109.105,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 10:52:58,34.156.188.139,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-14 10:52:58,35.210.61.208,100,Belgium,Brussels,Google Ireland Limited,Google Cloud (europe-west1),Data Center,False
+2026-08-14 10:52:58,66.228.53.174,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-08-14 10:52:58,113.195.167.244,100,China,Nanchang,China Unicom CHINA169 Network,,Residential/Business,False
+2026-08-14 10:52:58,185.29.55.32,100,Russia,Primorsko-Akhtarsk,OOO Kompas Telecom,WEBKOMPAS,Residential/Business,False
+2026-08-14 10:52:58,151.158.185.132,100,India,Kolkata,Toptus Broadband Services Private Limited,Toptus Broadband Services Private Limited,Residential/Business,False
+2026-08-14 10:52:58,106.244.74.67,100,South Korea,Goyang-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-14 10:52:58,213.230.127.104,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-08-14 10:52:58,49.49.234.72,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-08-14 10:52:58,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-14 10:52:58,176.10.203.54,100,Sweden,Karlstad,Bahnhof AB,General Private NET A463,Residential/Business,False
+2026-08-14 10:52:58,195.206.182.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-14 10:52:58,130.185.101.32,100,Israel,Giv‘atayim,Pelephone Communications Ltd.,Pelephone Communications Ltd,Mobile,False
+2026-08-14 10:52:58,171.61.19.53,100,India,Agra,Bharti Airtel Ltd,BHARTI,Residential/Business,False
+2026-08-14 10:52:58,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-08-14 10:52:58,172.93.212.182,100,United States,Jacksonville,DataWagon LLC,Nexeon Technologies,Data Center,False
+2026-08-14 10:52:58,117.193.74.14,100,India,Kollam,BSNL Internet,,Residential/Business,False
+2026-08-14 10:52:58,194.44.21.6,100,Ukraine,Lviv,UARNET-LL,,Residential/Business,False
+2026-08-14 10:52:58,112.158.102.108,100,South Korea,Yongsan-dong,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-08-14 10:52:58,164.52.24.190,100,Japan,Osaka,Capitalonline Data Service (HK) Co,,Data Center,True
+2026-08-14 10:52:58,167.233.211.213,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
