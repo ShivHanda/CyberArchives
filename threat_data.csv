@@ -105755,3 +105755,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-13 22:34:38,110.173.190.221,100,India,Ghaziabad,PRIMENET,Primenet Global Ltd.,Residential/Business,False
 2026-08-13 22:34:38,158.173.101.49,100,Belgium,Brussels,Datacamp Limited,"VPN Consumer Brussels, Belgium",Residential/Business,True
 2026-08-13 22:34:38,34.82.123.219,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-14 01:22:58,211.223.107.86,100,South Korea,Suncheon-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-14 01:22:58,75.127.6.2,100,United States,Dallas,HostPapa,Dream Line IT Solution,Data Center,False
+2026-08-14 01:22:58,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-14 01:22:58,51.178.84.57,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-08-14 01:22:58,116.99.171.252,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-14 01:22:58,194.180.49.71,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-14 01:22:58,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 01:22:58,156.225.1.87,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-14 01:22:58,35.196.170.105,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-14 01:22:58,20.104.218.184,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-14 01:22:58,64.62.156.50,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-14 01:22:58,45.153.34.186,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-14 01:22:58,168.167.72.132,100,Botswana,Gaborone,Botswana Telecommunications Corporation,,Residential/Business,False
+2026-08-14 01:22:58,40.124.174.148,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-14 01:22:58,64.62.156.162,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-14 01:22:58,23.94.11.86,100,United States,Los Angeles,HostPapa,,Data Center,False
+2026-08-14 01:22:58,162.214.184.71,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-14 01:22:58,66.132.224.21,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-14 01:22:58,194.180.48.130,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-14 01:22:58,185.223.235.28,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-14 01:22:58,35.243.187.165,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-14 01:22:58,47.251.101.233,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-14 01:22:58,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 01:22:58,85.217.149.25,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 01:22:58,170.0.62.246,100,Brazil,Surubim,T F DA SILVA RAMOS TELECOMUNICAÇÕES E SISTEMA EPP,T F DA SILVA RAMOS TELECOMUNICAÇÕES E SISTEMA EPP,Residential/Business,False
+2026-08-14 01:22:58,64.62.197.32,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-14 01:22:58,69.84.15.62,100,United States,San Francisco,"Bel Air Internet, LLC","Bel Air Internet, LLC",Residential/Business,False
+2026-08-14 01:22:58,20.63.34.22,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-14 01:22:58,116.99.171.165,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-14 01:22:58,113.164.66.10,100,Vietnam,Bắc Giang,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-14 01:22:58,83.48.5.17,100,Spain,Torrent,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),Residential/Business,False
+2026-08-14 01:22:58,134.209.120.216,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 01:22:58,142.111.152.31,100,United States,Houston,Datacamp Limited,"Ace Data Centers, Inc",Data Center,True
+2026-08-14 01:22:58,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 01:22:58,20.65.193.104,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-14 01:22:58,47.236.121.178,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,True
+2026-08-14 01:22:58,95.90.13.168,100,Germany,Feucht,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-08-14 01:22:58,87.251.66.118,100,Russia,Novosibirsk,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,True
+2026-08-14 01:22:58,51.116.180.165,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-14 01:22:58,216.10.242.215,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
+2026-08-14 01:22:58,100.29.192.80,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-14 01:22:58,117.193.74.14,100,India,Kollam,BSNL Internet,,Residential/Business,False
+2026-08-14 01:22:58,69.5.169.38,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-14 01:22:58,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-14 01:22:58,85.217.140.54,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-14 01:22:58,159.223.97.218,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 01:22:58,37.228.64.54,100,Kazakhstan,Aktobe,"JSC ""KazTransCom""",Compas TeleCom LLP,Residential/Business,False
+2026-08-14 01:22:58,143.110.239.2,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-14 01:22:58,152.53.185.81,100,Germany,Nuremberg,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-08-14 01:22:58,150.107.36.236,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
