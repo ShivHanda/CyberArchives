@@ -106545,3 +106545,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-15 08:19:45,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-08-15 08:19:45,183.56.200.211,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
 2026-08-15 08:19:45,193.37.32.195,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-15 10:15:58,47.251.106.248,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-15 10:15:58,101.36.110.41,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-15 10:15:58,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-15 10:15:58,176.65.148.84,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-15 10:15:58,194.180.49.216,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-15 10:15:58,65.49.1.193,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 10:15:58,92.118.39.210,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-15 10:15:58,51.159.103.108,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-15 10:15:58,182.47.243.91,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-08-15 10:15:58,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 10:15:58,93.123.109.152,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-15 10:15:58,159.65.148.158,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-15 10:15:58,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-08-15 10:15:58,34.131.149.146,100,India,New Delhi,Google LLC,Google Cloud (asia-south2),Data Center,False
+2026-08-15 10:15:58,162.0.220.18,100,United States,Phoenix,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
+2026-08-15 10:15:58,83.145.42.126,100,Sweden,Uppsala,GlobalConnect AB,IP-ONLY,Residential/Business,False
+2026-08-15 10:15:58,114.10.47.234,100,Indonesia,Surabaya,PT. INDOSAT Tbk,IOH B2B,Residential/Business,False
+2026-08-15 10:15:58,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-15 10:15:58,185.180.141.40,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-15 10:15:58,64.89.160.242,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-15 10:15:58,213.176.26.159,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 10:15:58,217.60.240.161,100,Germany,Frankfurt am Main,Loginov Vladislav,Awas,Residential/Business,False
+2026-08-15 10:15:58,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-15 10:15:58,202.166.198.121,100,Nepal,Kathmandu,WorldLink Communications,,Residential/Business,False
+2026-08-15 10:15:58,213.176.26.51,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 10:15:58,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 10:15:58,47.250.113.168,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-15 10:15:58,51.195.255.48,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-15 10:15:58,121.183.249.159,100,South Korea,Gongju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-15 10:15:58,47.243.169.221,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-08-15 10:15:58,116.110.4.41,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-15 10:15:58,194.88.98.101,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 10:15:58,91.224.92.92,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-15 10:15:58,123.108.169.196,100,South Korea,Yongsan-dong,HYUNDAI COMMUNICATIONS & NETWORK,HYUNDAI HCN Cable Tv System Co.Ltd,Residential/Business,False
+2026-08-15 10:15:58,116.110.8.223,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-15 10:15:58,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 10:15:58,213.176.26.182,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 10:15:58,101.109.119.114,100,Thailand,Bang Phli,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,True
+2026-08-15 10:15:58,66.132.186.246,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-15 10:15:58,20.168.107.40,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-15 10:15:58,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 10:15:58,71.178.188.190,100,United States,Arlington,Verizon Business,Verizon Business,Residential/Business,False
+2026-08-15 10:15:58,36.212.159.65,100,China,Guangzhou,"China Mobile Communications Group Co., Ltd.",China TieTong Telecommunications Corporation,Mobile,False
+2026-08-15 10:15:58,31.14.32.8,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-15 10:15:58,41.242.115.84,100,Ghana,Accra,Dolphin Telecommunication Limited,,Residential/Business,False
+2026-08-15 10:15:58,107.150.105.153,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-08-15 10:15:58,185.180.141.39,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-15 10:15:58,205.237.106.86,100,France,Paris,PUSHPKT OU,ESTOXY OU,Residential/Business,False
+2026-08-15 10:15:58,64.62.156.108,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 10:15:58,213.91.234.180,100,Bulgaria,Sofia,BTC-NET Ltd,Bulgarian Telecommunications Company Plc,Residential/Business,False
