@@ -106645,3 +106645,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-15 12:24:48,91.92.47.66,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
 2026-08-15 12:24:48,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
 2026-08-15 12:24:48,195.178.110.218,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-15 14:15:49,115.160.67.73,100,South Korea,Jinju,Seokyung Cable Television Co.. Ltd.,Scsnet,Residential/Business,False
+2026-08-15 14:15:49,172.202.39.151,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-15 14:15:49,213.209.159.236,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-15 14:15:49,45.91.64.6,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,False
+2026-08-15 14:15:49,85.217.140.22,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-15 14:15:49,193.32.162.9,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-15 14:15:49,223.123.124.70,100,Pakistan,Islamabad,CMPak Limited,CMPak Limited,Residential/Business,False
+2026-08-15 14:15:49,80.94.92.120,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-15 14:15:49,91.246.176.7,100,United States,Las Vegas,GSL Networks Pty LTD,Micron Hosting,Data Center,True
+2026-08-15 14:15:49,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 14:15:49,117.170.232.211,100,China,Jinrongjie,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-15 14:15:49,37.41.158.238,100,Oman,Muscat,OmanMobile Telecommunication company LLC,OmanMobile Telecommunication company LLC,Residential/Business,False
+2026-08-15 14:15:49,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-15 14:15:49,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-15 14:15:49,5.3.154.197,100,Russia,Kazan',"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Kazan' Branch",Residential/Business,False
+2026-08-15 14:15:49,20.106.168.62,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-15 14:15:49,135.225.78.186,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-15 14:15:49,192.253.248.226,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-15 14:15:49,78.128.113.74,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,True
+2026-08-15 14:15:49,91.92.40.175,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-15 14:15:49,64.62.156.112,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 14:15:49,87.236.176.157,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-15 14:15:49,35.210.61.208,100,Belgium,Brussels,Google Ireland Limited,Google Cloud (europe-west1),Data Center,False
+2026-08-15 14:15:49,162.241.2.204,100,Brazil,Vinhedo,Oracle Corporation,Unified Layer,Data Center,False
+2026-08-15 14:15:49,147.90.234.117,100,United States,New York,Fourplex Telecom LLC,,Data Center,True
+2026-08-15 14:15:49,135.225.75.187,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-15 14:15:49,43.155.134.4,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-15 14:15:49,177.104.180.43,100,Brazil,Brooklin,Eveo S.A.,Eveo S.A,Residential/Business,False
+2026-08-15 14:15:49,66.132.172.231,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-15 14:15:49,202.62.74.250,100,India,Bengaluru,CityOnline Services Ltd,Cityonline,Residential/Business,False
+2026-08-15 14:15:49,193.24.211.204,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-08-15 14:15:49,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-15 14:15:49,34.156.227.98,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-15 14:15:49,103.56.163.133,100,Vietnam,Ho Chi Minh City,INETSOFT,iNET software one member company limited,Residential/Business,False
+2026-08-15 14:15:49,20.79.204.6,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-15 14:15:49,64.227.110.161,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-15 14:15:49,198.98.56.227,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-15 14:15:49,204.76.203.224,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-15 14:15:49,178.205.27.81,100,Russia,Osinovo,TATTELECOM,,Residential/Business,False
+2026-08-15 14:15:49,139.59.136.184,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-08-15 14:15:49,143.42.1.123,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-15 14:15:49,114.66.29.126,100,China,Beijing,China Telecom,"Beijing Yunlin Network Technology Co., Ltd",Residential/Business,False
+2026-08-15 14:15:49,122.160.80.105,100,India,New Delhi,BHARTI,Abts Delhi,Residential/Business,False
+2026-08-15 14:15:49,115.70.67.247,100,Australia,Adelaide,SUPERLOOP (AUSTRALIA) PTY LTD,Exetel Pty Ltd,Residential/Business,False
+2026-08-15 14:15:49,209.99.188.43,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-08-15 14:15:49,91.246.176.9,100,United States,Las Vegas,GSL Networks Pty LTD,Micron Hosting,Data Center,True
+2026-08-15 14:15:49,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-15 14:15:49,34.143.204.142,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-15 14:15:49,45.156.185.184,100,Iran,Tehran,Pars Shabakeh Azarakhsh LLC,Pars Shabakeh Azarakhsh LLC,Data Center,True
+2026-08-15 14:15:49,151.243.11.237,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
