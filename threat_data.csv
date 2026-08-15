@@ -106345,3 +106345,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-15 00:53:32,171.25.158.74,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
 2026-08-15 00:53:32,49.124.151.57,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
 2026-08-15 00:53:32,66.132.172.247,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-15 02:45:52,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-15 02:45:52,91.92.47.128,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-15 02:45:52,20.169.85.72,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-15 02:45:52,180.76.147.239,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-15 02:45:52,195.96.139.223,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-15 02:45:52,185.38.148.135,100,United Kingdom,City of London,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-08-15 02:45:52,47.84.191.150,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-15 02:45:52,85.217.149.4,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-15 02:45:52,172.234.218.34,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-15 02:45:52,213.176.26.133,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 02:45:52,69.5.169.194,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-15 02:45:52,173.255.223.49,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-08-15 02:45:52,184.72.121.94,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-15 02:45:52,24.97.253.246,100,United States,Buffalo,Charter Communications,Spectrum,Residential/Business,False
+2026-08-15 02:45:52,104.236.83.40,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-15 02:45:52,20.169.105.34,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-15 02:45:52,152.53.185.81,100,Germany,Nuremberg,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-08-15 02:45:52,163.7.4.169,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-15 02:45:52,193.176.31.200,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 02:45:52,172.236.228.227,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-15 02:45:52,45.142.193.164,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-08-15 02:45:52,213.176.26.114,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-15 02:45:52,20.124.87.15,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-15 02:45:52,102.140.97.134,100,Nigeria,Lagos,Accelon,Internet,Residential/Business,True
+2026-08-15 02:45:52,165.154.206.151,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-08-15 02:45:52,207.175.129.223,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-15 02:45:52,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 02:45:52,49.51.47.100,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-08-15 02:45:52,31.132.90.3,100,Kazakhstan,Astana,Customers FTTB,,Residential/Business,True
+2026-08-15 02:45:52,197.242.170.10,100,Mozambique,Maputo,Intra Data Communication,,Residential/Business,False
+2026-08-15 02:45:52,66.132.224.80,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-15 02:45:52,5.226.140.115,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 02:45:52,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-15 02:45:52,8.216.14.127,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-15 02:45:52,61.105.6.100,100,South Korea,Gwangmyeong-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-15 02:45:52,81.19.219.228,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 02:45:52,3.86.239.220,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-08-15 02:45:52,193.32.162.15,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-15 02:45:52,65.49.1.206,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 02:45:52,193.32.209.240,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 02:45:52,162.241.61.20,100,Brazil,Vinhedo,Oracle Corporation,Unified Layer,Data Center,False
+2026-08-15 02:45:52,65.49.1.23,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 02:45:52,36.66.16.233,100,Indonesia,West Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-08-15 02:45:52,195.96.139.120,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-15 02:45:52,213.209.159.241,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-15 02:45:52,143.198.115.76,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-15 02:45:52,62.210.142.177,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-08-15 02:45:52,47.254.240.216,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-15 02:45:52,64.62.156.65,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-15 02:45:52,143.42.164.127,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
