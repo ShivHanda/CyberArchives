@@ -106840,3 +106840,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-15 20:15:04,180.165.46.24,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
 2026-08-15 20:15:04,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-15 20:15:04,78.153.140.148,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,LLC Company Interlan Communications,Data Center,False
+2026-08-15 22:14:31,20.83.167.30,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-15 22:14:31,45.205.1.240,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-15 22:14:31,105.28.108.165,100,South Africa,Pretoria,SEACOM Limited Networks,,Residential/Business,True
+2026-08-15 22:14:31,36.154.134.146,100,China,Nanjing,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-15 22:14:31,101.50.83.146,100,Pakistan,Islamabad,Nayatel (Pvt) Ltd,Nayatel,Residential/Business,False
+2026-08-15 22:14:31,81.17.28.131,100,Switzerland,Zurich,Ripe,,Data Center,False
+2026-08-15 22:14:31,162.241.45.188,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-15 22:14:31,104.152.52.126,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,True
+2026-08-15 22:14:31,192.34.128.202,100,United States,Bakersville,"Zito Media, L.P.","Country Cablevision, Inc.",Residential/Business,False
+2026-08-15 22:14:31,51.254.130.161,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-15 22:14:31,167.71.72.95,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-15 22:14:31,175.6.146.164,100,China,Qingyuan,"No.293, Wanbao Avenue",Chinanet HN,Residential/Business,False
+2026-08-15 22:14:31,213.209.159.242,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-15 22:14:31,104.152.52.125,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-15 22:14:31,140.245.34.60,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-15 22:14:31,135.225.78.186,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-15 22:14:31,64.89.160.201,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-15 22:14:31,165.154.255.63,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-08-15 22:14:31,159.203.184.22,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-15 22:14:31,40.74.208.138,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-15 22:14:31,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-08-15 22:14:31,193.32.162.34,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-15 22:14:31,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-15 22:14:31,34.78.114.97,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-15 22:14:31,2.32.12.48,100,Italy,Montesilvano,VODAFONE,,Residential/Business,False
+2026-08-15 22:14:31,41.128.181.199,100,Egypt,Cairo,LINKdotNET AS number,Link Egypt (Link.NET),Residential/Business,False
+2026-08-15 22:14:31,20.104.100.201,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-15 22:14:31,91.188.247.151,100,Russia,Moscow,Svyaz VSD LLC,Svyaz VSD LLC,Data Center,False
+2026-08-15 22:14:31,14.224.202.234,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-15 22:14:31,106.51.92.114,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-08-15 22:14:31,220.90.220.204,100,South Korea,Sejong,Korea Telecom,KORNET,Residential/Business,False
+2026-08-15 22:14:31,110.35.80.116,100,Indonesia,Tangerang,Network Access Point Nap Info Lintas Nusa,,Residential/Business,True
+2026-08-15 22:14:31,161.132.54.218,100,Peru,Lima,Red Cientifica Peruana,Red Cientifica Peruana,Residential/Business,False
+2026-08-15 22:14:31,213.209.159.238,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-15 22:14:31,212.13.154.80,100,Kazakhstan,Astana,JSC Kazakhtelecom,Kazakhtelecom Data Network Administration,Residential/Business,False
+2026-08-15 22:14:31,91.211.23.39,100,Russia,Yekaterinburg,"Joint stock company ""For""","Joint stock company """"",Residential/Business,False
+2026-08-15 22:14:31,217.154.106.153,100,Spain,Madrid,IONOS SE,IONOS SE,Data Center,False
+2026-08-15 22:14:31,104.152.52.142,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-15 22:14:31,51.79.86.104,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc",Data Center,False
+2026-08-15 22:14:31,146.70.194.222,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-08-15 22:14:31,143.42.1.53,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-15 22:14:31,182.95.102.190,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-15 22:14:31,66.154.115.247,100,United States,Secaucus,ASSERTIVENET,ASSERTIVENET,Data Center,False
+2026-08-15 22:14:31,87.236.176.46,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-15 22:14:31,159.65.166.11,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-15 22:14:31,81.12.39.210,100,Iran,Tehran,Dade Pardaz Kimia Pouyesh PJS.,,Data Center,True
+2026-08-15 22:14:31,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-15 22:14:31,185.223.235.22,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-15 22:14:31,220.246.42.212,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-08-15 22:14:31,45.142.193.164,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
