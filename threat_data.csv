@@ -107340,3 +107340,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-16 16:17:02,213.176.26.52,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
 2026-08-16 16:17:02,45.148.10.95,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-16 16:17:02,136.108.7.236,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-16 18:19:45,37.110.113.113,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-08-16 18:19:45,213.176.26.74,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 18:19:45,162.241.234.202,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-16 18:19:45,121.229.205.104,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-08-16 18:19:45,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-16 18:19:45,68.183.236.1,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 18:19:45,193.148.56.148,100,Finland,Helsinki,Alinda LLC,Partner Hosting LTD,Data Center,True
+2026-08-16 18:19:45,43.228.157.10,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-16 18:19:45,20.104.49.167,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-16 18:19:45,18.119.209.50,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-16 18:19:45,45.66.35.30,100,The Netherlands,Amsterdam,Sabotage LLC,Sabotage LLC,Data Center,True
+2026-08-16 18:19:45,66.132.172.181,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-16 18:19:45,34.70.5.90,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-16 18:19:45,69.5.169.218,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 18:19:45,118.145.131.27,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-16 18:19:45,172.104.11.46,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-08-16 18:19:45,193.32.209.233,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-16 18:19:45,162.241.45.188,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-16 18:19:45,45.79.181.251,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 18:19:45,8.216.5.102,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-16 18:19:45,163.41.112.89,100,United States,Eugene,University of Oregon,University of Oregon,Residential/Business,False
+2026-08-16 18:19:45,94.249.175.111,100,France,Paris,TAKEHOST OU,GHOSTnet GmbH,Data Center,True
+2026-08-16 18:19:45,38.76.139.54,100,Venezuela,Caracas,CORPORACIÓN GALA IT C.A,CORPORACIÓN GALA IT C.A,Residential/Business,False
+2026-08-16 18:19:45,95.85.228.70,100,The Netherlands,Amsterdam,OC NETWORKS LIMITED,1Cent Host,Data Center,False
+2026-08-16 18:19:45,91.92.47.35,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-16 18:19:45,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 18:19:45,41.208.147.131,100,Senegal,Dakar,Sonatel,,Residential/Business,False
+2026-08-16 18:19:45,172.236.228.115,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-16 18:19:45,213.209.159.11,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-16 18:19:45,154.88.65.192,100,Hong Kong,Hong Kong,Akile LTD,Akile LTD,Data Center,False
+2026-08-16 18:19:45,120.48.76.190,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-16 18:19:45,20.65.193.105,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-16 18:19:45,104.28.240.188,100,United States,Charleston,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-16 18:19:45,91.237.124.214,100,United Kingdom,Redditch,Hostgnome LTD,Hostgnome LTD,Data Center,False
+2026-08-16 18:19:45,45.43.57.63,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-16 18:19:45,4.184.238.176,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-16 18:19:45,64.227.13.196,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 18:19:45,69.5.23.222,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-08-16 18:19:45,96.1.40.151,100,Canada,Burnaby,TELUS Communications Inc.,TELUS Communications Inc,Residential/Business,False
+2026-08-16 18:19:45,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-16 18:19:45,45.153.34.112,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-16 18:19:45,157.245.36.108,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-16 18:19:45,104.28.240.187,100,United States,Charleston,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-16 18:19:45,31.70.94.155,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-08-16 18:19:45,213.176.26.19,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 18:19:45,194.187.176.120,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-16 18:19:45,23.92.27.206,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 18:19:45,89.248.172.11,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-16 18:19:45,66.132.186.130,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-16 18:19:45,192.177.177.153,100,United States,Santa Clara,"DediByte, LLC",EGIHosting,Data Center,False
