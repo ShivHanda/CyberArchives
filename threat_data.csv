@@ -107240,3 +107240,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-16 12:26:45,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-08-16 12:26:45,51.38.71.171,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
 2026-08-16 12:26:45,20.64.104.5,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-16 14:16:12,85.217.149.50,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 14:16:12,179.1.223.229,100,Colombia,Santa Marta,Internexa S.a. E.S.P,Tunortetv Telecomunicaciones,Residential/Business,False
+2026-08-16 14:16:12,69.5.169.251,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 14:16:12,103.78.0.229,100,Vietnam,Thanh Xuân,Royal Technology Media Joint Stock Company,Royal Technology Media Joint Stock Company,Residential/Business,False
+2026-08-16 14:16:12,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-16 14:16:12,220.154.134.180,100,China,Qingdao,China Telecom,China Telecom Group Corporation,Residential/Business,False
+2026-08-16 14:16:12,14.231.94.10,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-16 14:16:12,116.105.73.162,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-16 14:16:12,172.213.227.73,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-16 14:16:12,192.101.68.88,100,Australia,Melbourne,Hbing Limited,DECRYPT,Residential/Business,False
+2026-08-16 14:16:12,47.245.61.99,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-16 14:16:12,91.224.92.17,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-16 14:16:12,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-16 14:16:12,20.38.3.247,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-16 14:16:12,65.254.93.170,100,Australia,Bungarribee,P.D.R Solutions FZC,,Residential/Business,False
+2026-08-16 14:16:12,45.194.67.27,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-16 14:16:12,20.91.215.254,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-16 14:16:12,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 14:16:12,176.65.149.30,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-16 14:16:12,34.19.49.47,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-16 14:16:12,185.220.100.242,100,Germany,Haßfurt,F3 Netze e.V.,F3 Netze e.V,Data Center,True
+2026-08-16 14:16:12,64.89.163.168,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-16 14:16:12,20.116.17.175,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-16 14:16:12,20.118.32.235,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-16 14:16:12,195.206.182.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-16 14:16:12,213.209.159.136,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-16 14:16:12,31.14.254.30,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 14:16:12,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-08-16 14:16:12,93.123.109.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 14:16:12,203.189.195.8,100,China,Guangzhou,Cloud Computing Corporation,Chinanet GD,Data Center,False
+2026-08-16 14:16:12,194.50.235.140,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 14:16:12,47.254.177.97,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-08-16 14:16:12,199.45.155.111,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 14:16:12,20.65.194.87,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-16 14:16:12,154.58.229.12,100,United States,New York,BreezeHost,Limestone Networks,Data Center,False
+2026-08-16 14:16:12,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-16 14:16:12,182.71.135.110,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-08-16 14:16:12,213.176.26.42,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 14:16:12,85.217.140.44,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 14:16:12,135.237.126.79,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-16 14:16:12,66.132.172.220,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-16 14:16:12,188.240.59.26,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-16 14:16:12,172.190.216.105,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-16 14:16:12,185.242.226.74,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-16 14:16:12,109.167.231.90,100,Russia,St Petersburg,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Saint-Petersburg Branch",Residential/Business,False
+2026-08-16 14:16:12,213.176.26.74,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 14:16:12,198.23.244.211,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-08-16 14:16:12,135.225.75.187,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-16 14:16:12,158.158.34.183,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-08-16 14:16:12,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
