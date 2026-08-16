@@ -107040,3 +107040,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-16 04:29:18,199.45.154.180,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-08-16 04:29:18,68.178.167.214,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
 2026-08-16 04:29:18,199.45.154.187,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 06:29:22,61.19.69.203,100,Thailand,Khlong San,National Telecom Public Company Limited,CAT ISP,Residential/Business,True
+2026-08-16 06:29:22,119.255.245.44,100,China,Dongchengcun,Beijing Guanghuan Xinwang Digital,"Beijing Sinnet Technology Co., Ltd.",Residential/Business,False
+2026-08-16 06:29:22,203.170.192.251,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-08-16 06:29:22,177.72.195.114,100,Brazil,Porto Alegre,Farol Telecom,Velox Network Solucoes Tecnologicas Ltda,Residential/Business,False
+2026-08-16 06:29:22,207.90.244.26,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-08-16 06:29:22,160.119.66.51,100,The Netherlands,Amsterdam,HostUS,,Data Center,False
+2026-08-16 06:29:22,118.193.43.141,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-16 06:29:22,171.243.148.53,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-16 06:29:22,85.217.140.22,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 06:29:22,121.204.171.142,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-08-16 06:29:22,213.176.26.165,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 06:29:22,106.13.48.156,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-16 06:29:22,115.178.75.243,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-08-16 06:29:22,193.163.125.251,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-16 06:29:22,20.163.43.14,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-16 06:29:22,162.241.235.82,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-16 06:29:22,60.199.224.2,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-08-16 06:29:22,155.4.245.222,100,Sweden,Helsingborg,Bahnhof AB,,Residential/Business,False
+2026-08-16 06:29:22,59.24.133.197,100,South Korea,Gumi,Korea Telecom,,Residential/Business,False
+2026-08-16 06:29:22,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 06:29:22,106.13.114.161,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-16 06:29:22,185.246.128.25,100,Sweden,Stockholm,w1n ltd,Dedicated Servers,Residential/Business,False
+2026-08-16 06:29:22,211.145.38.60,100,China,Beijing,UNICOM,Unicom,Residential/Business,False
+2026-08-16 06:29:22,171.243.150.251,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-16 06:29:22,222.129.37.92,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,True
+2026-08-16 06:29:22,34.58.124.191,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-16 06:29:22,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-08-16 06:29:22,168.167.72.132,100,Botswana,Gaborone,Botswana Telecommunications Corporation,,Residential/Business,False
+2026-08-16 06:29:22,203.83.234.180,100,China,Guangzhou,China Telecom,,Residential/Business,False
+2026-08-16 06:29:22,64.72.74.162,100,United States,Yonkers,Zayo Bandwidth,Zayo Bandwidth,Residential/Business,False
+2026-08-16 06:29:22,123.133.12.123,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-16 06:29:22,93.174.93.12,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Data Center,False
+2026-08-16 06:29:22,180.76.243.197,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-16 06:29:22,180.93.243.218,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-08-16 06:29:22,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-16 06:29:22,43.130.249.176,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-16 06:29:22,168.144.145.75,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 06:29:22,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 06:29:22,35.187.47.213,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-16 06:29:22,203.55.131.4,100,The Netherlands,Amsterdam,Internap Holding LLC,Valence Technology Co,Residential/Business,False
+2026-08-16 06:29:22,213.209.159.26,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-16 06:29:22,146.190.119.114,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 06:29:22,94.154.43.70,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-16 06:29:22,45.148.10.29,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 06:29:22,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 06:29:22,66.132.195.46,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 06:29:22,171.231.188.193,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-16 06:29:22,116.110.153.162,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-16 06:29:22,120.48.9.231,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-16 06:29:22,59.36.78.66,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
