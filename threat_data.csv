@@ -107090,3 +107090,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-16 06:29:22,116.110.153.162,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
 2026-08-16 06:29:22,120.48.9.231,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
 2026-08-16 06:29:22,59.36.78.66,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-16 08:21:00,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-16 08:21:00,85.217.140.47,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 08:21:00,45.64.74.51,100,Hong Kong,San Po Kong,Hosted in Cloudie Limited,Dingke human resource co.LTD,Data Center,False
+2026-08-16 08:21:00,67.205.143.171,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-16 08:21:00,170.106.153.232,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-08-16 08:21:00,165.154.40.205,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-16 08:21:00,45.198.224.114,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-16 08:21:00,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 08:21:00,109.105.210.64,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-08-16 08:21:00,45.79.40.209,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-08-16 08:21:00,62.60.130.234,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-16 08:21:00,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-08-16 08:21:00,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-16 08:21:00,79.170.53.30,100,Saudi Arabia,Riyadh,specific .,,Residential/Business,False
+2026-08-16 08:21:00,114.220.176.69,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-16 08:21:00,199.45.154.191,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 08:21:00,162.241.181.91,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-16 08:21:00,89.21.67.166,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 08:21:00,103.86.198.253,100,Bangladesh,Dhaka,Nasrin Sultana t/a Maisha,,Residential/Business,False
+2026-08-16 08:21:00,157.230.165.211,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 08:21:00,176.39.15.143,100,Ukraine,Dubno,Lanet Network Ltd,Lanet Network Ltd,Residential/Business,False
+2026-08-16 08:21:00,64.226.70.41,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-16 08:21:00,180.73.198.47,100,Malaysia,Klang,TM TECHNOLOGY SERVICES SDN BHD,Unifi Home,Residential/Business,False
+2026-08-16 08:21:00,213.176.26.175,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 08:21:00,192.166.82.243,100,United States,Salt Lake City,CloudBlast LLC,UAB Linama,Data Center,True
+2026-08-16 08:21:00,163.61.58.165,100,Indonesia,Jakarta,PT Deneva,CV PIFARM NUSA SEJAHTERA,Residential/Business,False
+2026-08-16 08:21:00,64.62.156.75,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-16 08:21:00,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 08:21:00,104.168.100.167,100,United States,Buffalo,HostPapa,ColoCrossing,Data Center,True
+2026-08-16 08:21:00,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-16 08:21:00,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 08:21:00,77.239.124.244,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-16 08:21:00,59.126.76.251,100,Taiwan,Changhua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-16 08:21:00,65.49.20.122,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-16 08:21:00,194.50.235.141,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 08:21:00,45.33.65.239,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 08:21:00,89.37.172.140,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-16 08:21:00,66.132.195.80,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 08:21:00,77.91.71.10,100,Georgia,,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-08-16 08:21:00,194.50.235.138,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 08:21:00,151.243.11.236,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-16 08:21:00,213.176.26.74,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 08:21:00,163.7.3.241,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-16 08:21:00,82.38.96.236,100,The Netherlands,Amsterdam,Blockchain Creek B.V.,Blockchain Creek,Residential/Business,False
+2026-08-16 08:21:00,69.5.169.201,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-16 08:21:00,46.36.123.219,100,Armenia,Zovuni,LikeNet LLC,Inecobank,Residential/Business,False
+2026-08-16 08:21:00,62.60.213.206,100,Iran,Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),Data Center,False
+2026-08-16 08:21:00,23.92.27.206,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 08:21:00,66.132.186.181,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-16 08:21:00,120.48.15.138,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
