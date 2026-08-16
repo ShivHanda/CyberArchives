@@ -107390,3 +107390,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-16 18:19:45,89.248.172.11,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
 2026-08-16 18:19:45,66.132.186.130,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
 2026-08-16 18:19:45,192.177.177.153,100,United States,Santa Clara,"DediByte, LLC",EGIHosting,Data Center,False
+2026-08-16 20:14:39,38.253.224.25,100,Indonesia,Ponorogo,Cogent Communications,PT. Yetoya Solusi Indonesia,Residential/Business,False
+2026-08-16 20:14:39,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 20:14:39,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-16 20:14:39,112.168.171.175,100,South Korea,Yongin-si,Korea Telecom,Sudogwongangnambonbujang,Residential/Business,False
+2026-08-16 20:14:39,45.153.34.165,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-16 20:14:39,85.217.149.71,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-16 20:14:39,69.5.169.120,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-08-16 20:14:39,213.209.159.238,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-16 20:14:39,193.32.162.15,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-16 20:14:39,111.70.23.230,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-16 20:14:39,91.92.42.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-16 20:14:39,221.2.119.115,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-16 20:14:39,222.239.251.12,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-16 20:14:39,45.156.128.107,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-16 20:14:39,213.176.26.123,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 20:14:39,213.209.159.228,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-16 20:14:39,218.70.9.114,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-08-16 20:14:39,34.55.226.133,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-16 20:14:39,94.102.49.193,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Data Center,False
+2026-08-16 20:14:39,107.155.15.218,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-16 20:14:39,45.33.110.79,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 20:14:39,86.54.31.36,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-08-16 20:14:39,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-16 20:14:39,45.79.181.179,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-16 20:14:39,45.156.128.106,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-16 20:14:39,199.45.155.110,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 20:14:39,45.194.67.30,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-16 20:14:39,115.68.208.117,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-08-16 20:14:39,46.29.26.195,100,Turkey,Istanbul,M/S ROBI TRADERS,FortiCore Digital,Residential/Business,False
+2026-08-16 20:14:39,208.84.102.107,100,United States,North Kansas City,Advin Services LLC,Fro LLC,Data Center,False
+2026-08-16 20:14:39,165.154.41.13,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-16 20:14:39,66.132.195.54,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-16 20:14:39,35.247.158.38,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-16 20:14:39,5.83.129.219,100,Germany,Frankfurt am Main,TAKEHOST OU,TakeHost.Biz,Data Center,False
+2026-08-16 20:14:39,192.236.225.165,100,United States,Los Angeles,HostPapa,CENTRIOHOST-LLC,Data Center,False
+2026-08-16 20:14:39,211.43.121.145,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-16 20:14:39,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-16 20:14:39,190.129.122.185,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-08-16 20:14:39,31.70.84.142,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,True
+2026-08-16 20:14:39,195.206.182.199,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-16 20:14:39,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-08-16 20:14:39,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-16 20:14:39,112.14.49.62,100,China,Ningbo,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-16 20:14:39,103.9.204.212,100,Vietnam,Huế,SUNSOFT,GSS Investment Corporation,Residential/Business,False
+2026-08-16 20:14:39,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-16 20:14:39,45.205.1.240,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-16 20:14:39,103.183.62.0,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-16 20:14:39,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-16 20:14:39,121.46.239.197,100,China,Beijing,ZHAOONE,shanghai wexchange network technology Co. Ltd.,Residential/Business,False
+2026-08-16 20:14:39,69.5.169.250,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
