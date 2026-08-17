@@ -107835,3 +107835,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-17 12:31:28,113.193.128.226,100,India,Pune,Tikona Infinet Ltd.,Tikona Digital Networks Pvt.Ltd,Residential/Business,False
 2026-08-17 12:31:28,89.43.28.134,100,Turkey,Denizli,Netinternet Datacenter,,Data Center,False
 2026-08-17 12:31:28,164.92.115.22,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-17 14:20:50,103.97.215.11,100,India,Patna,Shikhar Broadband Enterprises Pvt Ltd,Shikhar Broadband Enterprises Pvt Ltd,Residential/Business,False
+2026-08-17 14:20:50,66.132.195.22,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-17 14:20:50,213.209.159.241,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-17 14:20:50,202.142.139.54,100,Australia,Melbourne,Aussie Broadband,,Residential/Business,False
+2026-08-17 14:20:50,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 14:20:50,38.253.224.25,100,Indonesia,Ponorogo,Cogent Communications,PT. Yetoya Solusi Indonesia,Residential/Business,False
+2026-08-17 14:20:50,114.46.94.75,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-17 14:20:50,181.191.65.7,100,Argentina,La Plata,Soluciones Wisp S.A.,Soluciones Wisp S.A,Residential/Business,False
+2026-08-17 14:20:50,198.98.62.158,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-17 14:20:50,47.251.122.183,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-17 14:20:50,115.231.78.11,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,True
+2026-08-17 14:20:50,136.144.35.105,100,United States,Trenton,Latitude.sh,"VPN Consumer New Jersey, United States of America",Data Center,True
+2026-08-17 14:20:50,45.14.134.197,100,The Netherlands,Naaldwijk,WorldStream B.V.,Worldstream,Data Center,False
+2026-08-17 14:20:50,58.242.118.12,100,China,Hefei,CNC Group CHINA169 AnHui province network,,Residential/Business,False
+2026-08-17 14:20:50,171.231.182.211,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-17 14:20:50,193.163.125.229,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-17 14:20:50,8.209.115.54,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-08-17 14:20:50,38.191.202.137,100,Colombia,Restrepo,Hola Telecomunicacines Colombia S.A.S,,Residential/Business,False
+2026-08-17 14:20:50,171.243.151.22,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-17 14:20:50,194.180.48.39,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-17 14:20:50,24.98.45.238,100,United States,Conyers,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc",Residential/Business,False
+2026-08-17 14:20:50,91.92.47.90,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-17 14:20:50,14.225.204.246,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-08-17 14:20:50,102.178.145.63,100,Burkina Faso,Ouagadougou,FTTX,,Residential/Business,False
+2026-08-17 14:20:50,217.146.80.104,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-17 14:20:50,78.100.129.165,100,Qatar,Doha,Ooredoo Q.S.C,Leased Line,Residential/Business,False
+2026-08-17 14:20:50,85.217.140.26,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-17 14:20:50,1.220.119.115,100,South Korea,Yongsan-dong,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-17 14:20:50,130.12.180.107,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,True
+2026-08-17 14:20:50,45.148.10.147,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 14:20:50,199.45.154.52,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-17 14:20:50,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-17 14:20:50,51.68.236.69,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-17 14:20:50,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-17 14:20:50,89.248.172.14,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-17 14:20:50,3.87.150.244,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-08-17 14:20:50,84.233.195.155,100,Germany,Frankfurt am Main,Datacamp Limited,UK Reprographic company,Data Center,False
+2026-08-17 14:20:50,84.233.195.154,100,Germany,Frankfurt am Main,Datacamp Limited,UK Reprographic company,Data Center,False
+2026-08-17 14:20:50,20.55.50.10,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-17 14:20:50,49.124.153.59,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-17 14:20:50,79.124.56.210,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-17 14:20:50,84.233.195.150,100,Germany,Frankfurt am Main,Datacamp Limited,UK Reprographic company,Data Center,False
+2026-08-17 14:20:50,120.48.181.68,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-17 14:20:50,66.116.243.149,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-17 14:20:50,136.66.27.226,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-17 14:20:50,45.229.85.230,100,Argentina,Monte Grande,Gabriel Francisco Erbetta Y Mariano Andres Carrizo Richelet Sociedad De Hecho,GABRIEL FRANCISCO ERBETTA Y MARIANO ANDRES CARRIZO RICHELET SOCIEDAD DE HECHO (TELNET SOLUCIONES),Residential/Business,False
+2026-08-17 14:20:50,180.167.128.202,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-17 14:20:50,220.126.237.110,100,South Korea,Bucheon-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-17 14:20:50,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 14:20:50,77.239.124.102,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
