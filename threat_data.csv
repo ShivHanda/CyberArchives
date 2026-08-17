@@ -107540,3 +107540,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-17 00:54:45,15.204.173.173,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
 2026-08-17 00:54:45,45.153.34.181,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
 2026-08-17 00:54:45,77.90.185.16,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-17 02:54:17,41.207.248.198,100,Nigeria,Abuja,SV Chrome,,Residential/Business,False
+2026-08-17 02:54:17,45.194.92.14,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-08-17 02:54:17,52.188.81.67,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-17 02:54:17,107.155.15.191,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-17 02:54:17,91.224.92.92,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-17 02:54:17,157.254.54.246,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-08-17 02:54:17,5.61.209.92,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-17 02:54:17,83.226.181.38,100,Sweden,Karlstad,Telenor Sverige AB,Bredbandsbolaget,Residential/Business,False
+2026-08-17 02:54:17,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-17 02:54:17,180.167.128.203,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-08-17 02:54:17,185.189.182.234,100,The Netherlands,Rotterdam,NubaCloud B.V.,NubaCloud,Data Center,False
+2026-08-17 02:54:17,35.147.179.128,100,United States,Lincoln,Charter Communications,Spectrum,Residential/Business,False
+2026-08-17 02:54:17,64.62.197.107,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-17 02:54:17,68.221.73.131,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-08-17 02:54:17,65.49.20.69,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 02:54:17,49.124.152.253,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-17 02:54:17,52.21.227.35,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-17 02:54:17,77.239.124.236,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-17 02:54:17,57.128.222.79,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-17 02:54:17,136.118.247.94,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-17 02:54:17,181.225.32.48,100,Venezuela,Caracas,IFX Networks Venezuela C.A.,IFX Networks Venezuela C.A,Residential/Business,False
+2026-08-17 02:54:17,139.170.155.208,100,China,Xining,China Unicom Qinghai Province Network,,Residential/Business,False
+2026-08-17 02:54:17,71.6.232.29,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-17 02:54:17,119.92.70.82,100,Philippines,Cavite City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-08-17 02:54:17,193.176.29.21,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-17 02:54:17,151.243.11.232,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-17 02:54:17,138.197.16.14,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-17 02:54:17,104.232.79.58,100,United States,Boulder,HT,,Residential/Business,False
+2026-08-17 02:54:17,20.84.144.154,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-17 02:54:17,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-17 02:54:17,103.26.136.173,100,Bangladesh,Dhaka,Grameen Communications,Grameen Communications,Residential/Business,False
+2026-08-17 02:54:17,195.199.210.194,100,Hungary,Jászfényszaru,KIFU (Governmental Info Tech Development Agency),,Residential/Business,False
+2026-08-17 02:54:17,45.194.67.120,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-17 02:54:17,40.124.174.138,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-17 02:54:17,1.245.140.132,100,South Korea,Daejeon,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-17 02:54:17,97.74.87.194,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,True
+2026-08-17 02:54:17,188.240.59.30,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-17 02:54:17,64.62.197.213,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-17 02:54:17,65.49.1.108,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-08-17 02:54:17,128.14.233.253,100,Indonesia,Jakarta,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-17 02:54:17,36.255.97.32,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-08-17 02:54:17,65.49.1.52,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 02:54:17,221.164.237.124,100,South Korea,Gumi,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-17 02:54:17,213.234.11.10,100,Russia,Volgograd,Unico network,JSC UNICO,Residential/Business,False
+2026-08-17 02:54:17,122.166.208.238,100,India,Bengaluru,BHARTI,ABTS (Karnataka),Residential/Business,False
+2026-08-17 02:54:17,157.228.136.65,100,Russia,Moscow,First Server,"FIRST SERVER, SOCIEDAD LIMITADA",Residential/Business,False
+2026-08-17 02:54:17,185.226.197.38,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-08-17 02:54:17,216.218.206.68,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 02:54:17,111.228.50.75,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-08-17 02:54:17,2.26.230.9,100,Germany,Frankfurt am Main,Play2go International Limited,,Data Center,False
