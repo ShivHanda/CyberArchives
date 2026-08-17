@@ -107590,3 +107590,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-17 02:54:17,216.218.206.68,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-08-17 02:54:17,111.228.50.75,100,China,Beijing,jdcom,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
 2026-08-17 02:54:17,2.26.230.9,100,Germany,Frankfurt am Main,Play2go International Limited,,Data Center,False
+2026-08-17 04:34:46,89.253.90.113,100,Sweden,Stockholm,OWNIT-NETBLOCK3,Ownit AB,Residential/Business,False
+2026-08-17 04:34:46,192.253.248.142,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-17 04:34:46,36.111.40.138,100,China,Guangzhou,China Telecom,Chinanet ZJ,Residential/Business,False
+2026-08-17 04:34:46,118.122.196.230,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-08-17 04:34:46,64.62.156.62,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 04:34:46,117.250.250.2,100,India,Kottayam,BSNL Internet,,Residential/Business,False
+2026-08-17 04:34:46,129.121.93.77,100,United Kingdom,Slough,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-17 04:34:46,23.129.64.205,100,United States,Seattle,Emerald Onion,Emerald Onion,Data Center,True
+2026-08-17 04:34:46,117.241.77.78,100,India,Thrissur,BSNL Internet,,Residential/Business,False
+2026-08-17 04:34:46,110.233.163.181,100,Japan,Shinagawa,BIGLOBE Inc.,BIGLOBE,Residential/Business,False
+2026-08-17 04:34:46,91.92.40.25,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-17 04:34:46,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-17 04:34:46,40.80.82.167,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-17 04:34:46,36.255.97.34,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-08-17 04:34:46,116.177.172.64,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-08-17 04:34:46,116.113.241.82,100,China,Hohhot,CNC Group CHINA169 Neimeng Province Network,,Residential/Business,False
+2026-08-17 04:34:46,64.62.156.80,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 04:34:46,138.197.106.115,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-17 04:34:46,66.132.195.116,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-17 04:34:46,102.90.34.90,100,Nigeria,Awka,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-17 04:34:46,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-17 04:34:46,64.62.156.48,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 04:34:46,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 04:34:46,106.12.148.154,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-17 04:34:46,183.236.182.5,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-17 04:34:46,210.79.142.230,100,Indonesia,Nganjuk,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-08-17 04:34:46,20.104.49.167,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-17 04:34:46,146.190.73.173,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-17 04:34:46,207.175.202.20,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-17 04:34:46,101.13.4.128,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-08-17 04:34:46,120.48.50.133,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-17 04:34:46,69.5.169.56,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-17 04:34:46,185.13.45.243,100,Russia,Istra,OOO Istranet,Istranet,Residential/Business,False
+2026-08-17 04:34:46,45.137.194.93,100,United States,Seattle,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-08-17 04:34:46,78.189.17.35,100,Türkiye,Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,Residential/Business,False
+2026-08-17 04:34:46,163.227.239.165,100,Bangladesh,Dhaka,Wolast Technologies,Server Anywhere,Residential/Business,False
+2026-08-17 04:34:46,101.13.5.26,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-08-17 04:34:46,35.195.38.62,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-17 04:34:46,65.20.179.251,100,Iraq,Al Hillah,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-17 04:34:46,100.29.192.30,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-17 04:34:46,62.60.201.34,100,Iran,Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),Data Center,False
+2026-08-17 04:34:46,66.132.172.211,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-17 04:34:46,64.62.156.54,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-17 04:34:46,130.12.182.230,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-08-17 04:34:46,213.176.26.175,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-17 04:34:46,149.50.107.51,100,Poland,Warsaw,Cogent Communications,Meverywhere sp.zo.o,Data Center,False
+2026-08-17 04:34:46,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-17 04:34:46,62.192.226.83,100,Russia,Moscow,PJSC Rostelecom,Arkhangelsk Television Company,Residential/Business,False
+2026-08-17 04:34:46,62.122.195.14,100,Russia,Mytishchi,Opticom Group CJSC,Opticom,Residential/Business,False
+2026-08-17 04:34:46,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
