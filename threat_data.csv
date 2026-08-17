@@ -107685,3 +107685,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-17 06:40:34,111.70.23.252,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
 2026-08-17 06:40:34,118.193.64.188,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-08-17 06:40:34,37.187.236.33,100,France,Roubaix,OVH SAS,OVH SAS,Data Center,False
+2026-08-17 08:35:36,31.76.110.60,100,The Netherlands,Amsterdam,EdgeSec Technologies Limited,"Aurorix Networks, Amsterdam",Residential/Business,False
+2026-08-17 08:35:36,188.36.120.120,100,Hungary,Hegykő,Magyar Telekom,,Residential/Business,False
+2026-08-17 08:35:36,87.106.211.166,100,France,Paris,IONOS SE,IONOS SE,Data Center,False
+2026-08-17 08:35:36,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-08-17 08:35:36,178.150.113.113,100,Ukraine,Kharkiv,Triolan,,Residential/Business,False
+2026-08-17 08:35:36,64.62.197.78,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-17 08:35:36,1.250.67.190,100,South Korea,Jeonju,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-17 08:35:36,165.154.40.244,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-17 08:35:36,20.100.177.66,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-17 08:35:36,193.163.125.118,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-17 08:35:36,20.40.208.6,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-17 08:35:36,102.129.186.111,100,South Africa,Johannesburg,ipxo,ipxo,Data Center,False
+2026-08-17 08:35:36,66.117.5.228,100,United States,Los Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc",Data Center,False
+2026-08-17 08:35:36,104.248.235.0,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-17 08:35:36,51.195.219.179,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-17 08:35:36,153.19.161.177,100,Poland,Słupsk,"Technical University of Gdansk, Academic Computer Center TASK",Task DS PAP,Residential/Business,False
+2026-08-17 08:35:36,20.168.121.1,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-17 08:35:36,168.144.65.188,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-17 08:35:36,62.132.18.142,100,United States,Glen Cove,Bunny Communications,,Residential/Business,False
+2026-08-17 08:35:36,117.143.82.38,100,China,Shanghai,China Mobile communications corporation,China Mobile Communications Corporation - shanghai company,Mobile,False
+2026-08-17 08:35:36,207.180.250.8,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-17 08:35:36,46.6.127.33,100,Spain,Riudoms,XFERA Moviles S.A,XFERA Moviles S.A,Residential/Business,False
+2026-08-17 08:35:36,86.54.31.40,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-08-17 08:35:36,71.6.199.65,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-17 08:35:36,118.145.242.127,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-17 08:35:36,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-17 08:35:36,85.217.140.42,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-17 08:35:36,20.38.3.247,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-17 08:35:36,178.128.14.220,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-08-17 08:35:36,51.68.107.151,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-17 08:35:36,18.119.209.50,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-17 08:35:36,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-17 08:35:36,162.241.181.91,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-17 08:35:36,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-17 08:35:36,36.213.0.140,100,China,Guangzhou,"China Mobile Communications Group Co., Ltd.",China TieTong Telecommunications Corporation,Mobile,False
+2026-08-17 08:35:36,140.249.22.89,100,China,Jinan,"Qingdao, ",Chinanet SD,Residential/Business,False
+2026-08-17 08:35:36,111.235.76.92,100,Japan,Chiyoda City,EnjoyVC Japan Corporation,EnjoyVC Japan Corporation,Residential/Business,False
+2026-08-17 08:35:36,216.226.76.10,100,United Kingdom,London,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-08-17 08:35:36,77.239.124.251,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-17 08:35:36,20.151.204.74,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-17 08:35:36,115.190.216.185,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-17 08:35:36,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 08:35:36,47.77.182.54,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-17 08:35:36,182.177.127.70,100,Pakistan,Lahore,Triple Play Project SOUTH,,Residential/Business,False
+2026-08-17 08:35:36,85.239.151.34,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-17 08:35:36,45.148.10.120,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-17 08:35:36,45.79.109.236,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-17 08:35:36,109.199.102.40,100,France,Lauterbourg,Contabo GmbH,,Data Center,False
+2026-08-17 08:35:36,81.19.219.220,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-17 08:35:36,104.248.67.151,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
