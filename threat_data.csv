@@ -108380,3 +108380,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-18 10:21:13,200.121.133.84,100,Peru,Lima,Telefonica del Peru,PE-TDPERX1-LACNIC,Residential/Business,False
 2026-08-18 10:21:13,120.48.147.111,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
 2026-08-18 10:21:13,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-18 12:32:46,67.205.129.254,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-18 12:32:46,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 12:32:46,94.154.43.230,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-18 12:32:46,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 12:32:46,88.151.33.96,100,The Netherlands,Dronten,"NextGenWebs, S.L.","NextGenWebs, S.L",Data Center,False
+2026-08-18 12:32:46,167.99.66.42,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-18 12:32:46,213.176.26.51,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 12:32:46,160.191.242.106,100,Vietnam,Huế,Hoang Dieu Cloud Computing Company Limited,Hoang Dieu Physical Server Company Limited,Data Center,True
+2026-08-18 12:32:46,95.57.121.42,100,Kazakhstan,Astana,JSC Kazakhtelecom,Sdyusportshkgimn,Residential/Business,False
+2026-08-18 12:32:46,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-18 12:32:46,45.194.70.251,100,Thailand,Bangkok,Ucloud Information Technology HK Limited,Ucloud Information Technology HK Limited,Data Center,False
+2026-08-18 12:32:46,217.160.0.170,100,Germany,Essen,IONOS SE,Ionos Inf,Data Center,False
+2026-08-18 12:32:46,95.214.53.157,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Data Center,True
+2026-08-18 12:32:46,135.237.125.118,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-18 12:32:46,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
+2026-08-18 12:32:46,103.195.81.146,100,India,Mumbai,Capsule Networks Pvt Ltd,Capsule Networks Pvt Ltd,Residential/Business,False
+2026-08-18 12:32:46,66.132.186.190,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-18 12:32:46,4.204.200.143,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-18 12:32:46,112.27.105.50,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-18 12:32:46,47.245.138.173,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
+2026-08-18 12:32:46,97.74.87.194,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,True
+2026-08-18 12:32:46,213.176.26.88,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 12:32:46,185.106.128.67,100,Israel,Netanya,O.M.C. COMPUTERS & COMMUNICATIONS LTD,Interspace Ltd,Data Center,False
+2026-08-18 12:32:46,177.20.165.170,100,Brazil,Bofete,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Residential/Business,False
+2026-08-18 12:32:46,45.153.34.144,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-08-18 12:32:46,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-18 12:32:46,63.250.44.40,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Residential/Business,False
+2026-08-18 12:32:46,165.99.164.20,100,United States,Ogden,Satisfyhost LTD,,Data Center,False
+2026-08-18 12:32:46,193.203.239.68,100,France,Golbey,Groupe LWS SARL,Groupe LWS SARL,Data Center,False
+2026-08-18 12:32:46,79.124.40.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-18 12:32:46,145.79.212.66,100,India,Mumbai,HOSTINGER IN,Hostinger International Limited,Data Center,False
+2026-08-18 12:32:46,93.157.102.237,100,Poland,Poznan,Cyber_Folks S.A.,H88 S.A,Data Center,False
+2026-08-18 12:32:46,145.79.211.104,100,India,Mumbai,HOSTINGER IN,Hostinger International Limited,Data Center,False
+2026-08-18 12:32:46,92.113.23.200,100,Germany,Frankfurt am Main,HOSTINGER DE,,Data Center,False
+2026-08-18 12:32:46,145.79.20.4,100,France,Paris,Hostinger International Limited,Hostinger,Data Center,False
+2026-08-18 12:32:46,69.5.169.14,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-18 12:32:46,66.240.236.109,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,True
+2026-08-18 12:32:46,20.124.247.79,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-18 12:32:46,193.32.162.15,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-18 12:32:46,220.80.135.143,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-18 12:32:46,34.225.138.57,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-18 12:32:46,65.49.1.101,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-08-18 12:32:46,130.210.37.239,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-08-18 12:32:46,2602:80d:1008::7f,100,United States,Melbourne,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-18 12:32:46,47.91.94.133,100,Germany,Frankfurt am Main,Alibaba.com LLC,ALICLOUD-GM,Data Center,False
+2026-08-18 12:32:46,121.127.233.202,100,Hong Kong,Hung Hom,CTG Server Limited,Mega II,Data Center,False
+2026-08-18 12:32:46,222.134.147.66,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-18 12:32:46,62.201.212.54,100,Iraq,Sulaymaniyah,NETWORKS-SULY1,,Residential/Business,False
+2026-08-18 12:32:46,162.240.102.228,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-08-18 12:32:46,220.172.90.169,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
