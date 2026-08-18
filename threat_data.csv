@@ -108580,3 +108580,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-18 18:28:43,20.14.95.138,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
 2026-08-18 18:28:43,87.106.29.151,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
 2026-08-18 18:28:43,103.143.231.24,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,"Hongkong Hongdou Technology Co., Limited",Data Center,False
+2026-08-18 20:16:10,213.225.14.121,100,Austria,Vienna,A1 Telekom Austria AG,A1 Telekom Austria AG,Mobile,False
+2026-08-18 20:16:10,49.204.74.149,100,India,Bengaluru,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-18 20:16:10,85.217.140.5,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-18 20:16:10,152.32.233.100,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-18 20:16:10,45.154.244.193,100,The Netherlands,Amsterdam,Shereverov Marat Ahmedovich,Nikolov Dimitrov Georgi,Residential/Business,True
+2026-08-18 20:16:10,163.7.6.41,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-18 20:16:10,115.190.64.245,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,36.6.144.189,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-08-18 20:16:10,115.190.52.176,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,213.176.26.51,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 20:16:10,115.190.63.151,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-18 20:16:10,92.118.39.74,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-08-18 20:16:10,177.44.61.14,100,Brazil,Unaí,Rede Brasileira de Comunicacao S/A,MASTER S/A,Residential/Business,False
+2026-08-18 20:16:10,185.223.235.53,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 20:16:10,115.190.46.94,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,45.195.8.70,100,Japan,Chiyoda City,Scloud Pte Ltd,Scloud Pteltd,Data Center,False
+2026-08-18 20:16:10,101.96.195.253,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-18 20:16:10,80.94.92.156,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-18 20:16:10,51.116.232.28,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-18 20:16:10,185.220.101.165,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,Data Center,True
+2026-08-18 20:16:10,213.176.26.186,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 20:16:10,5.141.89.8,100,Russia,Yekaterinburg,Rostelecom networks,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-08-18 20:16:10,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 20:16:10,195.3.220.7,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Residential/Business,False
+2026-08-18 20:16:10,112.169.8.251,100,South Korea,Gangnam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-18 20:16:10,172.214.5.176,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-18 20:16:10,157.230.18.133,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-18 20:16:10,123.210.137.163,100,Australia,Sydney,Telstra Internet,,Residential/Business,False
+2026-08-18 20:16:10,103.149.26.230,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-18 20:16:10,115.190.27.28,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,68.155.155.23,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-18 20:16:10,83.168.88.135,100,Poland,Warsaw,Korbank S. A.,Korbank DataCenter,Data Center,False
+2026-08-18 20:16:10,218.149.172.52,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-18 20:16:10,115.190.255.67,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,81.181.129.252,100,Romania,Botoșani,Annarsy SRL,Preda Gabriel,Residential/Business,False
+2026-08-18 20:16:10,115.190.229.117,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,115.190.216.185,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,193.163.125.199,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-18 20:16:10,120.224.242.78,100,China,Jinan,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-18 20:16:10,115.190.185.14,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,115.190.188.197,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-18 20:16:10,81.23.173.32,100,Russia,Moscow,MTS PJSC,MTS Saransk Fixed Broadband Network,Mobile,False
+2026-08-18 20:16:10,115.190.179.68,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,115.190.181.18,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,45.40.57.23,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-18 20:16:10,115.190.181.231,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,46.247.61.247,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-08-18 20:16:10,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-08-18 20:16:10,115.190.172.63,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 20:16:10,115.190.167.144,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,True
