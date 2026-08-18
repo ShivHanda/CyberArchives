@@ -108130,3 +108130,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-18 00:53:09,199.45.155.66,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-08-18 00:53:09,45.148.10.64,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-08-18 00:53:09,45.88.106.78,100,The Netherlands,Dronten,Zomro B.V.,Peetinvest B.V,Residential/Business,False
+2026-08-18 02:50:21,209.42.29.39,100,United Kingdom,Canary Wharf,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-08-18 02:50:21,172.245.106.180,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-08-18 02:50:21,46.101.204.184,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-18 02:50:21,85.217.149.71,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-18 02:50:21,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-18 02:50:21,80.87.206.19,100,The Netherlands,Amsterdam,OVH SAS,DedicatedVPSprovider,Data Center,False
+2026-08-18 02:50:21,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-18 02:50:21,85.217.140.11,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-18 02:50:21,141.98.83.48,100,United Kingdom,London,GLOBALHOST,,Data Center,False
+2026-08-18 02:50:21,5.226.140.97,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 02:50:21,129.121.75.215,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-18 02:50:21,35.200.201.144,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-18 02:50:21,45.194.67.30,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-18 02:50:21,43.228.157.8,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-18 02:50:21,52.187.9.8,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,True
+2026-08-18 02:50:21,193.32.209.235,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 02:50:21,69.5.169.156,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-18 02:50:21,79.124.60.218,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-18 02:50:21,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 02:50:21,185.216.145.177,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 02:50:21,66.132.172.99,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-18 02:50:21,107.150.117.167,100,Germany,Frankfurt am Main,Zenlayer Inc,ZENLA-1,Data Center,False
+2026-08-18 02:50:21,168.76.20.229,100,South Africa,Bloemfontein,Freenet,Free State Education Department,Residential/Business,False
+2026-08-18 02:50:21,137.184.190.246,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-18 02:50:21,200.146.252.10,100,Brazil,São Paulo,ALGAR TELECOM S/A,Companhia de Telecomunicacoes do Brasil Central,Residential/Business,False
+2026-08-18 02:50:21,104.243.42.167,100,United States,Piscataway,ReliableSite.Net LLC,samuel godbillot,Data Center,False
+2026-08-18 02:50:21,193.163.125.96,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-18 02:50:21,45.90.163.37,100,France,Paris,Sapinet SAS,Sapinet,Data Center,False
+2026-08-18 02:50:21,164.92.114.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-18 02:50:21,64.62.197.122,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-18 02:50:21,20.42.19.40,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-18 02:50:21,35.246.80.146,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-08-18 02:50:21,193.176.31.212,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 02:50:21,4.232.151.198,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-18 02:50:21,217.24.185.244,100,Russia,Moscow,Insys LLC,Insys EKB,Residential/Business,False
+2026-08-18 02:50:21,171.25.158.24,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-08-18 02:50:21,65.181.71.117,100,Hong Kong,Hong Kong,PCCW IMS Limited,PCCW IMS Ltd (PCCW Business Internet Access),Residential/Business,False
+2026-08-18 02:50:21,110.246.154.56,100,China,Chengde,China Unicom Hebei Province Network,,Residential/Business,False
+2026-08-18 02:50:21,190.58.30.98,100,Trinidad and Tobago,Port of Spain,Telecommunication Services of Trinidad and Tobago,Telecommunication Services of Trinidad and Tobago,Residential/Business,False
+2026-08-18 02:50:21,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 02:50:21,69.5.169.98,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-18 02:50:21,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 02:50:21,217.150.37.249,100,Russia,Orenburg,TRANS-TELECOM,,Residential/Business,False
+2026-08-18 02:50:21,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-18 02:50:21,31.208.81.75,100,Sweden,Arvika,Bredband2 AB,Bredband2,Residential/Business,False
+2026-08-18 02:50:21,44.205.192.249,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-18 02:50:21,171.114.227.242,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-18 02:50:21,164.92.237.25,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-18 02:50:21,181.230.155.239,100,Argentina,Venado Tuerto,Telecom Argentina S.A.,Telecom Argentina S.A,Residential/Business,False
+2026-08-18 02:50:21,69.5.169.145,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
