@@ -108430,3 +108430,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-18 12:32:46,62.201.212.54,100,Iraq,Sulaymaniyah,NETWORKS-SULY1,,Residential/Business,False
 2026-08-18 12:32:46,162.240.102.228,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
 2026-08-18 12:32:46,220.172.90.169,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
+2026-08-18 14:26:14,91.224.92.92,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-18 14:26:14,167.99.243.162,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-18 14:26:14,204.76.203.226,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-18 14:26:14,20.80.111.3,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-18 14:26:14,95.47.246.223,100,Russia,St Petersburg,Tiger-Telecom Ltd.,Tiger-Telecom Ltd,Residential/Business,False
+2026-08-18 14:26:14,152.32.135.135,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-18 14:26:14,213.176.26.82,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 14:26:14,59.12.116.210,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-18 14:26:14,45.148.10.238,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 14:26:14,45.202.1.23,100,Hong Kong,Chai Wan,Antbox,Antbox Network Limited,Residential/Business,False
+2026-08-18 14:26:14,167.99.172.66,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-18 14:26:14,23.95.17.171,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-08-18 14:26:14,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-18 14:26:14,115.190.213.206,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-18 14:26:14,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 14:26:14,27.31.108.145,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-18 14:26:14,213.176.26.88,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 14:26:14,66.132.172.137,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-18 14:26:14,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-08-18 14:26:14,203.56.198.45,100,China,Wenquan,China Telecom,Chinanet FJ,Residential/Business,False
+2026-08-18 14:26:14,213.176.26.153,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 14:26:14,195.178.110.48,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 14:26:14,4.232.89.182,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-18 14:26:14,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-18 14:26:14,171.244.185.149,100,Vietnam,Quận Hai,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-18 14:26:14,40.85.222.29,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-18 14:26:14,89.248.172.10,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-08-18 14:26:14,176.65.148.29,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-18 14:26:14,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-18 14:26:14,91.92.40.27,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-18 14:26:14,47.89.174.181,100,United States,Charlottesville,Alibaba.com LLC,ALICLOUD-US,Data Center,False
+2026-08-18 14:26:14,65.49.1.163,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-18 14:26:14,89.37.172.143,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-18 14:26:14,91.92.42.227,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-18 14:26:14,213.176.26.165,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-18 14:26:14,45.194.67.29,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-18 14:26:14,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-18 14:26:14,95.111.251.70,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-18 14:26:14,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-08-18 14:26:14,94.154.43.214,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-18 14:26:14,128.201.9.152,100,Brazil,Carmo do Cajuru,Next Fibra,Next Fibra,Residential/Business,False
+2026-08-18 14:26:14,101.36.116.232,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-18 14:26:14,171.244.39.95,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-18 14:26:14,27.200.254.235,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-18 14:26:14,185.118.190.176,100,Spain,Torrenueva,"AVATEL TELECOM, SA",DIAGONALHOSTING,Data Center,False
+2026-08-18 14:26:14,150.5.169.176,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-18 14:26:14,78.159.131.105,100,Albania,Elbasan,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Data Center,True
+2026-08-18 14:26:14,221.11.20.173,100,China,Taiyuan,CNC Group CHINA169 Shanxi Province Network,,Residential/Business,False
+2026-08-18 14:26:14,79.124.49.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-18 14:26:14,185.242.226.36,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
