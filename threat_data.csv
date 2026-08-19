@@ -108780,3 +108780,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-19 02:51:35,141.11.21.167,100,The Netherlands,Amsterdam,OVH SAS,,Residential/Business,False
 2026-08-19 02:51:35,38.159.191.27,100,Brazil,Nova Esperança,Speed Planet Telecomunicacoes Ltda,Speed Planet Telecomunicacoes Ltda,Residential/Business,False
 2026-08-19 02:51:35,8.216.14.28,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-19 04:30:44,111.88.6.196,100,Pakistan,Karachi,CONNECT,,Residential/Business,False
+2026-08-19 04:30:44,167.172.223.46,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-19 04:30:44,154.12.89.140,100,Hong Kong,Mong Kok,Cogent Communications,FOJ IP TECHNOLOGY LIMITED,Residential/Business,False
+2026-08-19 04:30:44,46.10.56.170,100,Bulgaria,Sofia,BTC-BROADBAND,Bulgarian Telecommunications Company Plc.,Residential/Business,False
+2026-08-19 04:30:44,195.178.110.218,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-19 04:30:44,59.28.78.214,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-19 04:30:44,43.155.27.244,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-08-19 04:30:44,118.193.58.187,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-19 04:30:44,43.128.3.201,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-19 04:30:44,64.62.197.3,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-19 04:30:44,45.195.200.157,100,The Netherlands,Amsterdam,BitCommand LLC,BitCommand LLC,Residential/Business,False
+2026-08-19 04:30:44,64.62.156.33,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 04:30:44,194.187.176.194,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-19 04:30:44,195.178.197.45,100,Russia,Murom,IIP,,Residential/Business,False
+2026-08-19 04:30:44,34.40.145.110,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-08-19 04:30:44,161.97.169.217,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-19 04:30:44,45.232.73.84,100,Brazil,Londrina,Telefonarnet Telecomunicacoes,Telefonarnet Telecomunicacoes,Residential/Business,False
+2026-08-19 04:30:44,81.19.219.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-19 04:30:44,178.178.194.192,100,Russia,Moscow,PJSC MegaFon,MegaFon,Mobile,False
+2026-08-19 04:30:44,65.49.1.183,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 04:30:44,161.49.89.39,100,Philippines,Pasig,Converge ICT Solution Inc,Converge ICT Solution Inc,Residential/Business,False
+2026-08-19 04:30:44,185.189.182.234,100,The Netherlands,Rotterdam,NubaCloud B.V.,NubaCloud,Data Center,False
+2026-08-19 04:30:44,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-19 04:30:44,200.121.133.84,100,Peru,Lima,Telefonica del Peru,PE-TDPERX1-LACNIC,Residential/Business,False
+2026-08-19 04:30:44,171.231.191.102,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-19 04:30:44,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-08-19 04:30:44,78.71.218.122,100,Sweden,Stockholm,Telia Company AB,TeliaSonera AB,Residential/Business,False
+2026-08-19 04:30:44,165.154.221.175,100,Vietnam,Ho Chi Minh City,Ucloud Information Technology (hk) Limited,UCLOUD,Data Center,True
+2026-08-19 04:30:44,79.124.49.130,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-19 04:30:44,146.56.199.139,100,China,Nanjing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-19 04:30:44,31.14.254.126,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 04:30:44,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-19 04:30:44,64.62.197.102,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-08-19 04:30:44,61.76.38.54,100,South Korea,Ulju-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-19 04:30:44,69.5.169.174,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 04:30:44,5.61.209.44,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-19 04:30:44,213.176.26.194,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 04:30:44,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-08-19 04:30:44,213.176.26.77,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 04:30:44,193.227.54.55,100,Egypt,Az Zaynīyah Qiblī,Egyptian Universities Network,Egyptian Universities Network,Residential/Business,True
+2026-08-19 04:30:44,210.79.142.230,100,Indonesia,Nganjuk,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-08-19 04:30:44,66.132.186.210,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-19 04:30:44,52.186.182.85,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-19 04:30:44,93.123.109.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-19 04:30:44,45.148.10.238,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-19 04:30:44,188.166.225.116,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-08-19 04:30:44,101.96.234.223,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-19 04:30:44,149.118.68.211,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-08-19 04:30:44,152.32.200.213,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-19 04:30:44,193.37.32.71,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
