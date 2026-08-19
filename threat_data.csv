@@ -109080,3 +109080,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-19 14:26:00,188.191.165.234,100,Russia,Ramenskoye,Intelsc Ltd.,Intelsc Ltd,Residential/Business,False
 2026-08-19 14:26:00,223.123.92.56,100,Pakistan,Islamabad,CMPak Limited,CMPak Mobile Fixed Network,Mobile,False
 2026-08-19 14:26:00,172.234.199.93,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-19 16:23:52,71.6.199.23,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-19 16:23:52,52.233.193.61,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-08-19 16:23:52,176.65.148.84,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-19 16:23:52,92.51.101.162,100,Georgia,Tbilisi,T-net Network,,Residential/Business,False
+2026-08-19 16:23:52,137.255.13.247,100,Benin,Cotonou,Benin Telecoms Infrastructures SA,Bloc SBIN SA,Residential/Business,False
+2026-08-19 16:23:52,123.58.205.100,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-19 16:23:52,45.79.186.176,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-19 16:23:52,66.132.186.253,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-19 16:23:52,162.241.132.172,100,United States,Provo,"Network Solutions, LLC",Unified Layer,Data Center,False
+2026-08-19 16:23:52,64.62.156.123,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 16:23:52,72.52.197.55,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-08-19 16:23:52,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-19 16:23:52,91.224.92.17,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-19 16:23:52,91.215.108.149,100,Russia,Surgut,Ryabikov Ivan,Ryabikov Ivan,Residential/Business,False
+2026-08-19 16:23:52,199.45.154.58,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-19 16:23:52,18.119.209.50,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-19 16:23:52,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-19 16:23:52,185.113.9.199,100,Iran,Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),Data Center,False
+2026-08-19 16:23:52,89.185.225.24,100,Czechia,Brno-střed,MASTER,Master Internet s.r.o.,Data Center,True
+2026-08-19 16:23:52,157.230.18.161,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-19 16:23:52,216.218.206.90,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 16:23:52,20.197.195.76,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-08-19 16:23:52,142.93.105.3,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-19 16:23:52,35.185.112.45,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-19 16:23:52,173.231.200.81,100,United States,Los Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc.",Data Center,False
+2026-08-19 16:23:52,172.86.114.92,100,United States,Dallas,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-08-19 16:23:52,64.62.156.125,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 16:23:52,217.196.165.175,100,Ukraine,Ternopil,"MAXNET TELECOM, LTD",TE Columbus PE,Residential/Business,True
+2026-08-19 16:23:52,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-19 16:23:52,118.26.111.107,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-19 16:23:52,159.65.68.128,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-19 16:23:52,51.38.71.171,100,United Kingdom,London,OVH SAS,OVH Ltd,Data Center,False
+2026-08-19 16:23:52,192.3.249.145,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-08-19 16:23:52,34.148.5.182,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-19 16:23:52,42.224.140.170,100,China,Zhengzhou,China Unicom Henan Province Network,,Residential/Business,False
+2026-08-19 16:23:52,103.189.234.85,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-19 16:23:52,129.151.171.7,100,South Africa,Johannesburg,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-08-19 16:23:52,47.243.37.78,100,Hong Kong,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,Data Center,False
+2026-08-19 16:23:52,213.176.26.34,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 16:23:52,185.191.171.15,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Data Center,False
+2026-08-19 16:23:52,91.232.247.229,100,Czechia,Nučice,ELDATA prazska s.r.o.,ELDATA prazska s.r.o,Residential/Business,False
+2026-08-19 16:23:52,34.73.181.106,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-19 16:23:52,35.188.174.184,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-19 16:23:52,196.191.212.112,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-08-19 16:23:52,138.226.239.12,100,The Netherlands,Amsterdam,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
+2026-08-19 16:23:52,51.75.21.168,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-19 16:23:52,94.154.43.214,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-19 16:23:52,8.166.115.106,100,China,Guangzhou,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,Data Center,False
+2026-08-19 16:23:52,107.21.191.211,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-19 16:23:52,47.251.126.221,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
