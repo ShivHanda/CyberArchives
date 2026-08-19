@@ -108930,3 +108930,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-19 08:29:03,91.224.92.17,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
 2026-08-19 08:29:03,185.177.72.54,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
 2026-08-19 08:29:03,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-19 10:21:49,197.221.232.44,100,Zimbabwe,Chinhoyi,Telone PVT Ltd,,Residential/Business,False
+2026-08-19 10:21:49,85.96.242.57,100,Türkiye,Bartın,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-08-19 10:21:49,35.187.231.181,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-08-19 10:21:49,5.188.86.234,100,Brazil,Uruaçu,Global Layer B.V.,Channelnet,Residential/Business,False
+2026-08-19 10:21:49,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-19 10:21:49,115.190.159.160,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-19 10:21:49,85.217.140.32,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-19 10:21:49,185.242.226.85,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-19 10:21:49,195.178.191.5,100,Sweden,Stockholm,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-08-19 10:21:49,195.178.110.28,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-19 10:21:49,170.233.68.131,100,Argentina,General Rodriguez,Netlatin S.R.L.,,Residential/Business,False
+2026-08-19 10:21:49,65.49.1.53,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-08-19 10:21:49,82.165.27.72,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-08-19 10:21:49,152.32.156.50,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-19 10:21:49,162.241.215.29,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-08-19 10:21:49,193.32.209.247,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-19 10:21:49,31.77.227.120,100,France,Saint-Denis,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-19 10:21:49,119.178.109.193,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-19 10:21:49,76.79.213.69,100,United States,Los Angeles,Spectrum,ARK WIRELESS & NETWORKING,Residential/Business,False
+2026-08-19 10:21:49,34.87.30.90,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-19 10:21:49,69.5.169.19,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 10:21:49,8.228.18.156,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-19 10:21:49,34.135.200.178,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-19 10:21:49,199.45.154.181,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-19 10:21:49,101.36.97.70,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-19 10:21:49,185.223.235.26,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-19 10:21:49,77.90.185.78,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-19 10:21:49,160.251.202.50,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-08-19 10:21:49,3.131.24.55,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-19 10:21:49,223.197.178.95,100,Hong Kong,Tsing Yi,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-08-19 10:21:49,45.56.85.254,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-19 10:21:49,45.82.76.118,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-08-19 10:21:49,213.209.159.17,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-19 10:21:49,177.229.197.38,100,Mexico,Tapachula,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-08-19 10:21:49,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-19 10:21:49,143.202.209.172,100,Paraguay,Fernando de la Mora,RED PARAGUAYA DE TELECOMUNICACIONES SA,RED PARAGUAYA DE TELECOMUNICACIONES SA,Residential/Business,False
+2026-08-19 10:21:49,196.196.150.5,100,Spain,Valencia,Orion Network Limited,Fiber Grid,Data Center,True
+2026-08-19 10:21:49,20.226.7.189,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-08-19 10:21:49,193.142.147.109,100,The Netherlands,Amsterdam,ColocaTel Inc.,ColocaTel Inc,Data Center,False
+2026-08-19 10:21:49,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-19 10:21:49,213.176.26.42,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 10:21:49,45.198.224.231,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-19 10:21:49,77.91.71.55,100,Georgia,,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-08-19 10:21:49,66.132.172.233,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-19 10:21:49,222.90.233.165,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-08-19 10:21:49,66.132.224.223,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-19 10:21:49,69.5.169.20,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 10:21:49,47.250.135.144,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-08-19 10:21:49,156.225.1.99,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-19 10:21:49,158.23.17.4,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Residential/Business,False
