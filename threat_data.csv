@@ -108880,3 +108880,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-19 06:32:55,65.49.1.152,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-08-19 06:32:55,100.29.192.123,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
 2026-08-19 06:32:55,31.14.254.3,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 08:29:03,91.191.209.118,100,Bulgaria,Sofia,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-08-19 08:29:03,146.88.241.93,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-08-19 08:29:03,45.156.128.14,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-19 08:29:03,163.176.140.6,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-08-19 08:29:03,158.158.74.177,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
+2026-08-19 08:29:03,69.5.169.83,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 08:29:03,51.75.161.33,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-19 08:29:03,152.32.206.38,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-19 08:29:03,69.5.169.143,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 08:29:03,52.173.121.69,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-19 08:29:03,64.62.197.33,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-08-19 08:29:03,66.132.195.86,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-19 08:29:03,165.22.235.3,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-19 08:29:03,18.217.208.51,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-19 08:29:03,194.195.211.196,100,United States,Atlanta,"Akamai Technologies, Inc.","Linode, LLC",Data Center,False
+2026-08-19 08:29:03,185.180.141.15,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-08-19 08:29:03,92.204.128.28,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,False
+2026-08-19 08:29:03,157.20.37.254,100,Indonesia,Jaten,PT Andalan Dinamika Informatika,PT Ekarta Java Buana,Residential/Business,False
+2026-08-19 08:29:03,160.251.178.104,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-08-19 08:29:03,85.239.151.34,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-19 08:29:03,66.132.186.140,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-19 08:29:03,167.71.240.77,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-19 08:29:03,185.242.226.8,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-19 08:29:03,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-19 08:29:03,213.176.26.165,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 08:29:03,66.132.172.254,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-19 08:29:03,66.132.186.250,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-19 08:29:03,45.198.224.240,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-19 08:29:03,31.31.115.14,100,Ukraine,Odesa,TENET Scientific Production Enterprise LLC,TENET Scientific Production Enterprise LLC,Residential/Business,False
+2026-08-19 08:29:03,165.227.62.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-19 08:29:03,85.217.140.22,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-19 08:29:03,164.90.208.56,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-19 08:29:03,213.176.26.133,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 08:29:03,20.251.48.93,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-19 08:29:03,152.32.220.188,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-19 08:29:03,85.217.140.9,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-19 08:29:03,100.29.192.94,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-19 08:29:03,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-19 08:29:03,94.154.43.43,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-19 08:29:03,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-19 08:29:03,69.5.169.100,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-19 08:29:03,152.32.243.98,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-19 08:29:03,64.62.156.202,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-19 08:29:03,213.176.26.42,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-19 08:29:03,85.217.149.12,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-19 08:29:03,163.7.4.169,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-19 08:29:03,85.217.149.18,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-19 08:29:03,91.224.92.17,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-19 08:29:03,185.177.72.54,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-08-19 08:29:03,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
