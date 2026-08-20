@@ -109425,3 +109425,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 04:31:00,34.75.47.113,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
 2026-08-20 04:31:00,34.79.107.210,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-08-20 04:31:00,69.5.169.200,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-20 06:35:02,48.214.144.34,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-20 06:35:02,45.156.129.85,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-20 06:35:02,109.125.139.68,100,Iran,Anār,PTS-Network,,Residential/Business,False
+2026-08-20 06:35:02,34.74.159.181,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 06:35:02,85.217.140.36,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,97.93.43.157,100,United States,Long Beach,Charter Communications,Spectrum,Residential/Business,False
+2026-08-20 06:35:02,120.48.112.221,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-20 06:35:02,65.49.20.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-08-20 06:35:02,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-08-20 06:35:02,188.241.120.4,100,Switzerland,Zurich,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-08-20 06:35:02,34.73.181.106,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 06:35:02,35.195.112.244,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-20 06:35:02,34.94.4.247,100,United States,Los Angeles,Google LLC,Google Cloud (us-west2),Data Center,False
+2026-08-20 06:35:02,20.163.33.23,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-20 06:35:02,47.84.205.165,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-20 06:35:02,85.217.140.34,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,193.32.162.15,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-20 06:35:02,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-20 06:35:02,185.136.15.13,100,Kazakhstan,Almaty,Vlad Cojuhari,Vlad Cojuhari,Residential/Business,False
+2026-08-20 06:35:02,35.231.122.51,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 06:35:02,94.154.43.146,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-08-20 06:35:02,20.168.122.81,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-20 06:35:02,85.217.140.5,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,91.92.42.34,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-20 06:35:02,69.5.169.15,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-20 06:35:02,102.213.49.86,100,Kenya,Nairobi,Vijiji Connect Limited,Vuma Fiber Limited,Residential/Business,True
+2026-08-20 06:35:02,37.120.213.13,100,Switzerland,Zurich,M247 Europe,M247 LTD,Data Center,True
+2026-08-20 06:35:02,192.3.251.33,100,United States,Seattle,HostPapa,RackNerd LLC,Data Center,False
+2026-08-20 06:35:02,182.180.112.112,100,Pakistan,Lahore,Pakistan Telecommuication company limited,Ptcl,Residential/Business,False
+2026-08-20 06:35:02,118.194.248.142,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-20 06:35:02,88.205.172.170,100,Russia,Yekaterinburg,Rostelecom Chelyabinsk,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-08-20 06:35:02,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,199.45.155.89,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-20 06:35:02,194.50.235.130,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-20 06:35:02,135.237.126.224,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-20 06:35:02,104.194.37.176,100,Canada,Georgetown,Execulink Telecom Inc.,Execulink Telecom Inc,Residential/Business,False
+2026-08-20 06:35:02,172.213.243.2,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-08-20 06:35:02,93.211.121.186,100,Germany,Alfeld,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-08-20 06:35:02,165.245.172.73,100,United States,Sandston,"DigitalOcean, LLC","DigitalOcean, LLC",Residential/Business,False
+2026-08-20 06:35:02,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-20 06:35:02,52.224.241.44,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-20 06:35:02,210.16.100.120,100,United States,Dallas,Psychz Networks,Scalebuzz Solutions Pvt Ltd,Residential/Business,False
+2026-08-20 06:35:02,69.5.169.193,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-20 06:35:02,193.24.126.137,100,Georgia,Akhalk'alak'i,Netcom NAT,,Residential/Business,True
+2026-08-20 06:35:02,85.217.140.30,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 06:35:02,66.132.186.210,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 06:35:02,45.156.129.72,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-20 06:35:02,104.140.148.54,100,United States,Seattle,Eonix Corporation,Eonix Corporation,Data Center,False
+2026-08-20 06:35:02,135.237.126.196,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
