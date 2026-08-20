@@ -109325,3 +109325,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 00:53:31,69.5.169.50,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-08-20 00:53:31,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-08-20 00:53:31,193.163.125.34,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-20 02:51:31,102.182.250.93,100,South Africa,Cape Town,Afrihost,,Data Center,False
+2026-08-20 02:51:31,104.248.210.24,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-20 02:51:31,77.91.118.50,100,United States,Saint Thomas,Contrust Solutions S.R.L.,,Residential/Business,False
+2026-08-20 02:51:31,194.88.98.108,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-20 02:51:31,8.209.105.49,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-08-20 02:51:31,112.196.78.4,100,India,Lāndrān,Hfcl Infotel LTD,,Residential/Business,False
+2026-08-20 02:51:31,85.217.140.35,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 02:51:31,86.102.111.211,100,Russia,St Petersburg,PJSC Rostelecom,PRIMORYE,Residential/Business,False
+2026-08-20 02:51:31,95.215.0.144,100,Russia,St Petersburg,PIN-DATACENTER,,Data Center,True
+2026-08-20 02:51:31,45.194.67.120,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-20 02:51:31,64.62.197.107,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-20 02:51:31,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-20 02:51:31,20.98.137.43,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-20 02:51:31,27.204.144.178,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-20 02:51:31,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-20 02:51:31,194.15.36.117,100,Germany,Frankfurt am Main,Florian Kolb,Datalix,Data Center,True
+2026-08-20 02:51:31,150.107.38.251,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-20 02:51:31,71.6.134.204,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-20 02:51:31,194.164.107.5,100,Singapore,Singapore,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-08-20 02:51:31,213.209.159.175,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-20 02:51:31,195.178.191.5,100,Sweden,Stockholm,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-08-20 02:51:31,65.254.95.159,100,Australia,Bungarribee,P.D.R Solutions FZC,Endurance International Group,Residential/Business,False
+2026-08-20 02:51:31,45.33.78.24,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-20 02:51:31,171.25.193.80,100,Sweden,Stockholm,Foreningen digitala fri- och rattigheter,DFRI,Data Center,True
+2026-08-20 02:51:31,66.132.186.222,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 02:51:31,34.148.169.209,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 02:51:31,13.86.104.46,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-20 02:51:31,66.132.186.248,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 02:51:31,47.245.135.43,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,Data Center,False
+2026-08-20 02:51:31,147.90.235.226,100,United States,New York,Fourplex Telecom LLC,Fourplex Telecom LLC,Data Center,True
+2026-08-20 02:51:31,20.65.105.233,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-08-20 02:51:31,69.5.169.67,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-20 02:51:31,178.128.250.218,100,The Netherlands,Amsterdam,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-08-20 02:51:31,201.79.3.59,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Residential/Business,False
+2026-08-20 02:51:31,100.29.192.82,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-20 02:51:31,36.64.131.68,100,Indonesia,Depok,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-08-20 02:51:31,104.152.52.73,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,87.255.204.58,100,Kazakhstan,Astana,JSC Transtelecom,JSC Transtelecom,Residential/Business,False
+2026-08-20 02:51:31,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-20 02:51:31,47.74.4.118,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-20 02:51:31,213.176.26.72,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-20 02:51:31,104.152.52.66,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,44.217.255.167,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-20 02:51:31,104.152.52.238,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,104.152.52.239,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,104.152.52.242,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,104.152.52.244,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,20.40.208.6,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-20 02:51:31,104.152.52.57,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-08-20 02:51:31,104.152.52.234,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
