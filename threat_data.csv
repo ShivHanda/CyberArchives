@@ -109724,3 +109724,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 16:26:54,158.158.121.155,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
 2026-08-20 16:26:54,59.15.58.148,100,South Korea,Guro-gu,Korea Telecom,Kornet,Residential/Business,False
 2026-08-20 16:26:54,152.32.233.100,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-20 18:29:49,8.216.2.69,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-20 18:29:49,47.84.143.126,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-20 18:29:49,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-20 18:29:49,5.61.209.44,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-20 18:29:49,85.217.140.36,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 18:29:49,103.168.67.159,100,United States,Dallas,Mahavir Milapchand Jain,,Data Center,True
+2026-08-20 18:29:49,178.104.75.140,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Residential/Business,False
+2026-08-20 18:29:49,213.176.26.34,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-20 18:29:49,59.144.79.102,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-20 18:29:49,64.62.156.125,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-20 18:29:49,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-20 18:29:49,152.32.172.84,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-20 18:29:49,61.145.250.147,100,China,Zhuhai,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-20 18:29:49,216.73.217.68,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,False
+2026-08-20 18:29:49,14.103.107.221,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-20 18:29:49,77.90.185.78,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-08-20 18:29:49,112.184.50.152,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-20 18:29:49,2001:41d0:305:2100::1:df7,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-20 18:29:49,94.182.157.184,100,Iran,Tehran,Aria Shatel PJSC,Shtl NET DED,Residential/Business,False
+2026-08-20 18:29:49,69.5.7.63,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-08-20 18:29:49,20.119.58.187,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-20 18:29:49,46.149.66.61,100,Russia,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",Data Center,False
+2026-08-20 18:29:49,197.227.8.186,100,Mauritius,Ebene CyberCity,telecomplus,,Residential/Business,False
+2026-08-20 18:29:49,109.205.211.110,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-08-20 18:29:49,92.204.128.28,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,False
+2026-08-20 18:29:49,162.62.223.77,100,Germany,Frankfurt am Main,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-08-20 18:29:49,107.189.17.69,100,The Netherlands,Zaandam,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-08-20 18:29:49,199.45.155.70,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-20 18:29:49,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-20 18:29:49,51.68.181.167,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-08-20 18:29:49,152.32.245.44,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-20 18:29:49,98.83.178.66,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-20 18:29:49,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-20 18:29:49,191.98.196.19,100,Panama,Panama City,"WNET, S. A.","WNET, S. A",Residential/Business,False
+2026-08-20 18:29:49,63.250.45.186,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Residential/Business,False
+2026-08-20 18:29:49,2604:a00:3:2290:216:3eff:fe31:46f9,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-08-20 18:29:49,52.141.58.175,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,True
+2026-08-20 18:29:49,182.18.161.165,100,India,Hyderabad,CtrlS,Pioneer Elabs Ltd.,Data Center,False
+2026-08-20 18:29:49,107.155.15.218,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-20 18:29:49,51.75.21.168,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-20 18:29:49,213.176.26.52,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-20 18:29:49,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-20 18:29:49,186.179.80.12,100,Chile,Santiago,Telefonica Empresas,TELEFÓNICA CHILE S.A.,Residential/Business,False
+2026-08-20 18:29:49,136.185.6.181,100,India,Chennai,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-08-20 18:29:49,31.25.237.85,100,United Kingdom,London,Massivegrid LTD,MassiveGRID,Data Center,False
+2026-08-20 18:29:49,192.3.239.5,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-08-20 18:29:49,177.20.165.170,100,Brazil,Bofete,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Residential/Business,False
+2026-08-20 18:29:49,146.70.194.228,100,France,Rixheim,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-08-20 18:29:49,63.250.44.40,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Residential/Business,False
+2026-08-20 18:29:49,119.119.155.225,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
