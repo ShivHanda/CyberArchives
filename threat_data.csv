@@ -109824,3 +109824,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 20:20:57,162.214.184.71,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
 2026-08-20 20:20:57,34.225.24.180,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
 2026-08-20 20:20:57,50.17.101.4,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-20 22:20:10,188.227.86.242,100,The Netherlands,Amsterdam,SERVERSPACE,,Residential/Business,False
+2026-08-20 22:20:10,5.61.209.224,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-20 22:20:10,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-20 22:20:10,45.187.33.152,100,Brazil,Valença,Suprema Network Telecom LTDA,Suprema Network Telecom LTDA,Residential/Business,False
+2026-08-20 22:20:10,185.223.235.57,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-20 22:20:10,103.98.176.164,100,Indonesia,Rejosari,Universitas PGRI Semarang,Universitas PGRI Semarang,Residential/Business,False
+2026-08-20 22:20:10,51.210.100.146,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-08-20 22:20:10,93.241.232.14,100,Germany,Nuremberg,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-08-20 22:20:10,185.177.72.56,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-08-20 22:20:10,106.75.25.139,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-20 22:20:10,115.190.229.117,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-20 22:20:10,152.32.199.115,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-20 22:20:10,149.54.33.150,100,Afghanistan,Kandahar,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-08-20 22:20:10,20.169.16.7,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-20 22:20:10,103.148.100.146,100,Indonesia,Dalung,FLYNET,,Residential/Business,False
+2026-08-20 22:20:10,43.165.198.144,100,Indonesia,Jakarta,Aceville Pte.ltd,,Data Center,True
+2026-08-20 22:20:10,216.155.93.75,100,Chile,Dalcahue,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-08-20 22:20:10,87.21.11.184,100,Italy,Tremestieri Etneo,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-08-20 22:20:10,117.156.81.189,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-20 22:20:10,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-08-20 22:20:10,60.28.38.66,100,China,Tianjin,CNC Group CHINA169 Tianjin Province Network,,Residential/Business,False
+2026-08-20 22:20:10,4.240.126.25,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-20 22:20:10,81.12.52.173,100,Iran,Tehran,Pars Shabakeh Azarakhsh,,Data Center,True
+2026-08-20 22:20:10,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-20 22:20:10,208.84.102.148,100,United States,North Kansas City,Advin Services LLC,Fro LLC,Data Center,True
+2026-08-20 22:20:10,154.127.69.5,100,Libya,Tripoli,Aljeel Aljadeed Technology,Zagel Tech Solutions,Residential/Business,False
+2026-08-20 22:20:10,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-20 22:20:10,220.132.149.61,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-20 22:20:10,35.190.164.106,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 22:20:10,84.54.70.23,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-08-20 22:20:10,57.128.222.79,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-20 22:20:10,51.68.214.191,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-20 22:20:10,124.205.141.215,100,China,Chaowai,China Unicom Beijing Province Network,"Beijing Teletron Telecom Engineering Co., Ltd.",Residential/Business,False
+2026-08-20 22:20:10,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-20 22:20:10,167.172.46.213,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-20 22:20:10,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-20 22:20:10,66.132.186.209,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 22:20:10,114.219.157.97,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,True
+2026-08-20 22:20:10,118.196.79.21,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-20 22:20:10,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-20 22:20:10,45.130.127.173,100,United States,Redmond,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,True
+2026-08-20 22:20:10,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-20 22:20:10,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-20 22:20:10,195.230.103.246,100,Germany,Frankfurt am Main,"Securitytrails, LLC","Securitytrails, LLC",Residential/Business,False
+2026-08-20 22:20:10,121.185.89.74,100,South Korea,Cheonan,Korea Telecom,Kornet,Residential/Business,False
+2026-08-20 22:20:10,66.132.186.139,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 22:20:10,86.102.111.211,100,Russia,St Petersburg,PJSC Rostelecom,PRIMORYE,Residential/Business,False
+2026-08-20 22:20:10,149.165.171.39,100,United States,Bloomington,Indiana University,Indiana University,Residential/Business,False
+2026-08-20 22:20:10,66.132.195.57,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-20 22:20:10,180.93.250.126,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
