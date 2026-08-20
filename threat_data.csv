@@ -109774,3 +109774,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 18:29:49,146.70.194.228,100,France,Rixheim,M247 Europe SRL,M247 Ltd Paris,Data Center,True
 2026-08-20 18:29:49,63.250.44.40,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Residential/Business,False
 2026-08-20 18:29:49,119.119.155.225,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
+2026-08-20 20:20:57,172.236.112.125,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-20 20:20:57,154.72.196.195,100,Uganda,Kampala,National Information Technology Authority Uganda,Nita U,Residential/Business,False
+2026-08-20 20:20:57,45.4.179.4,100,Brazil,Igaci,Yuhoo NET,YUHOO,Residential/Business,False
+2026-08-20 20:20:57,103.177.78.20,100,India,Kochi,"HIPOINT TECHNOLOGY SERVICES, INC.",SNE Global Services,Residential/Business,False
+2026-08-20 20:20:57,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-20 20:20:57,185.159.153.2,100,Iran,Kerman,Serverpars Webhosting,,Data Center,False
+2026-08-20 20:20:57,185.246.130.20,100,Sweden,Stockholm,w1n ltd,Icme Cloud,Data Center,True
+2026-08-20 20:20:57,163.7.11.126,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-20 20:20:57,80.211.236.216,100,Italy,Arezzo,Aruba S.p.A. Network,Aruba S.p.A.,Data Center,False
+2026-08-20 20:20:57,185.39.29.21,100,Ukraine,Zolochiv,ISP EUROLINK,,Residential/Business,False
+2026-08-20 20:20:57,35.231.252.135,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 20:20:57,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-08-20 20:20:57,20.124.247.79,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-20 20:20:57,91.92.42.133,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-20 20:20:57,212.132.64.89,100,Germany,Frankfurt am Main,IONOS SE fra.de,IONOS SE,Data Center,False
+2026-08-20 20:20:57,189.151.34.14,100,Mexico,Nogales,UNINET,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-08-20 20:20:57,174.183.197.32,100,United States,Oak Park,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-08-20 20:20:57,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-20 20:20:57,46.34.163.208,100,Iran,Tehran,LIRA,,Residential/Business,False
+2026-08-20 20:20:57,136.158.25.208,100,Philippines,Paranaque City,ComClark Network & Technology Corp,Convergeict,Residential/Business,False
+2026-08-20 20:20:57,51.75.200.186,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-20 20:20:57,45.156.185.201,100,Iran,Tehran,Pars Shabakeh Azarakhsh LLC,Pars Shabakeh Azarakhsh LLC,Data Center,False
+2026-08-20 20:20:57,121.139.15.185,100,South Korea,Gunpo,Korea Telecom,,Residential/Business,False
+2026-08-20 20:20:57,92.118.39.232,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-20 20:20:57,51.222.85.30,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-08-20 20:20:57,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-20 20:20:57,185.126.202.147,100,Iran,Tehran,Mobin Arvand Infrastructure Company LTD,Dade Pardazi Mobinhost Co LTD,Data Center,False
+2026-08-20 20:20:57,85.217.149.57,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-20 20:20:57,65.20.204.88,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-20 20:20:57,213.209.159.15,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-20 20:20:57,65.20.205.197,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-20 20:20:57,66.132.186.185,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-20 20:20:57,81.12.52.173,100,Iran,Tehran,Pars Shabakeh Azarakhsh,,Data Center,True
+2026-08-20 20:20:57,74.91.136.105,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-20 20:20:57,94.154.43.157,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-20 20:20:57,46.59.108.174,100,Sweden,Hammarö,Bahnhof AB,General Private NET A463,Residential/Business,False
+2026-08-20 20:20:57,164.90.148.8,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-20 20:20:57,101.36.104.242,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,True
+2026-08-20 20:20:57,94.182.157.184,100,Iran,Tehran,Aria Shatel PJSC,Shtl NET DED,Residential/Business,False
+2026-08-20 20:20:57,174.129.56.240,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-20 20:20:57,14.153.226.83,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-20 20:20:57,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-20 20:20:57,34.138.207.192,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-20 20:20:57,119.123.245.164,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-20 20:20:57,27.150.188.148,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-08-20 20:20:57,139.255.2.146,100,Indonesia,Tangerang,PT. LINKNET,,Residential/Business,False
+2026-08-20 20:20:57,167.233.122.228,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-08-20 20:20:57,162.214.184.71,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-20 20:20:57,34.225.24.180,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-20 20:20:57,50.17.101.4,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
