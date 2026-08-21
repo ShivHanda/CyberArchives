@@ -110369,3 +110369,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-21 18:27:19,66.132.172.103,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-08-21 18:27:19,93.174.95.106,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
 2026-08-21 18:27:19,31.216.62.126,100,Iran,Tehran,Asiatech Data Transmission company,Enteghal Dadeh Araz Shomal Company PJSC,Residential/Business,False
+2026-08-21 20:18:21,193.163.125.20,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-21 20:18:21,85.12.248.68,100,Russia,Yekaterinburg,INSYS network,,Residential/Business,False
+2026-08-21 20:18:21,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-21 20:18:21,14.103.118.198,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-21 20:18:21,129.121.114.225,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-21 20:18:21,172.202.118.82,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-21 20:18:21,154.18.238.98,100,Singapore,Singapore,Enjoyvc Cloud Group Limited,Enjoyvc Cloud Group Limited,Data Center,False
+2026-08-21 20:18:21,64.89.163.166,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-21 20:18:21,211.105.229.237,100,South Korea,Iksan,Korea Telecom,Kornet,Residential/Business,False
+2026-08-21 20:18:21,196.251.121.98,100,Germany,Frankfurt am Main,Ghosty Networks LLC,,Data Center,True
+2026-08-21 20:18:21,220.86.7.26,100,South Korea,Yangcheon-gu,KORNET,(sa)KHjeongbogyoyougwon,Residential/Business,False
+2026-08-21 20:18:21,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-08-21 20:18:21,171.231.188.81,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-21 20:18:21,42.51.33.162,100,China,Shenzhen,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Residential/Business,False
+2026-08-21 20:18:21,213.176.26.165,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-21 20:18:21,103.159.85.90,100,India,Navi Mumbai,Ovi Hosting Pvt Ltd,Krunalshah Software Private Limited,Data Center,False
+2026-08-21 20:18:21,172.191.239.155,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-21 20:18:21,64.89.160.242,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-21 20:18:21,118.193.47.223,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-21 20:18:21,211.240.117.75,100,South Korea,Seodaemun-gu,"ELIMNET, INC.",elimnet,Residential/Business,False
+2026-08-21 20:18:21,45.135.194.25,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-21 20:18:21,103.61.44.43,100,Vietnam,Yên Phụ,Scom Technology Join stock company,SCOM,Residential/Business,False
+2026-08-21 20:18:21,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-08-21 20:18:21,47.77.182.54,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-21 20:18:21,213.176.26.77,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-21 20:18:21,180.213.44.242,100,China,Youyilu,ASN for TIANJIN Provincial Net of CT,Chinanet TJ,Residential/Business,False
+2026-08-21 20:18:21,172.185.24.228,100,United States,San Francisco,Microsoft,Microsoft Azure Cloud (westus),Data Center,False
+2026-08-21 20:18:21,34.228.63.7,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-21 20:18:21,175.100.126.158,100,Cambodia,Phnom Penh,"VIETTEL (CAMBODIA) PTE., LTD","Viettel (cambodia) Pte., Ltd.",Mobile,False
+2026-08-21 20:18:21,52.91.97.115,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-21 20:18:21,186.251.71.202,100,Brazil,Trindade,PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,Residential/Business,False
+2026-08-21 20:18:21,102.129.51.2,100,South Africa,Vanderbijlpark,Megasurf Wireless Internet CC,,Residential/Business,False
+2026-08-21 20:18:21,103.7.60.253,100,Pakistan,Karachi,Cyber Internet Services (Private) Limited,Cyber Internet Services Pakistan,Residential/Business,False
+2026-08-21 20:18:21,85.217.149.60,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 20:18:21,101.74.149.223,100,China,Chengde,China Unicom Hebei Province Network,,Residential/Business,False
+2026-08-21 20:18:21,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-21 20:18:21,183.232.212.207,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-21 20:18:21,91.224.92.107,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-21 20:18:21,195.96.139.69,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-21 20:18:21,192.248.150.180,100,United Kingdom,Canary Wharf,"The Constant Company, LLC",Vultr Holdings LLC London,Data Center,False
+2026-08-21 20:18:21,91.92.47.6,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-21 20:18:21,68.155.147.185,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-21 20:18:21,183.81.168.186,100,United States,Ashburn,Amarutu Technology Ltd,Amarutu Technology Ltd.,Residential/Business,False
+2026-08-21 20:18:21,172.172.180.124,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-21 20:18:21,90.138.83.196,100,Lithuania,Vilnius,TELE2/ SWIPNET,Mobile Services,Residential/Business,False
+2026-08-21 20:18:21,193.163.125.67,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-21 20:18:21,85.217.149.44,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 20:18:21,20.163.32.0,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-21 20:18:21,66.132.172.251,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-21 20:18:21,24.142.170.231,100,United States,Dayton,Charter Communications Inc,Spectrum,Residential/Business,False
