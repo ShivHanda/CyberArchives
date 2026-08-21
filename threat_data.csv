@@ -110219,3 +110219,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-21 12:34:06,45.70.164.151,100,Brazil,Rio de Janeiro,WILLIAN MENDES DE OLIVEIRA ­ ME,WILLIAN MENDES DE OLIVEIRA ­ ME,Residential/Business,False
 2026-08-21 12:34:06,74.48.45.140,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc.,Residential/Business,False
 2026-08-21 12:34:06,185.200.118.46,100,United Kingdom,Thamesmead,M247 Europe SRL,M247 LTD,Data Center,True
+2026-08-21 14:27:58,103.75.183.177,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-08-21 14:27:58,45.135.193.193,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-21 14:27:58,45.154.244.193,100,The Netherlands,Amsterdam,Shereverov Marat Ahmedovich,Nikolov Dimitrov Georgi,Residential/Business,True
+2026-08-21 14:27:58,66.132.195.84,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-21 14:27:58,160.251.169.213,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-08-21 14:27:58,159.224.97.134,100,Ukraine,Poltava,Triolan,,Residential/Business,False
+2026-08-21 14:27:58,82.165.124.189,100,Germany,Essen,IONOS SE,De Rhr Bap Ngcs Public,Data Center,False
+2026-08-21 14:27:58,5.61.209.44,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-08-21 14:27:58,172.105.23.157,100,Canada,Toronto,Akamai Technologies,Linode,Data Center,False
+2026-08-21 14:27:58,138.128.246.94,100,United States,Santa Clara,Kamatera,Cloud Web Manage,Data Center,False
+2026-08-21 14:27:58,91.92.40.45,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-21 14:27:58,80.223.200.184,100,Finland,Lahti,Telia Finland Oyj,Telia Finland Oyj,Residential/Business,False
+2026-08-21 14:27:58,91.92.214.2,100,Iran,Tehran,TIC,Telecommunication Company of Tehran,Residential/Business,False
+2026-08-21 14:27:58,68.155.154.146,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-21 14:27:58,166.62.41.13,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-21 14:27:58,104.236.19.165,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-21 14:27:58,93.123.109.167,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-21 14:27:58,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-21 14:27:58,65.49.1.132,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 14:27:58,172.114.43.219,100,United States,Torrance,Charter Communications,Spectrum,Residential/Business,False
+2026-08-21 14:27:58,222.173.239.186,100,China,Qingdao,Chinanet,Chinanet SD,Residential/Business,False
+2026-08-21 14:27:58,51.75.21.168,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-21 14:27:58,43.130.102.7,100,United States,Ashburn,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-08-21 14:27:58,20.40.44.6,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-21 14:27:58,45.139.104.152,100,Germany,Frankfurt am Main,49.3 Networking LLC,Networking LLC,Residential/Business,False
+2026-08-21 14:27:58,45.135.194.31,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-21 14:27:58,87.236.176.5,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-21 14:27:58,74.207.254.27,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-21 14:27:58,118.26.105.116,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-21 14:27:58,192.253.248.215,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-21 14:27:58,182.71.135.110,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-08-21 14:27:58,34.168.135.253,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-08-21 14:27:58,51.38.127.11,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-08-21 14:27:58,162.252.199.70,100,The Netherlands,Amsterdam,MadeIT inc.,CPG Ventures,Data Center,False
+2026-08-21 14:27:58,194.62.43.62,100,Iran,Tehran,Pars Parva System LLC,Vandad Vira Hooman LLC,Residential/Business,False
+2026-08-21 14:27:58,185.107.80.93,100,The Netherlands,Roosendaal,NFOrce Entertainment BV,NForce Entertainment B.V,Data Center,True
+2026-08-21 14:27:58,161.118.212.147,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-08-21 14:27:58,85.217.149.66,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 14:27:58,45.135.194.26,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-21 14:27:58,144.31.203.145,100,The Netherlands,Amsterdam,Play2go International Limited,Play2go International Limited,Data Center,True
+2026-08-21 14:27:58,46.151.182.247,100,Germany,Frankfurt am Main,Ghosty Networks LLC,Ghosty Networks LLC,Data Center,True
+2026-08-21 14:27:58,165.154.182.72,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-21 14:27:58,91.234.39.60,100,Iran,Qarchak,Abrha,Kavoshgaran Novin Karamad Co. Ltd,Residential/Business,False
+2026-08-21 14:27:58,68.155.154.236,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-21 14:27:58,217.154.150.0,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-08-21 14:27:58,152.32.172.84,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-21 14:27:58,34.135.200.178,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-21 14:27:58,213.209.159.226,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-21 14:27:58,66.116.207.165,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-21 14:27:58,159.223.29.238,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
