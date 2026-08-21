@@ -109924,3 +109924,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-21 00:57:01,81.19.216.87,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-08-21 00:57:01,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
 2026-08-21 00:57:01,45.82.76.109,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-08-21 02:56:50,213.209.159.241,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-21 02:56:50,64.62.197.138,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-21 02:56:50,119.92.70.82,100,Philippines,Cavite City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-08-21 02:56:50,195.26.18.111,100,Ukraine,Chyhyryn,Alden,Zeynalov Renat,Residential/Business,False
+2026-08-21 02:56:50,181.115.171.216,100,Bolivia,Oruro,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-08-21 02:56:50,118.196.68.35,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-21 02:56:50,79.124.59.178,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-21 02:56:50,79.124.56.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-21 02:56:50,68.225.61.18,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-21 02:56:50,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-21 02:56:50,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-21 02:56:50,68.221.130.146,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Data Center,False
+2026-08-21 02:56:50,61.184.128.210,100,China,Wuhan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-21 02:56:50,70.183.230.195,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-21 02:56:50,47.254.134.254,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-08-21 02:56:50,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-21 02:56:50,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-21 02:56:50,194.88.98.114,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 02:56:50,181.116.43.25,100,Argentina,Mar del Plata,Techtel LMDS Comunicaciones Interactivas S.A.,,Residential/Business,False
+2026-08-21 02:56:50,45.249.246.17,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-21 02:56:50,8.216.5.64,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-21 02:56:50,85.217.149.65,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 02:56:50,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-21 02:56:50,81.19.216.124,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 02:56:50,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-21 02:56:50,91.148.190.150,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-21 02:56:50,141.148.155.223,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-08-21 02:56:50,51.170.84.58,100,United Arab Emirates,Masdar City,Oracle Corporation,Oracle Svenska AB,Data Center,False
+2026-08-21 02:56:50,165.227.62.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-21 02:56:50,81.19.216.125,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 02:56:50,165.245.172.73,100,United States,Sandston,"DigitalOcean, LLC","DigitalOcean, LLC",Residential/Business,False
+2026-08-21 02:56:50,64.62.156.193,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 02:56:50,64.62.197.60,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-21 02:56:50,34.139.248.46,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-21 02:56:50,106.75.7.49,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-21 02:56:50,193.163.125.167,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-21 02:56:50,185.226.197.13,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-08-21 02:56:50,210.56.27.220,100,Pakistan,Rawalpindi,PTCL ITI customer 55,,Residential/Business,False
+2026-08-21 02:56:50,192.253.248.229,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-21 02:56:50,103.65.236.217,100,Indonesia,Jakarta,PT Berkah Solusi Teknologi Informasi,,Residential/Business,False
+2026-08-21 02:56:50,20.151.128.234,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-21 02:56:50,51.77.221.142,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-21 02:56:50,199.45.154.180,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-21 02:56:50,216.218.206.94,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 02:56:50,172.237.137.89,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-21 02:56:50,81.19.216.87,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 02:56:50,165.227.55.4,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-21 02:56:50,173.255.214.52,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-21 02:56:50,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 02:56:50,20.15.163.51,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
