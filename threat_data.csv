@@ -110169,3 +110169,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-21 10:22:55,57.129.12.239,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
 2026-08-21 10:22:55,69.5.169.104,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-08-21 10:22:55,51.68.181.167,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-08-21 12:34:06,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-21 12:34:06,103.9.206.167,100,Vietnam,Huế,SUNSOFT,GSS Investment Corporation,Residential/Business,False
+2026-08-21 12:34:06,123.58.215.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-21 12:34:06,43.228.157.8,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-21 12:34:06,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-21 12:34:06,165.154.163.172,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-21 12:34:06,184.105.139.96,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 12:34:06,123.118.230.64,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-08-21 12:34:06,157.230.18.133,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-21 12:34:06,20.63.64.130,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-21 12:34:06,20.220.206.182,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-21 12:34:06,122.187.174.78,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Mobile,False
+2026-08-21 12:34:06,118.26.111.107,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-08-21 12:34:06,79.124.58.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-21 12:34:06,134.33.66.164,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-21 12:34:06,117.34.85.168,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,False
+2026-08-21 12:34:06,203.192.247.84,100,India,Bengaluru,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-08-21 12:34:06,168.62.48.100,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-21 12:34:06,167.99.226.145,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-08-21 12:34:06,85.69.240.210,100,France,Paris,Societe Francaise Du Radiotelephone - SFR SA,Ncnumericable,Residential/Business,False
+2026-08-21 12:34:06,182.95.62.22,100,India,Gurugram,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-21 12:34:06,1.220.233.171,100,South Korea,Daegu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-21 12:34:06,193.163.187.70,100,Albania,Durrës,MyTv-Alb SH.P.K.,MyTv-Alb SH.P.K,Residential/Business,False
+2026-08-21 12:34:06,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-21 12:34:06,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-21 12:34:06,66.116.207.165,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-21 12:34:06,197.5.145.114,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-08-21 12:34:06,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-21 12:34:06,74.207.252.4,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-21 12:34:06,81.233.137.32,100,Sweden,Jakobsberg,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-08-21 12:34:06,54.36.99.29,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-21 12:34:06,45.154.98.181,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Data Center,False
+2026-08-21 12:34:06,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-21 12:34:06,8.216.2.69,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-21 12:34:06,64.89.163.156,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-21 12:34:06,172.190.89.127,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-21 12:34:06,59.152.168.184,100,South Korea,Jongno-gu,LG HelloVision Corp.,HVGangwon,Residential/Business,False
+2026-08-21 12:34:06,62.60.130.234,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-21 12:34:06,74.82.47.4,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 12:34:06,106.51.74.119,100,India,Bengaluru,Atria Convergence Technologies Pvt. Ltd,Atria Convergence Technologies Pvt. Ltd.,Residential/Business,False
+2026-08-21 12:34:06,165.227.195.126,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-21 12:34:06,170.254.118.178,100,Brazil,Cachoeiro de Itapemirim,Fazzy Internet,3X TELECOMUNICAÇÕES LTDA,Residential/Business,False
+2026-08-21 12:34:06,103.183.62.2,100,Bangladesh,Mātuail,MD SHARJAHAN,,Residential/Business,False
+2026-08-21 12:34:06,64.62.156.94,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-21 12:34:06,91.92.42.19,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-21 12:34:06,103.60.242.169,100,Vietnam,Mai Dich,Mega Technology Company Limited,Mega Technology Company Limited,Residential/Business,False
+2026-08-21 12:34:06,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-21 12:34:06,45.70.164.151,100,Brazil,Rio de Janeiro,WILLIAN MENDES DE OLIVEIRA ­ ME,WILLIAN MENDES DE OLIVEIRA ­ ME,Residential/Business,False
+2026-08-21 12:34:06,74.48.45.140,100,United States,Los Angeles,Multacom Corporation,TELUS Communications Inc.,Residential/Business,False
+2026-08-21 12:34:06,185.200.118.46,100,United Kingdom,Thamesmead,M247 Europe SRL,M247 LTD,Data Center,True
