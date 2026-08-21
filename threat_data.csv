@@ -109874,3 +109874,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-20 22:20:10,149.165.171.39,100,United States,Bloomington,Indiana University,Indiana University,Residential/Business,False
 2026-08-20 22:20:10,66.132.195.57,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-08-20 22:20:10,180.93.250.126,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-08-21 00:57:01,89.21.67.190,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-21 00:57:01,80.216.42.246,100,Sweden,Eskilstuna,Com Hem AB,Com Hem AB,Residential/Business,False
+2026-08-21 00:57:01,186.38.26.5,100,Argentina,Darregueira,Telefonica de Argentina,C.E.L.Da Cooperativa Electrica Darregueira,Residential/Business,False
+2026-08-21 00:57:01,98.70.32.248,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-08-21 00:57:01,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 00:57:01,57.131.27.43,100,Italy,Milan,OVH SAS,OVH Srl,Data Center,False
+2026-08-21 00:57:01,124.222.127.107,100,China,Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-08-21 00:57:01,195.96.139.116,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-21 00:57:01,8.216.17.156,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-21 00:57:01,193.163.125.144,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-21 00:57:01,51.195.223.192,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-08-21 00:57:01,47.74.32.153,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-21 00:57:01,162.241.215.29,100,United States,Provo,Unified Layer,Unified Layer,Data Center,False
+2026-08-21 00:57:01,43.133.61.254,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-08-21 00:57:01,213.127.244.74,100,The Netherlands,Beusichem,Vodafone Libertel B.V.,Ziggo Services B.V.,Residential/Business,False
+2026-08-21 00:57:01,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-21 00:57:01,146.88.240.229,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-08-21 00:57:01,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-21 00:57:01,128.14.229.76,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-21 00:57:01,45.82.76.113,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-08-21 00:57:01,8.234.108.157,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-08-21 00:57:01,27.79.6.202,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-21 00:57:01,180.76.195.169,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-21 00:57:01,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-21 00:57:01,118.196.16.16,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-21 00:57:01,65.254.95.159,100,Australia,Bungarribee,P.D.R Solutions FZC,Endurance International Group,Residential/Business,False
+2026-08-21 00:57:01,220.178.39.106,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-08-21 00:57:01,94.154.43.84,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-21 00:57:01,194.88.98.88,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 00:57:01,115.50.69.25,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-08-21 00:57:01,34.138.147.127,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-21 00:57:01,20.151.225.230,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-21 00:57:01,144.91.67.19,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-21 00:57:01,46.242.129.73,100,Poland,Szczecin,home.pl network,home.pl S.A.,Data Center,False
+2026-08-21 00:57:01,20.163.92.246,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-21 00:57:01,45.61.56.142,100,United States,New York,"Kamatera, Inc.",Global Cloud Infrastructure LLC,Data Center,False
+2026-08-21 00:57:01,20.251.48.93,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-21 00:57:01,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-08-21 00:57:01,51.75.255.200,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-21 00:57:01,85.217.149.61,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 00:57:01,35.237.106.155,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-21 00:57:01,66.132.172.176,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-21 00:57:01,151.243.11.236,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-21 00:57:01,34.24.28.92,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-21 00:57:01,100.50.17.159,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-21 00:57:01,185.200.116.35,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-08-21 00:57:01,85.217.140.16,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-21 00:57:01,81.19.216.87,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-21 00:57:01,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-08-21 00:57:01,45.82.76.109,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
