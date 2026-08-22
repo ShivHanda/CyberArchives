@@ -110469,3 +110469,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-21 22:17:06,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-08-21 22:17:06,155.117.13.160,100,Germany,Frankfurt am Main,OVH SAS,HGC Global Communications Limited,Residential/Business,False
 2026-08-21 22:17:06,197.227.8.186,100,Mauritius,Ebene CyberCity,telecomplus,,Residential/Business,False
+2026-08-22 00:53:49,182.44.6.221,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-08-22 00:53:49,14.103.117.97,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-22 00:53:49,104.140.148.86,100,United States,Seattle,Eonix Corporation,Eonix Corporation,Data Center,False
+2026-08-22 00:53:49,46.101.180.162,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-22 00:53:49,45.43.58.100,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-22 00:53:49,136.60.45.207,100,United States,Austin,Google Fiber Inc.,Google Fiber Inc,Residential/Business,False
+2026-08-22 00:53:49,66.132.172.246,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-22 00:53:49,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-22 00:53:49,20.205.97.67,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-08-22 00:53:49,69.5.169.17,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-22 00:53:49,117.33.242.180,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,False
+2026-08-22 00:53:49,85.217.149.57,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-22 00:53:49,111.42.183.124,100,China,Harbin,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-22 00:53:49,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-22 00:53:49,202.51.214.98,100,Indonesia,Jakarta,PT. Sejahtera Globalindo,,Residential/Business,False
+2026-08-22 00:53:49,41.216.177.55,100,Indonesia,Jakarta,FASTHOSTING,,Data Center,True
+2026-08-22 00:53:49,146.0.41.70,100,Germany,Düsseldorf,WIIT AG,Myloc Skgaming,Data Center,False
+2026-08-22 00:53:49,88.13.242.37,100,Spain,Bilbao,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),Residential/Business,False
+2026-08-22 00:53:49,117.69.119.83,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-08-22 00:53:49,100.29.192.100,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-22 00:53:49,69.5.169.89,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-22 00:53:49,119.249.100.117,100,China,Shijiazhuang,China Unicom China169 Network,,Mobile,True
+2026-08-22 00:53:49,40.121.200.75,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-22 00:53:49,66.132.186.171,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-22 00:53:49,101.36.118.248,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-22 00:53:49,65.20.217.161,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-22 00:53:49,78.128.113.22,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-08-22 00:53:49,66.132.172.230,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-22 00:53:49,115.190.253.92,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-22 00:53:49,220.126.58.114,100,South Korea,Bucheon-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-22 00:53:49,103.86.198.253,100,Bangladesh,Dhaka,Nasrin Sultana t/a Maisha,,Residential/Business,False
+2026-08-22 00:53:49,58.221.60.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-22 00:53:49,172.239.51.96,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-22 00:53:49,2.26.112.88,100,Germany,Frankfurt am Main,U1 DIGITAL SERVICES LTD,u1host ltd,Data Center,False
+2026-08-22 00:53:49,117.193.74.35,100,India,Kollam,BSNL Internet,,Residential/Business,False
+2026-08-22 00:53:49,20.169.49.86,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-22 00:53:49,45.156.129.86,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-22 00:53:49,136.144.35.206,100,United States,Trenton,Latitude.sh,"VPN Consumer New Jersey, United States of America",Data Center,True
+2026-08-22 00:53:49,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-08-22 00:53:49,61.146.129.133,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-08-22 00:53:49,34.125.54.113,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-22 00:53:49,41.173.43.34,100,Zimbabwe,Harare,Liquid Telecommunications Ltd,Liquid Telecommunications Operations Limited,Residential/Business,False
+2026-08-22 00:53:49,64.62.197.11,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-22 00:53:49,36.64.131.68,100,Indonesia,Depok,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-08-22 00:53:49,27.128.163.104,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-08-22 00:53:49,115.190.162.240,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-22 00:53:49,20.114.175.89,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-08-22 00:53:49,132.148.22.172,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-22 00:53:49,212.23.217.3,100,Iraq,Baghdad,Optimum Line for Internet Services Ltd.,Optimum Line Internet Services Ltd,Residential/Business,False
+2026-08-22 00:53:49,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
