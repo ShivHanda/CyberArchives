@@ -111009,3 +111009,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-22 20:15:25,102.220.160.38,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
 2026-08-22 20:15:25,70.182.12.141,100,United States,Denham Springs,Cox Communications Inc.,Cox Communications,Residential/Business,False
 2026-08-22 20:15:25,20.89.241.218,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-08-22 22:15:11,42.1.65.123,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-08-22 22:15:11,103.97.101.25,100,Indonesia,Pekalongan,Dinas Kominfo Kota Pekalongan,,Residential/Business,False
+2026-08-22 22:15:11,89.37.172.139,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-22 22:15:11,109.105.210.64,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-08-22 22:15:11,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-22 22:15:11,106.75.153.103,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-22 22:15:11,20.100.175.163,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-22 22:15:11,152.53.148.66,100,Germany,Nuremberg,netcup GmbH,NETCUP-KVM,Data Center,False
+2026-08-22 22:15:11,77.83.240.70,100,The Netherlands,Wormer,Alsycon B.V.,Alsycon B.V,Data Center,False
+2026-08-22 22:15:11,216.73.216.190,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,False
+2026-08-22 22:15:11,85.133.193.72,100,Iran,Tehran,Amir Hosein Maaref,ManaServer,Data Center,False
+2026-08-22 22:15:11,104.244.74.84,100,Luxembourg,Roost,FranTech Solutions,BuyVM,Data Center,True
+2026-08-22 22:15:11,36.33.167.165,100,China,Hefei,China Unicom Anhui Province Network,,Residential/Business,False
+2026-08-22 22:15:11,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-08-22 22:15:11,89.152.82.108,100,Portugal,Maia,NOS COMUNICACOES S.A,NOS Comunicacoes S.A.,Residential/Business,False
+2026-08-22 22:15:11,206.81.11.215,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-22 22:15:11,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-22 22:15:11,173.255.210.89,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-22 22:15:11,20.65.69.59,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-08-22 22:15:11,95.165.159.70,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-08-22 22:15:11,66.132.172.130,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-22 22:15:11,169.58.196.170,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-22 22:15:11,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-22 22:15:11,18.97.9.97,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-22 22:15:11,135.233.112.24,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-22 22:15:11,188.219.104.210,100,Italy,Pianoro,VODAFONE,,Residential/Business,False
+2026-08-22 22:15:11,154.221.17.244,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-08-22 22:15:11,87.106.63.76,100,United Kingdom,Worcester,IONOS SE,Gb Wtr Ionos Cloud Bhx1,Data Center,False
+2026-08-22 22:15:11,74.248.24.12,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-08-22 22:15:11,165.154.218.169,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-22 22:15:11,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-22 22:15:11,165.154.163.10,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-22 22:15:11,45.205.1.246,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-22 22:15:11,141.11.1.95,100,The Netherlands,Amsterdam,OVH SAS,,Residential/Business,False
+2026-08-22 22:15:11,115.191.27.238,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-22 22:15:11,185.242.226.102,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-22 22:15:11,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-22 22:15:11,178.20.210.152,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-08-22 22:15:11,210.114.22.126,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-22 22:15:11,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-22 22:15:11,20.89.241.218,100,Japan,Osaka,Microsoft Corporation,Microsoft Azure Cloud (japanwest),Data Center,False
+2026-08-22 22:15:11,125.23.204.74,100,India,Hyderabad,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-08-22 22:15:11,154.197.57.135,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology HK Limitedimited,Data Center,False
+2026-08-22 22:15:11,213.176.26.87,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-22 22:15:11,85.217.140.32,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-22 22:15:11,163.7.3.154,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-22 22:15:11,117.205.2.250,100,India,Ahmedabad,BSNL Internet,,Residential/Business,False
+2026-08-22 22:15:11,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-22 22:15:11,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-22 22:15:11,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
