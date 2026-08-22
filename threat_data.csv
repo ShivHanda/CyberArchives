@@ -110619,3 +110619,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-22 04:26:18,194.88.98.84,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-08-22 04:26:18,116.147.40.93,100,China,Jinrongjie,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
 2026-08-22 04:26:18,89.222.108.203,100,Germany,Frankfurt am Main,Datacamp Limited,Cdn77 FRA,Data Center,False
+2026-08-22 06:29:06,203.198.173.145,100,Hong Kong,Ngau Chi Wan,Hong Kong Telecommunications (HKT) Limited Mass Internet,VDSL Trial Cust : Excalibur Capital Ltd,Residential/Business,False
+2026-08-22 06:29:06,165.154.163.107,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-22 06:29:06,125.140.237.234,100,South Korea,Jecheon,Korea Telecom,Chungbukgogaekteojang,Residential/Business,False
+2026-08-22 06:29:06,183.12.165.63,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-22 06:29:06,71.6.158.166,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-22 06:29:06,187.212.37.143,100,Mexico,Puebla City,UNINET,UNINET,Residential/Business,False
+2026-08-22 06:29:06,43.228.157.10,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-22 06:29:06,163.172.73.151,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-08-22 06:29:06,130.211.67.46,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-22 06:29:06,197.248.130.247,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-08-22 06:29:06,43.228.157.9,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-22 06:29:06,185.242.3.226,100,Germany,Frankfurt am Main,"Netiface America, Inc.",Felcloud,Data Center,False
+2026-08-22 06:29:06,27.207.243.77,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-22 06:29:06,68.155.153.139,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-22 06:29:06,181.225.50.2,100,Venezuela,Caracas,IFX Networks Venezuela C.A.,IFX Networks Venezuela C.A,Residential/Business,True
+2026-08-22 06:29:06,135.237.126.210,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-22 06:29:06,49.0.24.107,100,Indonesia,Kangin,PT iForte Global Internet,Indonesia Network Information Center,Data Center,False
+2026-08-22 06:29:06,188.240.59.18,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-22 06:29:06,34.40.101.221,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-08-22 06:29:06,34.52.131.100,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-22 06:29:06,184.168.31.238,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-22 06:29:06,45.33.109.10,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-22 06:29:06,154.83.197.142,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-08-22 06:29:06,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-22 06:29:06,94.182.149.20,100,Iran,Tehran,Fanavaran Mehr Vatan Tehran Server Group LLC,Shtl NET DED,Data Center,False
+2026-08-22 06:29:06,31.77.227.119,100,France,Saint-Denis,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-22 06:29:06,34.73.51.143,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-22 06:29:06,172.212.194.58,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-22 06:29:06,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-22 06:29:06,112.241.121.79,100,China,Liaocheng,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-22 06:29:06,173.255.223.124,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-08-22 06:29:06,47.251.176.94,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-22 06:29:06,193.32.162.9,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-22 06:29:06,8.216.8.134,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-22 06:29:06,68.178.167.214,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-22 06:29:06,152.32.203.18,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-22 06:29:06,5.238.110.151,100,Iran,Tehran,Iran Telecommunication Company PJS,TIC,Residential/Business,False
+2026-08-22 06:29:06,47.251.52.64,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-22 06:29:06,122.166.49.42,100,India,Bengaluru,BHARTI,ABTS (Karnataka),Residential/Business,False
+2026-08-22 06:29:06,69.5.169.107,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-22 06:29:06,31.14.32.6,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-08-22 06:29:06,146.88.241.44,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-08-22 06:29:06,34.63.42.56,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-22 06:29:06,181.46.166.110,100,Argentina,Villa Ballester,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-08-22 06:29:06,35.228.237.7,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
