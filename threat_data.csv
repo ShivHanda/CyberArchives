@@ -111504,3 +111504,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 16:17:30,124.198.132.135,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Data Center,False
 2026-08-23 16:17:30,106.12.144.153,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
 2026-08-23 16:17:30,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
+2026-08-23 18:19:51,128.185.194.162,100,India,Dwarka,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-08-23 18:19:51,34.197.70.90,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-23 18:19:51,103.250.11.156,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-23 18:19:51,37.230.247.230,100,Russia,Sochi,LLC Gudauta-net,LeaderTelecom Ltd,Residential/Business,False
+2026-08-23 18:19:51,109.91.4.177,100,Germany,Frankfurt am Main,Vodafone,Vodafone NRW GmbH,Residential/Business,False
+2026-08-23 18:19:51,152.32.251.44,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 18:19:51,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 18:19:51,46.225.11.104,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-08-23 18:19:51,216.202.170.56,100,United States,Monroe,"Level 3 Communications, Inc.","Level 3, LLC",Residential/Business,False
+2026-08-23 18:19:51,116.207.113.1,100,China,Shanghai,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-23 18:19:51,115.179.102.180,100,Japan,Yokohama,ARTERIA Networks Corporation,"GMO Internet, Inc.",Residential/Business,False
+2026-08-23 18:19:51,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-23 18:19:51,62.60.130.234,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 18:19:51,74.208.177.56,100,United States,Kansas City,IONOS SE,IONOS Inc,Data Center,True
+2026-08-23 18:19:51,51.75.253.68,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-08-23 18:19:51,64.89.163.141,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-08-23 18:19:51,103.159.51.70,100,Vietnam,Đống Đa,NHANHOASOLUTIONS,Nhan HOA Business Solutions Joint Stock Company,Residential/Business,True
+2026-08-23 18:19:51,165.232.101.69,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 18:19:51,69.5.169.51,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 18:19:51,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 18:19:51,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-23 18:19:51,101.254.159.210,100,China,Beijing,"IDC, China Telecommunications Corporation","Beijing flash newsletter cas telecommunication technology Co., LTD",Residential/Business,False
+2026-08-23 18:19:51,111.171.125.94,100,South Korea,Nam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-23 18:19:51,199.45.154.190,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 18:19:51,151.243.11.234,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-23 18:19:51,200.219.200.16,100,Brazil,São Paulo,Equinix Brasil,C&C COMPUTACAO E COMUNICACAO INF. LTDA,Data Center,False
+2026-08-23 18:19:51,49.124.151.21,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-08-23 18:19:51,194.5.82.55,100,Singapore,Singapore,GSL Networks Pty LTD,,Data Center,True
+2026-08-23 18:19:51,20.104.104.62,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-23 18:19:51,151.237.28.235,100,Bulgaria,Sofia,PRESTIGE-AB,IPACCT Ltd.,Residential/Business,False
+2026-08-23 18:19:51,187.62.87.27,100,Brazil,Mairiporã,Infinitygo Telecom Ltda,Infinitygo Telecom Ltda,Residential/Business,False
+2026-08-23 18:19:51,213.176.26.122,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 18:19:51,136.232.11.10,100,India,Chennai,Reliance Jio Infocomm Limited,Rjil Internet,Mobile,False
+2026-08-23 18:19:51,34.140.93.66,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-23 18:19:51,80.66.66.68,100,The Netherlands,Amsterdam,Soldatov Alexey Valerevich,Soldatov Alexey Valerevich,Data Center,False
+2026-08-23 18:19:51,61.133.76.223,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-23 18:19:51,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 18:19:51,222.90.233.165,100,China,Xi'an,Chinanet,Chinanet SN,Residential/Business,False
+2026-08-23 18:19:51,152.32.189.128,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 18:19:51,130.49.181.239,100,Russia,Moscow,Time-host LTD,Time Host,Data Center,False
+2026-08-23 18:19:51,2604:a880:400:d1:0:4:b2ef:b001,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-23 18:19:51,34.62.85.134,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-23 18:19:51,68.155.154.236,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-23 18:19:51,27.223.98.117,100,China,Qingdao,China Unicom Shandong Province Network,,Residential/Business,True
+2026-08-23 18:19:51,167.126.6.183,100,Brazil,Vinhedo,Oracle Corporation,Oracle Cloud Infrastructure (sa-vinhedo-1),Data Center,True
