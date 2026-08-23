@@ -111259,3 +111259,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 06:30:13,69.5.169.46,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-08-23 06:30:13,69.5.169.192,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-08-23 06:30:13,194.187.176.237,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-23 08:21:54,103.175.212.20,100,Indonesia,Kuta,PT MITRA TELEMEDIA MANUNGGAL,Mtmbali,Residential/Business,False
+2026-08-23 08:21:54,188.12.100.131,100,Italy,Lesmo,Telecom Italia S.p.A.IPTV Platform,INTERBUSINESS,Residential/Business,False
+2026-08-23 08:21:54,62.113.113.162,100,Russia,Moscow,Hosting technology LTD,Vdsina,Data Center,True
+2026-08-23 08:21:54,109.50.204.18,100,Portugal,Braga,NOS COMUNICACOES S.A,,Residential/Business,False
+2026-08-23 08:21:54,20.163.15.176,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-23 08:21:54,168.126.36.209,100,South Korea,Jongno-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 08:21:54,163.7.9.84,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-08-23 08:21:54,62.220.236.203,100,Finland,Pyhäsalmi,Fonet Internet,Tavitex Oy,Residential/Business,False
+2026-08-23 08:21:54,46.24.47.94,100,Spain,Madrid,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-08-23 08:21:54,14.103.107.234,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-23 08:21:54,221.162.135.224,100,South Korea,Geumjeong-gu,Korea Telecom,KORNET,Residential/Business,False
+2026-08-23 08:21:54,18.218.118.203,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-08-23 08:21:54,20.65.193.127,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-23 08:21:54,172.104.11.34,100,United States,Cedar Knolls,Akamai Technologies,Linode,Data Center,False
+2026-08-23 08:21:54,45.148.10.238,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 08:21:54,217.211.237.213,100,Sweden,Säffle,Telia Company AB,,Residential/Business,False
+2026-08-23 08:21:54,200.59.88.156,100,Argentina,Río Gallegos,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-08-23 08:21:54,43.255.104.39,100,Thailand,Bangkok,Swift Cloud Network Technology Limited,Dragon Network Intl Co. Ltd,Data Center,False
+2026-08-23 08:21:54,171.243.149.32,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-23 08:21:54,179.184.218.49,100,Brazil,Belo Horizonte,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-08-23 08:21:54,4.182.219.135,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-08-23 08:21:54,165.227.57.18,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 08:21:54,194.113.195.96,100,United States,New York,"Kamatera, Inc.",Cloud Web Manage,Data Center,True
+2026-08-23 08:21:54,104.30.167.164,100,United States,Kent,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-08-23 08:21:54,94.154.43.43,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-23 08:21:54,159.203.10.168,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-08-23 08:21:54,49.36.81.138,100,India,Surat,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Residential/Business,False
+2026-08-23 08:21:54,123.58.210.106,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 08:21:54,220.127.148.6,100,South Korea,Yangju,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 08:21:54,171.231.179.255,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-23 08:21:54,166.130.176.136,100,United States,New York,"AT&T Enterprises, LLC","AT&T Enterprises, LLC",Mobile,False
+2026-08-23 08:21:54,3.142.170.60,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-23 08:21:54,185.247.137.80,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-23 08:21:54,220.132.197.23,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-23 08:21:54,34.140.107.156,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-23 08:21:54,57.129.139.88,100,United Kingdom,Bexley,OVH SAS,OVH Ltd,Data Center,True
+2026-08-23 08:21:54,176.65.148.30,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-23 08:21:54,64.227.30.4,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 08:21:54,69.5.169.77,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 08:21:54,43.165.177.143,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-23 08:21:54,212.243.68.166,100,Switzerland,Zurich,Swisscom AG,,Residential/Business,False
+2026-08-23 08:21:54,135.237.124.223,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-23 08:21:54,192.3.176.32,100,United States,Buffalo,HostPapa,,Data Center,True
+2026-08-23 08:21:54,91.191.209.98,100,Bulgaria,Sofia,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-08-23 08:21:54,46.8.46.114,100,Russia,Kamen'-na-Obi,Individual Entrepreneur Dmitriy Fokin,Individual Entrepreneur Dmitriy Fokin,Residential/Business,False
+2026-08-23 08:21:54,36.33.167.165,100,China,Hefei,China Unicom Anhui Province Network,,Residential/Business,False
+2026-08-23 08:21:54,20.63.64.130,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-23 08:21:54,172.171.233.230,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-23 08:21:54,84.8.158.205,100,United Kingdom,London,Oracle Corporation,Oracle Cloud Infrastructure (uk-london-1),Data Center,False
+2026-08-23 08:21:54,35.150.128.153,100,United States,Glendale,Charter Communications,Spectrum,Residential/Business,False
