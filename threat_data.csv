@@ -111109,3 +111109,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 00:57:58,158.158.54.35,100,Spain,Madrid,Microsoft Corporation,Microsoft Azure Cloud (spaincentral),Residential/Business,False
 2026-08-23 00:57:58,45.156.129.60,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
 2026-08-23 00:57:58,47.254.202.17,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-23 02:56:19,223.243.179.70,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-08-23 02:56:19,97.211.104.169,100,United States,Las Vegas,Verizon Business,Verizon Business,Mobile,False
+2026-08-23 02:56:19,200.59.88.218,100,Argentina,Río Gallegos,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-08-23 02:56:19,112.113.142.98,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-08-23 02:56:19,192.155.84.194,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-23 02:56:19,110.25.109.48,100,Taiwan,Taipei,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-08-23 02:56:19,85.217.140.16,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 02:56:19,45.78.194.186,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-23 02:56:19,194.180.49.220,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-08-23 02:56:19,52.173.121.69,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-23 02:56:19,216.244.81.2,100,United States,Tukwila,Wowrack.com,Wowrack.com,Data Center,False
+2026-08-23 02:56:19,45.87.249.146,100,The Netherlands,Almere Stad,Shereverov Marat Ahmedovich,Kurnikov Egor,Residential/Business,True
+2026-08-23 02:56:19,51.159.125.104,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-23 02:56:19,195.230.103.247,100,Germany,Frankfurt am Main,"Securitytrails, LLC","Securitytrails, LLC",Residential/Business,False
+2026-08-23 02:56:19,35.201.209.76,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-08-23 02:56:19,203.128.6.156,100,Pakistan,Lahore,Brain Telecommunication Ltd,Brain Telecommunication Ltd.,Residential/Business,False
+2026-08-23 02:56:19,91.239.95.26,100,Ukraine,Svesa,FOP Lukyanenko Aleksandr Ivanovich,SvessaRoute,Residential/Business,False
+2026-08-23 02:56:19,185.73.23.133,100,Germany,Bochum,Ruhr-Universitaet Bochum,Ruhr-Universitaet Bochum,Residential/Business,False
+2026-08-23 02:56:19,103.248.154.43,100,China,Hangzhou,"Jinhua Weian InfoTech Co., Ltd",CHINAUNICOM CHINA169 Shandong Province Network,Residential/Business,False
+2026-08-23 02:56:19,185.177.72.5,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-08-23 02:56:19,31.220.3.165,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Data Center,False
+2026-08-23 02:56:19,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 02:56:19,171.243.149.76,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-23 02:56:19,34.94.4.247,100,United States,Los Angeles,Google LLC,Google Cloud (us-west2),Data Center,False
+2026-08-23 02:56:19,100.28.191.174,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-23 02:56:19,216.218.206.66,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 02:56:19,139.19.117.130,100,Germany,Saarbrücken,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Mpii NET 117 Inet,Residential/Business,False
+2026-08-23 02:56:19,47.254.243.99,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-23 02:56:19,47.251.140.21,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-23 02:56:19,66.132.195.116,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 02:56:19,64.62.197.2,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-23 02:56:19,152.32.209.108,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 02:56:19,66.132.186.241,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-23 02:56:19,111.70.32.46,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-23 02:56:19,69.5.169.99,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 02:56:19,165.154.6.75,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 02:56:19,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 02:56:19,211.178.247.182,100,South Korea,Gwangmyeong,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-08-23 02:56:19,210.104.223.133,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 02:56:19,154.221.25.99,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-08-23 02:56:19,43.157.181.189,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-08-23 02:56:19,50.217.40.11,100,United States,Northlake,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-08-23 02:56:19,72.255.18.163,100,Pakistan,Gujranwala,Cyber Internet Services (Private) Limited,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-08-23 02:56:19,79.124.56.202,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-23 02:56:19,213.176.26.82,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 02:56:19,66.132.224.17,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-23 02:56:19,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-23 02:56:19,122.199.113.36,100,South Korea,Gumi,HYUNDAI COMMUNICATIONS & NETWORK,HYUNDAI HCN Seronet Systems Co.Ltd,Residential/Business,False
+2026-08-23 02:56:19,213.176.26.144,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 02:56:19,45.205.1.241,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
