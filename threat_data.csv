@@ -111599,3 +111599,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 20:15:05,103.49.28.98,100,Indonesia,Jakarta,PT Pascal Solusi Nusantara,,Residential/Business,False
 2026-08-23 20:15:05,151.243.11.9,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
 2026-08-23 20:15:05,97.74.87.119,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-23 22:14:48,69.5.169.80,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 22:14:48,78.189.17.35,100,Türkiye,Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,Residential/Business,False
+2026-08-23 22:14:48,23.20.178.124,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-23 22:14:48,91.134.242.90,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-23 22:14:48,207.154.252.87,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 22:14:48,217.154.35.203,100,United Kingdom,London,IONOS SE,IONOS SE,Data Center,False
+2026-08-23 22:14:48,45.78.194.242,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-23 22:14:48,194.88.98.84,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 22:14:48,193.25.217.25,100,The Netherlands,Amsterdam,GRAV-AS,GravHosting LLC,Data Center,False
+2026-08-23 22:14:48,37.59.100.74,100,France,Roubaix,OVH SAS,VPS static ips,Data Center,False
+2026-08-23 22:14:48,223.17.1.118,100,Hong Kong,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-08-23 22:14:48,73.193.55.194,100,United States,Everett,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-08-23 22:14:48,45.205.1.242,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-23 22:14:48,213.176.26.175,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 22:14:48,20.220.10.235,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-23 22:14:48,2.58.82.137,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-23 22:14:48,46.105.31.171,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-08-23 22:14:48,143.198.143.161,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 22:14:48,51.178.53.190,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-08-23 22:14:48,52.141.19.25,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-08-23 22:14:48,121.188.193.78,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-23 22:14:48,66.132.224.238,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-23 22:14:48,45.156.129.139,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-23 22:14:48,57.129.104.204,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
+2026-08-23 22:14:48,170.64.135.180,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 22:14:48,51.75.19.210,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-08-23 22:14:48,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-23 22:14:48,45.118.144.36,100,Vietnam,Quận Chín,LVSOFT,,Residential/Business,True
+2026-08-23 22:14:48,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-08-23 22:14:48,94.247.62.199,100,Russia,Magadan,MAGLAN,,Residential/Business,False
+2026-08-23 22:14:48,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-23 22:14:48,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 22:14:48,103.207.9.246,100,India,Pune,Shree Balaji Infoway Private Limited,Shree Balaji Infoway Private Limited,Residential/Business,False
+2026-08-23 22:14:48,14.103.118.177,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-08-23 22:14:48,122.187.226.12,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-23 22:14:48,81.19.216.114,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 22:14:48,193.163.125.61,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-23 22:14:48,191.252.208.81,100,Brazil,São Paulo,Locaweb Serviços de Internet S/A,Locaweb Serviços de Internet S/A,Data Center,False
+2026-08-23 22:14:48,181.46.166.124,100,Argentina,Villa Ballester,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-08-23 22:14:48,218.189.198.198,100,Hong Kong,Kwai Chung,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-08-23 22:14:48,153.75.82.191,100,United States,Ogden,RouterHosting LLC,Cloudzy A I Information Technology L.L.C,Data Center,False
+2026-08-23 22:14:48,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 22:14:48,51.68.151.167,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-08-23 22:14:48,79.124.49.146,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-23 22:14:48,103.49.28.98,100,Indonesia,Jakarta,PT Pascal Solusi Nusantara,,Residential/Business,False
+2026-08-23 22:14:48,198.38.85.76,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,True
+2026-08-23 22:14:48,150.5.154.160,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-23 22:14:48,213.176.24.72,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 22:14:48,93.46.24.112,100,Italy,Milan,Fastweb SpA,Fastweb S C E D Servizi Contabili ED Elaborazione Dati,Residential/Business,False
+2026-08-23 22:14:48,106.75.7.31,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
