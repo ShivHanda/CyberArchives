@@ -111209,3 +111209,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 04:30:19,218.1.147.141,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
 2026-08-23 04:30:19,47.250.54.17,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
 2026-08-23 04:30:19,70.183.230.254,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-23 06:30:13,85.217.149.59,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,185.177.72.100,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-08-23 06:30:13,103.213.95.198,100,China,Jingshan,China Unicom Beijing Province Network,Beijing WangJu Interworking Information Technology Co. LTD,Residential/Business,False
+2026-08-23 06:30:13,106.13.38.13,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-23 06:30:13,156.225.1.87,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-23 06:30:13,39.105.64.243,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-08-23 06:30:13,36.133.214.135,100,China,Guangzhou,China Mobile Communications Corporation,China Mobile,Mobile,False
+2026-08-23 06:30:13,2.50.139.129,100,United Arab Emirates,Abu Dhabi,Emirates Telecommunications Corporation,Etisalat,Residential/Business,False
+2026-08-23 06:30:13,121.169.236.186,100,South Korea,Yeoju,Korea Telecom,Sudogwongangnambonbujang,Residential/Business,False
+2026-08-23 06:30:13,119.177.196.46,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-23 06:30:13,157.230.212.191,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 06:30:13,192.155.84.74,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-23 06:30:13,186.23.209.47,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A,Residential/Business,False
+2026-08-23 06:30:13,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,143.198.207.84,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 06:30:13,47.74.20.117,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-23 06:30:13,52.165.90.3,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-23 06:30:13,27.192.68.182,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-23 06:30:13,85.217.140.47,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-23 06:30:13,66.132.172.196,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-23 06:30:13,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-23 06:30:13,216.218.206.96,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 06:30:13,152.32.211.187,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 06:30:13,68.155.147.185,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
+2026-08-23 06:30:13,27.209.84.136,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-08-23 06:30:13,85.217.140.8,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,85.217.149.58,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,112.7.120.103,100,China,Weifang,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-23 06:30:13,64.62.197.24,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-08-23 06:30:13,152.32.135.48,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 06:30:13,81.19.219.202,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 06:30:13,178.132.144.161,100,Moldova,Taraclia,"JSC ""Moldtelecom"" S.A",JSC Moldtelecom S.A.,Residential/Business,False
+2026-08-23 06:30:13,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 06:30:13,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-23 06:30:13,65.49.20.67,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 06:30:13,87.236.176.180,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-23 06:30:13,47.254.130.236,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-08-23 06:30:13,85.203.21.119,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-08-23 06:30:13,100.28.191.174,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-23 06:30:13,4.221.162.168,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-08-23 06:30:13,85.217.140.53,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 06:30:13,64.62.156.140,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 06:30:13,116.110.16.228,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-23 06:30:13,128.1.34.69,100,Germany,Frankfurt am Main,Zenlayer Inc,Zenlayer Inc,Data Center,False
+2026-08-23 06:30:13,129.159.61.96,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,True
+2026-08-23 06:30:13,65.49.1.39,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 06:30:13,69.5.169.46,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 06:30:13,69.5.169.192,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 06:30:13,194.187.176.237,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
