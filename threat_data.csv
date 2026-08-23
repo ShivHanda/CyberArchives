@@ -111359,3 +111359,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 10:16:53,37.40.227.133,100,Oman,Muscat,OmanMobile Telecommunication company LLC,OmanMobile Telecommunication company LLC,Residential/Business,False
 2026-08-23 10:16:53,103.131.61.163,100,Indonesia,Rangkasbitung,PT. NEWTON CIPTA INFORMATIKA,PT. NEWTON CIPTA INFORMATIKA,Residential/Business,False
 2026-08-23 10:16:53,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-23 12:27:16,185.217.0.181,100,Sweden,Stockholm,w1n ltd,W1n,Residential/Business,False
+2026-08-23 12:27:16,156.225.1.101,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-23 12:27:16,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 12:27:16,185.2.228.48,100,Lithuania,Vilnius,TELE2/ SWIPNET,Tele2 AB,Mobile,False
+2026-08-23 12:27:16,14.46.58.104,100,South Korea,Uiseong-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 12:27:16,94.182.157.184,100,Iran,Tehran,Aria Shatel PJSC,Shtl NET DED,Residential/Business,False
+2026-08-23 12:27:16,192.142.37.110,100,The Netherlands,Amsterdam,"Ultahost, Inc.",Ultahost Inc,Residential/Business,True
+2026-08-23 12:27:16,103.203.57.5,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-08-23 12:27:16,46.151.182.101,100,Germany,Frankfurt am Main,Ghosty Networks LLC,Ghosty Networks LLC,Data Center,True
+2026-08-23 12:27:16,91.92.42.36,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 12:27:16,117.81.212.152,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-23 12:27:16,91.92.42.126,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 12:27:16,193.180.125.157,100,Sweden,Stockholm,Kopings Kabel-TV AB,Kopings Kabel-TV AB,Residential/Business,False
+2026-08-23 12:27:16,190.129.122.12,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-08-23 12:27:16,213.176.26.186,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 12:27:16,141.98.10.174,100,Lithuania,Kaunas,UAB Host Baltic,,Data Center,True
+2026-08-23 12:27:16,92.204.138.44,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,False
+2026-08-23 12:27:16,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 12:27:16,111.34.17.94,100,China,Jinan,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-23 12:27:16,194.88.98.86,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 12:27:16,154.58.204.238,100,Spain,Madrid,"Ultahost, Inc.",,Residential/Business,False
+2026-08-23 12:27:16,195.86.192.66,100,Malaysia,Kuala Lumpur,Octopus Web Solution Inc,Octopus Web Solution Inc,Residential/Business,False
+2026-08-23 12:27:16,173.255.221.22,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-23 12:27:16,98.83.226.125,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-23 12:27:16,66.132.195.37,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 12:27:16,153.75.82.231,100,United States,Ogden,RouterHosting LLC,Cloudzy A I Information Technology L.L.C,Data Center,False
+2026-08-23 12:27:16,165.84.215.49,100,United Kingdom,London,"Servers.com, Inc.",Liquid Web B.V,Data Center,False
+2026-08-23 12:27:16,27.112.70.187,100,Indonesia,Jakarta,GRAHANET,,Data Center,False
+2026-08-23 12:27:16,18.119.209.50,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-08-23 12:27:16,86.54.31.36,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-08-23 12:27:16,154.18.238.98,100,Singapore,Singapore,Enjoyvc Cloud Group Limited,Enjoyvc Cloud Group Limited,Data Center,False
+2026-08-23 12:27:16,78.153.140.39,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,LLC Company Interlan Communications,Data Center,False
+2026-08-23 12:27:16,118.43.213.220,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-23 12:27:16,66.132.195.46,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 12:27:16,184.154.16.90,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-08-23 12:27:16,91.92.42.87,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 12:27:16,70.167.236.11,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-23 12:27:16,84.26.75.202,100,The Netherlands,Voorhout,Vodafone Ziggo,,Residential/Business,False
+2026-08-23 12:27:16,125.228.37.189,100,Taiwan,Tainan,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-23 12:27:16,78.155.213.21,100,Russia,St Petersburg,Atomdata JSC,Atomdata JSC,Residential/Business,False
+2026-08-23 12:27:16,42.100.27.127,100,China,Harbin,Chinanet,Chinanet HL,Residential/Business,False
+2026-08-23 12:27:16,85.217.140.47,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 12:27:16,103.171.39.147,100,India,Jasdan,Arrow Touch Wireless Internet Private Limited,Nextnet Network Pvt Ltd,Residential/Business,False
+2026-08-23 12:27:16,91.92.47.35,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 12:27:16,92.4.66.159,100,India,Mumbai,TalkTalk,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-08-23 12:27:16,61.105.6.100,100,South Korea,Gwangmyeong-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-23 12:27:16,160.22.106.87,100,Vietnam,Nha Trang,TDVPSTTT,VPSTTT Group Joint Stock Company,Data Center,False
+2026-08-23 12:27:16,197.5.145.102,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-08-23 12:27:16,91.92.47.117,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 12:27:16,66.116.243.130,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
