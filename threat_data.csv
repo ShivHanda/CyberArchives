@@ -111549,3 +111549,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 18:19:51,68.155.154.236,100,Mexico,Querétaro City,Microsoft Corporation,Microsoft Azure Cloud (mexicocentral),Data Center,False
 2026-08-23 18:19:51,27.223.98.117,100,China,Qingdao,China Unicom Shandong Province Network,,Residential/Business,True
 2026-08-23 18:19:51,167.126.6.183,100,Brazil,Vinhedo,Oracle Corporation,Oracle Cloud Infrastructure (sa-vinhedo-1),Data Center,True
+2026-08-23 20:15:05,195.96.139.168,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-08-23 20:15:05,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-23 20:15:05,187.62.87.27,100,Brazil,Mairiporã,Infinitygo Telecom Ltda,Infinitygo Telecom Ltda,Residential/Business,False
+2026-08-23 20:15:05,191.98.196.19,100,Panama,Panama City,"WNET, S. A.","WNET, S. A",Residential/Business,False
+2026-08-23 20:15:05,35.169.206.177,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-23 20:15:05,220.82.247.216,100,South Korea,Chinch'ŏn,Korea Telecom,,Residential/Business,False
+2026-08-23 20:15:05,43.136.86.241,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-23 20:15:05,111.70.32.52,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-23 20:15:05,172.214.209.153,100,United States,Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-08-23 20:15:05,197.44.15.210,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-08-23 20:15:05,47.91.24.61,100,Japan,Tokyo,Alibaba.com LLC,ALICLOUD-JP,Data Center,False
+2026-08-23 20:15:05,186.232.211.99,100,Brazil,Senador Firmino,NETSTAR SOLUÇÕES LTDA,NETSTAR SOLUÇÕES LTDA,Residential/Business,False
+2026-08-23 20:15:05,101.47.159.125,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-08-23 20:15:05,40.83.182.122,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-08-23 20:15:05,66.132.195.95,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 20:15:05,193.176.31.153,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 20:15:05,132.196.30.78,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-23 20:15:05,182.73.176.186,100,India,Chennai,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-08-23 20:15:05,112.140.184.197,100,Singapore,Singapore,Sparkstation Pte Ltd,Sparkstation,Data Center,False
+2026-08-23 20:15:05,20.197.195.76,100,Brazil,São Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),Data Center,False
+2026-08-23 20:15:05,111.182.235.65,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-23 20:15:05,199.45.154.189,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-23 20:15:05,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-23 20:15:05,118.194.251.101,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-23 20:15:05,192.236.128.200,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,False
+2026-08-23 20:15:05,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-23 20:15:05,172.203.216.28,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-23 20:15:05,157.10.182.14,100,Indonesia,South Tangerang,PT Linea Global Teknologi,PT Linea Global Teknologi,Residential/Business,False
+2026-08-23 20:15:05,45.65.233.63,100,Colombia,Tunja,Colombia MAS TV S.A.S,Colombia MAS TV,Residential/Business,False
+2026-08-23 20:15:05,20.251.63.238,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-08-23 20:15:05,69.5.169.37,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 20:15:05,159.89.50.224,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 20:15:05,102.215.13.172,100,Kenya,Nairobi,Sprinkville-networks Limited,Sprinkville Networks Limited,Residential/Business,True
+2026-08-23 20:15:05,13.219.1.233,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-23 20:15:05,180.100.217.164,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-08-23 20:15:05,66.132.172.34,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-23 20:15:05,194.88.98.123,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 20:15:05,42.118.3.233,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-08-23 20:15:05,69.5.169.107,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 20:15:05,89.111.20.69,100,Latvia,Riga,Digitalas Ekonomikas Attistibas Centrs,,Data Center,False
+2026-08-23 20:15:05,45.133.173.76,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-23 20:15:05,123.231.210.210,100,Indonesia,Jakarta Pusat,PT Aplikanusa Lintasarta,LA FFI,Residential/Business,False
+2026-08-23 20:15:05,154.83.197.4,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-08-23 20:15:05,69.5.169.156,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 20:15:05,180.76.202.69,100,China,Wuhan,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-23 20:15:05,85.217.149.64,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-23 20:15:05,130.12.180.65,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-08-23 20:15:05,103.49.28.98,100,Indonesia,Jakarta,PT Pascal Solusi Nusantara,,Residential/Business,False
+2026-08-23 20:15:05,151.243.11.9,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-08-23 20:15:05,97.74.87.119,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
