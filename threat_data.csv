@@ -111459,3 +111459,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-23 14:17:08,182.95.178.154,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
 2026-08-23 14:17:08,45.135.193.194,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
 2026-08-23 14:17:08,213.176.26.109,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 16:17:30,193.32.209.248,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-23 16:17:30,66.132.172.119,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-23 16:17:30,46.247.61.250,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-08-23 16:17:30,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-23 16:17:30,192.243.104.23,100,United States,Dallas,WHG Hosting Services Ltd,,Data Center,False
+2026-08-23 16:17:30,45.77.61.56,100,France,Aubervilliers,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-08-23 16:17:30,77.83.39.119,100,The Netherlands,Amsterdam,Kprohost LLC,Lanedonet Datacenter,Data Center,False
+2026-08-23 16:17:30,213.176.26.29,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 16:17:30,123.154.92.138,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,False
+2026-08-23 16:17:30,119.160.166.237,100,Brunei,Bandar Seri Begawan,espeed - Broadband DSL,,Residential/Business,False
+2026-08-23 16:17:30,80.66.66.68,100,The Netherlands,Amsterdam,Soldatov Alexey Valerevich,Soldatov Alexey Valerevich,Data Center,False
+2026-08-23 16:17:30,45.33.65.239,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-23 16:17:30,177.174.0.3,100,Brazil,Serra,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-23 16:17:30,73.53.84.117,100,United States,Lynnwood,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-08-23 16:17:30,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-23 16:17:30,222.239.251.12,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-23 16:17:30,91.92.40.171,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-23 16:17:30,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-23 16:17:30,45.156.128.170,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-23 16:17:30,45.40.57.23,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-23 16:17:30,138.68.47.236,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 16:17:30,213.176.26.133,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 16:17:30,43.166.224.244,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-08-23 16:17:30,157.230.180.149,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-23 16:17:30,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-23 16:17:30,34.231.118.144,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-23 16:17:30,170.106.15.3,100,United States,Ashburn,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-08-23 16:17:30,45.177.210.193,100,Brazil,Santana do Livramento,Fronteira Internet,Fronteira Internet,Residential/Business,False
+2026-08-23 16:17:30,175.198.62.180,100,South Korea,Yangch'on-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 16:17:30,14.49.197.174,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-23 16:17:30,161.35.12.195,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 16:17:30,93.174.95.106,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,True
+2026-08-23 16:17:30,69.5.169.79,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-23 16:17:30,20.151.129.194,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-23 16:17:30,20.240.128.207,100,Sweden,Gävle,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-23 16:17:30,20.48.147.90,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-23 16:17:30,159.89.127.165,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-23 16:17:30,96.72.35.97,100,United States,Minneapolis,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-08-23 16:17:30,109.186.74.107,100,Israel,Tel Aviv,013 Netvision,,Residential/Business,False
+2026-08-23 16:17:30,65.49.1.164,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-23 16:17:30,77.239.124.102,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-23 16:17:30,193.163.125.142,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-23 16:17:30,124.198.132.135,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Data Center,False
+2026-08-23 16:17:30,106.12.144.153,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-23 16:17:30,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
