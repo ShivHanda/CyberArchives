@@ -111749,3 +111749,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-24 02:57:10,79.124.58.18,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Residential/Business,False
 2026-08-24 02:57:10,143.202.139.50,100,Argentina,Pontevedra,Infosport SA,Infosport SA,Residential/Business,False
 2026-08-24 02:57:10,66.228.43.62,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-24 04:38:00,185.187.169.232,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-24 04:38:00,102.37.22.98,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Residential/Business,False
+2026-08-24 04:38:00,213.176.26.134,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-24 04:38:00,172.174.72.225,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-08-24 04:38:00,64.62.156.51,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-24 04:38:00,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-24 04:38:00,81.19.216.88,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-24 04:38:00,65.49.1.210,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-24 04:38:00,155.117.13.160,100,Germany,Frankfurt am Main,OVH SAS,HGC Global Communications Limited,Residential/Business,False
+2026-08-24 04:38:00,103.152.101.207,100,Pakistan,Lahore,PLAY BROADBAND (PRIVATE) LIMITED,Homenet Private Limited,Residential/Business,False
+2026-08-24 04:38:00,45.205.1.242,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-24 04:38:00,221.157.99.200,100,South Korea,Pohang,Korea Telecom,Kornet,Residential/Business,False
+2026-08-24 04:38:00,66.132.186.137,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-24 04:38:00,64.62.156.62,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-24 04:38:00,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-24 04:38:00,45.33.40.18,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-24 04:38:00,2.57.17.154,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-08-24 04:38:00,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-24 04:38:00,5.226.140.9,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-24 04:38:00,210.195.34.89,100,Malaysia,Kuala Lumpur,TMnet,,Residential/Business,False
+2026-08-24 04:38:00,45.148.10.123,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-24 04:38:00,92.118.39.56,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-08-24 04:38:00,216.122.38.231,100,United States,Glasgow,South Central Rural Telecommunications Cooperative Inc.,South Central Rural Telecommunications Cooperative Inc,Data Center,False
+2026-08-24 04:38:00,45.91.64.7,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,True
+2026-08-24 04:38:00,64.62.197.197,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-24 04:38:00,115.191.22.253,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-08-24 04:38:00,71.6.147.254,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-24 04:38:00,185.216.145.188,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-24 04:38:00,194.31.245.46,100,Ukraine,Sofiivska Borschahivka,HOMELINK Limited Liability Company,HOMELINK Limited Liability Company,Residential/Business,False
+2026-08-24 04:38:00,85.217.140.48,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-24 04:38:00,193.176.29.28,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-24 04:38:00,85.217.149.24,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-24 04:38:00,156.225.1.18,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-24 04:38:00,45.152.67.20,100,United Kingdom,London,Lucidacloud Limited,Zhihua Lu,Data Center,False
+2026-08-24 04:38:00,81.19.216.93,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-24 04:38:00,112.31.109.13,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-24 04:38:00,146.158.110.167,100,Russia,Barnaul,SM Ltd.,SM Ltd,Residential/Business,True
+2026-08-24 04:38:00,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-24 04:38:00,34.156.76.200,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-24 04:38:00,156.238.86.2,100,Pakistan,Karachi,S. B Link Network,SB Link Network Private Limited,Residential/Business,False
+2026-08-24 04:38:00,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-08-24 04:38:00,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-24 04:38:00,91.92.40.27,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-24 04:38:00,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-24 04:38:00,64.62.197.167,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-24 04:38:00,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-24 04:38:00,156.225.1.99,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-08-24 04:38:00,79.124.58.198,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-24 04:38:00,183.82.98.154,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-24 04:38:00,213.209.159.242,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
