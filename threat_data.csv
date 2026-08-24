@@ -112199,3 +112199,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-24 20:22:13,91.143.161.208,100,Russia,Yekaterinburg,Insys LLC,Insys EKB,Residential/Business,False
 2026-08-24 20:22:13,43.156.71.43,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
 2026-08-24 20:22:13,89.248.172.12,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,True
+2026-08-24 22:19:04,98.174.61.78,100,United States,Pensacola,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-24 22:19:04,89.126.223.123,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Data Center,False
+2026-08-24 22:19:04,78.128.114.162,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-24 22:19:04,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-24 22:19:04,116.72.9.151,100,India,Surat,Hathway IP over Cable Internet Access,Hathway Cable and Datacom Limited,Residential/Business,False
+2026-08-24 22:19:04,119.98.120.142,100,China,Wuhan,China Telecom,Chinanet HB,Residential/Business,False
+2026-08-24 22:19:04,200.59.88.197,100,Argentina,Río Gallegos,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-08-24 22:19:04,71.6.146.185,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-24 22:19:04,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-24 22:19:04,138.124.33.255,100,Germany,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,Residential/Business,False
+2026-08-24 22:19:04,165.232.46.23,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-24 22:19:04,178.128.163.14,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-08-24 22:19:04,34.92.33.224,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-08-24 22:19:04,49.72.111.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-24 22:19:04,216.226.76.30,100,United Kingdom,London,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-08-24 22:19:04,141.11.21.167,100,The Netherlands,Amsterdam,OVH SAS,,Residential/Business,False
+2026-08-24 22:19:04,43.245.248.2,100,Indonesia,Pekanbaru,PT Smart Media Pratama,,Residential/Business,False
+2026-08-24 22:19:04,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-24 22:19:04,91.221.6.188,100,Ukraine,Horlivka,Individual Entrepreneur Antipov Andrey Vyacheslavovich,Antipov Oleg,Residential/Business,True
+2026-08-24 22:19:04,139.59.181.117,100,United Kingdom,Slough,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-08-24 22:19:04,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-08-24 22:19:04,119.98.12.247,100,China,Shizishan,China Telecom,Chinanet HB,Residential/Business,False
+2026-08-24 22:19:04,218.25.89.208,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
+2026-08-24 22:19:04,27.100.171.88,100,South Korea,Jeju City,Kctv Jeju Broadcasting,Cablenet,Residential/Business,False
+2026-08-24 22:19:04,112.140.184.197,100,Singapore,Singapore,Sparkstation Pte Ltd,Sparkstation,Data Center,False
+2026-08-24 22:19:04,91.92.40.153,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-24 22:19:04,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-24 22:19:04,199.45.155.84,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-24 22:19:04,171.8.40.145,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-08-24 22:19:04,104.248.199.32,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-24 22:19:04,69.5.169.228,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-24 22:19:04,218.244.143.162,100,China,Hangzhou,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-08-24 22:19:04,24.118.142.76,100,United States,Saint Paul,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc",Residential/Business,False
+2026-08-24 22:19:04,111.70.23.253,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-24 22:19:04,103.70.40.36,100,India,New Delhi,Sdh Network Pvt Ltd,Sdh Network Pvt Ltd,Residential/Business,False
+2026-08-24 22:19:04,103.59.163.135,100,Myanmar,Yangon,Golden Dragon 2000 Company Limited,Dragon,Residential/Business,True
+2026-08-24 22:19:04,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-24 22:19:04,85.217.140.36,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-24 22:19:04,118.145.242.91,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-24 22:19:04,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-24 22:19:04,103.187.146.107,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-24 22:19:04,118.145.144.95,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-24 22:19:04,118.43.196.193,100,South Korea,Seongnam-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-24 22:19:04,200.81.183.46,100,Argentina,Comodoro Rivadavia,Sion S.A,Sion S.A,Residential/Business,False
+2026-08-24 22:19:04,62.173.38.229,100,Nigeria,Lagos,ipNX Nigeria Limited,ipNX Nigeria Limited,Residential/Business,False
+2026-08-24 22:19:04,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-24 22:19:04,13.78.60.178,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-08-24 22:19:04,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
+2026-08-24 22:19:04,82.67.175.124,100,France,Chartres,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-08-24 22:19:04,91.92.47.25,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
