@@ -112739,3 +112739,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-25 18:31:03,173.254.211.184,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
 2026-08-25 18:31:03,43.153.76.247,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
 2026-08-25 18:31:03,45.156.128.43,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-08-25 20:21:02,171.111.196.251,100,China,Liuzhou,China Telecom,Chinanet GX,Residential/Business,False
+2026-08-25 20:21:02,91.92.40.27,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-25 20:21:02,60.249.207.150,100,Taiwan,Kaohsiung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-25 20:21:02,116.110.1.47,100,Vietnam,Hòa Cường,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-25 20:21:02,114.34.106.146,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-25 20:21:02,194.88.98.110,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-25 20:21:02,118.193.58.20,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-25 20:21:02,220.135.36.28,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-25 20:21:02,115.165.226.83,100,Taiwan,New Taipei City,UBBNET,"TFN Media Co., Ltd.",Residential/Business,False
+2026-08-25 20:21:02,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 20:21:02,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 20:21:02,213.176.26.144,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-25 20:21:02,66.132.195.117,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-25 20:21:02,66.132.186.244,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-25 20:21:02,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-25 20:21:02,160.250.129.45,100,Vietnam,Qui Nhon,VPSNAV,VPS Nava Company Limited,Data Center,False
+2026-08-25 20:21:02,181.164.12.188,100,Argentina,Córdoba,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-08-25 20:21:02,165.154.120.30,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-25 20:21:02,221.181.210.98,100,China,Nanjing,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-25 20:21:02,20.104.104.62,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-25 20:21:02,211.228.97.186,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-25 20:21:02,91.92.42.168,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-25 20:21:02,217.211.91.162,100,Sweden,Sunne,Telia Company AB,,Residential/Business,False
+2026-08-25 20:21:02,91.92.42.133,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-25 20:21:02,178.178.194.128,100,Russia,Moscow,PJSC MegaFon,MegaFon,Mobile,False
+2026-08-25 20:21:02,78.128.113.22,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-08-25 20:21:02,182.95.230.74,100,India,Gurugram,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-25 20:21:02,159.118.163.239,100,United States,Show Low,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-08-25 20:21:02,124.160.45.26,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,False
+2026-08-25 20:21:02,107.189.27.179,100,The Netherlands,Zaandam,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-08-25 20:21:02,185.216.145.179,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-25 20:21:02,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-25 20:21:02,177.19.165.90,100,Brazil,Porto Alegre,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-08-25 20:21:02,14.232.58.9,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-25 20:21:02,67.184.220.173,100,United States,Chesterton,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-08-25 20:21:02,222.116.48.103,100,South Korea,Jeju City,KORNET,geonibdong(sarabong),Residential/Business,False
+2026-08-25 20:21:02,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-25 20:21:02,20.151.9.151,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-25 20:21:02,213.176.26.69,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-25 20:21:02,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-25 20:21:02,85.30.248.213,100,Russia,Shchyolkovo,Corvette Telecom,,Residential/Business,False
+2026-08-25 20:21:02,45.229.85.238,100,Argentina,Monte Grande,Gabriel Francisco Erbetta Y Mariano Andres Carrizo Richelet Sociedad De Hecho,GABRIEL FRANCISCO ERBETTA Y MARIANO ANDRES CARRIZO RICHELET SOCIEDAD DE HECHO (TELNET SOLUCIONES),Residential/Business,False
+2026-08-25 20:21:02,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-25 20:21:02,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 20:21:02,66.116.243.130,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
