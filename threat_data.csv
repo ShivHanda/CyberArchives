@@ -112784,3 +112784,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-25 20:21:02,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
 2026-08-25 20:21:02,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-08-25 20:21:02,66.116.243.130,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-25 22:19:47,211.228.97.186,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-25 22:19:47,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-25 22:19:47,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 22:19:47,116.228.233.93,100,China,Shanghai,China Telecom (Group),"Shanghai Xinding International Cargo Transport Angent Co., Ltd.",Residential/Business,False
+2026-08-25 22:19:47,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-08-25 22:19:47,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-25 22:19:47,92.118.39.120,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,True
+2026-08-25 22:19:47,175.207.209.181,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-25 22:19:47,138.197.164.175,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-08-25 22:19:47,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 22:19:47,115.140.161.61,100,South Korea,Changwon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-08-25 22:19:47,66.132.224.85,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-25 22:19:47,103.134.154.195,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-08-25 22:19:47,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 22:19:47,93.123.109.53,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-25 22:19:47,213.177.179.80,100,The Netherlands,Amsterdam,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-25 22:19:47,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-08-25 22:19:47,64.202.189.56,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-25 22:19:47,8.213.229.126,100,Thailand,Bangkok,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-25 22:19:47,141.95.54.130,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-08-25 22:19:47,107.167.34.125,100,United States,Los Angeles,HostPapa,Gchao LLC,Data Center,False
+2026-08-25 22:19:47,79.124.56.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-25 22:19:47,47.245.26.63,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-08-25 22:19:47,163.7.1.218,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-25 22:19:47,154.221.35.72,100,Peru,Lima,Neevai Supercloud PVT LTD,Cloud Innovation Ltd,Data Center,False
+2026-08-25 22:19:47,97.107.131.17,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-25 22:19:47,172.211.56.214,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-08-25 22:19:47,211.221.196.103,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-08-25 22:19:47,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-08-25 22:19:47,92.207.4.157,100,United Kingdom,Southampton,Gamma Mobile,,Residential/Business,False
+2026-08-25 22:19:47,195.178.110.137,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 22:19:47,47.251.101.198,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-25 22:19:47,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-25 22:19:47,45.198.224.110,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-25 22:19:47,96.231.180.100,100,United States,Germantown,Verizon Business,Verizon Business,Residential/Business,False
+2026-08-25 22:19:47,14.225.206.171,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-08-25 22:19:47,64.225.30.2,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-25 22:19:47,176.31.21.38,100,Spain,Madrid,OVH SAS,OVH Hispano,Data Center,False
+2026-08-25 22:19:47,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 22:19:47,124.155.125.131,100,Japan,Chiyoda City,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-08-25 22:19:47,180.76.239.185,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-08-25 22:19:47,146.190.108.24,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-25 22:19:47,183.82.111.224,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-25 22:19:47,107.189.28.96,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-25 22:19:47,66.240.223.214,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-08-25 22:19:47,66.132.172.139,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-25 22:19:47,69.5.169.221,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-25 22:19:47,197.5.145.102,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-08-25 22:19:47,218.60.77.254,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
+2026-08-25 22:19:47,102.140.97.134,100,Nigeria,Lagos,Accelon,Internet,Residential/Business,True
