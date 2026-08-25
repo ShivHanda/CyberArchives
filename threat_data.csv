@@ -112489,3 +112489,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-25 08:34:31,213.176.26.23,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
 2026-08-25 08:34:31,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-08-25 08:34:31,43.128.3.201,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-25 10:24:41,101.13.4.122,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-08-25 10:24:41,45.194.67.42,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,True
+2026-08-25 10:24:41,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-25 10:24:41,27.79.45.195,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-25 10:24:41,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-08-25 10:24:41,87.236.176.28,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-25 10:24:41,43.165.170.19,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-25 10:24:41,95.188.91.101,100,Russia,Krasnoyarsk,Rostelecom networks,OJSC Rostelecom,Residential/Business,False
+2026-08-25 10:24:41,5.188.86.234,100,Brazil,Uruaçu,Global Layer B.V.,Channelnet,Residential/Business,False
+2026-08-25 10:24:41,47.254.46.95,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-25 10:24:41,1.237.155.150,100,South Korea,Gwangju,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-08-25 10:24:41,106.246.89.70,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-25 10:24:41,213.176.26.88,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-25 10:24:41,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 10:24:41,213.176.26.69,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-25 10:24:41,3.235.215.92,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-08-25 10:24:41,20.169.83.157,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-25 10:24:41,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 10:24:41,159.65.5.51,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-25 10:24:41,118.193.58.120,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-25 10:24:41,174.94.236.211,100,Canada,Brampton,Bell Canada,"Bell Mobility, Inc.",Residential/Business,False
+2026-08-25 10:24:41,36.255.97.27,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-08-25 10:24:41,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-25 10:24:41,45.194.67.43,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-25 10:24:41,176.65.148.185,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-25 10:24:41,62.60.130.247,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 10:24:41,114.43.223.56,100,Taiwan,Hualien City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-25 10:24:41,106.58.142.250,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-08-25 10:24:41,14.224.170.239,100,Vietnam,Ho Chi Minh City,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-25 10:24:41,66.132.172.211,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-25 10:24:41,89.21.67.177,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-25 10:24:41,203.192.211.180,100,India,Mumbai,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-08-25 10:24:41,82.179.192.10,100,Russia,Moscow,Scientific Research Institute for System Analysis of the National Research Cent,Povolzhskiy State University of Telecommunications and Informatics,Residential/Business,True
+2026-08-25 10:24:41,188.59.88.234,100,Türkiye,Eyüpsultan,Turkcell Internet,,Residential/Business,False
+2026-08-25 10:24:41,109.205.211.110,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-08-25 10:24:41,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-25 10:24:41,103.243.26.174,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,True
+2026-08-25 10:24:41,218.149.228.162,100,South Korea,Gumi,Korea Telecom,hangugtongsindaegubonbu,Residential/Business,False
+2026-08-25 10:24:41,202.47.1.13,100,Australia,Ultimo,Netregistry,,Data Center,False
+2026-08-25 10:24:41,65.20.251.170,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-08-25 10:24:41,163.7.3.26,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-25 10:24:41,192.241.171.92,100,United States,Secaucus,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-25 10:24:41,8.211.42.77,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-08-25 10:24:41,179.176.210.17,100,Brazil,Campinas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-08-25 10:24:41,192.81.219.179,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-25 10:24:41,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 10:24:41,98.70.48.241,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-25 10:24:41,111.26.177.216,100,China,Changchun,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-25 10:24:41,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-25 10:24:41,49.207.40.162,100,India,Delhi,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
