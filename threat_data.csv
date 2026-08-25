@@ -112394,3 +112394,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-25 04:32:37,23.92.26.77,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-08-25 04:32:37,18.221.179.104,100,United States,Dublin,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
 2026-08-25 04:32:37,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-25 06:35:55,37.202.236.238,100,Iran,Tehran,SHATEL Network,TehranServer,Data Center,False
+2026-08-25 06:35:55,66.132.172.239,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-25 06:35:55,51.159.110.167,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-08-25 06:35:55,45.91.64.7,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,True
+2026-08-25 06:35:55,196.117.40.241,100,Morocco,Casablanca,MEDITELECOM,MEDITELECOM,Residential/Business,False
+2026-08-25 06:35:55,85.217.149.68,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,47.251.68.127,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-25 06:35:55,185.242.226.91,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-08-25 06:35:55,217.60.255.130,100,Iran,Tehran,Atrin Information & Communications Technology Company PJS,Sepehrsabz DC,Residential/Business,False
+2026-08-25 06:35:55,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-25 06:35:55,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 06:35:55,107.175.226.131,100,United States,Los Angeles,HostPapa,Strictly Cloud,Data Center,False
+2026-08-25 06:35:55,124.123.125.62,100,India,Hyderabad,ACT Fibernet,Atria Convergence Technologies Pvt Ltd,Residential/Business,False
+2026-08-25 06:35:55,49.204.74.149,100,India,Bengaluru,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-25 06:35:55,85.217.140.1,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,210.79.142.201,100,Indonesia,Nganjuk,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-08-25 06:35:55,157.20.37.254,100,Indonesia,Jaten,PT Andalan Dinamika Informatika,PT Ekarta Java Buana,Residential/Business,False
+2026-08-25 06:35:55,217.210.70.99,100,Sweden,Deje,Telia Company AB,,Residential/Business,False
+2026-08-25 06:35:55,20.65.193.55,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-25 06:35:55,85.217.140.26,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,111.179.60.42,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-25 06:35:55,86.54.31.44,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-08-25 06:35:55,85.217.149.1,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,47.251.166.223,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-08-25 06:35:55,74.82.47.2,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-25 06:35:55,85.217.149.44,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,165.73.28.200,100,South Africa,Johannesburg,AFRIHOST SP (PTY) LTD,,Data Center,False
+2026-08-25 06:35:55,69.5.169.96,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-25 06:35:55,193.163.125.135,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-25 06:35:55,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,194.187.176.39,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-25 06:35:55,222.128.28.56,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-08-25 06:35:55,151.83.12.45,100,Italy,Florence,WIND Telecomunicazioni S.p.A,Wind Telecomunicazioni spa,Residential/Business,False
+2026-08-25 06:35:55,110.173.190.221,100,India,Ghaziabad,PRIMENET,Primenet Global Ltd.,Residential/Business,False
+2026-08-25 06:35:55,20.196.209.81,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-08-25 06:35:55,85.217.140.29,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,66.132.195.60,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-25 06:35:55,45.82.76.104,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-08-25 06:35:55,192.253.248.251,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-25 06:35:55,5.252.83.75,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-08-25 06:35:55,34.156.49.78,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-25 06:35:55,154.16.44.43,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-08-25 06:35:55,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-25 06:35:55,85.217.140.8,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-25 06:35:55,66.132.186.171,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
