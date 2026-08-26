@@ -113084,3 +113084,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-26 08:35:40,139.199.80.137,100,China,Shenzhen,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
 2026-08-26 08:35:40,82.151.84.22,100,Mauritania,Nouakchott,Interconnexions Networks,,Residential/Business,False
 2026-08-26 08:35:40,211.199.165.223,100,South Korea,Daedeok-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-08-26 10:29:00,54.210.155.69,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-26 10:29:00,69.5.169.193,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 10:29:00,187.174.238.116,100,Mexico,Miguel Hidalgo,UNINET,UNINET,Residential/Business,False
+2026-08-26 10:29:00,39.104.86.159,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,True
+2026-08-26 10:29:00,106.75.152.101,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-08-26 10:29:00,218.51.148.194,100,South Korea,Gongju,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-08-26 10:29:00,177.244.29.30,100,Mexico,Tenancingo de Degollado,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-08-26 10:29:00,77.105.207.233,100,Sweden,Vaxjo,Net at Once Sweden AB,NAO,Residential/Business,False
+2026-08-26 10:29:00,111.70.32.9,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-26 10:29:00,152.32.189.59,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-26 10:29:00,112.184.12.214,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-26 10:29:00,122.170.98.139,100,India,Ahmedabad,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-08-26 10:29:00,96.246.230.97,100,United States,Brentwood,Verizon Business,Verizon Business,Residential/Business,False
+2026-08-26 10:29:00,35.227.97.26,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-26 10:29:00,89.121.255.194,100,Romania,Bucharest,Orange Romania S.A.,Romtelecom,Residential/Business,False
+2026-08-26 10:29:00,193.176.31.220,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-26 10:29:00,103.67.188.52,100,India,Pune,Vilite Multimedia Private Limited,Vilite Multimedia Private Limited,Residential/Business,False
+2026-08-26 10:29:00,70.184.180.40,100,United States,Virginia Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-26 10:29:00,37.77.150.67,100,Russia,Zelenograd,Proton66 OOO,LLC Baxet,Data Center,False
+2026-08-26 10:29:00,216.244.244.29,100,Argentina,Puerto Madryn,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-08-26 10:29:00,68.225.62.57,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-26 10:29:00,159.65.5.51,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-26 10:29:00,109.205.211.110,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-08-26 10:29:00,186.22.225.16,100,Argentina,San Justo,Telecentro S.A.,Telecentro S.A,Residential/Business,False
+2026-08-26 10:29:00,177.85.247.230,100,Brazil,Timon,R R DE FRANCA SOUSA,R R DE FRANCA SOUSA,Residential/Business,False
+2026-08-26 10:29:00,154.83.196.237,100,Russia,Moscow,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-08-26 10:29:00,103.168.239.34,100,India,Shivatkar,Khushi Cable Network,Khushicab,Residential/Business,False
+2026-08-26 10:29:00,193.163.125.73,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-26 10:29:00,93.152.221.156,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-26 10:29:00,84.247.152.77,100,Japan,Tokyo,Contabo Asia Private Limited,Contabo GmbH,Data Center,False
+2026-08-26 10:29:00,139.59.80.46,100,India,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-08-26 10:29:00,1.214.214.114,100,South Korea,Yangsan,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-26 10:29:00,95.143.217.78,100,Russia,Moscow,Iskratelecom JSC,GC BB,Residential/Business,False
+2026-08-26 10:29:00,66.132.186.244,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-26 10:29:00,201.63.223.138,100,Brazil,Sorocaba,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-08-26 10:29:00,185.177.72.13,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-08-26 10:29:00,173.212.217.75,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-08-26 10:29:00,178.20.210.151,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-08-26 10:29:00,64.62.156.134,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 10:29:00,172.172.196.131,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 10:29:00,45.148.10.5,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-26 10:29:00,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-26 10:29:00,91.148.190.25,100,Bulgaria,Sofia,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-26 10:29:00,4.210.91.174,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-08-26 10:29:00,116.109.216.74,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-26 10:29:00,192.253.248.223,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-26 10:29:00,197.248.207.139,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-08-26 10:29:00,34.122.87.116,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-08-26 10:29:00,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
+2026-08-26 10:29:00,172.174.46.118,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
