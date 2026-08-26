@@ -112884,3 +112884,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-26 00:56:40,179.176.210.17,100,Brazil,Campinas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
 2026-08-26 00:56:40,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-08-26 00:56:40,152.32.207.234,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-26 02:58:31,16.5.0.132,100,Hong Kong,Hong Kong Island,,,Residential/Business,False
+2026-08-26 02:58:31,193.124.20.231,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 02:58:31,172.234.199.190,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-08-26 02:58:31,64.62.156.183,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 02:58:31,45.133.173.71,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-26 02:58:31,194.187.176.43,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-26 02:58:31,91.92.40.36,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-26 02:58:31,185.200.116.70,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-08-26 02:58:31,64.62.197.192,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,True
+2026-08-26 02:58:31,172.208.48.177,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 02:58:31,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-26 02:58:31,103.154.63.62,100,Vietnam,Cầu Giấy,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Data Center,False
+2026-08-26 02:58:31,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-26 02:58:31,45.142.89.119,100,Ukraine,Kyiv,FOP Razin,FOP Razin,Residential/Business,False
+2026-08-26 02:58:31,213.209.159.66,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-26 02:58:31,176.65.148.136,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-26 02:58:31,83.168.110.251,100,Poland,Warsaw,SkyPass Solutions Sp. z.o.o.,SkyPass Solutions Sp. z.o.o,Data Center,False
+2026-08-26 02:58:31,45.91.64.7,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,True
+2026-08-26 02:58:31,45.205.1.247,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-26 02:58:31,34.228.104.231,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-26 02:58:31,109.105.210.60,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-08-26 02:58:31,158.94.210.233,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-08-26 02:58:31,221.231.140.136,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-08-26 02:58:31,77.91.71.10,100,Georgia,,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-08-26 02:58:31,144.225.8.33,100,United States,Las Vegas,CNServer LLC,,Data Center,False
+2026-08-26 02:58:31,194.187.176.142,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-08-26 02:58:31,36.80.170.248,100,Indonesia,Balikpapan,Telkom Indonesia 7713,,Residential/Business,False
+2026-08-26 02:58:31,95.216.150.147,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-08-26 02:58:31,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-08-26 02:58:31,192.248.150.180,100,United Kingdom,Canary Wharf,"The Constant Company, LLC",Vultr Holdings LLC London,Data Center,False
+2026-08-26 02:58:31,35.237.14.92,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-26 02:58:31,172.94.9.107,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-08-26 02:58:31,43.135.149.69,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-08-26 02:58:31,154.16.44.192,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-08-26 02:58:31,36.110.172.218,100,China,Beijing,"IDC, China Telecommunications Corporation",Chinanet BJ,Residential/Business,False
+2026-08-26 02:58:31,100.29.192.88,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-26 02:58:31,213.209.159.236,100,Germany,Augsburg,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-08-26 02:58:31,187.174.238.116,100,Mexico,Miguel Hidalgo,UNINET,UNINET,Residential/Business,False
+2026-08-26 02:58:31,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-26 02:58:31,43.140.247.223,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-26 02:58:31,192.42.116.42,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-08-26 02:58:31,64.62.156.66,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 02:58:31,46.229.233.132,100,Slovakia,Bratislava,VNET a.s.,VNET a.s.,Residential/Business,False
+2026-08-26 02:58:31,107.189.28.96,100,Luxembourg,Luxembourg,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-26 02:58:31,193.163.125.249,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-26 02:58:31,20.219.2.203,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-26 02:58:31,222.132.33.37,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-26 02:58:31,193.124.20.253,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 02:58:31,46.151.178.11,100,Hong Kong,Hong Kong,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,False
+2026-08-26 02:58:31,176.65.148.150,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
