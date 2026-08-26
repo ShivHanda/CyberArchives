@@ -113184,3 +113184,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-26 12:39:04,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
 2026-08-26 12:39:04,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
 2026-08-26 12:39:04,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-08-26 14:37:34,70.121.60.160,100,United States,Dallas,Charter Communications,Spectrum,Residential/Business,False
+2026-08-26 14:37:34,71.6.134.237,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-08-26 14:37:34,118.196.92.141,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-08-26 14:37:34,8.163.117.202,100,China,Guangzhou,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,Data Center,False
+2026-08-26 14:37:34,103.75.182.108,100,Vietnam,Thủ Đức,BQT,,Residential/Business,False
+2026-08-26 14:37:34,77.91.71.11,100,Georgia,,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-08-26 14:37:34,213.176.26.52,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 14:37:34,48.217.187.152,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 14:37:34,48.216.219.157,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 14:37:34,91.92.47.128,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-08-26 14:37:34,85.217.140.29,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-26 14:37:34,45.198.224.8,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-26 14:37:34,20.14.90.84,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-26 14:37:34,153.117.50.27,100,Pakistan,Gujranwala,Cyber Internet Services (Private) Limited,Cyber  Pvt Ltd,Residential/Business,False
+2026-08-26 14:37:34,213.176.26.34,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 14:37:34,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-26 14:37:34,181.104.2.87,100,Argentina,Buenos Aires,Telecom Argentina S.A.,Telecom Personal Bs,Residential/Business,False
+2026-08-26 14:37:34,213.176.26.182,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 14:37:34,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-26 14:37:34,66.132.172.151,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-26 14:37:34,43.132.214.228,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-08-26 14:37:34,203.132.60.173,100,China,Guangzhou,China Unicom IP network China169 Guangdong province,Guangdong Cable Corporation Limited,Residential/Business,False
+2026-08-26 14:37:34,20.65.217.120,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-26 14:37:34,54.242.53.224,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-26 14:37:34,138.68.93.37,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-26 14:37:34,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-26 14:37:34,186.22.24.59,100,Argentina,Merlo,Telecentro S.A.,Telecentro S.A,Residential/Business,False
+2026-08-26 14:37:34,20.168.120.227,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-26 14:37:34,69.5.169.60,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 14:37:34,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-08-26 14:37:34,64.62.156.153,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 14:37:34,45.156.129.71,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-26 14:37:34,212.104.70.143,100,Russia,Yekaterinburg,INSYS network,,Residential/Business,False
+2026-08-26 14:37:34,185.2.80.252,100,The Netherlands,Naaldwijk,WorldStream B.V.,Moto,Data Center,False
+2026-08-26 14:37:34,44.204.37.191,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-08-26 14:37:34,45.205.1.245,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-26 14:37:34,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-26 14:37:34,20.14.89.155,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-26 14:37:34,202.145.0.61,100,Indonesia,Jakarta,PT UniNET Media Sakti,,Residential/Business,False
+2026-08-26 14:37:34,172.182.200.96,100,United States,Phoenix,Microsoft,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-26 14:37:34,213.230.92.120,100,Uzbekistan,Samarkand,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-08-26 14:37:34,45.194.67.43,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-08-26 14:37:34,34.125.7.121,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-26 14:37:34,212.33.195.84,100,Iran,Tehran,ASIATECH-DC,Asiatech Data Transmission company,Residential/Business,False
+2026-08-26 14:37:34,34.158.224.156,100,Poland,Warsaw,Google LLC,Google Cloud (europe-central2),Data Center,False
+2026-08-26 14:37:34,103.78.2.252,100,Vietnam,Phu Do,RAICLOUD,Raicloud Company Limited,Data Center,False
+2026-08-26 14:37:34,185.247.137.59,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-08-26 14:37:34,20.14.88.205,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-26 14:37:34,45.198.224.156,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-26 14:37:34,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
