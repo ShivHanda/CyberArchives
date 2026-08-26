@@ -112984,3 +112984,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-26 04:33:32,176.88.8.233,100,Türkiye,Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,Residential/Business,False
 2026-08-26 04:33:32,143.20.97.135,100,Poland,Warsaw,Wojciech Czapkowicz,TABS-HOSTING,Data Center,False
 2026-08-26 04:33:32,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-26 06:37:28,2.57.17.179,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-08-26 06:37:28,13.89.124.219,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-26 06:37:28,104.196.52.210,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-08-26 06:37:28,195.206.182.212,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-26 06:37:28,194.88.98.92,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-26 06:37:28,193.124.20.252,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 06:37:28,116.110.213.124,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-26 06:37:28,203.142.160.143,100,South Korea,Seongnam-si,ABN,Ditizone,Residential/Business,False
+2026-08-26 06:37:28,34.22.226.141,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-26 06:37:28,150.5.169.176,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-08-26 06:37:28,45.194.92.47,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-08-26 06:37:28,20.42.84.49,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 06:37:28,97.74.87.152,100,United States,New York,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-26 06:37:28,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-26 06:37:28,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-26 06:37:28,24.107.145.152,100,United States,St Louis,Charter Communications,Spectrum,Residential/Business,False
+2026-08-26 06:37:28,45.133.173.205,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-26 06:37:28,35.240.34.184,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-26 06:37:28,184.151.88.27,100,Canada,Montreal,Bell Canada,"Bell Mobility, Inc.",Residential/Business,False
+2026-08-26 06:37:28,91.99.23.68,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-08-26 06:37:28,138.2.102.66,100,Singapore,Singapore,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-08-26 06:37:28,20.104.18.15,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-26 06:37:28,213.176.26.123,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 06:37:28,85.217.149.29,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-26 06:37:28,221.10.42.66,100,China,Yongle,CNC Group CHINA169 Sichuan Province Network,,Residential/Business,True
+2026-08-26 06:37:28,207.90.244.18,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-08-26 06:37:28,211.106.133.202,100,South Korea,Songpa-gu,Korea Telecom,,Residential/Business,False
+2026-08-26 06:37:28,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-08-26 06:37:28,34.76.225.223,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-08-26 06:37:28,210.68.105.68,100,Taiwan,Taipei,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-08-26 06:37:28,165.154.51.193,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-26 06:37:28,45.133.173.155,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-26 06:37:28,20.127.220.228,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 06:37:28,185.216.145.179,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-26 06:37:28,85.217.149.44,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-26 06:37:28,45.194.92.14,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-08-26 06:37:28,190.92.174.183,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-08-26 06:37:28,160.119.251.92,100,South Africa,Cornelia,Hostafrica,,Residential/Business,False
+2026-08-26 06:37:28,85.11.167.191,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-08-26 06:37:28,103.110.164.69,100,India,Mumbai,Esto Media Private Limited,Esto Broadband Pvt Ltd,Residential/Business,False
+2026-08-26 06:37:28,65.49.1.49,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 06:37:28,159.118.163.239,100,United States,Show Low,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-08-26 06:37:28,1.165.52.233,100,Taiwan,Chang-hua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-26 06:37:28,66.132.172.147,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-26 06:37:28,66.132.186.186,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-26 06:37:28,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-26 06:37:28,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-26 06:37:28,107.150.111.70,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-08-26 06:37:28,5.252.83.246,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-08-26 06:37:28,45.119.81.245,100,Vietnam,Quận Một,Long Van System Solution,,Residential/Business,False
