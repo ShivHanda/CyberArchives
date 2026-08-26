@@ -112834,3 +112834,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-25 22:19:47,197.5.145.102,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
 2026-08-25 22:19:47,218.60.77.254,100,China,Shenyang,CNC Group CHINA169 Liaoning Province Network,,Residential/Business,False
 2026-08-25 22:19:47,102.140.97.134,100,Nigeria,Lagos,Accelon,Internet,Residential/Business,True
+2026-08-26 00:56:40,1.165.52.233,100,Taiwan,Chang-hua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-26 00:56:40,2.58.56.67,100,France,Bavilliers,Sapinet,Mifsud Florian,Data Center,False
+2026-08-26 00:56:40,43.152.72.247,100,China,Haidian,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-26 00:56:40,213.176.26.37,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 00:56:40,89.248.173.215,100,The Netherlands,Amsterdam,IP Volume inc,Quasi Networks LTD.,Residential/Business,False
+2026-08-26 00:56:40,69.5.169.210,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 00:56:40,46.101.216.224,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-26 00:56:40,45.61.187.10,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-26 00:56:40,80.94.251.244,100,Moldova,Varniţa,JSCC Interdnestrcom,,Residential/Business,False
+2026-08-26 00:56:40,45.156.129.85,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-08-26 00:56:40,59.125.30.220,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-26 00:56:40,161.248.189.130,100,Bangladesh,Mymensingh,Ummah Host BD,Ummah Host BD,Data Center,False
+2026-08-26 00:56:40,115.95.23.226,100,South Korea,Wŏnju,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-08-26 00:56:40,124.193.81.23,100,China,Chaowai,China Unicom Beijing Province Network,"Beijing Teletron Telecom Engineering Co., Ltd.",Residential/Business,False
+2026-08-26 00:56:40,213.176.26.21,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 00:56:40,175.101.14.77,100,India,Hyderabad,ExcellMedia Pvt Ltd,Excell Media Pvt Ltd,Residential/Business,False
+2026-08-26 00:56:40,103.213.238.91,100,Bangladesh,Dhaka,Inspire Broadband,,Residential/Business,False
+2026-08-26 00:56:40,106.38.195.164,100,China,Beijing,"IDC, China Telecommunications Corporation",Chinanet BJ,Residential/Business,False
+2026-08-26 00:56:40,62.183.82.70,100,Russia,Kenzhe,Kabardian-Balkar Telecommunications Company,OJSC Rostelecom Macroregional Branch South,Residential/Business,False
+2026-08-26 00:56:40,116.110.4.41,100,Vietnam,Hanoi,Viettel Group,VIETTEL,Residential/Business,False
+2026-08-26 00:56:40,27.110.166.67,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-08-26 00:56:40,203.198.129.123,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-08-26 00:56:40,152.32.220.188,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-26 00:56:40,118.193.69.177,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-26 00:56:40,121.61.163.248,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-26 00:56:40,113.88.242.136,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-08-26 00:56:40,69.5.169.213,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 00:56:40,100.50.17.159,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-26 00:56:40,91.223.227.35,100,Ukraine,Rivne,LLC Universal Telecom,Universal-Telecom LLC,Residential/Business,False
+2026-08-26 00:56:40,103.77.246.153,100,Vietnam,Yen Hoa,BIDATA,Bidata Media and Technology Joint Stock Company,Residential/Business,False
+2026-08-26 00:56:40,150.107.36.74,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-26 00:56:40,213.176.26.113,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 00:56:40,182.71.135.110,100,India,Bengaluru,Bharti Airtel,Bharti Airtel Ltd,Residential/Business,False
+2026-08-26 00:56:40,194.88.98.85,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-26 00:56:40,176.192.198.233,100,Russia,Moscow,Net By Net Holding LLC,Net By Net Holding LLC,Residential/Business,False
+2026-08-26 00:56:40,154.83.197.185,100,United States,Los Angeles,Ucloud Information Technology HK Limited,Bunny Technology LLC,Data Center,False
+2026-08-26 00:56:40,160.187.174.22,100,Indonesia,Deli Serdang,PT Netindo Persada Nusantara,Indonesia Network Information Center,Residential/Business,False
+2026-08-26 00:56:40,77.239.124.246,100,The Netherlands,Amsterdam,Banatsync SRL,RocketCloud,Data Center,False
+2026-08-26 00:56:40,66.132.172.147,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-26 00:56:40,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-26 00:56:40,34.150.81.206,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-08-26 00:56:40,47.113.222.96,100,China,Shenzhen,"Hangzhou Alibaba Advertising Co., Ltd.","Aliyun Computing Co., LTD",Data Center,False
+2026-08-26 00:56:40,14.103.123.206,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-08-26 00:56:40,64.225.30.2,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-26 00:56:40,45.4.179.4,100,Brazil,Igaci,Yuhoo NET,YUHOO,Residential/Business,False
+2026-08-26 00:56:40,20.196.209.81,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-08-26 00:56:40,139.162.70.53,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-08-26 00:56:40,179.176.210.17,100,Brazil,Campinas,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-08-26 00:56:40,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-26 00:56:40,152.32.207.234,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
