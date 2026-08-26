@@ -113134,3 +113134,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-26 10:29:00,34.122.87.116,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
 2026-08-26 10:29:00,34.175.118.185,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,True
 2026-08-26 10:29:00,172.174.46.118,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 12:39:04,120.202.189.21,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-26 12:39:04,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-26 12:39:04,45.4.179.4,100,Brazil,Igaci,Yuhoo NET,YUHOO,Residential/Business,False
+2026-08-26 12:39:04,158.69.55.148,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,True
+2026-08-26 12:39:04,152.32.159.180,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,True
+2026-08-26 12:39:04,20.48.147.90,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-26 12:39:04,139.255.254.163,100,Indonesia,South Tangerang,PT. LINKNET,,Residential/Business,False
+2026-08-26 12:39:04,203.145.143.163,100,India,Marauli,Bharti Airtel,Bharti Hexacom Limited,Mobile,False
+2026-08-26 12:39:04,189.222.141.55,100,Mexico,Mexicali,UNINET,"Telefonos del Noroeste, S.A. de C.V",Residential/Business,False
+2026-08-26 12:39:04,78.128.114.46,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-26 12:39:04,49.207.244.115,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-08-26 12:39:04,176.104.7.98,100,Ukraine,Kyiv,UnderNet LLC,UnderNet LLC,Residential/Business,False
+2026-08-26 12:39:04,65.49.1.45,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-26 12:39:04,16.5.0.133,100,Hong Kong,Hong Kong Island,,,Residential/Business,False
+2026-08-26 12:39:04,43.166.7.113,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-08-26 12:39:04,20.51.187.246,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-26 12:39:04,31.57.184.247,100,United States,Chicago,VPS Dedicated LLC,VPS Dedicated LLC,Data Center,False
+2026-08-26 12:39:04,85.217.149.65,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-08-26 12:39:04,89.21.67.159,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-26 12:39:04,118.69.225.160,100,Vietnam,Ho Chi Minh City,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-08-26 12:39:04,113.140.95.250,100,China,Xincheng,Chinanet,Chinanet SN,Residential/Business,True
+2026-08-26 12:39:04,78.128.114.174,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-26 12:39:04,122.187.230.38,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-08-26 12:39:04,103.187.147.214,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,True
+2026-08-26 12:39:04,213.176.26.194,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-26 12:39:04,185.208.106.2,100,Italy,Lipari,AM1/AIRMAX 3°,Airmax - S.R.L.,Residential/Business,False
+2026-08-26 12:39:04,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-26 12:39:04,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-26 12:39:04,160.22.106.87,100,Vietnam,Nha Trang,TDVPSTTT,VPSTTT Group Joint Stock Company,Data Center,False
+2026-08-26 12:39:04,41.181.156.205,100,South Africa,Germiston,MTNBS,MTN Business SA,Mobile,False
+2026-08-26 12:39:04,202.53.94.242,100,India,Guntur,Nettlinx Limited,Nettlinx Limited,Residential/Business,False
+2026-08-26 12:39:04,111.88.6.196,100,Pakistan,Karachi,CONNECT,,Residential/Business,False
+2026-08-26 12:39:04,154.38.180.49,100,United States,Orangeburg,Contabo Inc.,Contabo Inc,Data Center,False
+2026-08-26 12:39:04,43.165.170.198,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-08-26 12:39:04,129.121.114.225,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-08-26 12:39:04,45.154.244.193,100,The Netherlands,Amsterdam,Shereverov Marat Ahmedovich,Nikolov Dimitrov Georgi,Residential/Business,True
+2026-08-26 12:39:04,66.132.195.29,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-26 12:39:04,158.178.141.16,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-08-26 12:39:04,121.160.23.240,100,South Korea,Dongdaemun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-26 12:39:04,160.153.252.100,100,France,Strasbourg,Host Europe GmbH,"GoDaddy.com, LLC",Data Center,False
+2026-08-26 12:39:04,47.77.182.54,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-26 12:39:04,168.76.20.229,100,South Africa,Bloemfontein,Freenet,Free State Education Department,Residential/Business,False
+2026-08-26 12:39:04,40.119.43.103,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-26 12:39:04,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-08-26 12:39:04,152.32.146.202,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-08-26 12:39:04,60.250.246.239,100,Taiwan,Bade District,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-26 12:39:04,111.32.153.180,100,China,Guangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-08-26 12:39:04,103.176.20.115,100,Vietnam,Quỳnh Lôi,GBNIT,Giap Bich Ngoc Communication Company Limited,Residential/Business,False
+2026-08-26 12:39:04,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-08-26 12:39:04,186.96.145.241,100,Mexico,Mexico City,Total Play Telecomunicaciones SA De CV,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
