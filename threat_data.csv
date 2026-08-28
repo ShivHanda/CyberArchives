@@ -113479,3 +113479,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-27 18:44:03,165.154.151.176,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-08-27 18:44:03,104.218.166.62,100,Vietnam,Quận Năm,Zenlayer Inc,UCLOUD,Data Center,False
 2026-08-27 18:44:03,112.158.200.53,100,South Korea,Yongin-si,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-08-28 03:58:26,34.16.251.137,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-08-28 03:58:26,194.88.98.85,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-28 03:58:26,200.112.142.134,100,Argentina,Tres Lomas,Sion S.A,Sion S.A,Residential/Business,False
+2026-08-28 03:58:26,124.239.153.90,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,True
+2026-08-28 03:58:26,129.226.157.162,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-08-28 03:58:26,3.70.210.129,100,Germany,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),Data Center,False
+2026-08-28 03:58:26,175.107.244.205,100,Pakistan,Islamabad,Cyber Internet Services Pakistan,Broadband Services,Residential/Business,False
+2026-08-28 03:58:26,47.254.184.200,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-08-28 03:58:26,188.59.88.234,100,Türkiye,Eyüpsultan,Turkcell Internet,,Residential/Business,False
+2026-08-28 03:58:26,69.5.169.100,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-28 03:58:26,170.80.65.140,100,Brazil,Pedro Leopoldo,BTT TELECOMUNICACOES S.A.,BTT TELECOMUNICACOES S.A,Residential/Business,False
+2026-08-28 03:58:26,120.48.122.158,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-08-28 03:58:26,43.239.200.103,100,India,Hyderabad,Gujarat Telelink Pvt Ltd,Gtpl Broadband Pvt. Ltd.,Residential/Business,False
+2026-08-28 03:58:26,5.252.83.174,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-08-28 03:58:26,152.32.158.69,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-08-28 03:58:26,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-08-28 03:58:26,91.143.161.208,100,Russia,Yekaterinburg,Insys LLC,Insys EKB,Residential/Business,False
+2026-08-28 03:58:26,178.178.194.128,100,Russia,Moscow,PJSC MegaFon,MegaFon,Mobile,False
+2026-08-28 03:58:26,85.95.202.167,100,France,Freyming-Merlebach,Regies Moselle,,Residential/Business,False
+2026-08-28 03:58:26,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-28 03:58:26,46.246.88.142,100,Sweden,Stockholm,Portlane Network,,Data Center,True
+2026-08-28 03:58:26,85.190.97.128,100,Germany,Leipzig,dogado GmbH,Hostnet,Data Center,False
+2026-08-28 03:58:26,66.132.186.209,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-28 03:58:26,145.239.85.111,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,True
+2026-08-28 03:58:26,35.187.231.181,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-08-28 03:58:26,147.45.48.189,100,Russia,Novosibirsk,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,False
+2026-08-28 03:58:26,216.122.38.231,100,United States,Glasgow,South Central Rural Telecommunications Cooperative Inc.,South Central Rural Telecommunications Cooperative Inc,Data Center,False
+2026-08-28 03:58:26,206.81.12.187,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-08-28 03:58:26,164.92.176.86,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-28 03:58:26,66.132.172.150,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-28 03:58:26,58.58.38.30,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-08-28 03:58:26,61.76.221.51,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-28 03:58:26,213.66.196.11,100,Sweden,Jössefors,Telia Company AB,,Residential/Business,False
+2026-08-28 03:58:26,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-28 03:58:26,62.60.130.182,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-28 03:58:26,31.173.67.141,100,Russia,Moscow,PJSC MegaFon,Megafon Moscow Broadband,Mobile,False
+2026-08-28 03:58:26,20.219.91.90,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-08-28 03:58:26,95.105.52.153,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-08-28 03:58:26,193.124.20.231,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-28 03:58:26,92.118.39.223,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-28 03:58:26,171.25.158.50,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,True
+2026-08-28 03:58:26,154.221.35.72,100,Peru,Lima,Neevai Supercloud PVT LTD,Cloud Innovation Ltd,Data Center,False
+2026-08-28 03:58:26,38.137.11.14,100,India,Chandigarh,Netplus Broadband Services Pvt ltd,Netplus Broadband Services Pvt ltd,Residential/Business,False
+2026-08-28 03:58:26,213.176.26.52,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-08-28 03:58:26,5.180.179.20,100,Ghana,Accra,GSL Networks Pty LTD,GSL Networks Pty LTD,Data Center,True
+2026-08-28 03:58:26,20.163.3.31,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-28 03:58:26,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-08-28 03:58:26,103.168.67.253,100,United States,Dallas,Mahavir Milapchand Jain,,Data Center,True
+2026-08-28 03:58:26,200.159.177.30,100,Brazil,Novo Hamburgo,Defferrari Solucoes em Internet Ltda,Flux Tecnologia Ltda,Residential/Business,False
+2026-08-28 03:58:26,47.84.137.3,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
