@@ -113679,3 +113679,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-29 08:31:43,46.101.137.209,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-08-29 08:31:43,194.180.48.39,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
 2026-08-29 08:31:43,45.154.244.193,100,The Netherlands,Amsterdam,Shereverov Marat Ahmedovich,Nikolov Dimitrov Georgi,Residential/Business,True
+2026-08-29 14:53:30,198.98.56.205,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-08-29 14:53:30,79.101.127.114,100,Serbia,Stara Pazova,TELEKOM-SRBIJA,,Residential/Business,False
+2026-08-29 14:53:30,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-29 14:53:30,109.72.235.191,100,Russia,Moscow,MOSLINE,,Residential/Business,False
+2026-08-29 14:53:30,179.27.45.12,100,Uruguay,Montevideo,Administracion Nacional de Telecomunicaciones,Cliente Antel Uruguay,Residential/Business,False
+2026-08-29 14:53:30,154.92.23.249,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Data Center,False
+2026-08-29 14:53:30,104.199.148.168,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-08-29 14:53:30,220.93.167.144,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-08-29 14:53:30,45.148.10.62,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-29 14:53:30,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-08-29 14:53:30,103.69.149.148,100,Bangladesh,Dhaka,Digi Jadoo Broadband Ltd,,Residential/Business,False
+2026-08-29 14:53:30,221.162.63.50,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-08-29 14:53:30,155.4.209.51,100,Sweden,Karlstad,Bahnhof AB,General Private,Residential/Business,False
+2026-08-29 14:53:30,34.118.48.73,100,Poland,Warsaw,Google LLC,Google Cloud (europe-central2),Data Center,False
+2026-08-29 14:53:30,173.80.66.79,100,United States,Charleston,Suddenlink Communications,Optimum,Residential/Business,False
+2026-08-29 14:53:30,112.140.160.26,100,Indonesia,Surabaya,SURABAYA,,Residential/Business,False
+2026-08-29 14:53:30,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-29 14:53:30,74.94.234.151,100,United States,Birmingham,Comcast Cable Communications,Corp PRK Rochester HIL,Residential/Business,False
+2026-08-29 14:53:30,72.215.33.16,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-08-29 14:53:30,66.132.172.111,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-29 14:53:30,4.211.84.189,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-08-29 14:53:30,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-08-29 14:53:30,111.68.107.91,100,Pakistan,Islamabad,HEC,Pern,Residential/Business,False
+2026-08-29 14:53:30,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-29 14:53:30,171.231.191.56,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-08-29 14:53:30,177.53.213.171,100,Ecuador,Quito,Eliana Vanessa Morocho Oña,Universal-stereo C.L,Residential/Business,False
+2026-08-29 14:53:30,103.137.65.2,100,Indonesia,Jakarta,SCT,PT. SURYA CITRA TECHNOLOGY,Residential/Business,False
+2026-08-29 14:53:30,36.255.97.14,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-08-29 14:53:30,35.198.245.171,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-08-29 14:53:30,103.172.20.218,100,Indonesia,Rengasdengklok,PT Vaiotech Lintas Nusantara,PT Vaiotech Lintas Nusantara,Residential/Business,False
+2026-08-29 14:53:30,203.130.240.54,100,Indonesia,Jakarta,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-08-29 14:53:30,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-29 14:53:30,121.160.23.240,100,South Korea,Dongdaemun,Korea Telecom,Kornet,Residential/Business,False
+2026-08-29 14:53:30,185.220.100.242,100,Germany,Haßfurt,F3 Netze e.V.,F3 Netze e.V,Data Center,True
+2026-08-29 14:53:30,1.212.225.99,100,South Korea,Anyang-si,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-08-29 14:53:30,115.75.150.3,100,Vietnam,Ho Chi Minh City,VIETELxdsl,xDSL Services,Residential/Business,False
+2026-08-29 14:53:30,147.15.110.51,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-08-29 14:53:30,54.242.243.244,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-08-29 14:53:30,68.178.166.175,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-29 14:53:30,217.199.148.226,100,Kenya,Nairobi,MTN Business Kenya,MTN Business Kenya,Mobile,True
+2026-08-29 14:53:30,182.78.112.158,100,India,Faridabad,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-08-29 14:53:30,165.154.174.108,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-29 14:53:30,64.225.30.2,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-29 14:53:30,130.105.239.64,100,Philippines,Taguig,SKYBroadband,,Residential/Business,False
+2026-08-29 14:53:30,114.217.10.60,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-08-29 14:53:30,121.204.171.142,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-08-29 14:53:30,111.175.88.6,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-29 14:53:30,64.89.160.111,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-08-29 14:53:30,216.73.217.153,100,United States,Columbus,Amazon.com,"Anthropic, PBC",Data Center,False
+2026-08-29 14:53:30,154.221.35.72,100,Peru,Lima,Neevai Supercloud PVT LTD,Cloud Innovation Ltd,Data Center,False
