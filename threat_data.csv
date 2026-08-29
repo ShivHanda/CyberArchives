@@ -113779,3 +113779,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-29 19:04:30,186.121.233.2,100,Bolivia,Santa Cruz de la Sierra,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
 2026-08-29 19:04:30,84.235.173.221,100,Netherlands,Amsterdam,Oracle Corporation,Oracle Cloud Infrastructure (eu-amsterdam-1),Data Center,False
 2026-08-29 19:04:30,213.166.84.49,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-29 22:11:01,47.250.95.153,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-08-29 22:11:01,66.132.186.245,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-29 22:11:01,103.154.158.70,100,Bangladesh,Dhaka,The 1 Web Solution,,Residential/Business,False
+2026-08-29 22:11:01,172.190.89.127,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-29 22:11:01,103.210.21.178,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-08-29 22:11:01,45.55.153.86,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-29 22:11:01,112.105.44.37,100,Taiwan,Dadu,TINP,Digital United Inc.,Residential/Business,False
+2026-08-29 22:11:01,103.233.146.187,100,Indonesia,Bandung,PT Mora Telematika Indonesia,PT Mora Quatro Multimedia,Residential/Business,False
+2026-08-29 22:11:01,59.126.224.134,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-08-29 22:11:01,124.158.13.4,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-08-29 22:11:01,103.189.208.13,100,Vietnam,Sơn Trà,Tedev Technological Development Company Limited,TEDEV,Residential/Business,False
+2026-08-29 22:11:01,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-08-29 22:11:01,92.204.138.142,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,False
+2026-08-29 22:11:01,194.44.131.126,100,Ukraine,Lviv,LLC EKSINTECH,LLC EKSINTECH,Residential/Business,False
+2026-08-29 22:11:01,92.205.57.72,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Data Center,False
+2026-08-29 22:11:01,111.175.39.76,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-08-29 22:11:01,211.228.97.186,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-29 22:11:01,172.172.164.248,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-29 22:11:01,34.34.99.157,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-08-29 22:11:01,194.88.98.102,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-29 22:11:01,219.73.79.33,100,Hong Kong,Central,Pccw IMS,PCCW Limited,Residential/Business,False
+2026-08-29 22:11:01,77.223.215.144,100,Germany,Frankfurt am Main,"Limestone Networks, Inc.",Ethernet Servers,Data Center,False
+2026-08-29 22:11:01,218.206.136.24,100,China,Nanjing,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-08-29 22:11:01,103.153.190.105,100,Indonesia,Jakarta,WANET,,Residential/Business,False
+2026-08-29 22:11:01,190.197.31.229,100,Belize,Belize City,Belize Telemedia Limited,CZL ISAM,Residential/Business,False
+2026-08-29 22:11:01,104.46.209.135,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-08-29 22:11:01,218.156.93.206,100,South Korea,Incheon,Korea Telecom,Kornet,Residential/Business,False
+2026-08-29 22:11:01,218.157.153.219,100,South Korea,Daegu,Korea Telecom,KORNET,Residential/Business,False
+2026-08-29 22:11:01,117.4.81.106,100,Vietnam,Hanoi,VIETTEL,,Residential/Business,False
+2026-08-29 22:11:01,103.153.110.190,100,Bangladesh,Pālang,SHIMUL T/A ERA TRADERS,ERA TRADERS,Residential/Business,False
+2026-08-29 22:11:01,112.226.227.21,100,China,Jinan,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
+2026-08-29 22:11:01,175.100.107.238,100,Cambodia,Phnom Penh,"VIETTEL (CAMBODIA) PTE., LTD","Viettel (cambodia) Pte., Ltd.",Residential/Business,False
+2026-08-29 22:11:01,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-29 22:11:01,121.14.34.219,100,China,Guangzhou,China Telecom,,Residential/Business,False
+2026-08-29 22:11:01,66.132.172.110,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-29 22:11:01,95.97.203.134,100,The Netherlands,Barendrecht,Vodafone Ziggo,Liberty Global B.V.,Residential/Business,False
+2026-08-29 22:11:01,128.14.226.191,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-29 22:11:01,66.132.172.42,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-29 22:11:01,90.184.10.74,100,Denmark,Hemmet,Hiper A/S,Fullrate,Residential/Business,True
+2026-08-29 22:11:01,47.84.136.87,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-08-29 22:11:01,103.191.204.229,100,India,Pune,Vishwamani Solutions Pvt Ltd,Vishwamani Solutions Pvt Ltd,Residential/Business,False
+2026-08-29 22:11:01,37.79.232.82,100,Russia,Kamyshlov,USI ADSL,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-08-29 22:11:01,69.5.169.177,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-29 22:11:01,117.242.191.241,100,India,Mysuru,BSNL Internet,,Residential/Business,False
+2026-08-29 22:11:01,138.197.174.71,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
