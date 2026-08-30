@@ -113824,3 +113824,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-29 22:11:01,69.5.169.177,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-08-29 22:11:01,117.242.191.241,100,India,Mysuru,BSNL Internet,,Residential/Business,False
 2026-08-29 22:11:01,138.197.174.71,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-30 03:05:29,69.5.169.209,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-30 03:05:29,64.62.197.222,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-30 03:05:29,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-08-30 03:05:29,45.165.12.213,100,Brazil,Chapadinha,R G DE SOUSA LTDA,R G DE SOUSA LTDA,Residential/Business,False
+2026-08-30 03:05:29,184.105.139.81,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-30 03:05:29,66.132.224.226,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-30 03:05:29,78.188.181.26,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-08-30 03:05:29,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-30 03:05:29,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-08-30 03:05:29,64.62.197.73,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-08-30 03:05:29,66.132.186.172,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-08-30 03:05:29,20.168.112.88,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-30 03:05:29,118.193.32.119,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-08-30 03:05:29,85.203.23.202,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-30 03:05:29,66.240.205.34,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-08-30 03:05:29,78.153.140.156,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,LLC Company Interlan Communications,Data Center,False
+2026-08-30 03:05:29,40.124.170.183,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-30 03:05:29,14.248.83.33,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-08-30 03:05:29,152.67.9.154,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-08-30 03:05:29,103.143.231.24,100,Hong Kong,Kwai Chung,Yisu Cloud LTD,"Hongkong Hongdou Technology Co., Limited",Data Center,False
+2026-08-30 03:05:29,172.160.227.37,100,Sweden,Gävle,Microsoft,Microsoft Azure Cloud (swedencentral),Data Center,False
+2026-08-30 03:05:29,200.59.88.182,100,Argentina,Río Gallegos,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-08-30 03:05:29,210.56.12.205,100,Pakistan,Islamabad,PTCL ITI Future Connect 79,,Residential/Business,False
+2026-08-30 03:05:29,47.254.156.127,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-08-30 03:05:29,94.154.43.95,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-08-30 03:05:29,211.185.16.78,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-08-30 03:05:29,84.241.63.248,100,Iran,Tehran,SHATEL Network,Shatel Group,Residential/Business,False
+2026-08-30 03:05:29,187.52.212.235,100,Brazil,Cascavel,V tal,V tal,Residential/Business,False
+2026-08-30 03:05:29,65.49.1.223,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-08-30 03:05:29,40.124.186.106,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-08-30 03:05:29,85.203.23.215,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-30 03:05:29,85.203.23.206,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-30 03:05:29,20.14.73.102,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-30 03:05:29,45.198.224.27,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-08-30 03:05:29,45.133.173.245,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-08-30 03:05:29,27.110.166.67,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-08-30 03:05:29,85.203.23.166,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-08-30 03:05:29,52.180.141.95,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-08-30 03:05:29,194.88.98.88,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-30 03:05:29,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-30 03:05:29,4.148.240.209,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-30 03:05:29,173.239.211.132,100,United States,New York,F.N.S. HOLDINGS LIMITED,LogicWeb Inc,Data Center,True
+2026-08-30 03:05:29,69.5.169.32,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-30 03:05:29,43.228.157.155,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-08-30 03:05:29,103.144.82.250,100,Indonesia,Balikpapan,Diskominfo Balikpapan,,Residential/Business,False
+2026-08-30 03:05:29,34.6.248.113,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-08-30 03:05:29,66.132.172.47,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-30 03:05:29,68.178.166.175,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-08-30 03:05:29,203.83.231.93,100,China,Guangzhou,China Telecom,,Data Center,False
+2026-08-30 03:05:29,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
