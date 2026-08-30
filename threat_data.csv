@@ -114024,3 +114024,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-08-30 18:59:19,20.102.98.53,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-08-30 18:59:19,149.54.51.154,100,Afghanistan,Lashkar Gah,Government Communications Network,Government Communications Network,Residential/Business,False
 2026-08-30 18:59:19,202.145.0.18,100,Indonesia,Jakarta,PT UniNET Media Sakti,,Residential/Business,False
+2026-08-30 22:18:17,107.155.56.47,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-08-30 22:18:17,181.94.222.169,100,Paraguay,Fernando de la Mora,Núcleo S.A.,Núcleo S.A,Residential/Business,False
+2026-08-30 22:18:17,20.48.250.41,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-08-30 22:18:17,120.33.126.224,100,China,Wenquan,Chinanet,Chinanet FJ,Residential/Business,False
+2026-08-30 22:18:17,66.132.195.34,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-30 22:18:17,218.51.148.194,100,South Korea,Gongju,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-08-30 22:18:17,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-08-30 22:18:17,66.132.195.16,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-30 22:18:17,135.235.138.43,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-08-30 22:18:17,185.250.23.106,100,Ukraine,Kyiv,Gigacloud LLC,Gigacloud LLC,Data Center,False
+2026-08-30 22:18:17,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-08-30 22:18:17,134.209.75.150,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-30 22:18:17,154.70.102.114,100,Cameroon,Douala,MTN Network Solutions (Cameroon),DataCenter Douala,Mobile,False
+2026-08-30 22:18:17,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-08-30 22:18:17,159.223.181.143,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-30 22:18:17,185.169.4.229,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-08-30 22:18:17,83.254.172.36,100,Sweden,Arvika,COMHEM,Com Hem AB,Residential/Business,False
+2026-08-30 22:18:17,103.229.125.91,100,Hong Kong,San Po Kong,Dingke human resource co.LTD,Hosted in Cloudie Limited,Data Center,True
+2026-08-30 22:18:17,128.185.194.162,100,India,Dwarka,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-08-30 22:18:17,194.32.107.14,100,Norway,Sandefjord,Gigahost,Gigahost,Data Center,True
+2026-08-30 22:18:17,64.181.172.46,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-08-30 22:18:17,102.38.3.104,100,Libya,Tripoli,Giga for Telecommunication and Technology Limited,GKA,Residential/Business,False
+2026-08-30 22:18:17,66.132.172.35,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-08-30 22:18:17,104.186.195.226,100,United States,Oklahoma City,"AT&T Enterprises, LLC",Private Customer - AT&T Internet Services,Residential/Business,False
+2026-08-30 22:18:17,20.38.34.87,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-30 22:18:17,74.235.188.17,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-08-30 22:18:17,62.0.93.163,100,Israel,Tel Aviv,NV BROADBAND1108,NetVision LTD.,Residential/Business,False
+2026-08-30 22:18:17,183.88.232.183,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-08-30 22:18:17,152.42.189.253,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-08-30 22:18:17,115.151.72.155,100,China,Yichun,Chinanet,Chinanet JX,Residential/Business,False
+2026-08-30 22:18:17,51.77.217.11,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-08-30 22:18:17,185.226.197.48,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-08-30 22:18:17,46.172.83.118,100,Ukraine,Kharkiv,It-starcom LLC,It-starcom LLC,Residential/Business,False
+2026-08-30 22:18:17,168.144.28.166,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-08-30 22:18:17,5.226.140.124,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-30 22:18:17,115.68.133.201,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-08-30 22:18:17,216.126.225.6,100,United States,Ogden,RouterHosting LLC,anyNode,Data Center,False
+2026-08-30 22:18:17,46.151.182.39,100,Germany,Frankfurt am Main,Ghosty Networks LLC,Ghosty Networks LLC,Data Center,True
+2026-08-30 22:18:17,213.166.84.57,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-30 22:18:17,134.33.66.70,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-08-30 22:18:17,69.5.169.254,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-08-30 22:18:17,128.201.9.152,100,Brazil,Carmo do Cajuru,Next Fibra,Next Fibra,Residential/Business,False
+2026-08-30 22:18:17,165.154.205.128,100,Singapore,Singapore,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-08-30 22:18:17,213.225.37.142,100,Austria,Vienna,A1 Telekom Austria AG,A1 Telekom Austria AG,Mobile,False
+2026-08-30 22:18:17,81.192.138.65,100,Morocco,Rabat,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-08-30 22:18:17,199.45.155.83,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-08-30 22:18:17,201.71.192.108,100,Brazil,Joviânia,Conectte Telecom Ltda,Conectte Telecom Ltda,Residential/Business,False
+2026-08-30 22:18:17,185.223.235.53,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-30 22:18:17,188.240.59.60,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-08-30 22:18:17,213.166.84.51,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
