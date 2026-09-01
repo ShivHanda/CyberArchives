@@ -114324,3 +114324,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-01 03:06:31,147.224.242.137,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
 2026-09-01 03:06:31,91.92.47.82,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
 2026-09-01 03:06:31,152.32.205.184,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-01 09:04:51,108.32.93.122,100,United States,Pittsburgh,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",Residential/Business,False
+2026-09-01 09:04:51,102.210.149.105,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-09-01 09:04:51,199.45.154.178,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-01 09:04:51,213.177.179.195,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-01 09:04:51,64.121.66.69,100,United States,Allentown,RCN,RCN Corporation,Residential/Business,False
+2026-09-01 09:04:51,218.155.103.127,100,South Korea,Yongin-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-01 09:04:51,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 09:04:51,152.32.183.209,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-01 09:04:51,64.89.161.75,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-09-01 09:04:51,115.231.78.3,100,China,Hangzhou,Chinanet,"Hangzhou Duchuang Keji Co., Ltd",Residential/Business,False
+2026-09-01 09:04:51,185.75.238.254,100,Latvia,Riga,BALTICOM-BIX,,Residential/Business,False
+2026-09-01 09:04:51,31.40.19.93,100,Ukraine,Teplodar,Ketnet Telecom Ltd,Ketnet Telecom Ltd,Residential/Business,False
+2026-09-01 09:04:51,66.132.195.62,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-01 09:04:51,20.104.18.15,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-09-01 09:04:51,34.10.24.185,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-01 09:04:51,20.15.228.53,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-01 09:04:51,171.231.191.139,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-01 09:04:51,47.251.78.116,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-01 09:04:51,8.211.45.194,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-01 09:04:51,101.36.107.243,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-01 09:04:51,194.187.176.5,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-01 09:04:51,143.42.1.52,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-01 09:04:51,185.16.214.226,100,Russia,Moscow,Start2 LLC,Start2 LLC,Residential/Business,False
+2026-09-01 09:04:51,185.223.235.49,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-01 09:04:51,103.172.11.149,100,India,Kapadvanj,JD ALLDAY NETSOL PRIVATE LIMITED,JD Allday Netsol Private Limited,Residential/Business,False
+2026-09-01 09:04:51,3.88.203.46,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-01 09:04:51,130.12.180.101,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-09-01 09:04:51,92.112.127.220,100,The Netherlands,Amsterdam,Matteo Martelloni trading as DELUXHOST,DELUXHOST,Data Center,True
+2026-09-01 09:04:51,81.161.239.19,100,United States,Kansas City,GRAV-AS,GravHosting LLC,Data Center,False
+2026-09-01 09:04:51,34.89.40.225,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-09-01 09:04:51,101.96.225.252,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-01 09:04:51,208.92.220.138,100,United States,Clinton Township,Route 256,,Residential/Business,False
+2026-09-01 09:04:51,178.78.176.40,100,Armenia,Yerevan,Ucom CJSC,Ucom,Mobile,False
+2026-09-01 09:04:51,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-09-01 09:04:51,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 09:04:51,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-09-01 09:04:51,194.187.176.131,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-01 09:04:51,114.80.39.74,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-01 09:04:51,124.18.182.99,100,Japan,Hamamatsu,"Chubu Telecommunications Co., Inc.",General placeholder reference all addresses,Residential/Business,False
+2026-09-01 09:04:51,193.176.31.248,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-01 09:04:51,66.132.195.46,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-01 09:04:51,129.121.128.70,100,Singapore,Singapore,Oracle Corporation,"Oso Grande IP Services, LLC",Residential/Business,False
+2026-09-01 09:04:51,156.225.1.109,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-09-01 09:04:51,73.53.84.117,100,United States,Lynnwood,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-09-01 09:04:51,104.129.1.194,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-09-01 09:04:51,45.194.67.45,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,False
+2026-09-01 09:04:51,69.5.169.147,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-01 09:04:51,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-01 09:04:51,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-09-01 09:04:51,143.42.1.213,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
