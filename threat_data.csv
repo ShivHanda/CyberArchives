@@ -114374,3 +114374,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-01 09:04:51,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-09-01 09:04:51,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
 2026-09-01 09:04:51,143.42.1.213,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-01 14:27:25,103.4.76.1,100,Indonesia,South Tangerang,PT Khazanah Net Indonesia,PT Khazanah Net Indonesia,Residential/Business,False
+2026-09-01 14:27:25,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 14:27:25,103.99.27.125,100,Indonesia,Jakarta,PT Lintas Network Solusi,PT Lintas Network Solusi,Residential/Business,False
+2026-09-01 14:27:25,2.27.157.181,100,India,Delhi,Advika Web Developments Hosting Pvt Ltd,Inservers Host Private Limited,Data Center,False
+2026-09-01 14:27:25,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-09-01 14:27:25,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 14:27:25,167.172.119.80,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-01 14:27:25,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-01 14:27:25,64.227.55.154,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-01 14:27:25,20.84.80.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-01 14:27:25,162.252.199.70,100,The Netherlands,Amsterdam,MadeIT inc.,CPG Ventures,Data Center,False
+2026-09-01 14:27:25,165.154.49.137,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-01 14:27:25,31.59.89.54,100,Italy,Nola,Novaconn SRL,Novaconn SRL,Residential/Business,False
+2026-09-01 14:27:25,140.207.53.100,100,China,Jinrongjie,China Unicom,,Residential/Business,False
+2026-09-01 14:27:25,27.24.141.95,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-09-01 14:27:25,216.51.185.177,100,United States,Cincinnati,Aureon Network Services,Farmers Mutual Cooperative Telephone Company of Moulton,Residential/Business,False
+2026-09-01 14:27:25,167.172.52.88,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-01 14:27:25,45.148.10.60,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 14:27:25,86.54.31.36,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-09-01 14:27:25,163.7.11.155,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-01 14:27:25,150.107.248.141,100,India,Surat,PT Tele Globe Global,,Residential/Business,False
+2026-09-01 14:27:25,143.110.142.175,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-01 14:27:25,194.50.235.155,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-01 14:27:25,137.184.215.52,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-01 14:27:25,199.45.154.50,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-01 14:27:25,152.32.227.68,100,Russia,Moscow,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-01 14:27:25,139.255.18.29,100,Indonesia,Tangerang,PT. LINKNET,,Residential/Business,False
+2026-09-01 14:27:25,195.140.214.23,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-01 14:27:25,65.49.1.122,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-01 14:27:25,189.158.81.215,100,Mexico,San Nicolás de los Garza,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-09-01 14:27:25,154.83.12.89,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-09-01 14:27:25,152.32.170.230,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-09-01 14:27:25,193.163.125.7,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-01 14:27:25,137.184.99.239,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-01 14:27:25,193.124.20.250,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-01 14:27:25,64.89.163.178,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-01 14:27:25,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-01 14:27:25,72.205.170.19,100,United States,New Orleans,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-01 14:27:25,103.207.1.13,100,India,Madurai,Sri Vari Network Private Limited,Sri Vari Network Private Limited,Residential/Business,False
+2026-09-01 14:27:25,178.78.176.40,100,Armenia,Yerevan,Ucom CJSC,Ucom CJSC,Mobile,False
+2026-09-01 14:27:25,194.187.176.161,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-01 14:27:25,82.119.118.219,100,Slovakia,Bratislava,UPC,,Residential/Business,False
+2026-09-01 14:27:25,85.208.96.194,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-09-01 14:27:25,37.10.113.222,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-01 14:27:25,159.89.131.219,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-01 14:27:25,123.129.245.249,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-01 14:27:25,49.124.148.195,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-01 14:27:25,140.186.53.181,100,United States,Bismarck,Midcontinent Communications,Midcontinent Communications,Residential/Business,False
+2026-09-01 14:27:25,85.225.13.121,100,Sweden,Tollarp,Telenor Sverige AB,Tnse Bisp,Residential/Business,False
+2026-09-01 14:27:25,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
