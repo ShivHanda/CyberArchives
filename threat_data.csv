@@ -114774,3 +114774,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-02 20:24:08,165.154.227.8,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
 2026-09-02 20:24:08,148.66.142.9,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
 2026-09-02 20:24:08,172.110.223.252,100,Hong Kong,Hong Kong,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-09-02 23:46:13,40.124.171.25,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-02 23:46:13,223.19.66.178,100,Hong Kong,Lok Fu,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-09-02 23:46:13,35.221.160.238,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-02 23:46:13,116.181.17.196,100,France,Paris,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,Residential/Business,False
+2026-09-02 23:46:13,144.91.95.188,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-02 23:46:13,207.90.244.18,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-02 23:46:13,69.5.169.163,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-09-02 23:46:13,192.252.215.125,100,United States,Atlanta,Performive LLC,Performive LLC,Data Center,True
+2026-09-02 23:46:13,73.111.97.205,100,United States,Chicago,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-09-02 23:46:13,136.67.82.141,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-02 23:46:13,216.197.132.184,100,Canada,Yorkton,Saskatchewan Telecommunications,SaskTel Wide Area Network Engineering Center,Residential/Business,False
+2026-09-02 23:46:13,16.5.0.244,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-02 23:46:13,183.208.117.159,100,China,Nanjing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-02 23:46:13,165.154.151.207,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 23:46:13,91.245.74.31,100,Ukraine,Lviv,"PC ""Astra-net""","PC ""Astra-net""",Residential/Business,False
+2026-09-02 23:46:13,34.158.92.252,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-02 23:46:13,159.223.184.166,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-02 23:46:13,67.220.180.114,100,United States,Los Angeles,"24 SHELLS, Host World Net LLC",B2 Net Solutions Inc.,Data Center,True
+2026-09-02 23:46:13,75.69.233.9,100,United States,Fall River,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc",Residential/Business,False
+2026-09-02 23:46:13,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-02 23:46:13,154.16.44.38,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-09-02 23:46:13,196.204.210.11,100,Egypt,Abū an Numrus,Vodafone Data,,Residential/Business,False
+2026-09-02 23:46:13,193.163.125.68,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-02 23:46:13,124.171.133.25,100,Australia,Sydney,TPG Internet Pty Ltd,iiNet Limited,Residential/Business,False
+2026-09-02 23:46:13,129.121.119.196,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-02 23:46:13,165.173.21.44,100,Singapore,Singapore,Myrepublic Limited,Myrepublic Limited,Residential/Business,False
+2026-09-02 23:46:13,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-09-02 23:46:13,123.113.10.184,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-09-02 23:46:13,185.223.235.7,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-02 23:46:13,185.2.80.253,100,The Netherlands,Naaldwijk,WorldStream B.V.,Moto,Data Center,False
+2026-09-02 23:46:13,213.209.159.208,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-02 23:46:13,20.83.179.146,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-02 23:46:13,213.176.24.43,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-09-02 23:46:13,118.145.99.252,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-02 23:46:13,196.196.253.20,100,United Kingdom,Harlesden,Orion Network Limited,Fiber Grid,Data Center,True
+2026-09-02 23:46:13,112.6.114.199,100,China,Jinan,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-02 23:46:13,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-02 23:46:13,87.236.176.249,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-02 23:46:13,165.154.176.251,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-02 23:46:13,141.95.242.9,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-02 23:46:13,64.89.163.142,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-02 23:46:13,45.130.83.243,100,United States,New York,F.N.S. HOLDINGS LIMITED,"VPN Consumer New York City, United States of America",Residential/Business,True
+2026-09-02 23:46:13,101.36.119.242,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 23:46:13,66.132.186.247,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-02 23:46:13,165.154.172.223,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-02 23:46:13,200.192.98.233,100,Brazil,Ponta Grossa,Ampernet Telecomunicações Ltda,Ampernet Telecomunicações Ltda,Residential/Business,False
+2026-09-02 23:46:13,112.66.178.142,100,China,Haikou,Chinanet,Hainan TELECOM,Residential/Business,False
+2026-09-02 23:46:13,131.221.133.6,100,Brazil,Seropédica,V1 Telecomunicacoes e Informatica LTDA,V1 Telecomunicacoes e Informatica LTDA,Residential/Business,False
+2026-09-02 23:46:13,2.192.131.246,100,Italy,Milan,Telecom Italia Mobile,Telecom Italia S.p.A.,Mobile,False
+2026-09-02 23:46:13,76.79.213.69,100,United States,Los Angeles,Spectrum,ARK WIRELESS & NETWORKING,Residential/Business,False
