@@ -114724,3 +114724,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-02 17:49:06,76.132.238.43,100,United States,Ukiah,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
 2026-09-02 17:49:06,123.58.215.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-09-02 17:49:06,104.248.17.30,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-02 20:24:08,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-02 20:24:08,165.232.164.223,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-02 20:24:08,108.165.185.21,100,United States,Orem,Ace Data Centers,InterLIR LLC,Data Center,False
+2026-09-02 20:24:08,199.45.155.91,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-02 20:24:08,35.244.80.179,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-09-02 20:24:08,32.198.93.152,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-02 20:24:08,131.108.162.24,100,Brazil,Valença do Piauí,Grande Rede Telecom Eirelle,Grande Rede Telecom Eirelle,Residential/Business,False
+2026-09-02 20:24:08,152.32.128.169,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 20:24:08,117.72.76.203,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-09-02 20:24:08,103.250.10.18,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-09-02 20:24:08,69.6.222.101,100,Brazil,São Paulo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-02 20:24:08,44.211.60.186,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-02 20:24:08,78.111.249.76,100,Russia,Vladikavkaz,Total Net Ltd,Total-Net Ltd,Residential/Business,False
+2026-09-02 20:24:08,27.203.211.242,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-09-02 20:24:08,45.156.129.195,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-09-02 20:24:08,103.62.238.130,100,India,Noida,FusionNet,,Residential/Business,False
+2026-09-02 20:24:08,178.178.194.136,100,Russia,Avsyunino,PJSC MegaFon,MegaFon,Mobile,False
+2026-09-02 20:24:08,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-02 20:24:08,119.178.246.21,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-02 20:24:08,122.176.162.110,100,India,Gurugram,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-02 20:24:08,47.251.81.112,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-02 20:24:08,155.94.155.107,100,United States,San Jose,HostPapa,HostPapa,Data Center,False
+2026-09-02 20:24:08,45.148.10.230,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-02 20:24:08,66.132.195.94,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-02 20:24:08,43.164.136.189,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-09-02 20:24:08,69.5.169.28,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-02 20:24:08,103.232.253.228,100,Australia,Warragul,Anycast Holdings PTY LTD,Anycast Holdings Pty Ltd,Residential/Business,False
+2026-09-02 20:24:08,62.212.70.129,100,The Netherlands,Amsterdam,LeaseWeb Netherlands B.V.,LeaseWeb Netherlands B.V.,Data Center,False
+2026-09-02 20:24:08,47.84.130.199,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-02 20:24:08,49.124.152.36,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-02 20:24:08,40.119.28.185,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-02 20:24:08,139.162.117.40,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-02 20:24:08,185.193.240.246,100,North Macedonia,Arachinovo,Globalsat Dooel,Globalsat Dooel,Residential/Business,False
+2026-09-02 20:24:08,144.172.93.238,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-02 20:24:08,43.129.33.101,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-02 20:24:08,96.62.218.124,100,United States,New York,Dedik Services Limited,Dedik Services Limited,Residential/Business,False
+2026-09-02 20:24:08,200.59.89.138,100,Argentina,Trelew,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-09-02 20:24:08,217.199.238.236,100,Russia,Mariupol',Kompeatelecom Ltd.,Kompeatelecom Ltd,Residential/Business,False
+2026-09-02 20:24:08,111.26.63.89,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-02 20:24:08,8.209.210.66,100,Japan,Tokyo,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-09-02 20:24:08,103.43.191.43,100,Hong Kong,Kwai Chung,West263 International Limited,Zhongya PTE LTD,Residential/Business,False
+2026-09-02 20:24:08,47.250.54.233,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-02 20:24:08,89.160.102.155,100,Sweden,Karlstad,Bredband2 AB,,Residential/Business,False
+2026-09-02 20:24:08,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-02 20:24:08,202.152.201.166,100,Indonesia,South Tangerang,PT. Bakrie Telecom Tbk,,Residential/Business,False
+2026-09-02 20:24:08,20.127.241.50,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-02 20:24:08,95.97.20.138,100,The Netherlands,Apeldoorn,UPC NL,,Residential/Business,False
+2026-09-02 20:24:08,165.154.227.8,100,Taiwan,Taipei,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-09-02 20:24:08,148.66.142.9,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-09-02 20:24:08,172.110.223.252,100,Hong Kong,Hong Kong,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
