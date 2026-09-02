@@ -114674,3 +114674,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-02 14:00:10,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-09-02 14:00:10,181.218.172.74,100,Brazil,Dois Irmãos,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
 2026-09-02 14:00:10,66.132.172.196,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-02 17:49:06,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-02 17:49:06,54.193.216.141,100,United States,San Jose,"Amazon.com, Inc.",AWS EC2 (us-west-1),Data Center,False
+2026-09-02 17:49:06,152.32.156.95,100,India,Mumbai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 17:49:06,213.209.159.17,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-02 17:49:06,102.210.149.105,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-09-02 17:49:06,103.49.62.60,100,Hong Kong,Kwun Tong,Web Technology Company Limited,Best Webtechnology Limited,Residential/Business,True
+2026-09-02 17:49:06,18.225.211.77,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-02 17:49:06,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-02 17:49:06,111.70.39.216,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-02 17:49:06,207.90.244.14,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-02 17:49:06,54.183.130.71,100,United States,San Jose,"Amazon.com, Inc.",AWS EC2 (us-west-1),Data Center,False
+2026-09-02 17:49:06,20.171.194.140,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-02 17:49:06,20.14.92.54,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-02 17:49:06,103.46.186.85,100,Indonesia,Utan,PT Air Lintas Komunikasi,PT Air Lintas Komunikasi,Residential/Business,True
+2026-09-02 17:49:06,45.148.10.39,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-02 17:49:06,43.156.36.169,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-02 17:49:06,91.92.40.19,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-02 17:49:06,159.65.148.158,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-02 17:49:06,118.43.210.170,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-02 17:49:06,75.223.34.251,100,United States,Las Vegas,Verizon Business,Verizon Business,Mobile,False
+2026-09-02 17:49:06,91.92.40.217,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-02 17:49:06,207.177.80.78,100,United States,Belle Plaine,"Eastern Iowa IP, LLC",Aureon Network Services,Residential/Business,False
+2026-09-02 17:49:06,114.141.59.195,100,Indonesia,Surakarta,PT. Smartlink Global Media,,Data Center,False
+2026-09-02 17:49:06,54.176.8.54,100,United States,San Jose,"Amazon.com, Inc.",AWS EC2 (us-west-1),Data Center,False
+2026-09-02 17:49:06,125.22.69.166,100,India,Noida,Bharti Airtel Ltd.,BHARTI,Mobile,False
+2026-09-02 17:49:06,34.165.135.232,100,Israel,Tel Aviv,Google LLC,Google Cloud (me-west1),Data Center,False
+2026-09-02 17:49:06,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-02 17:49:06,103.168.135.187,100,Indonesia,Jakarta,PT Aplikanusa Lintasarta,,Residential/Business,False
+2026-09-02 17:49:06,181.214.83.206,100,United States,Buffalo,WHG Hosting Services Ltd,Ipxo,Data Center,False
+2026-09-02 17:49:06,218.33.79.180,100,Australia,Brisbane,Kinetix Networks,Kinetix Networks,Residential/Business,False
+2026-09-02 17:49:06,65.49.20.90,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-02 17:49:06,118.26.110.171,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 17:49:06,59.14.170.169,100,South Korea,Ansan-si,Korea Telecom,,Residential/Business,False
+2026-09-02 17:49:06,35.233.116.10,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-02 17:49:06,200.77.172.159,100,Mexico,Mexico City,"Cablevisión, S.A. de C.V.","Cablevisión, S.A. de C.V",Residential/Business,False
+2026-09-02 17:49:06,188.133.157.248,100,Russia,Moscow,Enforta-MSK,,Residential/Business,False
+2026-09-02 17:49:06,186.233.181.236,100,Brazil,São Lourenço,Raimax Internet Ltda,Raimax Internet Ltda,Residential/Business,False
+2026-09-02 17:49:06,207.154.223.231,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-02 17:49:06,35.195.196.82,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-02 17:49:06,103.164.57.37,100,Indonesia,Maros,PT Natha Buana Indonesia,PT Natha Buana Indonesia,Residential/Business,False
+2026-09-02 17:49:06,20.65.144.102,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-02 17:49:06,191.17.46.148,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-02 17:49:06,122.15.129.26,100,India,Mumbai,VODAFONE-STATIC,,Mobile,False
+2026-09-02 17:49:06,103.99.214.214,100,Indonesia,Sungaigerong,Universitas Muhammadiyah Palembang,Universitas Muhammadiyah Palembang,Residential/Business,False
+2026-09-02 17:49:06,46.101.180.162,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-02 17:49:06,67.211.223.122,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-09-02 17:49:06,165.232.61.133,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-02 17:49:06,76.132.238.43,100,United States,Ukiah,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-02 17:49:06,123.58.215.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-02 17:49:06,104.248.17.30,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
