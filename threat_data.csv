@@ -115019,3 +115019,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-03 19:01:45,171.231.184.246,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
 2026-09-03 19:01:45,194.180.48.39,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
 2026-09-03 19:01:45,131.186.44.175,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,True
+2026-09-03 22:08:33,185.214.101.139,100,Spain,Navalcarnero,Iomart Cloud Services Limited,Invermae Solutions NocX,Data Center,False
+2026-09-03 22:08:33,108.21.85.138,100,United States,Queens,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",Residential/Business,False
+2026-09-03 22:08:33,171.112.128.48,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-09-03 22:08:33,157.254.191.70,100,Hong Kong,Hong Kong,Vantiva USA Shared Services Inc.,Skyquantum Telecom Ltd.,Residential/Business,True
+2026-09-03 22:08:33,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 22:08:33,91.92.42.61,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-03 22:08:33,16.5.0.244,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-03 22:08:33,188.20.244.19,100,Austria,Vienna,A1 Telekom Austria AG,A1 Telekom Austria AG,Residential/Business,False
+2026-09-03 22:08:33,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-03 22:08:33,67.206.199.61,100,Puerto Rico,Guaynabo,Liberty Mobile Puerto Rico Inc.,FASTC-9,Data Center,False
+2026-09-03 22:08:33,172.110.223.179,100,Hong Kong,Hong Kong,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-09-03 22:08:33,147.50.103.212,100,Thailand,Pattaya,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-09-03 22:08:33,101.96.195.62,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-09-03 22:08:33,23.254.172.49,100,United States,Los Angeles,HostPapa,Hostwinds LLC,Data Center,False
+2026-09-03 22:08:33,161.248.37.160,100,India,Greater Noida,Imegh Private Limited,Imegh Private Limited,Residential/Business,False
+2026-09-03 22:08:33,23.94.155.66,100,United States,Miami,Maxihost LTDA,,Data Center,True
+2026-09-03 22:08:33,34.50.113.115,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-09-03 22:08:33,222.239.251.12,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-03 22:08:33,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 22:08:33,209.97.180.8,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-03 22:08:33,47.223.212.176,100,United States,Pflugerville,Suddenlink Communications,Optimum,Residential/Business,False
+2026-09-03 22:08:33,162.243.147.237,100,United States,San Francisco,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-03 22:08:33,157.245.36.108,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-03 22:08:33,118.145.237.236,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-03 22:08:33,77.74.204.176,100,Hungary,Nagyatád,KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft.,KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft,Residential/Business,False
+2026-09-03 22:08:33,113.161.222.150,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-03 22:08:33,168.232.66.60,100,Brazil,Surubim,Centralnet Telecomunicacoes Ltda - ME,Centralnet Telecomunicacoes Ltda - ME,Residential/Business,False
+2026-09-03 22:08:33,115.77.190.188,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-03 22:08:33,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-03 22:08:33,34.138.176.179,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-03 22:08:33,179.61.232.104,100,United States,Buffalo,WHG Hosting Services Ltd,Private Customer,Data Center,False
+2026-09-03 22:08:33,188.187.56.155,100,Russia,St Petersburg,"CJSC ""ER-Telecom Holding"" Saint-Petersburg branch","JSC ""ER-Telecom Holding"" Saint-Petersburg Branch",Residential/Business,False
+2026-09-03 22:08:33,102.36.141.61,100,South Africa,Newcastle,Crazyweb Tech CC,Crazyweb Tech,Residential/Business,False
+2026-09-03 22:08:33,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-03 22:08:33,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-09-03 22:08:33,122.97.136.164,100,China,Changzhou,CNC Group CHINA169 Jiangsu Province Network,,Residential/Business,False
+2026-09-03 22:08:33,193.32.204.199,100,Turkey,Istanbul,Madina IT,Vigilant Cyber,Residential/Business,False
+2026-09-03 22:08:33,31.57.47.93,100,United States,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,Data Center,False
+2026-09-03 22:08:33,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 22:08:33,47.201.100.121,100,United States,Zephyrhills,Frontier Communications Corporation,Frontier Communications Solutions,Residential/Business,False
+2026-09-03 22:08:33,148.66.132.204,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-09-03 22:08:33,209.99.188.168,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-03 22:08:33,91.144.158.62,100,Russia,Naberezhnyye Chelny,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Naberezhnye Chelny branch",Residential/Business,False
+2026-09-03 22:08:33,104.129.1.194,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,True
+2026-09-03 22:08:33,185.242.226.81,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-03 22:08:33,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 22:08:33,52.186.179.153,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-03 22:08:33,213.209.159.228,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-03 22:08:33,185.242.226.72,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-03 22:08:33,14.41.26.141,100,South Korea,Hwacheon,Korea Telecom,Kornet,Residential/Business,False
