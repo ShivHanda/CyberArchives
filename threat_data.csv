@@ -114869,3 +114869,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-03 02:33:03,8.211.4.200,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-09-03 02:33:03,198.74.58.201,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
 2026-09-03 02:33:03,35.237.181.53,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-03 08:28:06,47.77.219.202,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-03 08:28:06,58.46.224.19,100,China,Qingyuan,Chinanet,Chinanet HN,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.228,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,61.246.92.150,100,India,Bengaluru,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-09-03 08:28:06,194.180.48.39,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-09-03 08:28:06,103.189.235.182,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-09-03 08:28:06,66.132.186.230,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-09-03 08:28:06,185.223.235.13,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-03 08:28:06,66.132.172.124,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-03 08:28:06,195.178.110.31,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 08:28:06,23.94.28.185,100,United States,Buffalo,HostPapa,Mikhel Francis yap,Data Center,False
+2026-09-03 08:28:06,191.242.231.67,100,Brazil,Farroupilha,Domi Informatica,Domi Informatica,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.220,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,118.193.36.63,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-03 08:28:06,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-03 08:28:06,136.56.34.147,100,United States,Raleigh,Google Fiber Inc.,Google Fiber Inc,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.226,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-03 08:28:06,1.206.61.179,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
+2026-09-03 08:28:06,65.20.202.4,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-09-03 08:28:06,40.119.29.70,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-03 08:28:06,66.132.186.212,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,35.235.66.230,100,United States,Los Angeles,Google LLC,Google Cloud (us-west2),Data Center,False
+2026-09-03 08:28:06,193.148.59.178,100,Sweden,Stockholm,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,True
+2026-09-03 08:28:06,122.163.127.14,100,India,Kolkata,Bharti Airtel Ltd.,BHARTI,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.213,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,66.132.186.211,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,66.132.186.210,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,66.132.186.142,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,213.209.159.241,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.138,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,66.132.186.136,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,85.11.167.104,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-09-03 08:28:06,34.95.5.75,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-09-03 08:28:06,66.132.186.130,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-03 08:28:06,169.40.142.138,100,United Kingdom,London,,,Residential/Business,False
+2026-09-03 08:28:06,66.132.186.129,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-03 08:28:06,45.148.10.4,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-03 08:28:06,156.229.163.164,100,United States,Los Angeles,Catixs Ltd,Akile LTD,Data Center,False
+2026-09-03 08:28:06,80.225.243.73,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,True
+2026-09-03 08:28:06,66.132.224.236,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-03 08:28:06,66.132.172.235,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-03 08:28:06,152.32.199.115,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-03 08:28:06,66.132.172.231,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-03 08:28:06,213.215.209.101,100,Italy,Rome,COLT Technology Services Group Limited,Babylon Cloud SpA,Data Center,False
+2026-09-03 08:28:06,49.51.233.104,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-09-03 08:28:06,66.132.172.226,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-03 08:28:06,20.29.59.178,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
