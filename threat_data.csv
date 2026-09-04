@@ -115219,3 +115219,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-04 13:55:47,34.175.132.155,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
 2026-09-04 13:55:47,66.132.186.194,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
 2026-09-04 13:55:47,3.129.187.38,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-04 17:20:07,193.24.211.218,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-09-04 17:20:07,194.187.176.115,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-04 17:20:07,47.84.199.26,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-04 17:20:07,213.230.92.226,100,Uzbekistan,Olot Shahri,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-09-04 17:20:07,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-09-04 17:20:07,118.193.56.184,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-09-04 17:20:07,165.154.173.141,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 17:20:07,165.154.12.9,100,United Arab Emirates,Dubai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 17:20:07,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-04 17:20:07,152.32.208.169,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 17:20:07,121.227.31.82,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-04 17:20:07,106.75.25.139,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-04 17:20:07,47.236.68.164,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-04 17:20:07,176.204.246.75,100,United Arab Emirates,Dubai,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,Emirates Telecommunications Corporation,Mobile,False
+2026-09-04 17:20:07,180.210.130.30,100,Bangladesh,Dhaka,Bangla Phone Ltd,Bangla Phone Ltd,Residential/Business,False
+2026-09-04 17:20:07,18.116.101.220,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-09-04 17:20:07,90.196.177.242,100,United Kingdom,Morecambe,Sky UK Limited,Sky Broadband,Residential/Business,False
+2026-09-04 17:20:07,47.245.131.199,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-04 17:20:07,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-09-04 17:20:07,195.96.139.173,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-09-04 17:20:07,35.236.152.47,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-04 17:20:07,20.229.185.186,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-09-04 17:20:07,94.154.43.196,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-04 17:20:07,152.32.183.22,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-04 17:20:07,74.122.175.21,100,Canada,Kahnawake,LOGNET,First Nations Wireless LP,Residential/Business,False
+2026-09-04 17:20:07,8.209.201.85,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-04 17:20:07,65.49.1.119,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-04 17:20:07,91.92.47.90,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-04 17:20:07,203.130.240.54,100,Indonesia,Jakarta,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-09-04 17:20:07,40.74.210.61,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-04 17:20:07,103.69.96.120,100,Vietnam,Bút Sơn,VNCLOUD,VN Cloud ONE Member Company Limited,Data Center,False
+2026-09-04 17:20:07,118.194.251.144,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 17:20:07,148.253.35.40,100,South Korea,Seoul,Meteverse Limited.,"CDNetworks, Co.",Data Center,False
+2026-09-04 17:20:07,45.148.120.187,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V.,Data Center,False
+2026-09-04 17:20:07,135.220.48.17,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Residential/Business,False
+2026-09-04 17:20:07,216.73.217.68,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-09-04 17:20:07,40.124.170.174,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-04 17:20:07,20.15.203.159,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-04 17:20:07,193.163.125.7,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-04 17:20:07,42.51.41.137,100,China,Shenzhen,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Residential/Business,False
+2026-09-04 17:20:07,181.214.83.206,100,United States,Buffalo,WHG Hosting Services Ltd,Ipxo,Data Center,False
+2026-09-04 17:20:07,82.102.18.180,100,France,Ailly-sur-Noye,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-04 17:20:07,156.227.236.162,100,Russia,Moscow,Yisu Cloud LTD,Cloud Innovation Ltd,Data Center,False
+2026-09-04 17:20:07,91.92.42.147,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-04 17:20:07,46.4.66.249,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-04 17:20:07,197.219.228.242,100,Mozambique,Maputo,"Movitel, SA",Movitel's IP,Residential/Business,False
+2026-09-04 17:20:07,194.187.176.100,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-04 17:20:07,103.99.214.214,100,Indonesia,Sungaigerong,Universitas Muhammadiyah Palembang,Universitas Muhammadiyah Palembang,Residential/Business,False
+2026-09-04 17:20:07,103.44.149.142,100,Indonesia,Jakarta,PT Semesta Teknologi Informatika,,Residential/Business,False
+2026-09-04 17:20:07,213.33.182.183,100,Russia,Moscow,EDN Sovintel,,Residential/Business,False
