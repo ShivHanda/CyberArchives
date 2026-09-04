@@ -115269,3 +115269,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-04 17:20:07,103.99.214.214,100,Indonesia,Sungaigerong,Universitas Muhammadiyah Palembang,Universitas Muhammadiyah Palembang,Residential/Business,False
 2026-09-04 17:20:07,103.44.149.142,100,Indonesia,Jakarta,PT Semesta Teknologi Informatika,,Residential/Business,False
 2026-09-04 17:20:07,213.33.182.183,100,Russia,Moscow,EDN Sovintel,,Residential/Business,False
+2026-09-04 20:09:31,34.96.169.71,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-09-04 20:09:31,8.209.216.222,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-04 20:09:31,165.154.48.24,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 20:09:31,69.5.169.191,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-09-04 20:09:31,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-04 20:09:31,40.77.167.79,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-09-04 20:09:31,93.123.109.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-04 20:09:31,163.7.11.155,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-04 20:09:31,34.12.44.63,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-04 20:09:31,194.88.98.122,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-04 20:09:31,20.12.41.6,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-09-04 20:09:31,103.60.242.169,100,Vietnam,Mai Dich,Mega Technology Company Limited,Mega Technology Company Limited,Residential/Business,False
+2026-09-04 20:09:31,183.242.140.238,100,China,Beijing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-04 20:09:31,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Residential/Business,False
+2026-09-04 20:09:31,64.181.216.111,100,United States,Chicago,Oracle Corporation,Oracle Cloud Infrastructure (us-chicago-1),Data Center,False
+2026-09-04 20:09:31,201.55.113.81,100,Brazil,Erechim,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-09-04 20:09:31,165.154.162.102,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-04 20:09:31,62.38.192.68,100,Greece,Zárakes,Vodafone-panafon Hellenic Telecommunications Company SA,Vodafone Greece Fixed,Residential/Business,False
+2026-09-04 20:09:31,197.242.170.10,100,Mozambique,Maputo,Intra Data Communication,,Residential/Business,False
+2026-09-04 20:09:31,77.239.124.210,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-04 20:09:31,3.129.187.38,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-04 20:09:31,46.172.77.9,100,Ukraine,Kharkiv,It-starcom LLC,It-starcom LLC,Residential/Business,False
+2026-09-04 20:09:31,46.19.142.226,100,Switzerland,Bern,Private Layer INC,Private Layer INC,Data Center,False
+2026-09-04 20:09:31,138.226.239.233,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
+2026-09-04 20:09:31,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-04 20:09:31,66.132.172.103,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-04 20:09:31,185.180.141.13,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-04 20:09:31,185.180.141.15,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-04 20:09:31,79.72.3.119,100,Saudi Arabia,Jeddah,Oracle Corporation,Oracle Cloud Infrastructure (me-jeddah-1),Data Center,True
+2026-09-04 20:09:31,188.187.107.163,100,Russia,St Petersburg,"CJSC ""ER-Telecom Holding"" Saint-Petersburg branch","JSC ""ER-Telecom Holding"" Saint-Petersburg Branch",Residential/Business,False
+2026-09-04 20:09:31,221.120.57.172,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-04 20:09:31,45.153.34.43,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-09-04 20:09:31,66.132.195.118,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-04 20:09:31,80.94.95.116,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,True
+2026-09-04 20:09:31,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-04 20:09:31,185.180.141.14,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-04 20:09:31,131.196.161.246,100,Brazil,São Paulo,RCTelecom Telecomunicaçoes LTDA-ME,RCTelecom Telecomunicaçoes LTDA-ME,Residential/Business,False
+2026-09-04 20:09:31,77.90.185.16,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-09-04 20:09:31,185.180.141.12,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-04 20:09:31,152.32.180.98,100,United Arab Emirates,Dubai,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-09-04 20:09:31,138.226.239.234,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
+2026-09-04 20:09:31,211.51.132.104,100,South Korea,Haeundae-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-04 20:09:31,147.224.213.157,100,United States,Chicago,Oracle Corporation,Oracle Cloud Infrastructure (us-chicago-1),Data Center,False
+2026-09-04 20:09:31,200.46.151.238,100,Panama,Panama City,Cable Onda,Cable Onda,Residential/Business,False
+2026-09-04 20:09:31,152.32.233.95,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 20:09:31,24.209.126.184,100,United States,Pewaukee,Charter Communications,Spectrum,Residential/Business,False
+2026-09-04 20:09:31,75.191.206.84,100,United States,Smithville,Charter Communications,Spectrum,Residential/Business,False
+2026-09-04 20:09:31,102.220.160.110,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-04 20:09:31,197.39.238.114,100,Egypt,Giza,TE Data,,Residential/Business,False
+2026-09-04 20:09:31,37.77.15.85,100,Turkey,Şişli,Grid Telekom,,Residential/Business,False
