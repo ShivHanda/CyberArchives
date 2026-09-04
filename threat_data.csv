@@ -115069,3 +115069,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-03 22:08:33,213.209.159.228,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
 2026-09-03 22:08:33,185.242.226.72,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
 2026-09-03 22:08:33,14.41.26.141,100,South Korea,Hwacheon,Korea Telecom,Kornet,Residential/Business,False
+2026-09-04 02:29:06,27.254.190.148,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Cloud Csloxinfo,Data Center,False
+2026-09-04 02:29:06,66.132.172.240,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-04 02:29:06,45.148.10.62,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-04 02:29:06,80.87.206.19,100,France,Roubaix,OVH SAS,DedicatedVPSprovider,Data Center,False
+2026-09-04 02:29:06,218.219.234.85,100,Japan,Sapporo,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-09-04 02:29:06,20.65.219.26,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-04 02:29:06,34.50.69.122,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-09-04 02:29:06,45.238.2.31,100,Brazil,Goiânia,T & I TELECOMUNICAÔÔES LTDA ME,T & I TELECOMUNICAÇÕES LTDA ME,Residential/Business,False
+2026-09-04 02:29:06,64.62.156.212,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-04 02:29:06,66.132.172.176,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-04 02:29:06,91.92.47.6,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-04 02:29:06,185.183.94.210,100,Ukraine,Lutsk,Volyn Optical Networks LLC,VOM LLC,Residential/Business,False
+2026-09-04 02:29:06,213.177.179.79,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-04 02:29:06,47.250.150.252,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-04 02:29:06,64.62.156.152,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-04 02:29:06,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-04 02:29:06,113.120.136.22,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-09-04 02:29:06,43.166.137.151,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-09-04 02:29:06,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-04 02:29:06,34.106.251.1,100,United States,Salt Lake City,Google LLC,Google Cloud (us-west3),Data Center,False
+2026-09-04 02:29:06,44.195.50.71,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-04 02:29:06,64.89.163.179,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-04 02:29:06,93.152.208.42,100,South Africa,Johannesburg,Alferov Aleksey Aleksandrovich,,Residential/Business,True
+2026-09-04 02:29:06,8.216.7.66,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-04 02:29:06,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-09-04 02:29:06,203.248.82.124,100,South Korea,Mapo-gu,Sejong Networks,Sejong,Residential/Business,False
+2026-09-04 02:29:06,44.212.232.231,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-04 02:29:06,45.181.242.66,100,Brazil,Manaus,Carlete DA Silva Cardoso,Carlete DA Silva Cardoso,Residential/Business,False
+2026-09-04 02:29:06,69.5.169.216,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-04 02:29:06,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-04 02:29:06,94.154.43.74,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-04 02:29:06,158.173.89.65,100,Bulgaria,Sofia,Datacamp Limited,"VPN Consumer Sofia, Bulgaria",Residential/Business,True
+2026-09-04 02:29:06,45.156.129.85,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-09-04 02:29:06,45.156.129.87,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-09-04 02:29:06,185.149.27.39,100,United States,Spokane,Puneet Kalra,Kuroit Limited,Data Center,False
+2026-09-04 02:29:06,146.70.194.238,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-04 02:29:06,185.12.59.118,100,Norway,Oslo,Blix Solutions,Blixcust10463,Residential/Business,False
+2026-09-04 02:29:06,199.45.154.183,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-04 02:29:06,45.156.129.86,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-09-04 02:29:06,16.5.0.254,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-04 02:29:06,50.19.85.253,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-04 02:29:06,64.62.197.44,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-04 02:29:06,89.238.165.139,100,United Kingdom,Stretford,M247 Europe SRL,M247 Europe SRL,Data Center,True
+2026-09-04 02:29:06,121.229.9.110,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-04 02:29:06,157.20.144.241,100,Indonesia,Tangerang,PT Lintas Network Solusi,PT Lintas Network Solusi,Residential/Business,False
+2026-09-04 02:29:06,178.253.95.167,100,Syria,Damascus,ISP-TARASSUL,,Residential/Business,False
+2026-09-04 02:29:06,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-04 02:29:06,35.240.146.72,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-09-04 02:29:06,45.194.92.52,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-04 02:29:06,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
