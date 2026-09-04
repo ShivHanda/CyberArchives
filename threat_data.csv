@@ -115169,3 +115169,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-04 08:23:31,69.5.169.19,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-09-04 08:23:31,66.132.172.127,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-09-04 08:23:31,184.105.139.93,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-04 13:55:47,44.212.106.171,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-04 13:55:47,121.46.239.200,100,China,Beijing,ZHAOONE,shanghai wexchange network technology Co. Ltd.,Residential/Business,False
+2026-09-04 13:55:47,27.79.41.32,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-04 13:55:47,192.253.248.94,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-04 13:55:47,66.132.186.182,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-04 13:55:47,112.164.234.246,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-04 13:55:47,109.173.107.163,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-09-04 13:55:47,152.32.183.163,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-04 13:55:47,35.204.57.85,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-04 13:55:47,195.222.59.154,100,Bosnia and Herzegovina,Mostar,BH Telecom d.d. Sarajevo,BH Telecom d.d. Sarajevo,Residential/Business,False
+2026-09-04 13:55:47,35.227.108.236,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-04 13:55:47,64.89.160.111,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-09-04 13:55:47,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-04 13:55:47,185.193.240.246,100,North Macedonia,Arachinovo,Globalsat Dooel,Globalsat Dooel,Residential/Business,False
+2026-09-04 13:55:47,171.113.239.61,100,China,Wuhan,China Telecom,Chinanet HB,Residential/Business,False
+2026-09-04 13:55:47,47.251.117.211,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-04 13:55:47,34.97.82.187,100,Japan,Osaka,Google LLC,Google Cloud (asia-northeast2),Data Center,False
+2026-09-04 13:55:47,179.49.213.85,100,Brazil,Campo Grande,Connect Telecomunicacoes Fibra Optica Ltda,i9 Telecom MS,Residential/Business,False
+2026-09-04 13:55:47,194.187.176.14,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-04 13:55:47,200.52.196.233,100,Mexico,Tlajomulco de Zúñiga,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-09-04 13:55:47,35.169.206.177,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-04 13:55:47,163.227.180.2,100,Japan,Chiyoda City,Dodo K.K.,Yui Inc,Residential/Business,False
+2026-09-04 13:55:47,128.1.43.38,100,Russia,Moscow,Zenlayer Inc,UCLOUD,Data Center,False
+2026-09-04 13:55:47,118.139.166.177,100,Singapore,Singapore,Godaddy.com,,Data Center,False
+2026-09-04 13:55:47,154.116.254.157,100,Angola,Luanda,Centro Nacional DAS Tecnologias De Informacao,Infosi,Data Center,False
+2026-09-04 13:55:47,34.88.109.145,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-09-04 13:55:47,44.221.180.179,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-04 13:55:47,43.135.130.202,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-04 13:55:47,34.175.43.239,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-04 13:55:47,34.175.162.181,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-04 13:55:47,129.121.33.174,100,Brazil,Vinhedo,Oracle Corporation,"Oso Grande IP Services, LLC",Residential/Business,False
+2026-09-04 13:55:47,165.154.138.57,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 13:55:47,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-04 13:55:47,176.32.193.16,100,Armenia,Yerevan,iTV,Interactive TV LLC,Residential/Business,False
+2026-09-04 13:55:47,195.250.79.2,100,Armenia,Yerevan,GNC-Alfa CJSC,GNC Customers16,Residential/Business,False
+2026-09-04 13:55:47,187.51.219.26,100,Brazil,Santos,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-04 13:55:47,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-09-04 13:55:47,182.43.76.120,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-09-04 13:55:47,199.45.154.62,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-04 13:55:47,69.5.169.237,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-09-04 13:55:47,183.36.126.68,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-04 13:55:47,34.185.79.63,100,United States,Salt Lake City,Google LLC,Google Cloud (us-west3),Data Center,False
+2026-09-04 13:55:47,222.71.205.34,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-04 13:55:47,34.175.181.29,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-04 13:55:47,46.50.240.92,100,Russia,Novosibirsk,ZSTTK,JSC Zap-Sib TransTeleCom,Residential/Business,False
+2026-09-04 13:55:47,14.145.140.97,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-04 13:55:47,165.154.182.168,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-04 13:55:47,34.175.132.155,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-04 13:55:47,66.132.186.194,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-04 13:55:47,3.129.187.38,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
