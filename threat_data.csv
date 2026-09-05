@@ -115469,3 +115469,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-05 07:58:56,20.63.63.128,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
 2026-09-05 07:58:56,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
 2026-09-05 07:58:56,34.171.193.51,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-05 11:43:55,16.5.0.244,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-05 11:43:55,78.128.113.46,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-09-05 11:43:55,103.81.195.62,100,Indonesia,Cileungsir,PT Rtiga Global Media,,Residential/Business,False
+2026-09-05 11:43:55,181.214.83.95,100,United States,Buffalo,WHG Hosting Services Ltd,Ipxo,Data Center,True
+2026-09-05 11:43:55,40.67.162.172,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-05 11:43:55,2406:8c00:0:3465:133:18:142:16,100,Japan,Chiyoda City,KAGOYA JAPAN Inc.,KAGOYA JAPAN Inc.,Residential/Business,False
+2026-09-05 11:43:55,14.224.253.94,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-05 11:43:55,112.121.24.155,100,South Korea,Gunpo,SK Broadband Co Ltd,Tbroad,Residential/Business,False
+2026-09-05 11:43:55,5.180.184.7,100,Turkey,Esenyurt,Voyar Verimerkezi Teknolojileri Ltd. STI,Voyar Verimerkezi Teknolojileri Ltd. STI,Residential/Business,False
+2026-09-05 11:43:55,186.250.48.252,100,Brazil,Guarulhos,Redfox Telecomunicações Ltda,Netsun Tecnologia E Servicos ME,Residential/Business,False
+2026-09-05 11:43:55,65.49.1.70,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-05 11:43:55,5.226.140.94,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-05 11:43:55,115.56.238.174,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-09-05 11:43:55,193.233.48.169,100,Russia,Moscow,GIR SER,,Residential/Business,False
+2026-09-05 11:43:55,117.103.80.168,100,Bangladesh,Dhaka,IDS Bangladesh,,Residential/Business,False
+2026-09-05 11:43:55,197.253.54.22,100,Nigeria,Lagos,Main one Cable Company Nigeria Limited,,Residential/Business,False
+2026-09-05 11:43:55,34.60.162.204,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-05 11:43:55,51.195.50.230,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-09-05 11:43:55,159.223.185.253,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-05 11:43:55,152.70.144.156,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-09-05 11:43:55,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-09-05 11:43:55,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-05 11:43:55,188.190.83.115,100,Ukraine,Kropyvnytskyi,ISP Shtorm LTD,SHTORM3,Residential/Business,False
+2026-09-05 11:43:55,98.70.48.241,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-05 11:43:55,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-05 11:43:55,103.121.20.18,100,Indonesia,Depok,PT. Eka Mas Republik,Myrepublic,Residential/Business,False
+2026-09-05 11:43:55,221.133.3.83,100,Vietnam,Quận Một,SPT,Saigon Postel Corp.,Residential/Business,False
+2026-09-05 11:43:55,195.235.65.206,100,Spain,Tías,TDENET (Red de servicios IP),Daminvest S.L.,Residential/Business,False
+2026-09-05 11:43:55,109.94.173.183,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Data Center,False
+2026-09-05 11:43:55,61.76.112.4,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-09-05 11:43:55,163.7.11.126,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-05 11:43:55,27.118.23.21,100,Vietnam,Hanoi,HANELCOM,,Residential/Business,False
+2026-09-05 11:43:55,74.87.117.150,100,United States,Milwaukee,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-09-05 11:43:55,181.211.35.45,100,Ecuador,Guayaquil,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-09-05 11:43:55,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Residential/Business,False
+2026-09-05 11:43:55,116.110.152.55,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-05 11:43:55,193.163.125.207,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-05 11:43:55,45.117.82.102,100,Vietnam,Đống Đa,NhanHoa Software company,NHANHOA,Residential/Business,False
+2026-09-05 11:43:55,104.28.152.174,100,United States,San Jose,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-09-05 11:43:55,86.96.195.223,100,United Arab Emirates,Abu Dhabi,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,Residential/Business,False
+2026-09-05 11:43:55,165.154.151.176,100,Indonesia,Jakarta,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-05 11:43:55,220.154.131.111,100,China,Qingdao,China Telecom,China Telecom Group Corporation,Residential/Business,False
+2026-09-05 11:43:55,115.77.190.188,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-05 11:43:55,119.147.86.35,100,China,Guangzhou,null name,,Residential/Business,False
+2026-09-05 11:43:55,103.97.202.163,100,Indonesia,Jakarta,Dinas Komunikasi DAN Informatika Kutai Kartanegara,Dinas Komunikasi DAN Informatika Kutai Kartanegara,Data Center,False
+2026-09-05 11:43:55,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-05 11:43:55,190.129.75.225,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-09-05 11:43:55,185.233.247.231,100,Turkey,Bodrum,Veganet Teknolojileri ve Hizmetleri LTD STI,Veganet Teknolojileri ve Hizmetleri LTD STI,Residential/Business,False
+2026-09-05 11:43:55,94.156.166.167,100,Albania,Golem,Gezim Cerri,Gezim Cerri,Residential/Business,False
+2026-09-05 11:43:55,190.60.94.150,100,Colombia,Bogotá,IFX Corporation,IFX NETWORKS COLOMBIA,Residential/Business,False
