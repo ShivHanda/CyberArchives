@@ -115369,3 +115369,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-04 23:37:57,103.118.29.32,100,Vietnam,Liên Chiểu,Interdigi Joint Stock Company,Idata Technology Solutions Company Limited,Residential/Business,False
 2026-09-04 23:37:57,24.89.134.244,100,United States,Paterson,Static IP Services,Pocono Park Condo,Residential/Business,False
 2026-09-04 23:37:57,85.217.140.34,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-05 02:30:18,14.225.206.187,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-05 02:30:18,98.90.43.197,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-05 02:30:18,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-05 02:30:18,66.132.224.28,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-05 02:30:18,223.123.124.1,100,Pakistan,Islamabad,CMPak Limited,CMPak Limited,Residential/Business,False
+2026-09-05 02:30:18,95.155.231.195,100,Sweden,Luleå,ALLTELE-SKEKRAFT002,,Residential/Business,False
+2026-09-05 02:30:18,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-05 02:30:18,8.211.171.136,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-05 02:30:18,20.198.81.88,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-05 02:30:18,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-05 02:30:18,103.81.170.109,100,Hong Kong,Hong Kong,HanMing HK Limited,Hkdapu,Residential/Business,False
+2026-09-05 02:30:18,45.148.10.9,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-05 02:30:18,69.5.169.239,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-05 02:30:18,203.115.98.138,100,India,Delhi,Primesoftex Ltd,BVP,Residential/Business,False
+2026-09-05 02:30:18,45.156.87.166,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-09-05 02:30:18,47.84.137.161,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-05 02:30:18,57.128.239.181,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-09-05 02:30:18,185.177.72.29,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-09-05 02:30:18,217.149.19.49,100,Russia,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",Data Center,False
+2026-09-05 02:30:18,34.24.187.246,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-05 02:30:18,34.139.147.175,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-05 02:30:18,35.231.60.63,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-05 02:30:18,40.119.28.175,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-05 02:30:18,74.7.227.14,100,United States,Atlanta,Microsoft Corporation,Cloud,Data Center,False
+2026-09-05 02:30:18,150.107.38.98,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-09-05 02:30:18,40.124.81.253,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-05 02:30:18,51.75.27.218,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-05 02:30:18,137.184.179.158,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-05 02:30:18,143.42.1.53,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-05 02:30:18,195.96.139.123,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-09-05 02:30:18,104.152.50.123,100,United States,Los Angeles,"WebNX, Inc.",AlphaVPS LLC,Data Center,False
+2026-09-05 02:30:18,185.10.63.235,100,Russia,Moscow,RU.CARAVAN network,"Avantel, Close Joint Stock Company",Residential/Business,False
+2026-09-05 02:30:18,192.81.229.181,100,United States,Kankakee,Fabulous Fiber LLC,Fabulous Fiber LLC,Residential/Business,False
+2026-09-05 02:30:18,220.154.131.111,100,China,Qingdao,China Telecom,China Telecom Group Corporation,Residential/Business,False
+2026-09-05 02:30:18,66.132.195.29,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-05 02:30:18,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-05 02:30:18,204.76.203.21,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-05 02:30:18,66.132.172.199,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-05 02:30:18,124.174.14.174,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-05 02:30:18,65.49.1.52,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-05 02:30:18,152.32.211.69,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-05 02:30:18,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-05 02:30:18,45.194.70.248,100,Thailand,Bangkok,Ucloud Information Technology HK Limited,Ucloud Information Technology HK Limited,Data Center,False
+2026-09-05 02:30:18,87.120.104.79,100,Norway,Sandefjord,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,False
+2026-09-05 02:30:18,157.230.180.149,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-05 02:30:18,193.32.209.236,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-05 02:30:18,200.59.127.152,100,Argentina,Río Gallegos,Sion S.A,Sinectis S.A,Residential/Business,False
+2026-09-05 02:30:18,213.166.84.35,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-05 02:30:18,34.175.248.209,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-05 02:30:18,107.155.15.8,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
