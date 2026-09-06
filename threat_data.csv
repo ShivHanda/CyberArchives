@@ -115769,3 +115769,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-05 23:29:15,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
 2026-09-05 23:29:15,157.66.219.144,100,Vietnam,Quận Ba,ERACLOUD,Cloud Era LLC,Data Center,False
 2026-09-05 23:29:15,103.90.27.83,100,Indonesia,Medan,PT. Arana Teknologi Indonesia,,Residential/Business,False
+2026-09-06 02:26:57,172.191.239.155,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-06 02:26:57,35.200.92.189,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-09-06 02:26:57,65.49.1.206,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-06 02:26:57,211.43.139.196,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-09-06 02:26:57,107.174.137.235,100,United States,Los Angeles,HostPapa,RackNerd LLC,Data Center,True
+2026-09-06 02:26:57,138.199.204.5,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-06 02:26:57,186.251.71.202,100,Brazil,Trindade,PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,Residential/Business,False
+2026-09-06 02:26:57,43.157.181.189,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-09-06 02:26:57,118.194.235.16,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-09-06 02:26:57,196.191.151.0,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-09-06 02:26:57,185.218.86.11,100,Hong Kong,Hong Kong,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-09-06 02:26:57,168.228.249.90,100,Chile,Villarrica,HomeNet LTDA,,Residential/Business,False
+2026-09-06 02:26:57,102.217.42.136,100,South Africa,Cape Town,RSAWEB (PTY) LTD,Rsaweb,Residential/Business,False
+2026-09-06 02:26:57,103.182.132.154,100,India,Delhi,Gitelenet Private Limited,Gitelenet Private Limited,Residential/Business,False
+2026-09-06 02:26:57,190.223.36.108,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Mobile,False
+2026-09-06 02:26:57,216.218.206.69,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-06 02:26:57,147.15.20.173,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-09-06 02:26:57,89.21.67.171,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-06 02:26:57,222.186.13.130,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-06 02:26:57,115.140.161.61,100,South Korea,Changwon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-09-06 02:26:57,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 02:26:57,94.154.43.254,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-06 02:26:57,34.175.69.2,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-06 02:26:57,77.239.124.211,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-06 02:26:57,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-09-06 02:26:57,118.209.227.24,100,Australia,Brisbane,TPG Internet Pty Ltd,iiNet Limited,Residential/Business,False
+2026-09-06 02:26:57,64.62.197.163,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-06 02:26:57,34.163.248.167,100,France,Paris,Google LLC,Google Cloud (europe-west9),Data Center,False
+2026-09-06 02:26:57,64.62.156.130,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-06 02:26:57,171.244.14.216,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-09-06 02:26:57,181.188.176.242,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-09-06 02:26:57,179.32.213.29,100,Colombia,Cali,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-09-06 02:26:57,94.154.43.87,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-06 02:26:57,103.149.197.34,100,India,Pune,Net Access Internet India Pvt Ltd,Net Access Internet India Pvt Ltd,Residential/Business,False
+2026-09-06 02:26:57,172.190.13.234,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-06 02:26:57,144.172.115.90,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-06 02:26:57,59.126.160.54,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-06 02:26:57,81.19.216.102,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-06 02:26:57,20.14.74.149,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-06 02:26:57,185.223.235.14,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-06 02:26:57,178.63.234.222,100,Germany,Falkenstein,Hetzner Online GmbH,,Data Center,False
+2026-09-06 02:26:57,199.45.154.188,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 02:26:57,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-06 02:26:57,54.38.94.109,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-09-06 02:26:57,112.161.26.125,100,South Korea,Goyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
