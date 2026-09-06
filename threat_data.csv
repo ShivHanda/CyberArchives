@@ -116014,3 +116014,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-06 19:52:31,165.22.121.217,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-09-06 19:52:31,165.232.49.67,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-09-06 19:52:31,192.253.248.215,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-06 21:53:57,51.15.215.70,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-09-06 21:53:57,178.128.163.194,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-09-06 21:53:57,151.158.2.135,100,India,Hyderabad,ARCR Technologies Pvt Ltd,Arcr Technologies Private Limited,Residential/Business,False
+2026-09-06 21:53:57,42.51.13.91,100,China,Shenzhen,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Residential/Business,False
+2026-09-06 21:53:57,134.185.86.112,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-09-06 21:53:57,211.192.54.219,100,South Korea,Jongno-gu,Korea Telecom,KORNET,Residential/Business,False
+2026-09-06 21:53:57,121.204.171.142,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-09-06 21:53:57,49.124.153.50,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-06 21:53:57,115.64.68.95,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Mobile,False
+2026-09-06 21:53:57,4.221.186.70,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
+2026-09-06 21:53:57,35.237.192.115,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-06 21:53:57,118.26.105.52,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-09-06 21:53:57,23.88.47.15,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-06 21:53:57,49.174.174.10,100,South Korea,Namyangju,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-09-06 21:53:57,209.112.91.75,100,United States,Piscataway,Ambyre LLC,Ambyre LLC,Residential/Business,False
+2026-09-06 21:53:57,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-06 21:53:57,157.245.235.220,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 21:53:57,196.0.242.54,100,Uganda,Kampala,Uganda Telecom Ltd,UTL,Residential/Business,False
+2026-09-06 21:53:57,141.98.11.42,100,Lithuania,Vilnius,UAB Host Baltic,,Data Center,False
+2026-09-06 21:53:57,137.184.77.4,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-06 21:53:57,54.84.250.51,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-06 21:53:57,139.185.55.154,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Residential/Business,False
+2026-09-06 21:53:57,106.13.137.17,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-09-06 21:53:57,65.20.163.62,100,Iraq,Basra,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-09-06 21:53:57,157.245.42.45,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 21:53:57,203.150.107.244,100,Thailand,Bangkok,Internet Thailand Company Ltd,Internet Thailand Public Company Limited,Residential/Business,False
+2026-09-06 21:53:57,177.30.68.202,100,Brazil,Goiânia,TIM S/A,TIM S/A,Residential/Business,False
+2026-09-06 21:53:57,45.82.76.137,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-09-06 21:53:57,20.55.45.217,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-06 21:53:57,168.110.14.137,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-09-06 21:53:57,172.96.182.111,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-09-06 21:53:57,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-06 21:53:57,130.12.180.174,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-09-06 21:53:57,63.41.16.4,100,United States,Plaquemine,Verizon Business,Verizon Business,Mobile,False
+2026-09-06 21:53:57,3.224.205.25,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-06 21:53:57,136.243.127.88,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-06 21:53:57,137.184.79.60,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-06 21:53:57,180.166.3.78,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-06 21:53:57,184.168.21.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-06 21:53:57,165.154.104.88,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-06 21:53:57,209.97.135.233,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 21:53:57,27.156.176.72,100,China,Ningde,Chinanet,,Residential/Business,False
+2026-09-06 21:53:57,66.132.195.27,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 21:53:57,103.188.168.207,100,Indonesia,Banjar Tandangbuanasari,PT Lintas Jaringan Nusantara,PT Trinity Telekomunikasi Indonesia,Residential/Business,False
+2026-09-06 21:53:57,147.50.103.212,100,Thailand,Pattaya,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-09-06 21:53:57,207.177.80.78,100,United States,Belle Plaine,"Eastern Iowa IP, LLC",Aureon Network Services,Residential/Business,False
+2026-09-06 21:53:57,85.11.167.104,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-09-06 21:53:57,35.254.137.178,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-06 21:53:57,185.177.72.11,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-09-06 21:53:57,137.184.24.227,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
