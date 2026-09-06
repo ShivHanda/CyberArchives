@@ -115814,3 +115814,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-06 02:26:57,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-09-06 02:26:57,54.38.94.109,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
 2026-09-06 02:26:57,112.161.26.125,100,South Korea,Goyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-06 08:17:10,211.62.73.218,100,South Korea,Daegu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-06 08:17:10,43.163.206.70,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-09-06 08:17:10,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-09-06 08:17:10,203.135.42.52,100,Pakistan,Islamabad,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-09-06 08:17:10,46.247.61.212,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-06 08:17:10,185.247.137.247,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-06 08:17:10,101.13.4.122,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-09-06 08:17:10,112.164.197.227,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-06 08:17:10,16.5.0.242,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-06 08:17:10,20.84.155.181,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-06 08:17:10,163.7.13.17,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-06 08:17:10,4.240.96.30,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-06 08:17:10,187.102.216.100,100,Argentina,Eldorado,Cretton Lisandro Maximiliano,,Residential/Business,False
+2026-09-06 08:17:10,52.180.141.93,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-06 08:17:10,66.132.195.28,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 08:17:10,2.57.17.64,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,185.94.111.1,100,Russia,Moscow,HLL LLC,Radar Scanner,Residential/Business,False
+2026-09-06 08:17:10,159.65.97.196,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 08:17:10,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 08:17:10,2.57.17.90,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,False
+2026-09-06 08:17:10,2.57.17.80,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,109.160.32.10,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-06 08:17:10,113.164.66.10,100,Vietnam,Bắc Giang,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-06 08:17:10,2.57.17.98,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,2.57.17.61,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,2.57.17.63,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-09-06 08:17:10,2.57.17.56,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,16.5.0.240,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-06 08:17:10,34.197.70.90,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-06 08:17:10,45.77.61.56,100,France,Aubervilliers,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-09-06 08:17:10,120.77.205.149,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-06 08:17:10,27.24.141.112,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-09-06 08:17:10,2.57.17.5,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,103.147.157.122,100,Indonesia,Jakarta,PT Internet Mulia Untuk Negeri,PT. QAULI AMALI INTEGRA,Residential/Business,False
+2026-09-06 08:17:10,220.182.14.60,100,China,Beijing,Chinanet,Chinanet XZ,Residential/Business,False
+2026-09-06 08:17:10,185.93.89.23,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,False
+2026-09-06 08:17:10,65.49.1.90,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-06 08:17:10,58.34.174.90,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-06 08:17:10,118.193.39.103,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-06 08:17:10,106.75.153.142,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-06 08:17:10,69.5.169.239,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-06 08:17:10,2.57.17.222,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,101.36.116.230,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-06 08:17:10,2.57.17.188,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,52.248.41.152,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-06 08:17:10,2.57.17.192,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-06 08:17:10,69.5.169.193,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-06 08:17:10,185.223.235.61,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-06 08:17:10,62.148.235.133,100,Russia,Chelyabinsk,"JSC ""Uralsvyazinform"" Chelyabinsk",Chelyabinsk Network Informational Center,Residential/Business,False
