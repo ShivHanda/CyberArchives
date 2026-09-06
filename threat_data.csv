@@ -115864,3 +115864,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-06 08:17:10,69.5.169.193,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-09-06 08:17:10,185.223.235.61,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-09-06 08:17:10,62.148.235.133,100,Russia,Chelyabinsk,"JSC ""Uralsvyazinform"" Chelyabinsk",Chelyabinsk Network Informational Center,Residential/Business,False
+2026-09-06 13:20:27,18.97.9.102,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-06 13:20:27,210.123.88.216,100,South Korea,Seodaemun-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-06 13:20:27,9.234.10.176,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-06 13:20:27,20.221.74.150,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-06 13:20:27,138.124.20.112,100,Poland,Warsaw,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,Residential/Business,False
+2026-09-06 13:20:27,85.217.149.71,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 13:20:27,108.179.225.18,100,United States,Ashburn,WEBSITEWELCOME.COM,studentloaninfozone.com,Data Center,False
+2026-09-06 13:20:27,209.99.190.113,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-06 13:20:27,69.5.169.80,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-06 13:20:27,202.93.27.37,100,Indonesia,Jakarta,THAMRIN,,Residential/Business,False
+2026-09-06 13:20:27,66.132.195.28,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 13:20:27,177.74.140.35,100,Brazil,São Leopoldo,PONTOCOMNET SERVIÇOS DE INTERNET LTDA,PONTOCOMNET SERVIÇOS DE INTERNET LTDA,Residential/Business,False
+2026-09-06 13:20:27,195.238.176.70,100,Ukraine,Kyiv,UNTC.NET,Ukrainian Newest Telecommunication Ltd.,Residential/Business,False
+2026-09-06 13:20:27,207.254.22.207,100,Ireland,Dublin,"MacStadium, Inc.","MacStadium, Inc.",Residential/Business,False
+2026-09-06 13:20:27,45.78.194.242,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-06 13:20:27,64.89.163.178,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-06 13:20:27,204.168.204.232,100,Finland,Helsinki,Hetzner Online GmbH,HETZNER-DC,Data Center,False
+2026-09-06 13:20:27,207.175.145.199,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-06 13:20:27,158.220.102.236,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-06 13:20:27,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-06 13:20:27,103.172.236.241,100,Vietnam,Đống Đa,HERAL,Heral Science and Technology Joint Stock Company,Residential/Business,True
+2026-09-06 13:20:27,203.192.247.84,100,India,Bengaluru,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-09-06 13:20:27,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-06 13:20:27,203.176.95.143,100,China,Guangzhou,"IDC, China Telecommunications Corporation",Chinanet GD,Residential/Business,False
+2026-09-06 13:20:27,124.40.252.3,100,Indonesia,Boyolali,PT Lintas Data Prima,,Residential/Business,False
+2026-09-06 13:20:27,193.163.125.236,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-06 13:20:27,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-06 13:20:27,35.230.73.138,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-06 13:20:27,181.115.146.102,100,Bolivia,Santa Cruz de la Sierra,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-09-06 13:20:27,94.154.43.221,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-06 13:20:27,202.82.20.241,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Business Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-06 13:20:27,36.255.97.102,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-09-06 13:20:27,66.132.195.29,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 13:20:27,202.70.78.237,100,United States,Los Angeles,Nepal Telecom,Nepal Telecommunications Corporation,Residential/Business,False
+2026-09-06 13:20:27,66.132.195.104,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 13:20:27,202.101.144.44,100,China,Wenquan,Chinanet,Chinanet FJ,Residential/Business,False
+2026-09-06 13:20:27,72.240.125.133,100,United States,Maumee,"Buckeye Cablevision, Inc.",,Residential/Business,False
+2026-09-06 13:20:27,137.184.220.72,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-06 13:20:27,123.20.78.5,100,Vietnam,Ho Chi Minh City,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-06 13:20:27,200.175.61.207,100,Brazil,Florianópolis,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-06 13:20:27,203.121.40.210,100,Malaysia,Putrajaya,TTDOTCOM,,Residential/Business,False
+2026-09-06 13:20:27,75.80.65.214,100,United States,Kahului,Spectrum,"Road Runner, VoIP Residential",Residential/Business,False
+2026-09-06 13:20:27,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-06 13:20:27,201.149.53.243,100,Mexico,Mexico City,"Megacable Comunicaciones de Mexico, S.A. de C.V.","Megacable Comunicaciones de Mexico, S.A. de C.V",Residential/Business,False
+2026-09-06 13:20:27,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-06 13:20:27,201.77.124.248,100,Brazil,Sumaré,Desktop Sigmanet Comunicação Multimídia SA,Desktop Sigmanet Comunicação Multimídia SA,Residential/Business,False
+2026-09-06 13:20:27,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 13:20:27,79.124.59.182,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-06 13:20:27,200.165.70.141,100,Brazil,Antônio Dias,V tal,Z E C INFORMATICA E ELETRONICOS LTDA,Residential/Business,False
+2026-09-06 13:20:27,85.217.140.30,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
