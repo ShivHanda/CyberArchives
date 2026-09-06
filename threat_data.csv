@@ -116064,3 +116064,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-06 21:53:57,35.254.137.178,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
 2026-09-06 21:53:57,185.177.72.11,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
 2026-09-06 21:53:57,137.184.24.227,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-06 23:23:58,124.77.132.101,100,China,Shanghai,China Telecom,,Residential/Business,False
+2026-09-06 23:23:58,147.15.20.173,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-09-06 23:23:58,34.172.130.121,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-06 23:23:58,43.130.91.95,100,United States,Ashburn,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-06 23:23:58,180.106.83.59,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-06 23:23:58,109.105.209.13,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-09-06 23:23:58,107.189.27.179,100,The Netherlands,Zaandam,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-06 23:23:58,5.180.42.23,100,Kazakhstan,Almaty,NLS Kazakhstan LLC,Beafort Limited,Residential/Business,False
+2026-09-06 23:23:58,37.120.144.165,100,Hungary,Budapest,M247 Europe SRL,M247 LTD,Data Center,True
+2026-09-06 23:23:58,85.217.149.1,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 23:23:58,31.41.93.213,100,Ukraine,Uzhhorod,"PP ""New information systems""",NEWINFOSYS,Residential/Business,True
+2026-09-06 23:23:58,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 23:23:58,91.92.40.44,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-06 23:23:58,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-06 23:23:58,47.251.13.32,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-06 23:23:58,124.152.34.229,100,China,Lanzhou,China Unicom Gansu Province Network,,Residential/Business,False
+2026-09-06 23:23:58,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-06 23:23:58,85.217.140.20,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 23:23:58,109.160.32.61,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-06 23:23:58,47.254.25.10,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-06 23:23:58,8.219.200.1,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-06 23:23:58,174.68.48.35,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-06 23:23:58,66.132.195.36,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-06 23:23:58,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-06 23:23:58,219.144.16.16,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,False
+2026-09-06 23:23:58,122.166.253.226,100,India,Bengaluru,BHARTI,ABTS (Karnataka),Residential/Business,False
+2026-09-06 23:23:58,165.227.147.215,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 23:23:58,81.215.197.182,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-09-06 23:23:58,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-06 23:23:58,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-06 23:23:58,103.91.246.101,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-09-06 23:23:58,151.158.2.135,100,India,Hyderabad,ARCR Technologies Pvt Ltd,Arcr Technologies Private Limited,Residential/Business,False
+2026-09-06 23:23:58,27.0.135.12,100,China,Quzhou,Fuzhou,Kaopy,Data Center,False
+2026-09-06 23:23:58,103.134.154.138,100,Singapore,Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-09-06 23:23:58,85.217.149.45,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-06 23:23:58,120.33.126.224,100,China,Wenquan,Chinanet,Chinanet FJ,Residential/Business,False
+2026-09-06 23:23:58,168.144.62.183,100,United States,Memphis,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-06 23:23:58,107.211.37.253,100,United States,Greenville,"AT&T Enterprises, LLC","AT&T Enterprises, LLC",Residential/Business,False
+2026-09-06 23:23:58,109.160.32.67,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-06 23:23:58,20.80.101.241,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-06 23:23:58,193.124.20.228,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-06 23:23:58,122.187.230.38,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-06 23:23:58,138.122.242.42,100,Brazil,Canaã dos Carajás,Coelho Tecnologia,Coelho Tecnologia,Residential/Business,False
+2026-09-06 23:23:58,103.143.11.150,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
+2026-09-06 23:23:58,109.160.32.29,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
