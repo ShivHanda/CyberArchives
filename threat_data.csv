@@ -116159,3 +116159,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-07 02:23:53,62.60.131.232,100,Iran,Tehran,Feo Prest SRL,Feo Prest SRL,Data Center,True
 2026-09-07 02:23:53,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-09-07 02:23:53,60.172.54.36,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-09-07 08:49:44,85.217.149.53,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 08:49:44,211.51.132.104,100,South Korea,Haeundae-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-07 08:49:44,182.44.26.211,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-09-07 08:49:44,31.208.108.219,100,Sweden,Malmö,Bredband2 AB,Bredband2,Residential/Business,False
+2026-09-07 08:49:44,8.216.0.135,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-07 08:49:44,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-07 08:49:44,40.74.210.34,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-07 08:49:44,217.113.11.99,100,Armenia,Nor Nork,Skynet Telecom LLC,LIR LLC,Data Center,True
+2026-09-07 08:49:44,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-07 08:49:44,20.150.211.194,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-07 08:49:44,194.88.98.94,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-07 08:49:44,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 08:49:44,146.88.241.145,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-09-07 08:49:44,182.95.181.50,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-09-07 08:49:44,202.79.29.108,100,Cambodia,Phnom Penh,WiCAM Corporation Ltd,"WiCAM Corporation, LTD",Residential/Business,False
+2026-09-07 08:49:44,161.118.205.28,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-09-07 08:49:44,49.124.155.174,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-07 08:49:44,41.90.100.147,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-09-07 08:49:44,109.160.32.111,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 08:49:44,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-07 08:49:44,103.28.38.241,100,Vietnam,Đống Đa,NhanHoa Software Company,NHANHOA,Residential/Business,False
+2026-09-07 08:49:44,45.156.128.107,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-07 08:49:44,43.228.157.10,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-09-07 08:49:44,39.164.126.118,100,China,Guancheng,"China Mobile Communications Group Co., Ltd","China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-07 08:49:44,109.160.32.80,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 08:49:44,80.94.95.43,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-09-07 08:49:44,20.65.146.142,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-07 08:49:44,92.118.58.235,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-09-07 08:49:44,73.135.189.150,100,United States,Capitol Heights,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-09-07 08:49:44,124.29.226.3,100,Pakistan,Sialkot,Cyber Internet Services Pakistan,Broadband Services,Residential/Business,False
+2026-09-07 08:49:44,121.189.103.212,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-07 08:49:44,203.128.83.106,100,Indonesia,North Jakarta,Neuviz,,Residential/Business,False
+2026-09-07 08:49:44,66.132.172.188,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-07 08:49:44,109.123.238.248,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Data Center,False
+2026-09-07 08:49:44,45.156.128.22,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-07 08:49:44,216.218.206.84,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-07 08:49:44,13.89.126.16,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-07 08:49:44,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-09-07 08:49:44,146.235.20.243,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-09-07 08:49:44,4.236.172.150,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-07 08:49:44,85.217.140.10,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 08:49:44,34.138.31.163,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-07 08:49:44,109.160.32.36,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 08:49:44,31.58.78.194,100,Latvia,Riga,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-09-07 08:49:44,45.61.129.23,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-07 08:49:44,35.188.112.111,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-07 08:49:44,47.77.231.181,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-07 08:49:44,37.148.44.141,100,Iran,Tehran,SHATEL Network,Shatel Group,Residential/Business,False
+2026-09-07 08:49:44,178.71.245.168,100,Russia,St Petersburg,Rostelecom networks,OJSC North-West Telecom,Residential/Business,False
+2026-09-07 08:49:44,45.156.128.109,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
