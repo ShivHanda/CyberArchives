@@ -116209,3 +116209,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-07 08:49:44,37.148.44.141,100,Iran,Tehran,SHATEL Network,Shatel Group,Residential/Business,False
 2026-09-07 08:49:44,178.71.245.168,100,Russia,St Petersburg,Rostelecom networks,OJSC North-West Telecom,Residential/Business,False
 2026-09-07 08:49:44,45.156.128.109,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-07 15:26:42,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-07 15:26:42,36.66.209.66,100,Indonesia,West Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-09-07 15:26:42,100.28.153.226,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-07 15:26:42,194.180.49.68,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-09-07 15:26:42,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-07 15:26:42,47.250.92.207,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-07 15:26:42,8.134.157.132,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-07 15:26:42,213.166.84.42,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-07 15:26:42,52.20.198.190,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-07 15:26:42,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-07 15:26:42,187.72.10.114,100,Brazil,Nova Lima,ALGAR TELECOM S/A,ABG PARTICIPAÇOES LTDA,Residential/Business,False
+2026-09-07 15:26:42,41.93.28.11,100,Tanzania,Dar es Salaam,Resource rsv cld,Education Research services,Residential/Business,False
+2026-09-07 15:26:42,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-07 15:26:42,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-07 15:26:42,164.92.200.106,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 15:26:42,209.59.151.72,100,United States,Lansing,"Liquid Web, L.L.C",SourceDNS,Data Center,False
+2026-09-07 15:26:42,185.242.226.18,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-07 15:26:42,24.178.72.82,100,United States,Suwanee,Charter Communications,Spectrum,Residential/Business,False
+2026-09-07 15:26:42,102.208.185.39,100,Tanzania,Dar es Salaam,Tanzania Commission for Science and Technology,Tanzania Commission Science and Technology,Residential/Business,False
+2026-09-07 15:26:42,82.152.211.215,100,Germany,Limburg an der Lahn,OVH SAS,,Residential/Business,False
+2026-09-07 15:26:42,103.253.146.170,100,Singapore,Singapore,DIGITALOCEAN,"Digital Ocean, Inc.",Data Center,False
+2026-09-07 15:26:42,79.124.49.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-07 15:26:42,51.75.21.168,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-09-07 15:26:42,66.132.195.27,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-07 15:26:42,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-07 15:26:42,137.184.179.158,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-07 15:26:42,109.160.32.101,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 15:26:42,43.155.157.239,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-07 15:26:42,210.87.97.90,100,Indonesia,Medan,PT Solusi Data Cepat,PT. ICLOUD TEKNOLOGI INDONESIA,Data Center,False
+2026-09-07 15:26:42,213.206.207.146,100,The Netherlands,Oss,ML Consultancy,MLC/InterConnect,Residential/Business,False
+2026-09-07 15:26:42,64.227.70.2,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 15:26:42,40.115.156.213,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-09-07 15:26:42,115.56.238.174,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-09-07 15:26:42,152.32.141.2,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-07 15:26:42,36.104.144.114,100,China,Hangzhou,Chinanet,Chinanet ZJ,Residential/Business,False
+2026-09-07 15:26:42,176.105.196.116,100,Ukraine,Vinnytsia,NPK Home-Net Ltd,NPK Home-Net Ltd,Residential/Business,False
+2026-09-07 15:26:42,216.73.217.24,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,True
+2026-09-07 15:26:42,157.230.131.241,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 15:26:42,112.184.52.71,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-07 15:26:42,165.22.146.119,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 15:26:42,213.177.179.166,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-07 15:26:42,94.53.199.67,100,Romania,Floreşti,SC NextGen Communications SRL,SC NextGen Communications SRL,Residential/Business,False
+2026-09-07 15:26:42,68.183.95.102,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 15:26:42,190.220.16.245,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,,Residential/Business,False
+2026-09-07 15:26:42,94.26.88.14,100,United Kingdom,London,MEVSPACE sp. z o.o.,Telco power Ltd,Residential/Business,False
+2026-09-07 15:26:42,94.205.250.78,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company,Residential/Business,False
+2026-09-07 15:26:42,103.9.204.209,100,Vietnam,Huế,SUNSOFT,GSS Investment Corporation,Residential/Business,False
+2026-09-07 15:26:42,174.138.44.8,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-07 15:26:42,50.71.238.210,100,Canada,Winnipeg,Shaw Communications,Shaw Communications Inc,Residential/Business,False
+2026-09-07 15:26:42,220.127.148.6,100,South Korea,Yangju,Korea Telecom,Kornet,Residential/Business,False
