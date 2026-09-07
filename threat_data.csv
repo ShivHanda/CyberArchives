@@ -116109,3 +116109,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-06 23:23:58,138.122.242.42,100,Brazil,Canaã dos Carajás,Coelho Tecnologia,Coelho Tecnologia,Residential/Business,False
 2026-09-06 23:23:58,103.143.11.150,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
 2026-09-06 23:23:58,109.160.32.29,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 02:23:53,125.39.148.106,100,China,Wanghailou,CNC Group CHINA169 Tianjin Province Network,"Tianjin Youji Science Technology Co., Ltd.",Residential/Business,False
+2026-09-07 02:23:53,136.67.199.118,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-07 02:23:53,85.217.140.22,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 02:23:53,85.217.149.74,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 02:23:53,109.160.32.31,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-07 02:23:53,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-07 02:23:53,194.31.8.12,100,Georgia,,Internet Exchange Association of Georgia,Internet Exchange Association of Georgia,Residential/Business,True
+2026-09-07 02:23:53,185.73.23.133,100,Germany,Bochum,Ruhr-Universitaet Bochum,Ruhr-Universitaet Bochum,Residential/Business,False
+2026-09-07 02:23:53,42.232.86.52,100,China,Zhengzhou,China Unicom Henan Province Network,,Residential/Business,False
+2026-09-07 02:23:53,184.105.139.78,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-07 02:23:53,93.113.10.244,100,Romania,Bucharest,SC Media SAT SRL,Mediasat Network,Residential/Business,False
+2026-09-07 02:23:53,118.113.15.18,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-09-07 02:23:53,16.5.0.236,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-07 02:23:53,186.68.83.105,100,Ecuador,Samborondón,SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC),Satnet Gye Coorp CM,Residential/Business,False
+2026-09-07 02:23:53,103.203.57.3,100,China,Chaowai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd",Residential/Business,False
+2026-09-07 02:23:53,185.242.226.19,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-07 02:23:53,223.109.140.60,100,China,Nanjing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-07 02:23:53,4.227.180.232,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-07 02:23:53,69.5.20.133,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-09-07 02:23:53,95.203.26.57,100,Sweden,Ystad,Telia Company AB,Telia Network Services,Mobile,False
+2026-09-07 02:23:53,152.32.150.26,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-07 02:23:53,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-07 02:23:53,4.224.59.75,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-07 02:23:53,103.126.86.8,100,Indonesia,Karanganyar,PT. Rasi Bintang Perkasa,,Residential/Business,False
+2026-09-07 02:23:53,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-07 02:23:53,97.74.87.152,100,Singapore,Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-07 02:23:53,120.46.203.220,100,China,Beijing,Huawei Cloud Service data center,Huawei Cloud Service,Data Center,False
+2026-09-07 02:23:53,218.233.182.39,100,South Korea,Gumi,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-07 02:23:53,45.142.193.169,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-09-07 02:23:53,20.84.165.201,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-07 02:23:53,185.242.226.91,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-07 02:23:53,20.29.43.153,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-07 02:23:53,31.56.44.105,100,Brazil,São Paulo,Gamers Club Ltda,,Residential/Business,False
+2026-09-07 02:23:53,89.37.172.144,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-07 02:23:53,79.124.62.134,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-09-07 02:23:53,45.4.252.162,100,Argentina,San Antonio,Fernando German Fischer (FIBERNET TELECOM),,Residential/Business,False
+2026-09-07 02:23:53,69.5.169.169,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-07 02:23:53,99.249.147.129,100,Canada,Midland,Rogers Communications Canada Inc.,Rogers Cable Inc. LNDN,Residential/Business,False
+2026-09-07 02:23:53,192.161.49.2,100,United States,Buffalo,HostPapa,HostPapa,Data Center,False
+2026-09-07 02:23:53,136.114.154.144,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-07 02:23:53,45.119.212.99,100,Vietnam,Dich Vong,Vietnam Internet Network Information Center,JSC - Hanoi,Residential/Business,False
+2026-09-07 02:23:53,64.89.163.235,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-07 02:23:53,171.25.158.74,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-07 02:23:53,34.175.254.200,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-07 02:23:53,128.199.145.5,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-07 02:23:53,85.217.140.33,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-07 02:23:53,74.87.117.150,100,United States,Milwaukee,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-09-07 02:23:53,62.60.131.232,100,Iran,Tehran,Feo Prest SRL,Feo Prest SRL,Data Center,True
+2026-09-07 02:23:53,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-07 02:23:53,60.172.54.36,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
