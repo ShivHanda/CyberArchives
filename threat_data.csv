@@ -116404,3 +116404,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-08 02:36:49,186.1.11.125,100,Nicaragua,Managua,Equipos Y Sistemas S.A.,Equipos Y Sistemas S.A,Residential/Business,False
 2026-09-08 02:36:49,64.62.156.219,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-09-08 02:36:49,183.82.56.12,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-09-08 08:30:10,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-09-08 08:30:10,157.90.243.44,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-08 08:30:10,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-08 08:30:10,37.77.150.241,100,Russia,Zelenograd,Proton66 OOO,LLC Baxet,Data Center,False
+2026-09-08 08:30:10,95.220.46.175,100,Russia,Moscow,PJSC MegaFon,Net By Net Holding LLC,Residential/Business,False
+2026-09-08 08:30:10,100.29.192.72,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-08 08:30:10,115.191.61.164,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-08 08:30:10,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-08 08:30:10,107.148.13.55,100,Hong Kong,Hong Kong,PEG TECH INC,PEG TECH INC,Residential/Business,True
+2026-09-08 08:30:10,110.175.253.104,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-09-08 08:30:10,178.217.173.50,100,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,KRENA Project,Residential/Business,False
+2026-09-08 08:30:10,109.160.32.106,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-08 08:30:10,193.176.31.200,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-08 08:30:10,110.185.106.161,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Data Center,False
+2026-09-08 08:30:10,106.75.63.139,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,True
+2026-09-08 08:30:10,111.179.148.46,100,China,Shizishan,Chinanet,Chinanet HB,Residential/Business,False
+2026-09-08 08:30:10,52.248.42.211,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-08 08:30:10,209.99.189.124,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-08 08:30:10,185.40.34.115,100,Azerbaijan,Baku,Nest LLC,Nest LLC,Residential/Business,False
+2026-09-08 08:30:10,68.178.163.185,100,Japan,Chiba,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-08 08:30:10,78.128.114.162,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-08 08:30:10,185.247.137.140,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-08 08:30:10,122.187.234.54,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-08 08:30:10,69.5.169.81,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-08 08:30:10,69.5.169.78,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-08 08:30:10,204.76.203.18,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-08 08:30:10,65.49.1.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-08 08:30:10,66.116.248.86,100,India,Navi Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-08 08:30:10,152.32.205.7,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-08 08:30:10,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Data Center,False
+2026-09-08 08:30:10,20.106.181.171,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-08 08:30:10,34.16.240.26,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-09-08 08:30:10,72.133.84.2,100,United States,Elgin,Charter Communications,Spectrum,Residential/Business,False
+2026-09-08 08:30:10,209.99.187.19,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-08 08:30:10,34.79.134.130,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-08 08:30:10,62.60.130.234,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-08 08:30:10,68.225.62.203,100,United States,Pensacola,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-08 08:30:10,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-08 08:30:10,101.13.6.91,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-09-08 08:30:10,101.36.114.252,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-08 08:30:10,2602:fa59:10:a3d::1,100,United States,Ogden,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-09-08 08:30:10,220.134.39.181,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-08 08:30:10,103.26.136.173,100,Bangladesh,Dhaka,Grameen Communications,Grameen Communications,Residential/Business,False
+2026-09-08 08:30:10,14.17.59.195,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-08 08:30:10,85.217.140.46,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-08 08:30:10,101.96.199.69,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-08 08:30:10,45.194.67.42,100,Seychelles,Grand'Anse,Vpsvault.host LTD,Aaroppe Internet Services Ltd Sti,Data Center,True
+2026-09-08 08:30:10,62.210.89.150,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-09-08 08:30:10,54.36.99.29,100,The Netherlands,Amsterdam,OVH SAS,,Data Center,False
+2026-09-08 08:30:10,68.10.56.9,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
