@@ -116454,3 +116454,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-08 08:30:10,62.210.89.150,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
 2026-09-08 08:30:10,54.36.99.29,100,The Netherlands,Amsterdam,OVH SAS,,Data Center,False
 2026-09-08 08:30:10,68.10.56.9,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-08 14:03:27,14.155.243.139,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-08 14:03:27,85.225.133.42,100,Sweden,Huskvarna,Telenor Sverige AB,Ownit in open network,Residential/Business,False
+2026-09-08 14:03:27,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-08 14:03:27,190.61.125.107,100,Panama,San Miguelito,Ufinet Panama S.A.,UFINET,Residential/Business,True
+2026-09-08 14:03:27,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-08 14:03:27,109.160.32.118,100,United States,Cornelius,GBTCloud,GBTCloud,Data Center,False
+2026-09-08 14:03:27,120.157.196.174,100,Australia,Melbourne,Telstra Internet,,Mobile,False
+2026-09-08 14:03:27,160.251.101.169,100,Japan,Chiyoda City,"GMO Internet Group, Inc.",interQ,Residential/Business,False
+2026-09-08 14:03:27,111.70.49.188,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-08 14:03:27,183.23.53.9,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-08 14:03:27,64.225.72.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-08 14:03:27,103.154.77.48,100,Indonesia,Sleman,T2NET,,Residential/Business,True
+2026-09-08 14:03:27,134.33.66.223,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-08 14:03:27,216.106.186.108,100,United States,Seattle,GTHost,GTHost,Residential/Business,False
+2026-09-08 14:03:27,85.208.96.196,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-09-08 14:03:27,200.112.142.188,100,Argentina,Tres Lomas,Sion S.A,Sion S.A,Residential/Business,False
+2026-09-08 14:03:27,34.171.97.130,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-08 14:03:27,77.90.185.88,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-09-08 14:03:27,77.239.124.130,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-08 14:03:27,34.18.71.97,100,Qatar,Doha,Google LLC,Google Cloud (me-central1),Data Center,False
+2026-09-08 14:03:27,51.68.130.128,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-09-08 14:03:27,173.224.172.209,100,United States,Gaylord,"Hiawatha Broadband Communications, Inc","Hiawatha Broadband Communications, Inc",Residential/Business,False
+2026-09-08 14:03:27,158.94.209.239,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-09-08 14:03:27,101.13.5.39,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-09-08 14:03:27,193.163.125.64,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-08 14:03:27,78.128.114.174,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-08 14:03:27,103.205.107.170,100,Vietnam,Quận Hai,Galaxy Play Joint Stock Company,Galaxy Play Joint Stock Company,Residential/Business,True
+2026-09-08 14:03:27,221.10.187.253,100,China,Chengdu,CNC Group CHINA169 Sichuan Province Network,,Residential/Business,False
+2026-09-08 14:03:27,8.234.213.119,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-08 14:03:27,138.197.211.94,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-08 14:03:27,220.130.194.183,100,Taiwan,Wenshan,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-08 14:03:27,187.91.166.143,100,Brazil,Vitória,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-08 14:03:27,197.5.145.114,100,Tunisia,Masakin,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-09-08 14:03:27,119.207.89.131,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-08 14:03:27,176.112.111.30,100,Russia,Bogorodsk,MediaKvant Ltd.,MediaKvant Ltd,Residential/Business,False
+2026-09-08 14:03:27,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-09-08 14:03:27,189.90.33.195,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
+2026-09-08 14:03:27,47.236.228.211,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-08 14:03:27,102.220.161.64,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-08 14:03:27,154.146.239.173,100,Morocco,Tangier,CASA 4G MarocTelecom,,Residential/Business,False
+2026-09-08 14:03:27,64.62.156.212,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-08 14:03:27,118.196.142.135,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-08 14:03:27,146.88.241.155,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-09-08 14:03:27,41.219.149.74,100,Nigeria,Lagos,NAL-AS,Netcom Africa Limited,Residential/Business,False
+2026-09-08 14:03:27,58.186.20.101,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-09-08 14:03:27,213.177.179.151,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-08 14:03:27,198.98.62.211,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-09-08 14:03:27,171.8.7.8,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-09-08 14:03:27,200.219.11.144,100,Brazil,Cachoeirinha,Ipvdata Tecnologia E Computacao EM Nuvem Ltda,Ipvdata Tecnologia E Computacao EM Nuvem Ltda,Residential/Business,False
+2026-09-08 14:03:27,43.163.6.201,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,,Data Center,False
