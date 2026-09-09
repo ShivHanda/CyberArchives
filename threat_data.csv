@@ -116799,3 +116799,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-09 18:59:57,186.248.197.77,100,Brazil,Belo Horizonte,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,Residential/Business,False
 2026-09-09 18:59:57,185.177.72.67,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
 2026-09-09 18:59:57,165.154.202.254,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-09-09 22:09:52,167.71.218.26,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-09 22:09:52,200.27.142.120,100,Chile,Santiago,Telmex Chile Internet S.A.,Synopsis S.A,Residential/Business,False
+2026-09-09 22:09:52,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-09 22:09:52,189.8.5.118,100,Brazil,São Paulo,Universal Telecom S.A.,Universal Telecom S.A,Residential/Business,False
+2026-09-09 22:09:52,111.93.63.254,100,India,New Delhi,Ttsl-isp Division,Tata Teleservices Limited- North India,Residential/Business,False
+2026-09-09 22:09:52,83.242.247.50,100,Russia,Moscow,Comstar Volga,,Mobile,False
+2026-09-09 22:09:52,103.189.5.190,100,Bangladesh,Narayanganj,Red Data PVT Ltd,Red Data pvt Ltd,Residential/Business,False
+2026-09-09 22:09:52,122.54.197.165,100,Philippines,Makati City,Philippine Long Distance Telephone Co.,"Atlasproperties Shared Services, Inc.",Residential/Business,False
+2026-09-09 22:09:52,93.94.178.8,100,Russia,Irkutsk,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Irkutsk Branch",Residential/Business,False
+2026-09-09 22:09:52,179.27.79.42,100,Uruguay,Montevideo,Administracion Nacional de Telecomunicaciones,Cliente Antel Uruguay,Residential/Business,False
+2026-09-09 22:09:52,35.199.70.56,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-09-09 22:09:52,154.16.112.12,100,United States,Buffalo,ipxo,"OC1-HostForWeb, LLC",Data Center,False
+2026-09-09 22:09:52,152.32.163.183,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-09 22:09:52,145.239.112.29,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-09 22:09:52,159.223.185.253,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-09 22:09:52,203.2.151.27,100,Indonesia,Subang,PT BARAYA BARENG SADULUR,Indonesia Network Information Center,Residential/Business,False
+2026-09-09 22:09:52,148.223.251.51,100,Mexico,Álvaro Obregón,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-09-09 22:09:52,68.183.95.102,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-09 22:09:52,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-09 22:09:52,87.236.176.245,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-09 22:09:52,112.226.15.122,100,China,Qingdao,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-09 22:09:52,123.100.226.79,100,Indonesia,Jakarta,PT. EXABYTES NETWORK INDONESIA,Exbcoid,Data Center,False
+2026-09-09 22:09:52,103.109.194.234,100,Indonesia,Central Jakarta,PT Cyberindo Aditama,CBN,Residential/Business,False
+2026-09-09 22:09:52,100.59.196.196,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-09 22:09:52,191.53.187.6,100,Brazil,Divinópolis,Rede Brasileira de Comunicacao S/A,MASTER S/A,Residential/Business,False
+2026-09-09 22:09:52,84.44.39.47,100,Turkey,Şişli,Vodafone Net Iletisim Hizmetler,Borusan Telekom,Residential/Business,False
+2026-09-09 22:09:52,165.154.137.186,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-09 22:09:52,62.11.129.215,100,United States,Phoenix,Microsoft Corporation,Tiscali Italia S.P.A,Data Center,False
+2026-09-09 22:09:52,185.243.5.193,100,United States,Newark,ReliableSite.Net LLC,Dedires LLC,Residential/Business,False
+2026-09-09 22:09:52,160.119.66.52,100,The Netherlands,Amsterdam,HostUS,,Data Center,False
+2026-09-09 22:09:52,101.36.118.248,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-09 22:09:52,194.56.92.3,100,France,Malakoff,Sesan Service Numerique De Sante GCS,HSJ,Residential/Business,False
+2026-09-09 22:09:52,188.128.63.114,100,Russia,Velizh,Rostelecom Nets,JSC Rostelecom,Residential/Business,False
+2026-09-09 22:09:52,66.132.195.28,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-09 22:09:52,147.139.199.173,100,Indonesia,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,Data Center,False
+2026-09-09 22:09:52,172.174.72.225,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-09-09 22:09:52,46.148.245.118,100,Russia,Krasnodar,MTS PJSC,B2bhub Krasnodar,Mobile,False
+2026-09-09 22:09:52,171.244.39.139,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-09 22:09:52,177.221.40.162,100,Brazil,Recife,1telecom Servicos De Tecnologia EM Internet Ltda,Compesa - Companhia Pernambucana de Saneamento,Residential/Business,False
+2026-09-09 22:09:52,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-09-09 22:09:52,204.76.203.49,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-09 22:09:52,2602:fa59:2:bdab::1,100,United States,Ogden,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-09-09 22:09:52,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-09 22:09:52,31.25.29.163,100,Russia,Moscow,LLC Cifrovie Seti Urala,"LLC ""Elektronnaya Set""",Residential/Business,False
+2026-09-09 22:09:52,103.154.137.41,100,Indonesia,Central Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-09-09 22:09:52,200.69.45.152,100,Argentina,Rawson,Sion S.A,Sion S.A,Residential/Business,False
+2026-09-09 22:09:52,117.50.178.180,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-09 22:09:52,138.226.239.234,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
+2026-09-09 22:09:52,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-09 22:09:52,187.175.23.192,100,Mexico,Centro,Uninet S.A. de C.V.,UNINET,Residential/Business,False
