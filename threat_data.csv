@@ -116849,3 +116849,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-09 22:09:52,138.226.239.234,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
 2026-09-09 22:09:52,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-09-09 22:09:52,187.175.23.192,100,Mexico,Centro,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-09-10 02:39:10,18.119.209.50,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-10 02:39:10,186.103.169.12,100,Chile,Santiago,Telefonica Empresas,Telefonica Empresas Chile SA,Residential/Business,False
+2026-09-10 02:39:10,24.178.72.82,100,United States,Suwanee,Charter Communications,Spectrum,Residential/Business,False
+2026-09-10 02:39:10,91.92.42.200,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-10 02:39:10,103.113.171.119,100,Indonesia,Jakarta,PT Cloudata Indonesia,,Data Center,False
+2026-09-10 02:39:10,176.111.37.216,100,Hong Kong,Tsim Sha Tsui,Cogento Backbone Limited,Cogento Backbone Limited,Residential/Business,True
+2026-09-10 02:39:10,194.88.98.94,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-10 02:39:10,34.16.177.178,100,United States,Las Vegas,Google LLC,Google Cloud (us-west4),Data Center,False
+2026-09-10 02:39:10,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 02:39:10,111.223.58.40,100,Thailand,Huai Khwang,Proen Corp Public Company Limited,PROEN Corp Public Company Limited,Data Center,False
+2026-09-10 02:39:10,46.254.246.195,100,Russia,Ust'-Ilimsk,IESV,Irkutskenergosvyaz ltd,Residential/Business,False
+2026-09-10 02:39:10,116.6.44.114,100,China,Shenzhen,Chinanet Guangdong Province Network,,Residential/Business,False
+2026-09-10 02:39:10,123.63.1.226,100,India,Bhubaneswar,VODAFONE-STATIC,,Mobile,False
+2026-09-10 02:39:10,82.67.86.223,100,France,Rouen,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-09-10 02:39:10,106.201.232.211,100,India,Mumbai,Bharti Airtel Services Limited,Bharti-airtel-ltd-broadband Network,Residential/Business,False
+2026-09-10 02:39:10,175.45.161.140,100,South Korea,Seoul,Shinsegae I C,Shinsegae I C,Residential/Business,False
+2026-09-10 02:39:10,193.163.125.254,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-10 02:39:10,217.150.37.249,100,Russia,Orenburg,TRANS-TELECOM,,Residential/Business,False
+2026-09-10 02:39:10,42.51.25.93,100,China,Shenzhen,China Unicom Henan Province network,"Henan Telcom Union Technology Co., LTD",Residential/Business,False
+2026-09-10 02:39:10,43.160.255.142,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,True
+2026-09-10 02:39:10,66.132.186.200,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-10 02:39:10,185.247.137.44,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-10 02:39:10,200.52.196.233,100,Mexico,Tlajomulco de Zúñiga,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-09-10 02:39:10,223.27.244.164,100,Thailand,Kamala,"United Information Highway Co., Ltd.","United Information Highway Co., Ltd",Residential/Business,False
+2026-09-10 02:39:10,85.239.151.34,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-09-10 02:39:10,94.53.199.67,100,Romania,Floreşti,SC NextGen Communications SRL,SC NextGen Communications SRL,Residential/Business,False
+2026-09-10 02:39:10,94.154.43.196,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-10 02:39:10,176.120.110.160,100,Ukraine,Kyiv,Gigabit-Online LLC,Gigabit-Online LLC,Residential/Business,False
+2026-09-10 02:39:10,193.163.125.11,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-10 02:39:10,193.163.125.105,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-10 02:39:10,65.49.1.52,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-10 02:39:10,78.128.114.166,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-10 02:39:10,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 02:39:10,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 02:39:10,103.79.90.26,100,Indonesia,Temanggung,Pemerintah Kabupaten Temanggung,,Residential/Business,False
+2026-09-10 02:39:10,183.224.219.194,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-10 02:39:10,199.45.155.56,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-10 02:39:10,52.173.67.116,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-10 02:39:10,64.62.197.88,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-10 02:39:10,94.26.88.14,100,United Kingdom,London,MEVSPACE sp. z o.o.,Telco power Ltd,Residential/Business,False
+2026-09-10 02:39:10,138.121.106.32,100,Argentina,Junín,RED POWER INTERNET SRL,RED POWER INTERNET SRL,Residential/Business,False
+2026-09-10 02:39:10,62.238.58.32,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-09-10 02:39:10,146.70.194.222,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-10 02:39:10,162.217.103.70,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-09-10 02:39:10,66.132.172.114,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-10 02:39:10,103.161.93.53,100,India,Navi Mumbai,Om Internet Broadband Service,,Residential/Business,False
+2026-09-10 02:39:10,192.253.248.223,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-10 02:39:10,51.81.86.169,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-09-10 02:39:10,210.245.30.140,100,Vietnam,Hanoi,FPT Telecom Company,"Dai IP cap cho VPDD Givaudan Singapore Pte, Ltd",Residential/Business,False
+2026-09-10 02:39:10,31.57.216.6,100,Slovenia,Ljubljana,VPS Dedicated LLC,VPS Dedicated LLC,Data Center,False
