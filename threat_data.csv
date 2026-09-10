@@ -117049,3 +117049,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-10 18:52:43,123.100.226.79,100,Indonesia,Jakarta,PT. EXABYTES NETWORK INDONESIA,Exbcoid,Data Center,False
 2026-09-10 18:52:43,213.230.87.143,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
 2026-09-10 18:52:43,24.144.97.42,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-10 22:11:15,193.160.223.177,100,Germany,Frankfurt am Main,23M GmbH,"SmartHost, LLC",Data Center,False
+2026-09-10 22:11:15,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-10 22:11:15,150.241.245.107,100,India,Bengaluru,Micro Hosting Private Limited,,Data Center,False
+2026-09-10 22:11:15,122.187.230.181,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-10 22:11:15,101.36.119.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-10 22:11:15,222.252.166.168,100,Vietnam,Haiphong,VietNam Post and Telecom Corporation,,Residential/Business,False
+2026-09-10 22:11:15,207.90.244.26,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-10 22:11:15,202.165.249.174,100,Pakistan,Islamabad,Nayatel (Pvt) Ltd,Naya Tel (Pvt.) Limited,Residential/Business,False
+2026-09-10 22:11:15,195.178.110.93,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-10 22:11:15,188.240.59.60,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-10 22:11:15,43.133.139.167,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-10 22:11:15,31.199.224.56,100,Italy,Casoria,Telecom Italia S.p.A.,Printing Communication and Safety S.R.L.,Residential/Business,False
+2026-09-10 22:11:15,103.148.208.146,100,Indonesia,Blitar,Dinas Komunikasi Informatika DAN Statistik Kota Blitar,Dinas Komunikasi Informatika DAN Statistik Kota Blitar,Residential/Business,False
+2026-09-10 22:11:15,141.148.207.84,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-09-10 22:11:15,37.252.75.165,100,Armenia,Yerevan,Ucom CJSC,Ucom CJSC,Residential/Business,False
+2026-09-10 22:11:15,102.23.122.235,100,Zambia,Lusaka,Infratel Corporation Limited,,Residential/Business,False
+2026-09-10 22:11:15,136.243.80.254,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-10 22:11:15,20.120.169.146,100,United States,Quincy,Microsoft Corporation,Microsoft Azure Cloud (westus2),Data Center,False
+2026-09-10 22:11:15,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-10 22:11:15,109.160.32.30,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-10 22:11:15,163.7.4.109,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-10 22:11:15,80.1.51.168,100,United Kingdom,Rochdale,Virgin Media,,Residential/Business,False
+2026-09-10 22:11:15,173.212.200.248,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-10 22:11:15,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-10 22:11:15,51.81.86.169,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-09-10 22:11:15,35.234.11.225,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-10 22:11:15,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-10 22:11:15,20.193.141.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-09-10 22:11:15,148.223.251.51,100,Mexico,Álvaro Obregón,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-09-10 22:11:15,109.160.32.74,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-10 22:11:15,77.105.207.233,100,Sweden,Vaxjo,Net at Once Sweden AB,NAO,Residential/Business,False
+2026-09-10 22:11:15,69.5.169.146,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-10 22:11:15,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-10 22:11:15,111.70.23.222,100,Taiwan,Taipei,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-10 22:11:15,111.70.49.179,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-10 22:11:15,185.152.91.17,100,Türkiye,Mersin,Xeront Cloud Solutions,Xeront Cloud Solutions,Data Center,False
+2026-09-10 22:11:15,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-10 22:11:15,147.93.187.41,100,United States,Orangeburg,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-09-10 22:11:15,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-10 22:11:15,70.169.4.117,100,United States,Hampton,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-10 22:11:15,111.0.81.84,100,China,Hangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-10 22:11:15,14.48.112.8,100,South Korea,Yeosu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-10 22:11:15,210.1.59.163,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-09-10 22:11:15,131.148.181.242,100,United States,Livonia,Charter Communications LLC,Spectrum,Residential/Business,False
+2026-09-10 22:11:15,216.73.216.163,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-09-10 22:11:15,43.164.128.28,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-10 22:11:15,195.252.196.198,100,United States,Lexington,Metronet,LXTNKYA2G03 Static /32s,Data Center,False
+2026-09-10 22:11:15,152.32.134.156,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-10 22:11:15,103.237.102.191,100,Germany,Frankfurt am Main,Zenlayer Inc,Franet,Residential/Business,True
+2026-09-10 22:11:15,176.9.105.121,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
