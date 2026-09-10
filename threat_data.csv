@@ -116899,3 +116899,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-10 02:39:10,51.81.86.169,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
 2026-09-10 02:39:10,210.245.30.140,100,Vietnam,Hanoi,FPT Telecom Company,"Dai IP cap cho VPDD Givaudan Singapore Pte, Ltd",Residential/Business,False
 2026-09-10 02:39:10,31.57.216.6,100,Slovenia,Ljubljana,VPS Dedicated LLC,VPS Dedicated LLC,Data Center,False
+2026-09-10 08:34:20,194.180.48.39,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-09-10 08:34:20,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-10 08:34:20,31.14.254.90,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-10 08:34:20,36.94.179.154,100,Indonesia,Sunggal,PT. Telekomunikasi Indonesia,Telekomunikasi Indonesia,Residential/Business,False
+2026-09-10 08:34:20,45.139.104.176,100,Germany,Frankfurt am Main,49.3 Networking LLC,Networking LLC,Residential/Business,False
+2026-09-10 08:34:20,85.217.140.4,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 08:34:20,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-10 08:34:20,103.94.10.70,100,Indonesia,Sukabumi,PT Widya Intersat Nusantara,,Residential/Business,False
+2026-09-10 08:34:20,97.74.236.4,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-10 08:34:20,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-10 08:34:20,85.217.140.40,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 08:34:20,85.217.140.51,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 08:34:20,190.121.2.125,100,Chile,Port Montt,Telefonica del Sur S.A,Distribuidora E Importadora Dimarsa SA,Residential/Business,False
+2026-09-10 08:34:20,220.235.237.36,100,Australia,Melbourne,TPG Internet Pty Ltd,iiNet Limited,Residential/Business,False
+2026-09-10 08:34:20,49.124.148.201,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-10 08:34:20,119.152.23.220,100,Pakistan,Lahore,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-09-10 08:34:20,130.12.182.197,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-09-10 08:34:20,66.132.186.243,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-10 08:34:20,34.156.233.237,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-10 08:34:20,47.84.188.3,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-10 08:34:20,160.22.126.54,100,Indonesia,Sangatta,PT. Kaltim Net Nusantara,,Residential/Business,False
+2026-09-10 08:34:20,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-10 08:34:20,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-10 08:34:20,20.172.67.197,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-10 08:34:20,42.1.65.89,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-09-10 08:34:20,181.196.24.37,100,Ecuador,Quito,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-09-10 08:34:20,80.94.95.245,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-09-10 08:34:20,61.37.150.6,100,South Korea,Yeongdeungpo-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-10 08:34:20,118.36.136.12,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-10 08:34:20,139.255.199.44,100,Indonesia,West Jakarta,"PT. First Media, Tbk",,Residential/Business,False
+2026-09-10 08:34:20,221.162.218.85,100,South Korea,Sasang-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-10 08:34:20,95.217.139.238,100,Finland,Helsinki,Hetzner Online GmbH,Prime Time Systems DOO,Data Center,False
+2026-09-10 08:34:20,202.165.25.8,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
+2026-09-10 08:34:20,66.132.195.74,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-10 08:34:20,178.16.55.50,100,United States,New York,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-09-10 08:34:20,186.121.204.66,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-09-10 08:34:20,185.177.72.24,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-09-10 08:34:20,141.255.164.72,100,Switzerland,Zurich,Private Layer INC,Clientid7451,Data Center,False
+2026-09-10 08:34:20,20.98.132.45,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-10 08:34:20,64.92.3.141,100,United States,Katy,"Consolidated Communications, Inc.","Consolidated Communications, Inc.",Residential/Business,False
+2026-09-10 08:34:20,45.148.10.18,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-10 08:34:20,103.73.74.156,100,Indonesia,Tangerang,PT. Wahana Internet Nusantara,,Residential/Business,False
+2026-09-10 08:34:20,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Residential/Business,False
+2026-09-10 08:34:20,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 08:34:20,85.217.149.37,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-10 08:34:20,51.159.91.169,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-09-10 08:34:20,192.253.248.215,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-10 08:34:20,59.103.230.194,100,Pakistan,Rawalpindi,Pakistan Telecommunication Company Limited,,Residential/Business,False
+2026-09-10 08:34:20,202.165.249.174,100,Pakistan,Islamabad,Nayatel (Pvt) Ltd,Naya Tel (Pvt.) Limited,Residential/Business,False
+2026-09-10 08:34:20,103.191.14.243,100,Indonesia,Utan,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,Residential/Business,False
