@@ -117249,3 +117249,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-11 13:59:23,59.103.230.194,100,Pakistan,Rawalpindi,Pakistan Telecommunication Company Limited,,Residential/Business,False
 2026-09-11 13:59:23,180.210.130.30,100,Bangladesh,Dhaka,Bangla Phone Ltd,Bangla Phone Ltd,Residential/Business,False
 2026-09-11 13:59:23,185.220.101.101,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,Digitalcourage e.V,Data Center,True
+2026-09-11 17:39:49,43.165.178.246,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-11 17:39:49,45.33.125.75,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-11 17:39:49,193.176.31.221,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-11 17:39:49,87.192.237.168,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-09-11 17:39:49,123.63.1.226,100,India,Bhubaneswar,VODAFONE-STATIC,,Mobile,False
+2026-09-11 17:39:49,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-11 17:39:49,109.160.32.111,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-11 17:39:49,45.164.251.67,100,Brazil,Trindade,Wigvan Rogerio Oliveira Santana Eireli ME,Wigvan Rogerio Oliveira Santana Eireli ME,Residential/Business,False
+2026-09-11 17:39:49,171.244.5.213,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-09-11 17:39:49,202.84.43.58,100,Bangladesh,Dhaka,Bangladesh Online Ltd,Bangladesh Online Ltd,Residential/Business,False
+2026-09-11 17:39:49,41.93.28.12,100,Tanzania,Dar es Salaam,Resource rsv cld,Education Research services,Residential/Business,False
+2026-09-11 17:39:49,64.225.30.2,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-11 17:39:49,20.64.97.253,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-11 17:39:49,200.106.183.4,100,Brazil,Bragança Paulista,Rodrigo Santinelli De Lima,Rodrigo Santinelli De Lima,Residential/Business,False
+2026-09-11 17:39:49,103.170.157.62,100,India,Sabalgarh,Airline Internet Solutions India Private Limited,Rohansi Nkbroadband and Wifi  Private Limited,Residential/Business,False
+2026-09-11 17:39:49,192.42.116.107,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-11 17:39:49,90.228.229.182,100,Sweden,Stockholm,Telia Company AB,Telia Company AB,Residential/Business,False
+2026-09-11 17:39:49,213.232.48.172,100,Turkey,Istanbul,ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.,Colocation TESIS Sendikasi,Residential/Business,False
+2026-09-11 17:39:49,44.203.143.87,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-11 17:39:49,85.12.237.201,100,Russia,Yekaterinburg,INSYS network,,Residential/Business,False
+2026-09-11 17:39:49,85.217.140.35,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-11 17:39:49,121.196.27.240,100,China,Hangzhou,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-11 17:39:49,109.160.32.42,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-11 17:39:49,103.151.140.79,100,Indonesia,Legokbuluh,PT Indotechno Digital Komputasi,,Residential/Business,False
+2026-09-11 17:39:49,149.34.48.31,100,Peru,Miraflores,Red Cientifica Peruana,,Residential/Business,False
+2026-09-11 17:39:49,74.209.100.246,100,United States,Commerce,TruVista Communications,TruVista Communications,Residential/Business,False
+2026-09-11 17:39:49,91.92.47.187,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-11 17:39:49,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-11 17:39:49,34.6.137.128,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-11 17:39:49,37.76.125.1,100,Hungary,Budapest,T-Mobile Hungary,,Residential/Business,False
+2026-09-11 17:39:49,94.180.139.162,100,Russia,Kazan',"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Kazan' Branch",Residential/Business,False
+2026-09-11 17:39:49,85.69.240.210,100,France,Perpignan,Societe Francaise Du Radiotelephone - SFR SA,Ncnumericable,Residential/Business,False
+2026-09-11 17:39:49,192.169.232.223,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-11 17:39:49,64.89.160.201,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-09-11 17:39:49,34.86.37.160,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-11 17:39:49,190.6.76.90,100,Cuba,Santiago de Cuba,"Empresa de Telecomunicaciones de Cuba, S.A.",Sime conformadora 30 de Noviembre,Residential/Business,False
+2026-09-11 17:39:49,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-11 17:39:49,20.65.217.106,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-11 17:39:49,189.254.45.102,100,Mexico,Azcapotzalco,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-11 17:39:49,203.121.40.210,100,Malaysia,Shah Alam,TTDOTCOM,,Residential/Business,False
+2026-09-11 17:39:49,121.179.93.147,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-09-11 17:39:49,103.12.205.20,100,Bangladesh,Ishwardi,Md Khaled Musaddek,RBD SOFTWARE & TECHNOLOGY LIMITED,Data Center,False
+2026-09-11 17:39:49,34.76.20.214,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-11 17:39:49,172.94.9.89,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-11 17:39:49,20.229.185.186,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-09-11 17:39:49,74.208.73.209,100,United States,Kansas City,IONOS SE,IONOS Inc,Data Center,False
+2026-09-11 17:39:49,103.252.168.4,100,India,Nagpur,UCN CABLE NETWORK PVT. LTD,UCN Cable Network Pvt. Ltd.,Residential/Business,False
+2026-09-11 17:39:49,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-09-11 17:39:49,136.66.31.47,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-11 17:39:49,15.235.186.198,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
