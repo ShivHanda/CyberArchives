@@ -117199,3 +117199,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-11 08:28:51,8.216.6.198,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-09-11 08:28:51,20.24.86.237,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
 2026-09-11 08:28:51,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-11 13:59:23,195.96.139.159,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-09-11 13:59:23,85.217.140.40,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-11 13:59:23,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-11 13:59:23,65.49.1.57,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-11 13:59:23,49.200.99.254,100,India,Vadodara,GSM,Tata Teleservices Limited -GSM Division,Residential/Business,False
+2026-09-11 13:59:23,198.98.53.213,100,United States,New York,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-09-11 13:59:23,103.68.11.235,100,India,Pune,Teleglobal Communications Pvt Ltd,Teleglobal Communications Pvt Ltd,Residential/Business,False
+2026-09-11 13:59:23,159.65.168.103,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-11 13:59:23,65.49.20.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-11 13:59:23,66.132.186.132,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-11 13:59:23,192.145.124.230,100,Spain,Madrid,M247 Europe SRL,M247 Ltd,Data Center,True
+2026-09-11 13:59:23,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Data Center,False
+2026-09-11 13:59:23,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
+2026-09-11 13:59:23,147.45.51.138,100,Italy,Milan,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-09-11 13:59:23,69.175.42.65,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-09-11 13:59:23,184.105.139.116,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-11 13:59:23,34.97.113.65,100,Japan,Osaka,Google LLC,Google Cloud (asia-northeast2),Data Center,False
+2026-09-11 13:59:23,94.19.129.19,100,Russia,St Petersburg,SkyNet LLC,SkyNet Networks,Residential/Business,False
+2026-09-11 13:59:23,104.28.156.61,100,Ukraine,Karavelove,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-09-11 13:59:23,77.105.37.219,100,Serbia,Belgrade,ORIONTELEKOMTIMHOSTING,,Data Center,False
+2026-09-11 13:59:23,148.251.29.36,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-11 13:59:23,62.38.20.61,100,Greece,Athens,Vodafone-panafon Hellenic Telecommunications Company SA,Vodafone Greece Fixed,Residential/Business,False
+2026-09-11 13:59:23,20.65.218.29,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-11 13:59:23,159.118.143.117,100,United States,Idaho Falls,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-09-11 13:59:23,83.242.247.50,100,Russia,Moscow,Comstar Volga,,Mobile,False
+2026-09-11 13:59:23,35.198.51.175,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-09-11 13:59:23,144.225.187.68,100,United States,Los Angeles,CNServer LLC,,Data Center,False
+2026-09-11 13:59:23,34.76.101.15,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-11 13:59:23,45.120.216.232,100,Hong Kong,Hong Kong,Cloud Computing HK Limited,Yunify Technologies (HK) Limited,Data Center,True
+2026-09-11 13:59:23,203.128.71.117,100,Indonesia,Bogor,Neuviz,,Residential/Business,False
+2026-09-11 13:59:23,46.164.148.190,100,Ukraine,Kyiv,"PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",Valprim Datagroup,Residential/Business,False
+2026-09-11 13:59:23,113.23.225.9,100,Malaysia,Putrajaya,Extreme Broadband,,Residential/Business,False
+2026-09-11 13:59:23,111.26.80.229,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-11 13:59:23,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-11 13:59:23,112.242.108.159,100,China,Jinan,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-11 13:59:23,186.42.173.68,100,Ecuador,Guayaquil,Corporacion Nacional De Telecomunicaciones - CNT EP,Hospital Psiquiatrico Julio Endara M,Residential/Business,False
+2026-09-11 13:59:23,14.225.251.219,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-11 13:59:23,222.111.148.83,100,South Korea,Seoul,Korea Telecom,(ju)gugilyuhaengsa,Residential/Business,False
+2026-09-11 13:59:23,51.57.80.151,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-11 13:59:23,31.57.47.233,100,United States,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,Data Center,False
+2026-09-11 13:59:23,140.245.38.115,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-2),Data Center,False
+2026-09-11 13:59:23,190.121.22.158,100,Chile,Valdivia,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-09-11 13:59:23,42.96.5.238,100,Vietnam,Kiến Hưng,Bach Kim Network solutions Join stock company,Bach Kim Network solutions Join stock company,Residential/Business,False
+2026-09-11 13:59:23,124.45.31.57,100,Japan,Shirahama,NTT-ME Corporation,NTT-ME Corporation,Residential/Business,False
+2026-09-11 13:59:23,176.211.106.206,100,Russia,St Petersburg,PJSC Rostelecom Russian Federation,Rostelecom,Residential/Business,False
+2026-09-11 13:59:23,121.179.93.147,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-09-11 13:59:23,51.75.253.68,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-09-11 13:59:23,59.103.230.194,100,Pakistan,Rawalpindi,Pakistan Telecommunication Company Limited,,Residential/Business,False
+2026-09-11 13:59:23,180.210.130.30,100,Bangladesh,Dhaka,Bangla Phone Ltd,Bangla Phone Ltd,Residential/Business,False
+2026-09-11 13:59:23,185.220.101.101,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,Digitalcourage e.V,Data Center,True
