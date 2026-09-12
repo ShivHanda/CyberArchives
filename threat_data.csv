@@ -117449,3 +117449,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-12 02:41:52,136.108.15.119,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
 2026-09-12 02:41:52,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
 2026-09-12 02:41:52,81.192.46.45,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-09-12 08:17:28,103.69.149.148,100,Bangladesh,Dhaka,Digi Jadoo Broadband Ltd,,Residential/Business,False
+2026-09-12 08:17:28,153.126.182.12,100,Japan,Osaka,SAKURA Internet Inc.,SAKURA,Data Center,False
+2026-09-12 08:17:28,190.92.174.183,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-09-12 08:17:28,34.65.205.173,100,Switzerland,Zurich,Google LLC,Google Cloud (europe-west6),Data Center,False
+2026-09-12 08:17:28,177.136.231.47,100,Brazil,São Paulo,EVEO Serviços de Internet Ltda.,Eveo S.A,Residential/Business,False
+2026-09-12 08:17:28,47.250.91.77,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-12 08:17:28,196.189.59.226,100,Ethiopia,Addis Ababa,Ethiotelecom,To  BRAS DHCP AD,Residential/Business,False
+2026-09-12 08:17:28,193.163.125.87,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-12 08:17:28,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-12 08:17:28,213.206.207.146,100,The Netherlands,Wehl,ML Consultancy,MLC/InterConnect,Residential/Business,False
+2026-09-12 08:17:28,103.30.40.129,100,Hong Kong,Sheung Wan,HKVPS,HongKong Virtual Internal Server Company Limited,Data Center,False
+2026-09-12 08:17:28,37.103.81.214,100,Italy,Modena,Managed By Flavio Palumbo,WINDTRE s.p.a,Residential/Business,False
+2026-09-12 08:17:28,165.154.164.79,100,Germany,Frankfurt am Main,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-12 08:17:28,103.154.137.43,100,Indonesia,Central Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-09-12 08:17:28,35.228.15.120,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-09-12 08:17:28,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-12 08:17:28,193.124.20.247,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-12 08:17:28,209.141.52.196,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-09-12 08:17:28,107.172.168.194,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-09-12 08:17:28,119.93.130.51,100,Philippines,San Roque,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-09-12 08:17:28,34.78.84.192,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-12 08:17:28,190.89.55.250,100,Brazil,Inhumas,Cardoso Comunicacoes Limitada,Cyanet Telecom Ltda,Residential/Business,False
+2026-09-12 08:17:28,106.245.151.118,100,South Korea,Seoul,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-12 08:17:28,34.17.179.190,100,Italy,Turin,Google LLC,Google Cloud (europe-west12),Data Center,False
+2026-09-12 08:17:28,35.236.241.106,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-12 08:17:28,69.175.42.65,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-09-12 08:17:28,34.97.131.88,100,Japan,Osaka,Google LLC,Google Cloud (asia-northeast2),Data Center,False
+2026-09-12 08:17:28,45.61.187.148,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-09-12 08:17:28,23.21.250.48,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-12 08:17:28,64.202.186.161,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-12 08:17:28,51.83.47.23,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-12 08:17:28,84.236.153.81,100,Spain,Elche,Aire Networks Del Mediterraneo SL Unipersonal,ServiHosting Networks S.L,Data Center,False
+2026-09-12 08:17:28,141.101.9.226,100,Ukraine,Mykolayiv,WildPark Co,WildPark Co,Residential/Business,False
+2026-09-12 08:17:28,23.234.94.162,100,United States,San Jose,"tzulo, inc.",ryan sutton,Data Center,False
+2026-09-12 08:17:28,111.70.3.108,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-12 08:17:28,217.146.80.125,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-12 08:17:28,58.59.233.182,100,China,Liuzhou,Chinanet,Chinanet GX,Residential/Business,False
+2026-09-12 08:17:28,122.160.103.228,100,India,Gurugram,BHARTI,Abts Delhi,Residential/Business,False
+2026-09-12 08:17:28,66.132.172.118,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-12 08:17:28,119.98.70.22,100,China,Wuhan,China Telecom,Chinanet HB,Residential/Business,False
+2026-09-12 08:17:28,66.187.5.104,100,United States,Spokane,Hostodo,Hostodo,Data Center,False
+2026-09-12 08:17:28,103.214.100.4,100,Indonesia,Sekupang,SMARTPLUS,,Residential/Business,False
+2026-09-12 08:17:28,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-12 08:17:28,91.105.232.142,100,Russia,Moscow,Reconn LLC,Reconn LLC,Data Center,False
+2026-09-12 08:17:28,98.157.226.42,100,United States,Cleveland,Charter Communications,Spectrum,Residential/Business,False
+2026-09-12 08:17:28,121.40.20.65,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-12 08:17:28,68.183.95.102,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-12 08:17:28,89.109.4.236,100,Russia,Nizhniy Novgorod,NMTS,,Residential/Business,False
+2026-09-12 08:17:28,62.220.236.203,100,Finland,Pyhäsalmi,Fonet Internet,Tavitex Oy,Residential/Business,False
+2026-09-12 08:17:28,195.178.191.5,100,Sweden,Bro,Bahnhof Internet,Bahnhof AB,Residential/Business,False
