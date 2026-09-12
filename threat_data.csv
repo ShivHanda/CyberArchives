@@ -117399,3 +117399,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-11 23:47:46,163.7.6.114,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
 2026-09-11 23:47:46,154.83.12.89,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
 2026-09-11 23:47:46,136.70.80.125,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-12 02:41:52,176.65.148.244,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-12 02:41:52,45.78.230.231,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,True
+2026-09-12 02:41:52,101.13.1.75,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-09-12 02:41:52,103.186.77.70,100,Pakistan,Lahore,Nasstec Airnet Networks Private Limited,Saffi Networks,Residential/Business,True
+2026-09-12 02:41:52,103.187.147.71,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-09-12 02:41:52,171.83.25.252,100,China,Wuhan,China Telecom,Chinanet HB,Residential/Business,False
+2026-09-12 02:41:52,143.202.209.172,100,Paraguay,Fernando de la Mora,RED PARAGUAYA DE TELECOMUNICACIONES SA,RED PARAGUAYA DE TELECOMUNICACIONES SA,Residential/Business,False
+2026-09-12 02:41:52,85.203.21.88,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-12 02:41:52,180.183.244.171,100,Thailand,Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-09-12 02:41:52,45.156.128.176,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-12 02:41:52,174.138.44.8,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-12 02:41:52,85.203.21.120,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-12 02:41:52,8.216.2.81,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-12 02:41:52,186.248.197.77,100,Brazil,Belo Horizonte,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,Residential/Business,False
+2026-09-12 02:41:52,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-09-12 02:41:52,178.252.128.86,100,Iran,Tehran,GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock),,Residential/Business,False
+2026-09-12 02:41:52,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-12 02:41:52,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-12 02:41:52,61.220.235.10,100,Taiwan,Taoyuan,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-12 02:41:52,117.102.86.226,100,Indonesia,Bekasi,Biznet Networks,AEL,Residential/Business,False
+2026-09-12 02:41:52,18.190.15.50,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-12 02:41:52,85.203.21.73,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-12 02:41:52,5.226.140.20,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-12 02:41:52,123.11.13.133,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-09-12 02:41:52,40.124.121.15,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-12 02:41:52,67.205.183.148,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-12 02:41:52,219.248.4.146,100,South Korea,Gimpo-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-12 02:41:52,81.19.219.218,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-12 02:41:52,31.14.254.32,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-12 02:41:52,85.203.21.147,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-12 02:41:52,2.26.7.74,100,Sweden,Stockholm,Play2go International Limited,Play2go Customers Network,Data Center,False
+2026-09-12 02:41:52,45.82.76.107,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-09-12 02:41:52,102.216.212.122,100,Ghana,Accra,Spectrum Internet Service Ltd,Spectrum Internet Service Ltd,Residential/Business,False
+2026-09-12 02:41:52,46.101.137.209,100,Germany,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-12 02:41:52,151.67.101.189,100,Italy,Bologna,INFOSTRADA,WIND Telecomunicazioni S.p.A,Residential/Business,False
+2026-09-12 02:41:52,185.246.128.133,100,Sweden,Stockholm,w1n ltd,Dedicated Servers,Residential/Business,False
+2026-09-12 02:41:52,98.186.18.107,100,United States,Fremont,"RapidScale, Inc",Cox Communications Inc,Residential/Business,False
+2026-09-12 02:41:52,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-09-12 02:41:52,109.160.32.156,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-12 02:41:52,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-12 02:41:52,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-12 02:41:52,18.217.208.51,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-12 02:41:52,193.176.29.26,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-12 02:41:52,200.155.76.14,100,Brazil,São Paulo,Equinix Brasil,Drogaria Nova Esperança LTDA,Data Center,False
+2026-09-12 02:41:52,169.58.234.134,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-12 02:41:52,207.90.244.26,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-12 02:41:52,37.255.247.194,100,Iran,Isfahan,TCE,,Residential/Business,False
+2026-09-12 02:41:52,136.108.15.119,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-12 02:41:52,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-12 02:41:52,81.192.46.45,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
