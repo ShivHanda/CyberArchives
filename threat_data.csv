@@ -117499,3 +117499,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-12 08:17:28,89.109.4.236,100,Russia,Nizhniy Novgorod,NMTS,,Residential/Business,False
 2026-09-12 08:17:28,62.220.236.203,100,Finland,Pyhäsalmi,Fonet Internet,Tavitex Oy,Residential/Business,False
 2026-09-12 08:17:28,195.178.191.5,100,Sweden,Bro,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-09-12 13:18:11,114.141.59.195,100,Indonesia,Surakarta,PT. Smartlink Global Media,,Data Center,False
+2026-09-12 13:18:11,65.49.1.19,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-12 13:18:11,211.251.245.88,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-09-12 13:18:11,51.178.183.38,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-09-12 13:18:11,65.49.1.16,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-12 13:18:11,103.139.126.5,100,Indonesia,Indramayu,PT. MITRACOM SOLUSI TEKNOLOGI,PT. MITRACOM SOLUSI TEKNOLOGI,Residential/Business,False
+2026-09-12 13:18:11,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-12 13:18:11,118.194.251.141,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-12 13:18:11,91.191.209.46,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-09-12 13:18:11,66.132.224.17,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-12 13:18:11,109.160.32.88,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-12 13:18:11,66.206.12.0,100,United States,New York,"HIVELOCITY, Inc.","HIVELOCITY, Inc",Data Center,False
+2026-09-12 13:18:11,103.179.111.84,100,India,Chennai,Ishan's Network,Deivdeep Enterprise Private Limited,Residential/Business,False
+2026-09-12 13:18:11,188.166.159.7,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-09-12 13:18:11,123.30.217.123,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-12 13:18:11,34.39.83.24,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-09-12 13:18:11,220.80.34.25,100,South Korea,Gwangju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-12 13:18:11,88.249.195.23,100,Türkiye,Istanbul,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-09-12 13:18:11,43.164.133.138,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-09-12 13:18:11,150.241.66.50,100,Germany,Frankfurt am Main,Kyonix Networks Limited,Kyonix Networks Limited,Data Center,False
+2026-09-12 13:18:11,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-12 13:18:11,45.148.10.64,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-12 13:18:11,47.251.251.225,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-12 13:18:11,74.7.243.242,100,United States,Atlanta,Microsoft Corporation,Cloud,Data Center,False
+2026-09-12 13:18:11,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-12 13:18:11,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-09-12 13:18:11,66.132.195.103,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-12 13:18:11,172.236.102.250,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-12 13:18:11,4.240.96.30,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-12 13:18:11,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-09-12 13:18:11,47.251.244.237,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-12 13:18:11,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-12 13:18:11,51.178.26.238,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-12 13:18:11,189.127.19.28,100,Brazil,Bento Gonçalves,UNIFIQUE TELECOMUNICACOES S/A,UNIFIQUE TELECOMUNICACOES S/A,Residential/Business,False
+2026-09-12 13:18:11,47.250.156.200,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-12 13:18:11,85.217.149.49,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-12 13:18:11,34.154.32.42,100,Italy,Milan,Google LLC,Google Cloud (europe-west8),Data Center,False
+2026-09-12 13:18:11,45.45.237.77,100,United States,Chicago,"Infraly, LLC","Infraly, LLC",Data Center,False
+2026-09-12 13:18:11,158.94.187.147,100,United States,Seattle,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-12 13:18:11,103.192.199.245,100,India,Indore,Neevai Supercloud PVT LTD,Neevai Supercloud PVT LTD,Data Center,False
+2026-09-12 13:18:11,2.180.6.8,100,Iran,Mashhad,orumieh,,Residential/Business,False
+2026-09-12 13:18:11,57.131.129.97,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-09-12 13:18:11,221.156.126.1,100,South Korea,Yeosu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-12 13:18:11,43.240.14.35,100,Hong Kong,Mong Kok,Cloudie Limited,Cloudie Limited,Data Center,False
+2026-09-12 13:18:11,47.250.95.243,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-12 13:18:11,179.61.137.23,100,United States,Buffalo,WHG Hosting Services Ltd,Ipxo,Data Center,False
+2026-09-12 13:18:11,85.198.19.241,100,Iran,Tehran,ASIATECH,,Residential/Business,False
+2026-09-12 13:18:11,34.50.103.171,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-09-12 13:18:11,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-12 13:18:11,185.175.84.157,100,Czechia,Prague,"Fortion Networks, s.r.o.",Fortion Cloud,Data Center,False
