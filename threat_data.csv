@@ -117694,3 +117694,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-12 23:39:17,103.124.196.101,100,Indonesia,Batam,PT INFORMASI NUSANTARA TEKNOLOGI,,Residential/Business,False
 2026-09-12 23:39:17,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-09-12 23:39:17,85.217.149.74,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-13 02:39:57,109.205.211.29,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-13 02:39:57,40.119.34.145,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-13 02:39:57,98.186.18.107,100,United States,Fremont,"RapidScale, Inc",Cox Communications Inc,Residential/Business,False
+2026-09-13 02:39:57,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-13 02:39:57,89.218.93.13,100,Kazakhstan,Astana,JSC Kazakhtelecom,Tjjcompany,Residential/Business,False
+2026-09-13 02:39:57,189.125.111.177,100,Brazil,São Paulo,Cirion Technologies do Brasil Ltda,FD DO BRASIL SOLUÇÕES DE PAGAMENTOS LTDA,Residential/Business,False
+2026-09-13 02:39:57,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-13 02:39:57,34.74.162.190,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-13 02:39:57,186.122.177.140,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-09-13 02:39:57,92.118.39.171,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-13 02:39:57,116.7.248.50,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-13 02:39:57,8.210.75.243,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-09-13 02:39:57,187.115.144.103,100,Brazil,Recife,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-09-13 02:39:57,154.16.112.12,100,United States,Buffalo,ipxo,"OC1-HostForWeb, LLC",Data Center,False
+2026-09-13 02:39:57,34.81.1.245,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-13 02:39:57,64.62.156.177,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-13 02:39:57,199.45.154.178,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 02:39:57,66.132.195.69,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 02:39:57,178.18.247.14,100,France,Lauterbourg,Inline Internet Online Dienste GmbH,Inline Internet Online Dienste GmbH,Data Center,False
+2026-09-13 02:39:57,51.81.86.169,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-09-13 02:39:57,5.188.206.30,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Data Center,False
+2026-09-13 02:39:57,170.155.150.129,100,Argentina,La Plata,Gobernacion de la Provincia de Buenos Aires,Gobernacion de la Provincia de Buenos Aires,Residential/Business,False
+2026-09-13 02:39:57,210.179.8.206,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 02:39:57,45.135.193.159,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-13 02:39:57,187.28.1.110,100,Brazil,Belo Horizonte,Claro S.A,Fundação Affemg de Assistência e Saúde,Residential/Business,False
+2026-09-13 02:39:57,191.210.133.134,100,Brazil,São José do Rio Preto,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-13 02:39:57,210.204.110.224,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 02:39:57,193.124.20.235,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-13 02:39:57,175.207.233.24,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 02:39:57,104.137.140.116,100,United States,Bakersfield,"Charter Communications, Inc",Spectrum,Residential/Business,False
+2026-09-13 02:39:57,193.8.186.31,100,United Kingdom,Swansea,PebbleHost Ltd,Vlad Cojuhari,Data Center,False
+2026-09-13 02:39:57,178.46.148.174,100,Russia,Tyumen,OJSC uralsvyazinform,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-09-13 02:39:57,61.145.181.7,100,China,Dongguan,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-13 02:39:57,89.42.231.200,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,Residential/Business,False
+2026-09-13 02:39:57,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 02:39:57,122.255.14.70,100,Sri Lanka,Alawwa,Suntel-Dialog Broadband,,Residential/Business,False
+2026-09-13 02:39:57,103.146.159.173,100,Hong Kong,Sheung Wan,Yisu Cloud LTD,"HK KXSY TECHNOLOGY CO., LIMITED",Data Center,False
+2026-09-13 02:39:57,61.80.160.14,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 02:39:57,193.124.20.252,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-13 02:39:57,207.90.244.26,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-13 02:39:57,47.245.137.147,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-13 02:39:57,95.97.25.198,100,The Netherlands,Amsterdam,UPC NL,,Residential/Business,False
+2026-09-13 02:39:57,149.34.210.154,100,Turkey,Istanbul,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,Residential/Business,False
+2026-09-13 02:39:57,79.124.56.102,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-13 02:39:57,103.200.22.154,100,Vietnam,Quận Phú Nhuận,Vietnam Internet Network Information Center,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-09-13 02:39:57,199.45.155.38,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 02:39:57,86.54.31.44,100,The Netherlands,Amsterdam,MISTRAL,,Data Center,False
+2026-09-13 02:39:57,211.178.165.251,100,South Korea,Seocho-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-09-13 02:39:57,148.66.142.9,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Data Center,True
+2026-09-13 02:39:57,106.63.26.155,100,China,Haidian,China Telecom,Chinatelecom Cloudy company,Data Center,False
