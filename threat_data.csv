@@ -117894,3 +117894,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-13 18:28:20,121.1.120.182,100,South Korea,Hadong-gun,Seokyung Cable Television Co.. Ltd.,Scsnet,Residential/Business,False
 2026-09-13 18:28:20,119.207.15.203,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
 2026-09-13 18:28:20,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-13 22:00:55,9.234.11.42,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-13 22:00:55,119.246.15.94,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-09-13 22:00:55,123.52.202.92,100,China,Zhengzhou,Chinanet,,Residential/Business,False
+2026-09-13 22:00:55,220.133.95.63,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-13 22:00:55,34.58.124.191,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-13 22:00:55,66.132.186.233,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-13 22:00:55,176.112.111.1,100,Russia,Bogorodsk,MediaKvant Ltd.,MediaKvant Ltd,Residential/Business,False
+2026-09-13 22:00:55,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 22:00:55,189.50.142.78,100,Brazil,Presidente Prudente,IFTNET Telecomunicacoes Ltda,Samm Tecnologia E Telecomunicacoes S.A,Residential/Business,False
+2026-09-13 22:00:55,172.86.114.38,100,United States,Dallas,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-09-13 22:00:55,109.160.32.102,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-13 22:00:55,45.78.194.242,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-13 22:00:55,20.83.52.40,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-13 22:00:55,177.11.196.84,100,Brazil,Feliz,BRASIL TECNOLOGIA E PARTICIPACOES S/A,BRASIL TECPAR | AMIGO | AVATO,Residential/Business,False
+2026-09-13 22:00:55,54.86.27.243,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-13 22:00:55,40.119.43.185,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-13 22:00:55,14.225.23.94,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-13 22:00:55,20.157.117.15,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-09-13 22:00:55,35.220.188.80,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-09-13 22:00:55,160.22.126.54,100,Indonesia,Sangatta,PT. Kaltim Net Nusantara,,Residential/Business,False
+2026-09-13 22:00:55,93.125.18.135,100,Belarus,Minsk,CloudPark,,Data Center,False
+2026-09-13 22:00:55,45.78.207.244,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-13 22:00:55,188.43.28.193,100,Russia,Vladivostok,TRANS-TELECOM,,Residential/Business,False
+2026-09-13 22:00:55,49.124.150.252,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-13 22:00:55,106.247.22.181,100,South Korea,Jongno-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-13 22:00:55,52.248.42.195,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-13 22:00:55,156.225.20.213,100,Hong Kong,Hong Kong,Vapeline Technology,,Data Center,True
+2026-09-13 22:00:55,161.248.37.160,100,India,Greater Noida,Imegh Private Limited,Imegh Private Limited,Residential/Business,False
+2026-09-13 22:00:55,77.90.185.5,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-09-13 22:00:55,209.99.191.217,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-13 22:00:55,51.57.81.180,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-13 22:00:55,43.228.157.168,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-09-13 22:00:55,195.178.110.218,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 22:00:55,109.160.32.100,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-13 22:00:55,194.193.175.82,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-09-13 22:00:55,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-13 22:00:55,101.126.24.71,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-09-13 22:00:55,192.253.248.226,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-13 22:00:55,20.24.86.237,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-09-13 22:00:55,20.106.18.230,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-13 22:00:55,86.0.221.252,100,United Kingdom,Halifax,Virgin Media,,Residential/Business,False
+2026-09-13 22:00:55,159.69.196.230,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-13 22:00:55,94.154.46.246,100,United States,New York,Omegatech LTD,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-09-13 22:00:55,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-13 22:00:55,120.138.171.186,100,Japan,Nagoya,"STARCAT Co ., LTD.",Community Network Center Inc.,Residential/Business,False
+2026-09-13 22:00:55,36.213.140.70,100,China,Nanjing,"China Mobile Communications Group Co., Ltd.",China TieTong Telecommunications Corporation,Mobile,False
+2026-09-13 22:00:55,134.122.19.153,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-13 22:00:55,40.82.214.8,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,True
+2026-09-13 22:00:55,193.32.209.238,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-13 22:00:55,185.46.197.79,100,Russia,Tyumen,A-Sity network,,Residential/Business,False
