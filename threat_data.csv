@@ -117844,3 +117844,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-13 14:01:46,85.239.149.72,100,Germany,Frankfurt am Main,Dedik Services Limited,Dedik Services Limited,Residential/Business,True
 2026-09-13 14:01:46,77.68.118.194,100,United Kingdom,London,IONOS SE,Fasthosts Internet Limited,Data Center,False
 2026-09-13 14:01:46,45.164.251.67,100,Brazil,Trindade,Wigvan Rogerio Oliveira Santana Eireli ME,Wigvan Rogerio Oliveira Santana Eireli ME,Residential/Business,False
+2026-09-13 18:28:20,107.173.248.142,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-09-13 18:28:20,185.224.128.16,100,The Netherlands,Amsterdam,Alsycon B.V.,Alsycon B.V,Data Center,False
+2026-09-13 18:28:20,158.94.187.182,100,United States,Seattle,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-13 18:28:20,186.122.177.140,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-09-13 18:28:20,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-09-13 18:28:20,156.225.1.105,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-09-13 18:28:20,59.98.41.27,100,India,Madurai,BSNL Internet,,Residential/Business,False
+2026-09-13 18:28:20,66.132.195.18,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 18:28:20,199.45.154.68,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 18:28:20,64.89.161.85,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-09-13 18:28:20,57.152.35.166,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-13 18:28:20,177.20.181.106,100,Brazil,Piracicaba,PORTAL QUEOPS TELECOMUNICAÇÕES E SERVIÇOS,Portal Queops Telecomunicacoes Ltda,Residential/Business,False
+2026-09-13 18:28:20,20.12.242.41,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-13 18:28:20,103.20.122.54,100,Singapore,Singapore,CyberWorld SG,,Data Center,False
+2026-09-13 18:28:20,111.119.44.29,100,Nepal,Kathmandu,Nepal Digital Service Pvt. Ltd.,Websurfer Nepal Communication System Pvt. Ltd,Residential/Business,False
+2026-09-13 18:28:20,160.187.141.76,100,Singapore,Singapore,WebHorizon Internet Services,WEBHORIZON,Residential/Business,False
+2026-09-13 18:28:20,1.231.81.166,100,South Korea,Dobong-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,True
+2026-09-13 18:28:20,213.163.198.83,100,Singapore,Singapore,UpCloud Ltd,Upcloud SG Sin1,Data Center,False
+2026-09-13 18:28:20,45.148.10.166,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 18:28:20,177.23.67.225,100,Brazil,Relvado,M. I. Internet Ltda.,M. I. Internet Ltda,Residential/Business,False
+2026-09-13 18:28:20,192.42.116.107,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-13 18:28:20,146.0.74.217,100,The Netherlands,Amsterdam,HOSTKEY,,Data Center,False
+2026-09-13 18:28:20,62.210.158.41,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-09-13 18:28:20,195.201.244.247,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-09-13 18:28:20,112.164.253.222,100,South Korea,Seogwipo-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 18:28:20,102.220.161.29,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-13 18:28:20,36.255.97.129,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-09-13 18:28:20,45.138.12.7,100,United Kingdom,Newport,Rolandas Uscila,Rolandas Uscila,Residential/Business,False
+2026-09-13 18:28:20,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 18:28:20,66.132.195.32,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-13 18:28:20,207.175.4.138,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-13 18:28:20,43.134.49.202,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-13 18:28:20,20.150.197.110,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-13 18:28:20,87.106.63.76,100,United Kingdom,Worcester,IONOS SE,Gb Wtr Ionos Cloud Bhx1,Data Center,False
+2026-09-13 18:28:20,147.182.244.175,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-13 18:28:20,67.205.164.100,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-13 18:28:20,49.206.27.37,100,India,Bengaluru,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-09-13 18:28:20,116.109.216.74,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-13 18:28:20,20.80.101.218,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-13 18:28:20,135.119.91.210,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-13 18:28:20,45.249.246.17,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-13 18:28:20,45.165.12.27,100,Brazil,Chapadinha,R G DE SOUSA LTDA,R G DE SOUSA LTDA,Residential/Business,False
+2026-09-13 18:28:20,66.132.186.178,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-13 18:28:20,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-13 18:28:20,81.19.216.126,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-13 18:28:20,193.163.125.239,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-13 18:28:20,34.181.221.242,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-13 18:28:20,121.1.120.182,100,South Korea,Hadong-gun,Seokyung Cable Television Co.. Ltd.,Scsnet,Residential/Business,False
+2026-09-13 18:28:20,119.207.15.203,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-13 18:28:20,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
