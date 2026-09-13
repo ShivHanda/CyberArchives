@@ -117794,3 +117794,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-13 08:42:03,8.216.3.138,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-09-13 08:42:03,62.238.58.32,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
 2026-09-13 08:42:03,47.84.143.193,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-13 14:01:46,43.134.49.202,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-13 14:01:46,5.226.140.97,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,False
+2026-09-13 14:01:46,92.52.216.210,100,Hungary,Kisbér,42NET Marvin Cloud Kft,42net LLC,Data Center,False
+2026-09-13 14:01:46,5.228.155.162,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-09-13 14:01:46,193.176.29.18,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-13 14:01:46,195.66.89.124,100,Russia,Krasnoyarsk,Eniseyneftegas Territorial Industrial Technical Management of Communication LLC,Eniseyneftegas Territorial Industrial Technical Management of Communication CJSC,Residential/Business,False
+2026-09-13 14:01:46,115.190.235.8,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-13 14:01:46,194.88.98.124,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-13 14:01:46,47.254.38.225,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,True
+2026-09-13 14:01:46,61.254.10.138,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-13 14:01:46,45.82.76.139,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-09-13 14:01:46,101.13.5.30,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-09-13 14:01:46,51.222.85.30,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,True
+2026-09-13 14:01:46,200.58.72.62,100,Bolivia,Cochabamba,Comteco Ltda,Comteco Ltda,Residential/Business,False
+2026-09-13 14:01:46,35.220.156.225,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-09-13 14:01:46,161.118.204.235,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-09-13 14:01:46,43.134.96.20,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-13 14:01:46,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 14:01:46,176.65.148.243,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-13 14:01:46,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-13 14:01:46,42.234.73.130,100,China,Zhengzhou,China Unicom Henan Province Network,,Residential/Business,False
+2026-09-13 14:01:46,91.92.40.236,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-13 14:01:46,37.252.75.165,100,Armenia,Yerevan,Ucom CJSC,Ucom CJSC,Residential/Business,False
+2026-09-13 14:01:46,185.177.72.49,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-09-13 14:01:46,52.173.67.116,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-13 14:01:46,115.68.194.59,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-09-13 14:01:46,81.24.120.102,100,Russia,St Petersburg,SEVEREN,,Residential/Business,False
+2026-09-13 14:01:46,5.160.2.182,100,Iran,Tehran,Respina Networks & Beyond PJSC,,Residential/Business,False
+2026-09-13 14:01:46,95.174.98.68,100,Russia,Taganrog,r98.nas.ritm.tgn.pg19.ru,,Residential/Business,False
+2026-09-13 14:01:46,143.110.217.244,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-13 14:01:46,118.70.50.33,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-09-13 14:01:46,42.200.158.230,100,Hong Kong,Pokfulam Gardens,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-13 14:01:46,51.210.100.146,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-09-13 14:01:46,176.36.161.9,100,Ukraine,Kyiv,Lanet Network,Lanet Network Ltd,Residential/Business,False
+2026-09-13 14:01:46,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-13 14:01:46,190.171.165.205,100,Chile,Santiago,CTC. CORP S.A. (TELEFONICA EMPRESAS),News Executive Channel S.A,Residential/Business,False
+2026-09-13 14:01:46,122.15.129.26,100,India,Mumbai,VODAFONE-STATIC,,Mobile,False
+2026-09-13 14:01:46,85.217.149.73,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-13 14:01:46,89.221.62.68,100,Russia,Moscow,Svyaz-Holding Ltd.,SvHoldNet,Residential/Business,False
+2026-09-13 14:01:46,20.120.160.138,100,United States,Quincy,Microsoft Corporation,Microsoft Azure Cloud (westus2),Data Center,False
+2026-09-13 14:01:46,79.135.251.82,100,Russia,St Petersburg,PJSC Rostelecom,PJSC Rostelecom,Residential/Business,False
+2026-09-13 14:01:46,70.184.75.10,100,United States,Phoenix,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-13 14:01:46,81.19.216.119,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-13 14:01:46,35.236.137.187,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-13 14:01:46,154.146.240.123,100,Morocco,Casablanca,CASA 4G MarocTelecom,,Residential/Business,False
+2026-09-13 14:01:46,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 14:01:46,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-13 14:01:46,85.239.149.72,100,Germany,Frankfurt am Main,Dedik Services Limited,Dedik Services Limited,Residential/Business,True
+2026-09-13 14:01:46,77.68.118.194,100,United Kingdom,London,IONOS SE,Fasthosts Internet Limited,Data Center,False
+2026-09-13 14:01:46,45.164.251.67,100,Brazil,Trindade,Wigvan Rogerio Oliveira Santana Eireli ME,Wigvan Rogerio Oliveira Santana Eireli ME,Residential/Business,False
