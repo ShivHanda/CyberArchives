@@ -117994,3 +117994,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-14 02:55:31,195.18.12.11,100,Russia,Moscow,PJSC Promtelecom,JSC Promtelecom,Residential/Business,False
 2026-09-14 02:55:31,122.187.227.164,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
 2026-09-14 02:55:31,18.221.179.104,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-14 09:28:17,35.170.52.57,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-14 09:28:17,111.70.32.49,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-14 09:28:17,79.137.67.90,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-09-14 09:28:17,54.37.158.5,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-14 09:28:17,58.65.73.22,100,South Korea,Jinju-si,Seokyung Cable Television Co.. Ltd.,Seokyung Cable Television Co.. Ltd,Residential/Business,False
+2026-09-14 09:28:17,40.124.170.234,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-14 09:28:17,138.68.82.23,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 09:28:17,109.160.32.63,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 09:28:17,38.253.224.33,100,Indonesia,Ponorogo,Cogent Communications,PT. Yetoya Solusi Indonesia,Residential/Business,False
+2026-09-14 09:28:17,219.85.63.45,100,Taiwan,Bade District,Sony Network Taiwan Limited,SONET,Residential/Business,False
+2026-09-14 09:28:17,176.65.148.136,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-14 09:28:17,129.226.202.180,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,Aceville Pte.ltd,Data Center,False
+2026-09-14 09:28:17,35.227.189.202,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-14 09:28:17,187.44.119.185,100,Brazil,Passo Fundo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-09-14 09:28:17,103.90.25.52,100,Indonesia,Cileungsir,Arananetwork Infra Cyber CDC,,Residential/Business,False
+2026-09-14 09:28:17,109.160.32.104,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 09:28:17,149.71.34.141,100,Pakistan,Rahim Yar Khan,Cogent Communications,Trans World Associates (Pvt) Ltd,Residential/Business,False
+2026-09-14 09:28:17,158.94.187.252,100,United States,Seattle,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-14 09:28:17,68.183.175.23,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 09:28:17,167.233.117.77,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-14 09:28:17,222.107.156.227,100,South Korea,Gangnam-gu,Korea Telecom,(ju)emtiai,Residential/Business,False
+2026-09-14 09:28:17,45.119.85.159,100,Vietnam,Quận Một,Long Van System Solution JSC,Lvss,Residential/Business,False
+2026-09-14 09:28:17,172.190.216.105,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-14 09:28:17,20.184.59.236,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-09-14 09:28:17,212.248.39.29,100,Russia,Moscow,MTS PJSC,Aviagaz centre ltd,Mobile,False
+2026-09-14 09:28:17,87.103.196.161,100,Russia,Novokuznetsk,PJSC Rostelecom,OJSC Sibirtelecom,Residential/Business,False
+2026-09-14 09:28:17,109.160.32.38,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 09:28:17,40.76.115.9,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-14 09:28:17,62.80.98.102,100,Germany,Frankfurt am Main,euNetworks GmbH,euNetworks GmbH,Residential/Business,False
+2026-09-14 09:28:17,103.234.200.252,100,Bangladesh,Dhaka,ADN Telecom Ltd,Exabyte LTD,Residential/Business,False
+2026-09-14 09:28:17,34.22.37.241,100,United States,Salt Lake City,Google LLC,Google Cloud (us-west3),Data Center,False
+2026-09-14 09:28:17,112.164.208.220,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-14 09:28:17,167.99.181.249,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 09:28:17,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-14 09:28:17,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-14 09:28:17,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-14 09:28:17,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-14 09:28:17,66.132.172.118,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-14 09:28:17,69.5.169.135,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-14 09:28:17,52.141.45.117,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-09-14 09:28:17,92.204.128.28,100,United States,Warrenton,"GoDaddy.com, LLC",Host Europe GmbH,Data Center,True
+2026-09-14 09:28:17,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-14 09:28:17,217.146.80.101,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-14 09:28:17,85.216.81.75,100,Germany,Frankfurt am Main,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-09-14 09:28:17,109.160.32.33,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 09:28:17,193.95.2.23,100,Tunisia,Tunis,ATI - ISP,ATI - Agence Tunisienne Internet,Data Center,False
+2026-09-14 09:28:17,201.249.132.74,100,Venezuela,Naguanagua,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-09-14 09:28:17,190.202.87.179,100,Venezuela,Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela",Residential/Business,False
+2026-09-14 09:28:17,142.93.143.8,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 09:28:17,42.200.73.3,100,Hong Kong,Central,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
