@@ -117944,3 +117944,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-13 22:00:55,40.82.214.8,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,True
 2026-09-13 22:00:55,193.32.209.238,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-09-13 22:00:55,185.46.197.79,100,Russia,Tyumen,A-Sity network,,Residential/Business,False
+2026-09-14 02:55:31,54.221.141.122,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-14 02:55:31,109.105.210.83,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-09-14 02:55:31,103.177.15.14,100,Indonesia,Teluknaga,PT Angkasa Pura Sarana Digital,PT Angkasa Pura Sarana Digital,Residential/Business,False
+2026-09-14 02:55:31,2602:f71d::10,100,United States,Hanover,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-09-14 02:55:31,50.6.137.53,100,United States,Jacksonville,"Network Solutions, LLC","Newfold Digital, Inc.",Data Center,True
+2026-09-14 02:55:31,217.146.80.125,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-14 02:55:31,47.251.184.127,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-14 02:55:31,36.255.97.39,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-09-14 02:55:31,68.183.236.1,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 02:55:31,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-14 02:55:31,20.163.59.80,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-14 02:55:31,103.190.7.147,100,India,Rajkot,Saurashtra Infratel PVT LTD,Saurashtra Infratel PVT LTD,Residential/Business,False
+2026-09-14 02:55:31,181.54.165.57,100,Colombia,Envigado,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-09-14 02:55:31,14.103.90.3,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-09-14 02:55:31,39.45.34.46,100,Pakistan,Lahore,Pakistan Telecommuication company limited,Pakistan Telecommuication company limited,Residential/Business,False
+2026-09-14 02:55:31,3.88.203.46,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-14 02:55:31,66.132.172.239,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-14 02:55:31,45.164.251.106,100,Brazil,Trindade,Wigvan Rogerio Oliveira Santana Eireli ME,Wigvan Rogerio Oliveira Santana Eireli ME,Residential/Business,False
+2026-09-14 02:55:31,52.141.45.117,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-09-14 02:55:31,195.206.182.209,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-14 02:55:31,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-14 02:55:31,187.44.119.185,100,Brazil,Passo Fundo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-09-14 02:55:31,66.132.186.129,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-14 02:55:31,51.68.226.87,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-09-14 02:55:31,20.98.131.243,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-14 02:55:31,185.216.145.177,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-14 02:55:31,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-14 02:55:31,69.5.169.106,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-14 02:55:31,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-14 02:55:31,107.150.97.10,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,True
+2026-09-14 02:55:31,91.92.42.8,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-14 02:55:31,122.170.99.195,100,India,Mumbai,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-09-14 02:55:31,109.160.32.36,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 02:55:31,66.132.186.223,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-14 02:55:31,78.128.113.46,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-09-14 02:55:31,20.24.86.237,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-09-14 02:55:31,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-14 02:55:31,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-14 02:55:31,134.209.120.216,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 02:55:31,36.255.97.28,100,United States,San Jose,Kill Ping,,Data Center,True
+2026-09-14 02:55:31,121.176.219.68,100,South Korea,Ulsan,Korea Telecom,,Residential/Business,False
+2026-09-14 02:55:31,35.169.206.177,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-14 02:55:31,41.215.133.245,100,Kenya,Nairobi,FAIBA,,Residential/Business,False
+2026-09-14 02:55:31,34.234.82.70,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-14 02:55:31,69.5.169.143,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-09-14 02:55:31,31.14.254.105,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-14 02:55:31,31.14.254.37,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-14 02:55:31,195.18.12.11,100,Russia,Moscow,PJSC Promtelecom,JSC Promtelecom,Residential/Business,False
+2026-09-14 02:55:31,122.187.227.164,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-14 02:55:31,18.221.179.104,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
