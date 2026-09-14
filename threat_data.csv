@@ -118094,3 +118094,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-14 16:06:10,223.194.21.240,100,South Korea,Nowon-gu,Kwangwoon University,Korean Education Network,Residential/Business,False
 2026-09-14 16:06:10,43.156.33.17,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
 2026-09-14 16:06:10,221.228.203.3,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-09-14 21:18:30,79.124.62.126,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-09-14 21:18:30,213.209.159.26,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-14 21:18:30,98.248.218.102,100,United States,Willits,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-09-14 21:18:30,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-14 21:18:30,85.117.232.42,100,Russia,Moscow,"Sfera, JSC","Sfera, JSC",Residential/Business,False
+2026-09-14 21:18:30,79.124.49.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-14 21:18:30,172.236.228.193,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-14 21:18:30,81.192.46.49,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-09-14 21:18:30,14.48.252.148,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-14 21:18:30,204.76.203.50,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-14 21:18:30,208.98.38.234,100,United States,Chicago,Sharktech,Sharktech,Data Center,True
+2026-09-14 21:18:30,202.46.28.140,100,Indonesia,Gubengairlangga,Universitas Katolik Widya Mandala,,Residential/Business,False
+2026-09-14 21:18:30,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-09-14 21:18:30,185.191.171.16,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Data Center,False
+2026-09-14 21:18:30,204.8.96.78,100,United States,Dallas,Quintex Alliance Consulting,Quintex Alliance Consulting,Data Center,True
+2026-09-14 21:18:30,192.42.116.54,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-14 21:18:30,20.14.73.46,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-14 21:18:30,190.153.120.64,100,Venezuela,Caracas,"Net Uno, C.A.","Net Uno, C.A",Residential/Business,False
+2026-09-14 21:18:30,103.161.16.196,100,Vietnam,Phúc Lai,BKSI,BK Information System Joint Stock Company,Residential/Business,False
+2026-09-14 21:18:30,14.155.241.244,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-14 21:18:30,43.164.128.28,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-14 21:18:30,43.163.81.168,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,,Data Center,False
+2026-09-14 21:18:30,81.171.72.135,100,France,Paris,Eweka Internet Services B.V.,PRI PAR,Residential/Business,True
+2026-09-14 21:18:30,94.154.43.196,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-14 21:18:30,46.59.108.174,100,Sweden,Karlstad,Bahnhof AB,General Private NET A463,Residential/Business,False
+2026-09-14 21:18:30,165.227.168.96,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-14 21:18:30,137.184.220.72,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-14 21:18:30,14.224.213.222,100,Vietnam,Vũng Tàu,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-14 21:18:30,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-14 21:18:30,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-14 21:18:30,175.207.197.171,100,South Korea,Seogwipo-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-14 21:18:30,34.17.209.173,100,Italy,Turin,Google LLC,Google Cloud (europe-west12),Data Center,False
+2026-09-14 21:18:30,34.185.234.175,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-09-14 21:18:30,202.84.43.58,100,Bangladesh,Dhaka,Bangladesh Online Ltd,Bangladesh Online Ltd,Residential/Business,False
+2026-09-14 21:18:30,91.239.130.203,100,Germany,Frankfurt am Main,Clouvider Limited,Clouvider HB,Data Center,True
+2026-09-14 21:18:30,94.154.43.245,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-14 21:18:30,192.220.112.74,100,United States,Los Angeles,"NTT America, Inc.",NTT Communications,Residential/Business,False
+2026-09-14 21:18:30,172.203.227.223,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-14 21:18:30,35.229.177.215,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-14 21:18:30,5.253.38.188,100,United States,Los Angeles,CNServer LLC,Securewan,Data Center,False
+2026-09-14 21:18:30,98.70.127.17,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-14 21:18:30,125.212.235.194,100,Vietnam,Hanoi,Vietel - CHT Compamy Ltd,Viettel Group,Residential/Business,False
+2026-09-14 21:18:30,196.190.220.168,100,Ethiopia,Tulu Bolo,EthioNet,Ethio Telecom,Residential/Business,False
+2026-09-14 21:18:30,213.209.159.241,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-14 21:18:30,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-09-14 21:18:30,111.26.62.44,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-14 21:18:30,193.163.125.91,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-14 21:18:30,109.160.32.119,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-14 21:18:30,74.87.117.150,100,United States,Milwaukee,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-09-14 21:18:30,40.82.214.8,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,True
