@@ -118389,3 +118389,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-15 20:45:45,34.70.37.53,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
 2026-09-15 20:45:45,45.153.102.164,100,Ireland,Bagenalstown,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,Data Center,True
 2026-09-15 20:45:45,184.186.73.83,100,United States,Lafayette,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-15 23:53:50,87.106.29.151,100,France,Paris,IONOS SE,Fr Nbz Ionos Cloud Nbz,Data Center,False
+2026-09-15 23:53:50,65.49.1.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-15 23:53:50,165.154.147.69,100,Malaysia,Kuala Lumpur,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-15 23:53:50,60.18.139.82,100,China,Shenyang,China Unicom,,Residential/Business,False
+2026-09-15 23:53:50,46.10.56.170,100,Bulgaria,Sofia,BTC-BROADBAND,Bulgarian Telecommunications Company Plc.,Residential/Business,False
+2026-09-15 23:53:50,47.251.125.118,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-15 23:53:50,93.177.64.139,100,Germany,Nuremberg,netcup GmbH,netcup GmbH,Data Center,False
+2026-09-15 23:53:50,202.84.43.58,100,Bangladesh,Dhaka,Bangladesh Online Ltd,Bangladesh Online Ltd,Residential/Business,False
+2026-09-15 23:53:50,49.0.3.142,100,Indonesia,Ciampea,PT Usaha Adi Sanggoro,,Data Center,False
+2026-09-15 23:53:50,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-15 23:53:50,198.74.58.111,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-15 23:53:50,178.16.54.19,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-09-15 23:53:50,129.121.119.196,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-15 23:53:50,64.89.163.86,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-15 23:53:50,13.86.115.81,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-15 23:53:50,66.132.195.97,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-15 23:53:50,66.132.172.201,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-15 23:53:50,166.62.94.210,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-15 23:53:50,46.224.35.234,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-15 23:53:50,94.102.49.193,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Data Center,False
+2026-09-15 23:53:50,85.217.140.51,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-15 23:53:50,144.172.108.80,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-15 23:53:50,122.15.129.26,100,India,Mumbai,VODAFONE-STATIC,,Mobile,False
+2026-09-15 23:53:50,123.58.213.128,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-15 23:53:50,191.96.196.91,100,United States,New York,PureVoltage Hosting Inc.,Hostworld,Data Center,False
+2026-09-15 23:53:50,195.96.139.112,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-09-15 23:53:50,87.236.176.135,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-15 23:53:50,152.53.0.108,100,Austria,Vienna,ANX,,Residential/Business,False
+2026-09-15 23:53:50,216.163.48.198,100,United States,Lansing,ACD.net,ACD.net,Data Center,False
+2026-09-15 23:53:50,47.254.84.155,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-15 23:53:50,207.175.58.113,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-15 23:53:50,45.79.177.245,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-15 23:53:50,193.169.239.152,100,The Netherlands,Amsterdam,G-Core Labs S.A.,GCL,Residential/Business,False
+2026-09-15 23:53:50,8.211.12.88,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-15 23:53:50,103.121.20.18,100,Indonesia,Depok,PT. Eka Mas Republik,Myrepublic,Residential/Business,False
+2026-09-15 23:53:50,195.96.139.128,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-09-15 23:53:50,203.214.89.195,100,Australia,Melbourne,TPG Internet Pty Ltd,iiNet Limited,Residential/Business,False
+2026-09-15 23:53:50,130.12.182.196,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-09-15 23:53:50,42.200.158.230,100,Hong Kong,Pokfulam Gardens,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-15 23:53:50,129.226.202.180,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,Aceville Pte.ltd,Data Center,False
+2026-09-15 23:53:50,47.103.36.53,100,China,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,True
+2026-09-15 23:53:50,211.43.19.73,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-15 23:53:50,107.189.27.179,100,The Netherlands,Zaandam,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-09-15 23:53:50,171.8.7.8,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
+2026-09-15 23:53:50,121.131.220.136,100,South Korea,Mapo-gu,Korea Telecom,Kornet,Residential/Business,False
