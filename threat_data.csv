@@ -118144,3 +118144,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-14 21:18:30,109.160.32.119,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
 2026-09-14 21:18:30,74.87.117.150,100,United States,Milwaukee,Charter Communications Inc,Spectrum,Residential/Business,False
 2026-09-14 21:18:30,40.82.214.8,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,True
+2026-09-15 00:09:16,95.68.34.85,100,Latvia,Jelgava,LATTELEKOM,,Residential/Business,False
+2026-09-15 00:09:16,138.226.239.234,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,True
+2026-09-15 00:09:16,193.163.125.223,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-15 00:09:16,189.47.37.171,100,Brazil,Limeira,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-15 00:09:16,138.226.239.233,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,True
+2026-09-15 00:09:16,170.187.165.219,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-15 00:09:16,189.45.228.59,100,Brazil,Laranjal Paulista,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Residential/Business,False
+2026-09-15 00:09:16,189.45.239.199,100,Brazil,Laranjal Paulista,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Zaaz Provedor De Internet E Telecomunicacoes Ltda,Residential/Business,False
+2026-09-15 00:09:16,160.251.202.50,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-09-15 00:09:16,8.216.11.80,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-15 00:09:16,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-15 00:09:16,192.248.150.180,100,United Kingdom,Canary Wharf,"The Constant Company, LLC",Vultr Holdings LLC London,Data Center,False
+2026-09-15 00:09:16,23.29.118.224,100,United States,New York,Primary,,Data Center,True
+2026-09-15 00:09:16,46.59.88.86,100,Sweden,Karlstad,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-09-15 00:09:16,20.150.211.137,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-15 00:09:16,14.103.123.67,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-09-15 00:09:16,167.99.246.220,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-15 00:09:16,24.199.105.27,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-15 00:09:16,36.138.44.211,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-15 00:09:16,129.213.151.234,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
+2026-09-15 00:09:16,191.101.61.218,100,United States,Las Vegas,Cogent Communications,Ipxo,Data Center,True
+2026-09-15 00:09:16,176.36.51.77,100,Ukraine,Kyiv,Lanet Network,Lanet Network Ltd,Residential/Business,False
+2026-09-15 00:09:16,137.131.24.170,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-09-15 00:09:16,132.255.230.42,100,Brazil,Canaã dos Carajás,Gigabyte Network Comercio E Servicos Eireli - EPP,Gigabyte Network Comercio E Servicos Eireli - EPP,Residential/Business,False
+2026-09-15 00:09:16,93.123.109.124,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-15 00:09:16,85.239.149.72,100,Germany,Frankfurt am Main,Dedik Services Limited,Dedik Services Limited,Residential/Business,True
+2026-09-15 00:09:16,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-15 00:09:16,43.157.170.126,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
+2026-09-15 00:09:16,40.160.50.120,100,United States,Warrenton,OVH SAS,OVH,Data Center,False
+2026-09-15 00:09:16,201.28.176.31,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-15 00:09:16,154.221.20.92,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-09-15 00:09:16,139.59.147.177,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-09-15 00:09:16,81.19.216.69,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-15 00:09:16,121.159.187.114,100,South Korea,Yuseong-gu,Korea Telecom,,Residential/Business,False
+2026-09-15 00:09:16,2.27.20.30,100,Germany,Frankfurt am Main,Play2go International Limited,,Data Center,False
+2026-09-15 00:09:16,154.83.17.226,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-09-15 00:09:16,31.184.195.248,100,Russia,St Petersburg,Petersburg Internet Network ltd,PIN DC,Data Center,False
+2026-09-15 00:09:16,14.225.206.171,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-15 00:09:16,114.98.230.202,100,China,Hefei,China Telecom,Chinanet AH,Residential/Business,False
+2026-09-15 00:09:16,49.124.205.169,100,Malaysia,Kuala Lumpur,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-15 00:09:16,45.43.62.77,100,Germany,Frankfurt am Main,Zenlayer Inc,UCLOUD,Data Center,False
+2026-09-15 00:09:16,189.217.193.2,100,Mexico,Venustiano Carranza,"Cablevisión, S.A. de C.V.","Cablevisión, S.A. de C.V",Residential/Business,False
+2026-09-15 00:09:16,70.169.4.117,100,United States,Hampton,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-15 00:09:16,125.72.150.250,100,China,Xining,China Telecom,Chinanet QH,Residential/Business,False
+2026-09-15 00:09:16,2a02:c207:2344:6328::1,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-15 00:09:16,85.217.149.54,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-15 00:09:16,120.238.23.168,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-15 00:09:16,170.130.204.34,100,United States,Los Angeles,Eonix Corporation,ServerHub Los Angeles,Data Center,False
+2026-09-15 00:09:16,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-15 00:09:16,109.160.32.89,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
