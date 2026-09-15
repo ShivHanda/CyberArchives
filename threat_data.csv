@@ -118344,3 +118344,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-15 17:52:52,196.115.58.9,100,Morocco,Marrakesh,MEDITELECOM,MEDITELECOM,Residential/Business,False
 2026-09-15 17:52:52,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-09-15 17:52:52,125.40.100.206,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-09-15 20:45:45,66.132.195.60,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-15 20:45:45,109.160.32.26,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-15 20:45:45,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-09-15 20:45:45,195.230.103.246,100,Germany,Frankfurt am Main,"Securitytrails, LLC","Securitytrails, LLC",Residential/Business,False
+2026-09-15 20:45:45,185.209.196.169,100,Germany,Frankfurt am Main,31173 Services AB,31173 Services Germany,Data Center,True
+2026-09-15 20:45:45,119.157.83.226,100,Pakistan,Faisalabad,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-09-15 20:45:45,202.61.233.150,100,Germany,Nuremberg,netcup GmbH,netcup GmbH,Data Center,False
+2026-09-15 20:45:45,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-15 20:45:45,197.243.21.82,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-09-15 20:45:45,125.39.148.106,100,China,Wanghailou,CNC Group CHINA169 Tianjin Province Network,"Tianjin Youji Science Technology Co., Ltd.",Residential/Business,False
+2026-09-15 20:45:45,122.97.209.13,100,China,Zhenjiang,CNC Group CHINA169 Jiangsu Province Network,,Residential/Business,False
+2026-09-15 20:45:45,138.226.239.34,100,France,Paris,HomeLine Broadband LLC,Vlad Cojuhari,Residential/Business,False
+2026-09-15 20:45:45,103.4.145.50,100,Bangladesh,Dhaka,Next Online Ltd,Next Online Limited,Residential/Business,False
+2026-09-15 20:45:45,34.52.146.37,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-15 20:45:45,117.72.209.201,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-09-15 20:45:45,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-15 20:45:45,34.26.251.156,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-15 20:45:45,102.211.170.38,100,Togo,Lomé,C-Squared Limited,Csquared Lome,Residential/Business,False
+2026-09-15 20:45:45,207.90.244.14,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-09-15 20:45:45,81.19.219.240,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,False
+2026-09-15 20:45:45,38.253.240.163,100,Indonesia,Banjarnegara,Cogent Communications,PT. Yetoya Solusi Indonesia,Residential/Business,False
+2026-09-15 20:45:45,187.110.238.50,100,Brazil,Fortaleza,DB3 SERVICOS DE TELECOMUNICACOES S.A,DB3 SERVICOS DE TELECOMUNICACOES S.A,Residential/Business,False
+2026-09-15 20:45:45,196.41.46.194,100,Tanzania,Dar es Salaam,RAHA-LTZ,RAHA Ltd,Residential/Business,False
+2026-09-15 20:45:45,109.123.227.46,100,Australia,Sydney,Contabo Asia Private Limited,Contabo Australia PTY LTD,Data Center,False
+2026-09-15 20:45:45,185.247.137.53,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-15 20:45:45,167.99.245.239,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-15 20:45:45,103.228.8.165,100,Indonesia,Godean,"INTERLINK TECHNOLOGY, PT",PT Meetaza Prawira Media,Residential/Business,False
+2026-09-15 20:45:45,130.12.182.122,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-09-15 20:45:45,31.76.109.153,100,The Netherlands,Amsterdam,EdgeSec Technologies Limited,"Aurorix Networks, Amsterdam",Residential/Business,False
+2026-09-15 20:45:45,117.39.63.46,100,China,Liuxiang,Chinanet,Chinanet SN,Residential/Business,False
+2026-09-15 20:45:45,193.29.139.135,100,The Netherlands,Amsterdam,Greenhost BV,Greenhost BV,Residential/Business,True
+2026-09-15 20:45:45,152.200.181.42,100,Colombia,Medellín,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-09-15 20:45:45,70.54.182.130,100,Canada,Toronto,Bell Canada,Sympatico HSE,Residential/Business,False
+2026-09-15 20:45:45,102.220.161.64,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-15 20:45:45,157.230.232.96,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-15 20:45:45,172.234.21.101,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-15 20:45:45,34.79.133.74,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-15 20:45:45,197.227.8.186,100,Mauritius,Ebene CyberCity,telecomplus,,Residential/Business,False
+2026-09-15 20:45:45,81.244.240.64,100,Belgium,Brussels,Proximus,Belgacom SA,Residential/Business,False
+2026-09-15 20:45:45,83.191.181.23,100,Sweden,Karlstad,TELE2-BROADBAND,Tele2 AB,Residential/Business,False
+2026-09-15 20:45:45,172.232.8.247,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-15 20:45:45,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-15 20:45:45,34.70.37.53,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-15 20:45:45,45.153.102.164,100,Ireland,Bagenalstown,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,Data Center,True
+2026-09-15 20:45:45,184.186.73.83,100,United States,Lafayette,Cox Communications Inc.,Cox Communications,Residential/Business,False
