@@ -118434,3 +118434,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-15 23:53:50,107.189.27.179,100,The Netherlands,Zaandam,RouterHosting LLC,FranTech Solutions,Data Center,False
 2026-09-15 23:53:50,171.8.7.8,100,China,Guancheng,Chinanet,Chinanet HA,Residential/Business,False
 2026-09-15 23:53:50,121.131.220.136,100,South Korea,Mapo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-16 02:53:43,193.163.125.239,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-16 02:53:43,109.205.211.25,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-16 02:53:43,109.205.211.23,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-16 02:53:43,196.251.121.215,100,Germany,Frankfurt am Main,Ghosty Networks LLC,,Data Center,True
+2026-09-16 02:53:43,195.222.57.190,100,Bosnia and Herzegovina,Mostar,BH Telecom d.d. Sarajevo,ServeriWebTV,Residential/Business,False
+2026-09-16 02:53:43,182.253.135.72,100,Indonesia,Central Jakarta,Biznet Networks,Prepaid,Residential/Business,False
+2026-09-16 02:53:43,87.251.64.133,100,Poland,Warsaw,Shesternin Vladimir Anatolievich,Isaev,Residential/Business,False
+2026-09-16 02:53:43,59.126.160.54,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-16 02:53:43,152.32.183.163,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-16 02:53:43,86.54.31.38,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-09-16 02:53:43,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-16 02:53:43,79.124.58.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-16 02:53:43,43.135.133.194,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-16 02:53:43,69.5.169.240,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-16 02:53:43,40.124.84.61,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-16 02:53:43,87.106.27.160,100,France,Paris,IONOS,,Data Center,False
+2026-09-16 02:53:43,31.132.90.3,100,Kazakhstan,Astana,Customers FTTB,,Residential/Business,True
+2026-09-16 02:53:43,193.163.125.220,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-16 02:53:43,199.45.155.38,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-16 02:53:43,172.212.203.66,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-16 02:53:43,80.233.12.109,100,Ireland,Tramore,O2 Ireland,,Residential/Business,False
+2026-09-16 02:53:43,91.117.178.158,100,Spain,Gijón,R Cable y Telecomunicaciones Galicia S.A.,R Cable y Telecomunicaciones Galicia S.A.,Residential/Business,False
+2026-09-16 02:53:43,69.5.169.104,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-16 02:53:43,151.158.44.55,100,Bangladesh,Dhaka,Md. Mehedi,,Data Center,False
+2026-09-16 02:53:43,187.115.144.103,100,Brazil,Recife,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-09-16 02:53:43,52.248.42.207,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-16 02:53:43,184.105.247.195,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-16 02:53:43,91.191.209.98,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-09-16 02:53:43,92.205.229.83,100,France,Strasbourg,Host Europe GmbH,,Data Center,False
+2026-09-16 02:53:43,35.190.143.149,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-16 02:53:43,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-16 02:53:43,89.21.67.170,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-16 02:53:43,193.163.125.198,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-16 02:53:43,193.163.125.64,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-16 02:53:43,190.181.44.194,100,Bolivia,Cochabamba,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-09-16 02:53:43,85.217.149.74,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-16 02:53:43,8.130.101.152,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-16 02:53:43,5.83.138.189,100,United States,Los Angeles,ZAP-Hosting GmbH,GHOSTNET GmbH,Data Center,True
+2026-09-16 02:53:43,217.146.80.101,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-16 02:53:43,47.251.51.133,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-16 02:53:43,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-16 02:53:43,193.24.211.218,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-09-16 02:53:43,58.34.174.90,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-16 02:53:43,49.124.153.16,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-16 02:53:43,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-09-16 02:53:43,213.209.159.242,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-16 02:53:43,8.211.37.179,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-16 02:53:43,217.196.165.67,100,Ukraine,Ternopil,"MAXNET TELECOM, LTD",TE Columbus PE,Residential/Business,False
+2026-09-16 02:53:43,20.65.202.51,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-16 02:53:43,172.232.15.250,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
