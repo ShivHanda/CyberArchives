@@ -118534,3 +118534,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-16 08:59:27,200.58.72.62,100,Bolivia,Cochabamba,Comteco Ltda,Comteco Ltda,Residential/Business,False
 2026-09-16 08:59:27,61.72.55.130,100,South Korea,Namyangju,Korea Telecom,,Residential/Business,False
 2026-09-16 08:59:27,37.120.144.165,100,Hungary,Budapest,M247 Europe SRL,M247 LTD,Data Center,True
+2026-09-16 14:31:29,85.217.140.9,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-16 14:31:29,218.28.18.2,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-09-16 14:31:29,195.178.110.15,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-16 14:31:29,196.190.220.199,100,Ethiopia,Tulu Bolo,EthioNet,Ethio Telecom,Residential/Business,False
+2026-09-16 14:31:29,78.85.31.170,100,Russia,Izhevsk,Rostelecom networks,,Residential/Business,False
+2026-09-16 14:31:29,95.58.221.186,100,Kazakhstan,Pavlodar,JSC Kazakhtelecom,Univer,Residential/Business,False
+2026-09-16 14:31:29,34.20.251.9,100,United States,Los Angeles,Google LLC,Google Cloud (us-west2),Data Center,False
+2026-09-16 14:31:29,36.213.69.67,100,China,Guangzhou,"China Mobile Communications Group Co., Ltd.",China TieTong Telecommunications Corporation,Mobile,False
+2026-09-16 14:31:29,102.219.170.62,100,South Africa,Cape Town,Too Much Wifi,Too Much Wifi,Residential/Business,False
+2026-09-16 14:31:29,102.220.161.126,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-16 14:31:29,185.233.3.95,100,Kazakhstan,Almaty,Enterprise Cloud Ltd.,IT-GRAD 1Cloud LLC,Data Center,False
+2026-09-16 14:31:29,69.5.169.120,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-16 14:31:29,3.147.122.184,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-16 14:31:29,20.89.68.9,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-09-16 14:31:29,41.93.28.11,100,Tanzania,Dar es Salaam,Resource rsv cld,Education Research services,Residential/Business,False
+2026-09-16 14:31:29,47.103.45.179,100,China,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-16 14:31:29,185.74.4.143,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Data Center,False
+2026-09-16 14:31:29,120.138.132.173,100,Japan,Nagoya,"STARCAT Co ., LTD.",Community Network Center Inc.,Residential/Business,False
+2026-09-16 14:31:29,34.162.1.145,100,United States,Columbus,Google LLC,Google Cloud (us-east5),Data Center,False
+2026-09-16 14:31:29,59.92.51.98,100,India,Puducherry,BSNL Internet,,Residential/Business,False
+2026-09-16 14:31:29,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-16 14:31:29,51.161.33.215,100,Canada,Beauharnois,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-09-16 14:31:29,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-16 14:31:29,35.203.45.136,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-09-16 14:31:29,34.86.55.22,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-16 14:31:29,59.51.27.121,100,China,Qingyuan,Chinanet,Chinanet HN,Residential/Business,False
+2026-09-16 14:31:29,54.85.7.119,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-16 14:31:29,102.130.255.195,100,Sudan,Khartoum,ISOCsd 24,Sudanese Internet Association,Residential/Business,False
+2026-09-16 14:31:29,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-16 14:31:29,174.138.12.72,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-16 14:31:29,45.156.128.173,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-16 14:31:29,31.145.131.202,100,Türkiye,Istanbul,Vodafone Net Iletisim Hizmetler,Ibbspor,Residential/Business,False
+2026-09-16 14:31:29,34.34.140.56,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-16 14:31:29,223.233.87.58,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Ltd.,Residential/Business,False
+2026-09-16 14:31:29,78.44.192.210,100,Czechia,Prague,Vodafone Czech Republic,UPC Broadband,Residential/Business,False
+2026-09-16 14:31:29,103.207.9.246,100,India,Pune,Shree Balaji Infoway Private Limited,Shree Balaji Infoway Private Limited,Residential/Business,False
+2026-09-16 14:31:29,221.10.70.210,100,China,Chengdu,CNC Group CHINA169 Sichuan Province Network,,Residential/Business,False
+2026-09-16 14:31:29,221.5.224.71,100,China,Beijing,CHINA UNICOM China169 Backbone,Sihangjianshe Com,Residential/Business,False
+2026-09-16 14:31:29,216.73.161.179,100,United States,New York,Bandito Networks,"Bandito Networks, Inc",Residential/Business,True
+2026-09-16 14:31:29,103.189.5.190,100,Bangladesh,Narayanganj,Red Data PVT Ltd,Red Data pvt Ltd,Residential/Business,False
+2026-09-16 14:31:29,173.239.211.141,100,United States,New York,F.N.S. HOLDINGS LIMITED,LogicWeb Inc,Data Center,True
+2026-09-16 14:31:29,178.153.255.42,100,Qatar,Doha,Ooredoo-MBB,,Residential/Business,False
+2026-09-16 14:31:29,102.220.161.102,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-16 14:31:29,171.244.40.247,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-16 14:31:29,171.217.70.151,100,China,Chengdu,Chinanet,Chinanet SC,Residential/Business,False
+2026-09-16 14:31:29,216.73.161.165,100,United States,New York,Bandito Networks,"Bandito Networks, Inc",Residential/Business,True
+2026-09-16 14:31:29,85.217.140.26,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-16 14:31:29,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-16 14:31:29,48.216.218.90,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-16 14:31:29,209.6.226.104,100,United States,Watertown,RCN,RCN Corporation,Residential/Business,False
