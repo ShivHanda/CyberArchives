@@ -118634,3 +118634,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-16 19:18:00,206.189.229.219,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-09-16 19:18:00,195.206.182.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-09-16 19:18:00,155.2.151.182,100,France,Paris,Sewan SAS,SEWAN,Residential/Business,False
+2026-09-16 22:34:09,20.43.35.101,100,France,Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),Data Center,False
+2026-09-16 22:34:09,70.167.234.161,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-16 22:34:09,74.207.253.22,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-16 22:34:09,103.154.137.43,100,Indonesia,Central Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-09-16 22:34:09,194.180.11.186,100,Iran,Karaj,Vandad Vira Hooman LLC,Vandad Vira Hooman LLC,Residential/Business,False
+2026-09-16 22:34:09,63.250.36.183,100,United States,Los Angeles,"Namecheap, Inc.","Namecheap, Inc.",Residential/Business,False
+2026-09-16 22:34:09,65.181.127.40,100,United States,Dallas,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-09-16 22:34:09,94.215.85.24,100,The Netherlands,Noordwijkerhout,Vodafone Ziggo,,Residential/Business,False
+2026-09-16 22:34:09,103.189.89.196,100,India,New Delhi,Micro Hosting Private Limited,Mind Over Matter Solutions PTE LTD,Data Center,False
+2026-09-16 22:34:09,113.176.85.99,100,Vietnam,Lao Cai,VNPT,,Residential/Business,False
+2026-09-16 22:34:09,14.116.184.171,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-16 22:34:09,35.90.140.254,100,United States,Boardman,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-09-16 22:34:09,77.239.124.130,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-16 22:34:09,176.202.87.38,100,Qatar,Doha,Ooredoo-MBB,,Residential/Business,False
+2026-09-16 22:34:09,120.138.171.186,100,Japan,Nagoya,"STARCAT Co ., LTD.",Community Network Center Inc.,Residential/Business,False
+2026-09-16 22:34:09,190.89.55.250,100,Brazil,Inhumas,Cardoso Comunicacoes Limitada,Cyanet Telecom Ltda,Residential/Business,False
+2026-09-16 22:34:09,81.163.126.210,100,Ukraine,Okhtyrka,"TOV ""Telecommunication company ""Plazma""",PlazmaRoute,Residential/Business,False
+2026-09-16 22:34:09,191.37.68.23,100,Brazil,Horizonte,GTR NET COMUNICACOES EIRELI,GTR NET COMUNICACOES EIRELI,Residential/Business,False
+2026-09-16 22:34:09,123.30.238.247,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-16 22:34:09,173.239.240.172,100,United States,Edison,LogicWeb Inc.,,Data Center,True
+2026-09-16 22:34:09,68.227.77.110,100,United States,Johnson,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-16 22:34:09,111.70.33.194,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-16 22:34:09,118.95.33.69,100,India,Chennai,Sify Limited,SCBS,Residential/Business,False
+2026-09-16 22:34:09,119.182.163.24,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-16 22:34:09,122.162.150.68,100,India,New Delhi,Bharti Airtel Ltd.,BHARTI,Residential/Business,False
+2026-09-16 22:34:09,34.142.191.92,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-09-16 22:34:09,46.24.47.94,100,Spain,Barcelona,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-09-16 22:34:09,173.239.240.159,100,United States,Edison,LogicWeb Inc.,,Data Center,True
+2026-09-16 22:34:09,190.181.44.194,100,Bolivia,Cochabamba,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-09-16 22:34:09,195.178.110.218,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-16 22:34:09,34.23.60.194,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-16 22:34:09,173.239.240.157,100,United States,Edison,LogicWeb Inc.,,Data Center,False
+2026-09-16 22:34:09,173.239.240.161,100,United States,Edison,LogicWeb Inc.,,Data Center,False
+2026-09-16 22:34:09,91.92.40.43,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-16 22:34:09,43.165.197.116,100,Indonesia,Jakarta,Aceville Pte.ltd,,Data Center,True
+2026-09-16 22:34:09,173.214.163.142,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,True
+2026-09-16 22:34:09,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-16 22:34:09,89.37.172.142,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-16 22:34:09,109.160.32.31,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-16 22:34:09,116.109.216.74,100,Vietnam,Ho Chi Minh City,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-16 22:34:09,72.202.239.88,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-16 22:34:09,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-16 22:34:09,91.218.45.58,100,Ukraine,Chernivtsi,DSS Group ltd,Ltd. DSS Group,Residential/Business,False
+2026-09-16 22:34:09,109.160.32.99,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-16 22:34:09,91.214.245.29,100,Ukraine,Kropyvnytskyi,FOP Abashin Andrew Aleksandrovich,ISP ELITENET,Residential/Business,False
