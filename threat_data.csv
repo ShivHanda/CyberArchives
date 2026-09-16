@@ -118584,3 +118584,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-16 14:31:29,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
 2026-09-16 14:31:29,48.216.218.90,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-09-16 14:31:29,209.6.226.104,100,United States,Watertown,RCN,RCN Corporation,Residential/Business,False
+2026-09-16 19:18:00,49.124.149.55,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-16 19:18:00,98.26.13.10,100,United States,Lugoff,Charter Communications,Spectrum,Residential/Business,False
+2026-09-16 19:18:00,51.75.200.186,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-16 19:18:00,72.211.57.133,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-16 19:18:00,212.220.15.34,100,Russia,Salekhard,Rostelecom networks,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-09-16 19:18:00,103.97.215.11,100,India,Patna,Shikhar Broadband Enterprises Pvt Ltd,Shikhar Broadband Enterprises Pvt Ltd,Residential/Business,False
+2026-09-16 19:18:00,123.30.238.247,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-16 19:18:00,84.44.39.47,100,Turkey,Şişli,Vodafone Net Iletisim Hizmetler,Borusan Telekom,Residential/Business,False
+2026-09-16 19:18:00,192.253.248.215,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-16 19:18:00,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-16 19:18:00,103.164.57.37,100,Indonesia,Maros,PT Natha Buana Indonesia,PT Natha Buana Indonesia,Residential/Business,False
+2026-09-16 19:18:00,186.47.21.59,100,Ecuador,Guayaquil,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-09-16 19:18:00,70.183.226.41,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-16 19:18:00,206.123.140.188,100,Germany,Frankfurt am Main,Secure Internet LLC,VOXILITY-DE,Data Center,True
+2026-09-16 19:18:00,73.141.180.44,100,United States,Philadelphia,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-09-16 19:18:00,171.25.158.57,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-16 19:18:00,71.86.57.25,100,United States,Florissant,Charter Communications,Spectrum,Residential/Business,False
+2026-09-16 19:18:00,23.21.119.232,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-16 19:18:00,187.131.143.96,100,Mexico,Ciudad López Mateos,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-16 19:18:00,194.186.123.154,100,Russia,Kaliningrad,EDN Sovintel,,Residential/Business,False
+2026-09-16 19:18:00,31.208.21.48,100,Sweden,Gothenburg,Bredband2 AB,Bredband2,Residential/Business,False
+2026-09-16 19:18:00,27.252.177.148,100,New Zealand,Auckland,One New Zealand Group Limited,One New Zealand Group Limited,Residential/Business,False
+2026-09-16 19:18:00,72.167.43.61,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-16 19:18:00,177.23.67.225,100,Brazil,Relvado,M. I. Internet Ltda.,M. I. Internet Ltda,Residential/Business,False
+2026-09-16 19:18:00,72.215.46.108,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-16 19:18:00,138.195.128.132,100,France,Gif-sur-Yvette,CS-VIAREZO,Centralesupelec EPSCP,Residential/Business,False
+2026-09-16 19:18:00,122.255.14.70,100,Sri Lanka,Alawwa,Suntel-Dialog Broadband,,Residential/Business,False
+2026-09-16 19:18:00,178.168.51.106,100,Moldova,Chisinau,SC STARNET SRL,SC Starnet SRL,Residential/Business,False
+2026-09-16 19:18:00,103.149.180.2,100,Indonesia,Jakarta,PT PC24 Telekomunikasi Indonesia,PT. Ruang Siber Indonesia,Residential/Business,False
+2026-09-16 19:18:00,64.202.191.109,100,United States,Ashburn,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-09-16 19:18:00,147.30.54.121,100,Kazakhstan,Astana,JSC Kazakhtelecom,Kazakhtelecom Data Network Administration,Residential/Business,False
+2026-09-16 19:18:00,64.90.155.35,100,United States,Roswell,Plateau Telecommunications Incorporated,Plateau Telecommunications Incorporated,Residential/Business,False
+2026-09-16 19:18:00,51.124.171.14,100,Netherlands,Amsterdam,Microsoft,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-09-16 19:18:00,45.43.63.68,100,Singapore,Singapore,Zenlayer Inc,UCLOUD,Data Center,False
+2026-09-16 19:18:00,38.224.49.7,100,Peru,Buenos Aires,Nextgen Networks Solutions S.A.C,Nextgen Networks Solutions S.A.C,Residential/Business,False
+2026-09-16 19:18:00,223.233.87.58,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Ltd.,Residential/Business,False
+2026-09-16 19:18:00,218.4.110.186,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-16 19:18:00,170.106.107.87,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-09-16 19:18:00,200.60.129.244,100,Peru,Lima,Telefonica del Peru S.A.A.,Flores Luyo Luis Ernesto,Residential/Business,False
+2026-09-16 19:18:00,70.182.25.191,100,United States,Springdale,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-16 19:18:00,50.193.219.77,100,United States,Portland,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-16 19:18:00,70.184.72.177,100,United States,Phoenix,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-16 19:18:00,45.117.82.102,100,Vietnam,Đống Đa,NhanHoa Software company,NHANHOA,Residential/Business,False
+2026-09-16 19:18:00,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-16 19:18:00,94.154.43.223,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-16 19:18:00,91.236.224.37,100,Ukraine,Kyiv,Gigacloud LLC,Gigacloud LLC,Data Center,False
+2026-09-16 19:18:00,199.45.154.62,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-16 19:18:00,206.189.229.219,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-16 19:18:00,195.206.182.194,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-16 19:18:00,155.2.151.182,100,France,Paris,Sewan SAS,SEWAN,Residential/Business,False
