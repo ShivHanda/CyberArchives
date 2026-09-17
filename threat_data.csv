@@ -118779,3 +118779,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-17 09:05:35,124.123.42.113,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Atria Convergence Technologies Pvt Ltd,Residential/Business,False
 2026-09-17 09:05:35,69.5.169.207,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-09-17 09:05:35,112.176.164.13,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-17 14:35:23,69.49.246.176,100,United States,Atlanta,"Network Solutions, LLC","Newfold Digital, Inc.",Data Center,False
+2026-09-17 14:35:23,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-17 14:35:23,8.231.254.208,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-17 14:35:23,136.67.98.83,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-17 14:35:23,81.19.216.88,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-17 14:35:23,34.128.83.216,100,Indonesia,Jakarta,Google LLC,Google Cloud (asia-southeast2),Data Center,False
+2026-09-17 14:35:23,61.155.106.101,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-09-17 14:35:23,109.160.32.41,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-17 14:35:23,39.170.98.131,100,China,Hangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-17 14:35:23,193.32.209.252,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-17 14:35:23,66.132.224.28,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-17 14:35:23,107.150.117.167,100,Germany,Frankfurt am Main,Zenlayer Inc,ZENLA-1,Data Center,False
+2026-09-17 14:35:23,210.79.191.170,100,Indonesia,Cicurug,PT KEBUN NARA SANTOSA,,Data Center,False
+2026-09-17 14:35:23,196.41.46.194,100,Tanzania,Dar es Salaam,RAHA-LTZ,RAHA Ltd,Residential/Business,False
+2026-09-17 14:35:23,47.83.122.139,100,Hong Kong,Hong Kong,Alibaba.com LLC,"IPXO LLC, Zenlayer Inc, Delta Centric LLC",Data Center,False
+2026-09-17 14:35:23,45.79.225.32,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-17 14:35:23,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-17 14:35:23,74.235.187.135,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-17 14:35:23,77.105.37.219,100,Serbia,Belgrade,ORIONTELEKOMTIMHOSTING,,Data Center,False
+2026-09-17 14:35:23,185.223.235.47,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-17 14:35:23,218.23.95.14,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-09-17 14:35:23,47.77.225.110,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-17 14:35:23,40.124.186.171,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-17 14:35:23,109.160.32.83,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-17 14:35:23,34.143.240.125,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-09-17 14:35:23,110.39.14.226,100,Pakistan,Lahore,Wateen Telecom Limited,Wateen Telecom Limited,Residential/Business,False
+2026-09-17 14:35:23,91.208.194.40,100,Ukraine,Kyiv,Art-master LLC,AMSOFT,Residential/Business,False
+2026-09-17 14:35:23,45.156.87.209,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-09-17 14:35:23,147.224.162.134,100,United States,Chicago,Oracle Corporation,Oracle Cloud Infrastructure (us-chicago-1),Data Center,False
+2026-09-17 14:35:23,50.82.130.170,100,United States,Ocean View,Mediacom Communications Corp,Mediacom Communications Corp,Residential/Business,False
+2026-09-17 14:35:23,58.115.53.28,100,Taiwan,New Taipei City,KBT,"KBT Co., LTD",Residential/Business,False
+2026-09-17 14:35:23,85.203.23.42,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-09-17 14:35:23,141.148.207.84,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-09-17 14:35:23,8.229.187.10,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-17 14:35:23,34.182.184.110,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-17 14:35:23,66.132.224.27,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-17 14:35:23,34.23.60.194,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-17 14:35:23,78.135.111.65,100,Turkey,Ödemiş,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI,Data Center,False
+2026-09-17 14:35:23,78.135.111.47,100,Turkey,Ödemiş,Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi,Yigit Hosting Bilisim E-ticaret Gida San. Tic. Ltd. STI,Data Center,False
+2026-09-17 14:35:23,220.158.184.112,100,India,New Delhi,powergrid,Power Grid Corporation of India Limited,Residential/Business,False
+2026-09-17 14:35:23,146.190.81.240,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-17 14:35:23,118.208.201.71,100,Australia,Brisbane,TPG Internet Pty Ltd,iiNet Limited,Residential/Business,False
+2026-09-17 14:35:23,146.70.36.126,100,Germany,Frankfurt am Main,M247 Europe SRL,M247 Ltd Frankfurt,Data Center,True
+2026-09-17 14:35:23,193.176.29.11,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,False
+2026-09-17 14:35:23,220.240.109.30,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-09-17 14:35:23,34.156.121.46,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-17 14:35:23,210.245.30.140,100,Vietnam,Hanoi,FPT Telecom Company,"Dai IP cap cho VPDD Givaudan Singapore Pte, Ltd",Residential/Business,False
+2026-09-17 14:35:23,87.27.225.82,100,Italy,Lido di Pomposa-Lido degli Scacchi,Telecom Italia S.p.A. IPTV,INTERBUSINESS,Residential/Business,False
+2026-09-17 14:35:23,194.26.192.128,100,The Netherlands,Lelystad,1337 Services GmbH,1337 Services GmbH,Data Center,True
+2026-09-17 14:35:23,211.251.245.88,100,South Korea,Naju,Korea Telecom,Kornet,Residential/Business,False
