@@ -118879,3 +118879,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-17 19:28:39,165.154.119.52,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-09-17 19:28:39,111.40.37.79,100,China,Harbin,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
 2026-09-17 19:28:39,221.151.84.6,100,South Korea,Gangseo-gu,Korea Telecom,KORNET,Residential/Business,False
+2026-09-17 22:35:38,41.215.146.195,100,Eswatini,Mbabane,Eswatini Telecom - retail,,Residential/Business,False
+2026-09-17 22:35:38,213.209.159.236,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-17 22:35:38,185.227.152.135,100,Hong Kong,San Po Kong,Cloudie Limited,"ANYUN INTERNET TECHNOLOGY (HONGKONG) CO., LIMITED",Data Center,False
+2026-09-17 22:35:38,66.132.172.35,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-17 22:35:38,27.150.188.148,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-09-17 22:35:38,46.253.45.10,100,Spain,Vilanova i la Geltrú,Anxanet Operadors de Xarxes,"Anxanet Operadors de Xarxes, S.L.",Residential/Business,False
+2026-09-17 22:35:38,213.177.179.62,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-17 22:35:38,109.160.32.13,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-17 22:35:38,91.92.40.36,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-17 22:35:38,49.42.167.102,100,India,Bhubaneswar,Reliance Jio Infocomm Limited,Rjil Internet,Mobile,False
+2026-09-17 22:35:38,65.49.20.69,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-17 22:35:38,1.209.110.147,100,South Korea,Uijeongbu-si,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-17 22:35:38,169.58.198.243,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-17 22:35:38,216.73.217.140,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-09-17 22:35:38,65.49.20.67,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,106.243.155.71,100,South Korea,Seo-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-17 22:35:38,65.49.1.80,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,20.102.110.201,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-17 22:35:38,169.58.198.0,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-17 22:35:38,169.255.187.234,100,Tanzania,Dar es Salaam,Viettel Tanzania PLC,,Mobile,False
+2026-09-17 22:35:38,49.51.231.222,100,United States,Santa Clara,OPHL,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-09-17 22:35:38,65.49.1.202,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,65.49.1.152,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,35.197.252.161,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-09-17 22:35:38,65.49.1.108,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-17 22:35:38,96.19.172.61,100,United States,Caldwell,"CABLE ONE, INC.",Sparklight,Residential/Business,False
+2026-09-17 22:35:38,158.140.185.58,100,Indonesia,South Tangerang,MYREPUBLIC,,Residential/Business,False
+2026-09-17 22:35:38,169.40.142.134,100,United Kingdom,London,Zkillu SAS,Private Customer,Residential/Business,False
+2026-09-17 22:35:38,218.146.133.117,100,South Korea,Changwon,Korea Telecom,Kornet,Residential/Business,False
+2026-09-17 22:35:38,192.253.248.215,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-17 22:35:38,168.144.95.74,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-17 22:35:38,64.89.161.180,100,Luxembourg,Schieren,Ghosty Networks LLC,,Data Center,True
+2026-09-17 22:35:38,194.180.49.68,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-09-17 22:35:38,64.89.163.14,100,Germany,Frankfurt am Main,Netiface America,Meowcore Softworks LLC,Residential/Business,False
+2026-09-17 22:35:38,66.132.195.70,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-17 22:35:38,109.160.32.36,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-17 22:35:38,64.62.156.94,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,137.23.28.31,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-09-17 22:35:38,64.62.156.52,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,168.138.185.186,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-09-17 22:35:38,106.12.127.250,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-09-17 22:35:38,64.62.156.152,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,168.119.191.98,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-17 22:35:38,62.60.130.215,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-17 22:35:38,64.62.156.212,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-17 22:35:38,167.99.177.15,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-17 22:35:38,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-17 22:35:38,84.26.0.88,100,The Netherlands,Maastricht,ZIGGO,,Residential/Business,False
+2026-09-17 22:35:38,200.195.35.94,100,Brazil,Belém,V tal,V tal,Residential/Business,False
