@@ -119029,3 +119029,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-18 08:40:13,45.238.2.93,100,Brazil,Goiânia,T & I TELECOMUNICAÔÔES LTDA ME,T & I TELECOMUNICAÇÕES LTDA ME,Residential/Business,False
 2026-09-18 08:40:13,194.165.16.164,100,Lithuania,Kaunas,Flyservers S.A.,Flyservers S.A,Data Center,False
 2026-09-18 08:40:13,185.100.212.141,100,India,Mumbai,Yotta Network Services Private Limited,RedSwitches Pty Ltd,Residential/Business,True
+2026-09-18 14:01:53,94.154.43.84,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-18 14:01:53,115.242.226.54,100,India,Irinjālakuda,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Residential/Business,False
+2026-09-18 14:01:53,77.87.40.114,100,Ukraine,Kyiv,Zubko Volodymyr Viktorovych,ISP ZNet,Residential/Business,False
+2026-09-18 14:01:53,96.242.163.6,100,United States,Morristown,Verizon Business,Verizon Business,Residential/Business,False
+2026-09-18 14:01:53,111.26.106.117,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-18 14:01:53,49.247.214.126,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,True
+2026-09-18 14:01:53,210.99.112.82,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-18 14:01:53,103.106.148.154,100,India,Mumbai,Oceanic Broadband Solution,,Residential/Business,False
+2026-09-18 14:01:53,111.26.67.36,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-18 14:01:53,43.228.157.136,100,Germany,Frankfurt am Main,Gaditek Associates,,Data Center,True
+2026-09-18 14:01:53,109.160.32.87,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-18 14:01:53,94.72.35.226,100,Russia,St Petersburg,MTS PJSC,MTS SPB Home P6,Mobile,False
+2026-09-18 14:01:53,185.73.23.133,100,Germany,Bochum,Ruhr-Universitaet Bochum,Ruhr-Universitaet Bochum,Residential/Business,False
+2026-09-18 14:01:53,194.74.196.10,100,United Kingdom,Putney,British Telecommunications PLC,Btnet,Residential/Business,False
+2026-09-18 14:01:53,207.166.172.198,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-18 14:01:53,76.16.7.82,100,United States,Chicago,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-18 14:01:53,122.186.202.58,100,India,Mumbai Suburban,Bharti Airtel Limited,Bharti Telenet Ltd.,Mobile,False
+2026-09-18 14:01:53,20.84.153.67,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-18 14:01:53,204.76.203.31,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-18 14:01:53,202.155.236.242,100,Hong Kong,Kowloon Bay,HKBN Enterprise Solutions HK Limited,HKBN Enterprise Solutions HK Limited,Residential/Business,False
+2026-09-18 14:01:53,45.194.92.103,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-18 14:01:53,24.234.225.125,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-18 14:01:53,115.75.144.120,100,Vietnam,Ho Chi Minh City,VIETELxdsl,xDSL Services,Residential/Business,False
+2026-09-18 14:01:53,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-18 14:01:53,173.255.242.196,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-18 14:01:53,193.116.68.68,100,Australia,Brisbane,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-09-18 14:01:53,117.191.83.250,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-18 14:01:53,109.160.32.111,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-18 14:01:53,103.70.40.36,100,India,New Delhi,Sdh Network Pvt Ltd,Sdh Network Pvt Ltd,Residential/Business,False
+2026-09-18 14:01:53,213.209.159.208,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-18 14:01:53,45.115.26.203,100,Singapore,Singapore,Ivacy Limited,Ivacy Limited,Residential/Business,True
+2026-09-18 14:01:53,203.252.10.4,100,South Korea,Yongsan-dong,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-09-18 14:01:53,103.230.176.152,100,India,Guwahati,Axom Internet Services Private Limited,Axom  Private Limited,Residential/Business,False
+2026-09-18 14:01:53,34.63.42.56,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-18 14:01:53,120.32.26.96,100,China,Fuzhou,Chinanet,Chinanet FJ,Residential/Business,False
+2026-09-18 14:01:53,35.241.202.92,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-18 14:01:53,130.131.220.95,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-18 14:01:53,43.228.131.114,100,Mongolia,Ulan Bator,MCS Com Co Ltd,Unitel LLC,Data Center,False
+2026-09-18 14:01:53,43.165.167.72,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,True
+2026-09-18 14:01:53,162.218.226.251,100,United States,San Francisco,"Another Corporate ISP, LLC","Another Corporate ISP, LLC",Residential/Business,False
+2026-09-18 14:01:53,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-18 14:01:53,190.110.213.26,100,Ecuador,Guayaquil,Puntonet S.A.,Puntonet S.A,Residential/Business,False
+2026-09-18 14:01:53,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-18 14:01:53,35.205.88.64,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-18 14:01:53,165.232.117.238,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-18 14:01:53,195.239.80.126,100,Russia,Moscow,Vladivostok,,Residential/Business,False
+2026-09-18 14:01:53,66.132.186.203,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-18 14:01:53,31.152.149.128,100,Greece,Thessaloniki,Cosmote Mobile Telecommunication S.A,Cosmote Mobile Telecommunications S.A.,Mobile,False
+2026-09-18 14:01:53,209.141.46.157,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-09-18 14:01:53,160.251.202.50,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
