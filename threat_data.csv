@@ -118929,3 +118929,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-17 22:35:38,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-09-17 22:35:38,84.26.0.88,100,The Netherlands,Maastricht,ZIGGO,,Residential/Business,False
 2026-09-17 22:35:38,200.195.35.94,100,Brazil,Belém,V tal,V tal,Residential/Business,False
+2026-09-18 02:44:23,109.205.211.23,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-18 02:44:23,178.20.210.198,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-09-18 02:44:23,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-18 02:44:23,87.236.176.3,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-18 02:44:23,109.205.211.25,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-18 02:44:23,149.202.50.58,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-09-18 02:44:23,170.64.147.115,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-18 02:44:23,109.160.32.14,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-18 02:44:23,69.5.169.233,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-18 02:44:23,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-18 02:44:23,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-18 02:44:23,209.6.226.104,100,United States,Watertown,RCN,RCN Corporation,Residential/Business,False
+2026-09-18 02:44:23,69.5.169.22,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-18 02:44:23,78.38.84.140,100,Iran,Bābolsar,Iran Telecommunication Company PJS,Mazunipardis,Residential/Business,False
+2026-09-18 02:44:23,81.19.216.116,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-18 02:44:23,165.154.43.179,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-18 02:44:23,45.94.4.10,100,Turkey,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Viva Internet Limited Sirketi,Data Center,False
+2026-09-18 02:44:23,69.5.169.189,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-18 02:44:23,77.90.185.41,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-09-18 02:44:23,43.155.27.244,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-18 02:44:23,100.29.192.103,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-18 02:44:23,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-18 02:44:23,213.209.159.175,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-18 02:44:23,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-18 02:44:23,194.187.176.206,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-18 02:44:23,45.139.104.176,100,Germany,Frankfurt am Main,49.3 Networking LLC,Networking LLC,Residential/Business,False
+2026-09-18 02:44:23,190.25.75.206,100,Colombia,Bogotá,ETB - Colombia,ETB - Colombia,Residential/Business,False
+2026-09-18 02:44:23,66.132.172.137,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-18 02:44:23,218.201.250.120,100,China,Guangzhou,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-09-18 02:44:23,210.79.142.201,100,Indonesia,Sudimoro,PT Gayatri Lintas Nusantara,PT Cakrawala Link Nusantara,Residential/Business,False
+2026-09-18 02:44:23,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-18 02:44:23,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-18 02:44:23,198.74.58.157,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-18 02:44:23,186.215.245.175,100,Brazil,Salvador,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-09-18 02:44:23,185.225.69.225,100,Hungary,Budapest,ATW Internet Kft,Xethost by 23Net,Data Center,True
+2026-09-18 02:44:23,47.84.130.199,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-18 02:44:23,194.50.235.135,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-18 02:44:23,34.58.124.191,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-18 02:44:23,69.5.169.6,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-18 02:44:23,65.184.82.107,100,United States,Jacksonville,Charter Communications,Spectrum,Residential/Business,False
+2026-09-18 02:44:23,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-18 02:44:23,194.153.198.230,100,Italy,Cupramontana,Retelit Digital Services S.p.A.,Irideos Spa,Residential/Business,False
+2026-09-18 02:44:23,134.209.147.251,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-18 02:44:23,45.121.25.115,100,Vietnam,Hanoi,MOBIFONE,Mobifone Corporation,Mobile,False
+2026-09-18 02:44:23,100.29.192.98,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-18 02:44:23,3.151.116.231,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-18 02:44:23,66.132.172.243,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-18 02:44:23,122.255.14.70,100,Sri Lanka,Alawwa,Suntel-Dialog Broadband,,Residential/Business,False
+2026-09-18 02:44:23,40.119.24.65,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-18 02:44:23,45.163.86.141,100,Brazil,Campinas,G2G COM PROD ELETRO E SERV LTDA,G2G NETWORKS SERVICOS DE COMUNICACAO,Residential/Business,False
