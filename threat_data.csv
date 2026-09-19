@@ -119429,3 +119429,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-19 19:54:28,101.36.111.221,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
 2026-09-19 19:54:28,47.251.91.152,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
 2026-09-19 19:54:28,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-19 22:02:45,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-19 22:02:45,101.47.156.21,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-09-19 22:02:45,115.191.38.87,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-19 22:02:45,172.208.48.177,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-19 22:02:45,220.192.81.169,100,China,Jinrongjie,China Unicom Network,,Residential/Business,False
+2026-09-19 22:02:45,143.198.196.251,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 22:02:45,64.62.197.226,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-19 22:02:45,92.118.39.148,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-19 22:02:45,220.184.188.7,100,China,Hangzhou,Chinanet,,Residential/Business,False
+2026-09-19 22:02:45,66.132.186.216,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-19 22:02:45,124.236.76.72,100,China,Shijiazhuang,"Shijiazhuang IDC network, CHINANET Hebei province",Chinanet HE,Residential/Business,False
+2026-09-19 22:02:45,103.109.13.50,100,India,Pune,Grace Teleinfra Pvt Ltd,Grace Teleinfra Pvt Ltd,Residential/Business,False
+2026-09-19 22:02:45,122.168.123.73,100,India,Indore,BHARTI,1 Malviya Nagar,Residential/Business,False
+2026-09-19 22:02:45,103.44.14.24,100,India,Vijayawada,SDN TELECOM PVT LTD,SDN Telecom PVT LTD,Residential/Business,False
+2026-09-19 22:02:45,24.199.98.33,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 22:02:45,128.199.209.169,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 22:02:45,103.88.76.27,100,India,Chennai,Thamizhaga Internet Communications Private Limited,Thamizhaga Internet Communications Private Limited,Residential/Business,False
+2026-09-19 22:02:45,118.193.57.62,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-19 22:02:45,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-19 22:02:45,211.240.117.75,100,South Korea,Seodaemun-gu,"ELIMNET, INC.",elimnet,Residential/Business,False
+2026-09-19 22:02:45,16.216.88.167,100,Canada,Montreal,Hewlett Packard Enterprise Company,Hewlett Packard Enterprise Company,Residential/Business,False
+2026-09-19 22:02:45,157.245.63.91,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 22:02:45,185.164.6.225,100,Austria,Vienna,hostingprovider02,,Data Center,False
+2026-09-19 22:02:45,81.22.51.64,100,Russia,Samara,MetroMAX,Sakha-Belcom Ltd.,Residential/Business,False
+2026-09-19 22:02:45,152.32.139.200,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-19 22:02:45,222.124.177.148,100,Indonesia,Jakarta,Telekomunikasi Indonesia,PT. TELKOM INDONESIA,Residential/Business,True
+2026-09-19 22:02:45,202.152.204.159,100,Indonesia,South Tangerang,PT. Bakrie Telecom Tbk,,Residential/Business,False
+2026-09-19 22:02:45,66.116.224.33,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-19 22:02:45,141.148.207.84,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-09-19 22:02:45,198.11.178.139,100,United States,Minkler,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-19 22:02:45,154.221.25.99,100,Hong Kong,Hong Kong,Yisu Cloud LTD,Yisu Cloud Ltd,Data Center,False
+2026-09-19 22:02:45,194.187.176.134,100,Germany,Berlin,Alpha Strike Labs GmbH,,Residential/Business,False
+2026-09-19 22:02:45,45.194.92.97,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-19 22:02:45,79.138.91.92,100,Sweden,Robertsfors,AllTele,,Residential/Business,False
+2026-09-19 22:02:45,103.199.16.90,100,Vietnam,Tây Hồ,365 Online technology joint stock company,Greencloud Limited,Data Center,False
+2026-09-19 22:02:45,162.243.147.237,100,United States,San Francisco,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-19 22:02:45,103.63.101.24,100,Indonesia,Rangkasbitung,PT Berkah Maju Interasional,PT Berkah Maju Interasional,Residential/Business,True
+2026-09-19 22:02:45,103.142.240.142,100,Indonesia,Jakarta,Multi Teknologi Telematika,,Residential/Business,False
+2026-09-19 22:02:45,41.33.91.226,100,Egypt,Cairo,TE Data,,Residential/Business,False
+2026-09-19 22:02:45,68.10.56.5,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-19 22:02:45,197.5.145.150,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-09-19 22:02:45,41.204.63.118,100,Ghana,Accra,Vodafone Ghana AS International Transit,Ghanatel,Residential/Business,True
+2026-09-19 22:02:45,61.80.172.188,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-09-19 22:02:45,43.166.242.149,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,False
+2026-09-19 22:02:45,115.190.234.63,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-19 22:02:45,111.70.3.122,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-19 22:02:45,66.132.172.135,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-19 22:02:45,218.149.228.177,100,South Korea,Daegu,Korea Telecom,hangugtongsindaegubonbu,Residential/Business,False
+2026-09-19 22:02:45,20.221.74.93,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-19 22:02:45,188.166.231.90,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
