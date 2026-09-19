@@ -119279,3 +119279,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-19 08:27:00,117.187.180.251,100,China,Jinrongjie,China Mobile communications corporation,China Mobile,Mobile,False
 2026-09-19 08:27:00,84.13.158.253,100,Saudi Arabia,Riyadh,Oracle Corporation,Oracle Cloud Infrastructure (me-riyadh-1),Data Center,False
 2026-09-19 08:27:00,45.78.204.246,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-19 13:38:36,109.160.32.63,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 13:38:36,185.149.27.39,100,United States,Spokane,Puneet Kalra,Kuroit Limited,Data Center,False
+2026-09-19 13:38:36,167.71.72.95,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 13:38:36,193.8.186.45,100,United Kingdom,Swansea,PebbleHost Ltd,Vlad Cojuhari,Data Center,False
+2026-09-19 13:38:36,31.14.32.7,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-09-19 13:38:36,94.182.168.135,100,Iran,Tehran,Aria Shatel PJSC,Shtl NET DED,Residential/Business,False
+2026-09-19 13:38:36,160.191.244.5,100,Vietnam,Đố Sơn,Hoang Dieu Cloud Computing Company Limited,DTDMVNCLOUD,Data Center,False
+2026-09-19 13:38:36,103.154.179.151,100,Indonesia,Mendaha,ANEKANET,,Residential/Business,False
+2026-09-19 13:38:36,179.127.10.169,100,Brazil,São Paulo,Under Servicos de Internet Ltda,Under Servicos de Internet Ltda,Residential/Business,False
+2026-09-19 13:38:36,185.242.3.210,100,Germany,Frankfurt am Main,"Netiface America, Inc.",Felcloud,Data Center,False
+2026-09-19 13:38:36,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-09-19 13:38:36,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-19 13:38:36,69.6.234.27,100,Colombia,Cota,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-19 13:38:36,64.226.110.44,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-19 13:38:36,16.5.0.240,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-19 13:38:36,34.151.200.58,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-09-19 13:38:36,45.156.128.43,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-19 13:38:36,102.210.148.41,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-09-19 13:38:36,79.124.60.218,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-19 13:38:36,103.189.89.196,100,India,New Delhi,Micro Hosting Private Limited,Mind Over Matter Solutions PTE LTD,Data Center,False
+2026-09-19 13:38:36,45.156.128.130,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
+2026-09-19 13:38:36,113.176.85.99,100,Vietnam,Lao Cai,VNPT,,Residential/Business,False
+2026-09-19 13:38:36,130.162.192.232,100,Australia,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),Data Center,False
+2026-09-19 13:38:36,109.205.242.8,100,Russia,Maloyaroslavets,Agrisovgas,Agrisovgaz Ltd,Residential/Business,False
+2026-09-19 13:38:36,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-19 13:38:36,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-19 13:38:36,87.236.176.9,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-19 13:38:36,218.189.84.73,100,Hong Kong,Healthy Village,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-09-19 13:38:36,51.75.247.232,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-19 13:38:36,196.188.93.169,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-09-19 13:38:36,85.217.140.36,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-19 13:38:36,213.206.207.146,100,The Netherlands,Wehl,ML Consultancy,MLC/InterConnect,Residential/Business,False
+2026-09-19 13:38:36,103.150.124.150,100,Vietnam,Ho Chi Minh City,ECOM,ECOMS Technology Trading Company Limited,Residential/Business,False
+2026-09-19 13:38:36,193.90.12.230,100,Norway,Oslo,GLOBALCONNECT,,Residential/Business,False
+2026-09-19 13:38:36,85.69.240.210,100,France,Perpignan,Societe Francaise Du Radiotelephone - SFR SA,Ncnumericable,Residential/Business,False
+2026-09-19 13:38:36,110.13.169.87,100,South Korea,Nam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-19 13:38:36,45.77.61.56,100,France,Aubervilliers,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-09-19 13:38:36,45.180.148.202,100,Brazil,São Paulo,MOV TELECOM SERVICOS DE PROVEDORES DE INTERNET LTD,MOV TELECOM SERVICOS DE PROVEDORES DE INTERNET LTD,Residential/Business,False
+2026-09-19 13:38:36,94.204.208.107,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company,Residential/Business,False
+2026-09-19 13:38:36,103.26.41.178,100,Singapore,Singapore,Exabytes Network (Singapore) Pte. Ltd.,Signetique IT Pte Ltd,Data Center,False
+2026-09-19 13:38:36,120.26.83.180,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-19 13:38:36,136.119.10.198,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-19 13:38:36,186.248.197.77,100,Brazil,Belo Horizonte,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT,Residential/Business,False
+2026-09-19 13:38:36,94.139.113.83,100,Russia,Moscow,MGTS Network,Moscow Sate Medical University of Stomatology,Residential/Business,False
+2026-09-19 13:38:36,181.196.24.37,100,Ecuador,Quito,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-09-19 13:38:36,146.59.71.9,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-09-19 13:38:36,41.224.62.206,100,Tunisia,Tunis,Orange Tunisie,ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-09-19 13:38:36,74.200.22.56,100,Canada,Calgary,Equinix (EMEA) Acquisition Enterprises B.V.,,Residential/Business,False
+2026-09-19 13:38:36,94.131.240.190,100,Ukraine,Kyiv,OpenStack,,Data Center,False
+2026-09-19 13:38:36,43.142.113.25,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
