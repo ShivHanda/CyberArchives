@@ -119229,3 +119229,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-19 02:43:11,185.223.235.38,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-09-19 02:43:11,8.216.3.248,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
 2026-09-19 02:43:11,197.156.97.198,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-09-19 08:27:00,64.23.228.145,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-19 08:27:00,70.54.182.130,100,Canada,Toronto,Bell Canada,Sympatico HSE,Residential/Business,False
+2026-09-19 08:27:00,161.248.37.160,100,India,Greater Noida,Imegh Private Limited,Imegh Private Limited,Residential/Business,False
+2026-09-19 08:27:00,109.160.32.101,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,203.200.74.18,100,India,Bengaluru,Tata Communications Limited,Tata Communications Limited,Residential/Business,False
+2026-09-19 08:27:00,120.48.106.205,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-09-19 08:27:00,114.30.223.119,100,South Korea,Mokpo-si,LG HelloVision Corp.,HVHonam,Residential/Business,False
+2026-09-19 08:27:00,194.50.235.132,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-19 08:27:00,139.59.250.28,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-19 08:27:00,182.48.80.240,100,Bangladesh,Dhaka,Corporate Office,,Residential/Business,False
+2026-09-19 08:27:00,62.60.130.247,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,True
+2026-09-19 08:27:00,122.176.122.24,100,India,Gurugram,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-19 08:27:00,108.174.145.192,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-19 08:27:00,34.127.100.82,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-19 08:27:00,91.92.47.58,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-19 08:27:00,79.124.62.230,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-09-19 08:27:00,36.93.144.74,100,Indonesia,Bekasi,Telekomunikasi Indonesia,HSI Indihome,Residential/Business,False
+2026-09-19 08:27:00,165.154.70.139,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-19 08:27:00,149.120.141.1,100,United States,Los Altos,Cogent Communications,PEG Tech Inc,Residential/Business,True
+2026-09-19 08:27:00,213.230.92.27,100,Uzbekistan,Namangan,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-09-19 08:27:00,195.252.61.93,100,Sweden,Norrköping,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-09-19 08:27:00,2.55.85.196,100,Israel,Ashdod,Partner Communications,,Mobile,False
+2026-09-19 08:27:00,109.160.32.214,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,94.154.46.250,100,United States,New York,Omegatech LTD,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-09-19 08:27:00,193.124.20.243,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-19 08:27:00,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-09-19 08:27:00,109.160.32.216,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,191.84.254.67,100,Argentina,La Plata,Telefonica de Argentina,Telefonica de Argentina,Residential/Business,False
+2026-09-19 08:27:00,80.85.224.84,100,Poland,Tarnów,ZETO S.A. Tarnow,Zeto S.A.,Residential/Business,False
+2026-09-19 08:27:00,212.83.174.175,100,France,Paris,Online,Free SAS,Data Center,False
+2026-09-19 08:27:00,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-19 08:27:00,200.159.14.187,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-19 08:27:00,152.32.171.213,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-19 08:27:00,175.196.78.7,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-09-19 08:27:00,109.160.32.208,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,20.236.202.228,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-19 08:27:00,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-19 08:27:00,39.91.52.38,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-09-19 08:27:00,217.77.171.138,100,Czechia,Prague,Vodafone Czech Republic a.s.,VFCZ-DSL,Residential/Business,False
+2026-09-19 08:27:00,66.132.172.192,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-19 08:27:00,218.1.185.88,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-09-19 08:27:00,186.208.81.252,100,Brazil,Passo Fundo,RazaoInfo Internet Ltda,TWS Serviços de Internet Ltda,Residential/Business,False
+2026-09-19 08:27:00,109.160.32.202,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,102.134.225.38,100,South Africa,Nigel,Comsol Networks (PTY) Ltd,Terjhb 5G,Residential/Business,False
+2026-09-19 08:27:00,43.128.104.56,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-19 08:27:00,109.160.32.204,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-19 08:27:00,41.216.228.244,100,Malawi,Blantyre,Globe LLW SR 2,,Residential/Business,False
+2026-09-19 08:27:00,117.187.180.251,100,China,Jinrongjie,China Mobile communications corporation,China Mobile,Mobile,False
+2026-09-19 08:27:00,84.13.158.253,100,Saudi Arabia,Riyadh,Oracle Corporation,Oracle Cloud Infrastructure (me-riyadh-1),Data Center,False
+2026-09-19 08:27:00,45.78.204.246,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
