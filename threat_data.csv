@@ -119629,3 +119629,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-20 13:52:29,81.211.72.167,100,Russia,Moscow,EDN Sovintel,,Residential/Business,False
 2026-09-20 13:52:29,18.116.101.220,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
 2026-09-20 13:52:29,183.82.111.224,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-09-20 17:13:39,34.18.30.196,100,Qatar,Doha,Google LLC,Google Cloud (me-central1),Data Center,False
+2026-09-20 17:13:39,212.192.14.81,100,Russia,Moscow,Global Internet Solutions LLC,Global Internet Solutions LLC,Residential/Business,True
+2026-09-20 17:13:39,12.150.243.22,100,United States,Decatur,"AT&T Enterprises, LLC",E-BOX,Residential/Business,False
+2026-09-20 17:13:39,40.117.97.0,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-20 17:13:39,13.250.241.209,100,Singapore,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),Data Center,False
+2026-09-20 17:13:39,45.194.92.99,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-20 17:13:39,125.227.156.55,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-20 17:13:39,211.253.37.225,100,South Korea,Deungchon-dong,Korea Telecom-PUBNET,(jae)hoseojeonsanjikeobjeonmunhakkyo,Residential/Business,False
+2026-09-20 17:13:39,43.156.33.17,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-09-20 17:13:39,66.132.195.40,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-20 17:13:39,4.148.17.77,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-20 17:13:39,69.5.169.57,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-20 17:13:39,93.113.10.244,100,Romania,Bucharest,SC Media SAT SRL,Mediasat Network,Residential/Business,False
+2026-09-20 17:13:39,66.132.195.49,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-20 17:13:39,194.88.98.121,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-20 17:13:39,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-20 17:13:39,47.89.255.48,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-20 17:13:39,153.126.165.228,100,Japan,Sendai,SAKURA Internet Inc.,SAKURA,Data Center,False
+2026-09-20 17:13:39,39.73.251.106,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-09-20 17:13:39,210.68.105.68,100,Taiwan,Xizhi District,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-09-20 17:13:39,92.234.0.95,100,United Kingdom,Rossendale,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-09-20 17:13:39,115.190.229.67,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-20 17:13:39,222.232.176.7,100,South Korea,Busan,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-20 17:13:39,43.139.108.227,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-20 17:13:39,34.24.136.46,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-20 17:13:39,85.217.149.72,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-20 17:13:39,185.226.93.242,100,Türkiye,Istanbul,BIGCORE-US,,Residential/Business,False
+2026-09-20 17:13:39,165.154.32.235,100,Philippines,Manila,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-20 17:13:39,34.227.148.44,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-20 17:13:39,195.7.15.250,100,Tajikistan,Dushanbe,Smart Grupp Ltd.,Smart Grupp Ltd,Residential/Business,False
+2026-09-20 17:13:39,35.199.118.189,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-09-20 17:13:39,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-20 17:13:39,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-20 17:13:39,116.228.233.93,100,China,Hongkou,China Telecom (Group),"Shanghai Xinding International Cargo Transport Angent Co., Ltd.",Residential/Business,False
+2026-09-20 17:13:39,77.244.64.60,100,Russia,Obninsk,MAXnet.ru,,Residential/Business,False
+2026-09-20 17:13:39,104.236.173.206,100,United States,San Francisco,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-20 17:13:39,35.221.139.177,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-20 17:13:39,94.157.37.186,100,The Netherlands,Arnhem,Odido Netherlands B.V.,Odido Netherlands B.V,Residential/Business,False
+2026-09-20 17:13:39,49.124.153.55,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-09-20 17:13:39,181.188.176.242,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-09-20 17:13:39,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-20 17:13:39,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-20 17:13:39,47.250.123.22,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-20 17:13:39,20.235.136.168,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-09-20 17:13:39,85.217.149.66,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-20 17:13:39,89.121.255.194,100,Romania,Bucharest,Orange Romania S.A.,Romtelecom,Mobile,False
+2026-09-20 17:13:39,18.217.208.51,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-09-20 17:13:39,118.194.233.182,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-09-20 17:13:39,20.127.185.37,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-20 17:13:39,34.185.68.74,100,United States,Salt Lake City,Google LLC,Google Cloud (us-west3),Data Center,False
