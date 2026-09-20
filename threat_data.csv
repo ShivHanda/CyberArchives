@@ -119479,3 +119479,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-19 22:02:45,218.149.228.177,100,South Korea,Daegu,Korea Telecom,hangugtongsindaegubonbu,Residential/Business,False
 2026-09-19 22:02:45,20.221.74.93,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-09-19 22:02:45,188.166.231.90,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-09-20 02:55:38,16.5.0.242,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-20 02:55:38,141.95.54.130,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-09-20 02:55:38,210.123.87.158,100,South Korea,Seoul,Korea Telecom,,Residential/Business,False
+2026-09-20 02:55:38,20.121.140.169,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-20 02:55:38,186.139.251.57,100,Argentina,Buenos Aires,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-09-20 02:55:38,218.244.143.162,100,China,Hangzhou,Addresses CNNIC,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-20 02:55:38,98.89.204.118,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-20 02:55:38,115.190.248.214,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-09-20 02:55:38,211.195.108.229,100,South Korea,Suwon,Korea Telecom,,Residential/Business,False
+2026-09-20 02:55:38,193.163.125.167,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-20 02:55:38,216.218.206.66,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-20 02:55:38,40.119.27.183,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-20 02:55:38,66.132.172.223,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-20 02:55:38,176.65.148.205,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-20 02:55:38,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-20 02:55:38,45.42.88.54,100,United States,Florence,HT,XIATIAN.LLC,Residential/Business,False
+2026-09-20 02:55:38,45.133.173.222,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Residential/Business,True
+2026-09-20 02:55:38,85.217.140.48,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-20 02:55:38,171.104.143.176,100,China,Nanning,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.",Chinanet GX,Residential/Business,False
+2026-09-20 02:55:38,14.29.170.93,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-20 02:55:38,182.188.24.243,100,Pakistan,Mardan,Triple Play Project SOUTH,,Mobile,False
+2026-09-20 02:55:38,195.140.214.27,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-20 02:55:38,46.229.233.132,100,Slovakia,Bratislava,VNET a.s.,VNET a.s.,Residential/Business,False
+2026-09-20 02:55:38,158.94.187.35,100,United States,Seattle,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-20 02:55:38,156.225.1.104,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-09-20 02:55:38,78.100.129.165,100,Qatar,Doha,Ooredoo Q.S.C,Leased Line,Residential/Business,False
+2026-09-20 02:55:38,213.176.24.46,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
+2026-09-20 02:55:38,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-20 02:55:38,118.194.250.113,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-20 02:55:38,74.50.98.193,100,United States,Tampa,HIVELOCITY,Devops Hivelocity,Data Center,False
+2026-09-20 02:55:38,201.28.176.31,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-20 02:55:38,202.74.242.225,100,Bangladesh,Dhaka,Aamra Networks Limited,Aamra Networks Limited,Residential/Business,False
+2026-09-20 02:55:38,174.49.68.121,100,United States,Powder Springs,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-09-20 02:55:38,77.239.124.215,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-20 02:55:38,152.32.190.42,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-20 02:55:38,79.124.60.218,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-20 02:55:38,95.182.95.244,100,United Arab Emirates,Dubai,Cloud Software - FZCO,Cloud Software - FZCO,Data Center,False
+2026-09-20 02:55:38,123.249.45.226,100,China,Beijing,Huawei Cloud Service data center,Huawei Public Cloud Service,Data Center,False
+2026-09-20 02:55:38,64.62.195.158,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-20 02:55:38,161.97.101.177,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-20 02:55:38,31.173.8.170,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-09-20 02:55:38,82.64.88.208,100,France,Bétheny,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-09-20 02:55:38,2.57.17.33,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-09-20 02:55:38,134.122.93.100,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-20 02:55:38,196.188.93.169,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-09-20 02:55:38,218.23.170.184,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-09-20 02:55:38,41.181.156.205,100,South Africa,Johannesburg,MTNBS,MTN Business SA,Mobile,False
+2026-09-20 02:55:38,112.245.101.22,100,China,Jinan,China Unicom CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-20 02:55:38,74.82.47.4,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-20 02:55:38,20.65.178.146,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
