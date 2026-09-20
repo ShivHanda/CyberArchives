@@ -119579,3 +119579,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-20 08:58:45,45.156.128.74,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
 2026-09-20 08:58:45,45.156.128.72,100,The Netherlands,Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,Residential/Business,False
 2026-09-20 08:58:45,45.148.10.120,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-20 13:52:29,107.150.102.191,100,United States,Los Angeles,Zenlayer Inc,UCLOUD,Data Center,False
+2026-09-20 13:52:29,180.184.178.165,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-20 13:52:29,193.32.162.27,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-20 13:52:29,130.185.101.27,100,Israel,Giv‘atayim,Pelephone Communications Ltd.,Pelephone Communications Ltd,Mobile,False
+2026-09-20 13:52:29,178.128.75.66,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-09-20 13:52:29,34.87.91.109,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-09-20 13:52:29,193.176.29.4,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-20 13:52:29,70.183.226.72,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-20 13:52:29,130.12.180.65,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-09-20 13:52:29,109.160.32.104,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-20 13:52:29,85.204.70.104,100,France,Paris,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-09-20 13:52:29,35.205.254.119,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-20 13:52:29,14.225.239.154,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-20 13:52:29,66.132.186.171,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-20 13:52:29,118.145.115.134,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-20 13:52:29,220.95.40.69,100,South Korea,Wando-gun,Korea Telecom,KORNET,Residential/Business,False
+2026-09-20 13:52:29,186.1.56.119,100,Nicaragua,Esteli,Equipos Y Sistemas S.A.,Equipos Y Sistemas S.A,Residential/Business,False
+2026-09-20 13:52:29,149.56.30.140,100,Canada,Montreal,OVH SAS,"OVH Hosting, Inc.",Data Center,False
+2026-09-20 13:52:29,172.190.89.127,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-20 13:52:29,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-20 13:52:29,2.55.74.30,100,Israel,Giv‘at Shmuel,Partner Communications,,Mobile,False
+2026-09-20 13:52:29,66.132.172.45,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-20 13:52:29,159.203.83.195,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-20 13:52:29,202.148.31.43,100,Indonesia,Jakarta,DNET-SBY,,Residential/Business,False
+2026-09-20 13:52:29,34.32.99.145,100,Germany,Berlin,Google LLC,Google Cloud (europe-west10),Data Center,False
+2026-09-20 13:52:29,95.111.241.206,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-20 13:52:29,187.174.238.116,100,Mexico,Cuernavaca,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-20 13:52:29,43.153.85.46,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-20 13:52:29,194.50.235.153,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-20 13:52:29,102.130.255.195,100,Sudan,Khartoum,ISOCsd 24,Sudanese Internet Association,Residential/Business,False
+2026-09-20 13:52:29,193.163.125.221,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-20 13:52:29,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-20 13:52:29,45.125.67.31,100,Hong Kong,Fanling,Tele Asia Limited,Tele Asia Limited,Data Center,False
+2026-09-20 13:52:29,49.0.3.142,100,Indonesia,Ciampea,PT Usaha Adi Sanggoro,,Data Center,False
+2026-09-20 13:52:29,62.60.130.232,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-20 13:52:29,203.55.81.1,100,France,Paris,Moji SAS,MOJI,Data Center,True
+2026-09-20 13:52:29,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-09-20 13:52:29,86.2.38.131,100,United Kingdom,Caerphilly,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-09-20 13:52:29,204.76.203.18,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-20 13:52:29,79.124.49.90,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-20 13:52:29,104.236.68.24,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-20 13:52:29,172.172.131.149,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-20 13:52:29,213.177.179.91,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-20 13:52:29,35.195.113.126,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-20 13:52:29,95.38.176.233,100,Iran,Tehran,ABRARVAN,,Residential/Business,False
+2026-09-20 13:52:29,103.121.20.18,100,Indonesia,Depok,PT. Eka Mas Republik,Myrepublic,Residential/Business,False
+2026-09-20 13:52:29,122.187.230.176,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-20 13:52:29,81.211.72.167,100,Russia,Moscow,EDN Sovintel,,Residential/Business,False
+2026-09-20 13:52:29,18.116.101.220,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-09-20 13:52:29,183.82.111.224,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
