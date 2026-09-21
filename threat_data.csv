@@ -119879,3 +119879,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-21 09:30:23,45.194.92.106,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
 2026-09-21 09:30:23,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-09-21 09:30:23,14.103.117.97,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-09-21 16:08:27,109.160.32.201,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-21 16:08:27,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-21 16:08:27,34.24.79.36,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-21 16:08:27,160.251.182.78,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-09-21 16:08:27,70.178.190.41,100,United States,Springdale,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-21 16:08:27,20.51.187.246,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-21 16:08:27,197.5.145.102,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-09-21 16:08:27,47.236.93.38,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-21 16:08:27,109.160.32.69,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-21 16:08:27,47.84.207.236,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-21 16:08:27,34.171.35.175,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-21 16:08:27,182.73.176.186,100,India,Chennai,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-09-21 16:08:27,85.217.149.71,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-21 16:08:27,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-09-21 16:08:27,172.252.13.101,100,United States,Los Angeles,"GorillaServers, Inc.",,Data Center,False
+2026-09-21 16:08:27,185.200.116.40,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-09-21 16:08:27,194.88.98.83,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-21 16:08:27,69.5.169.197,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-21 16:08:27,161.35.59.204,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-21 16:08:27,80.102.218.187,100,Spain,Valdepeñas,Uni2 1,,Residential/Business,False
+2026-09-21 16:08:27,177.66.185.122,100,Brazil,Uberlândia,FLYLink Telecom,DJ COMERCIO VAREJO DE GENEROS ALIMENTICIOS EIRELI,Residential/Business,False
+2026-09-21 16:08:27,8.211.41.180,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-21 16:08:27,40.121.200.75,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-21 16:08:27,185.129.62.63,100,Denmark,Græsted,SERVICE,,Residential/Business,True
+2026-09-21 16:08:27,172.210.9.231,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-21 16:08:27,94.154.43.84,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-21 16:08:27,178.217.173.50,100,Kyrgyzstan,Bishkek,KRENA - Kyrgyz research and education network association,KRENA Project,Residential/Business,False
+2026-09-21 16:08:27,206.74.130.140,100,United States,Abbeville,"West Carolina Communications, LLC",Spirit Communications,Residential/Business,False
+2026-09-21 16:08:27,120.194.50.39,100,China,Guancheng,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-21 16:08:27,94.154.43.135,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-21 16:08:27,94.154.43.129,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-21 16:08:27,135.235.196.148,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-21 16:08:27,94.154.43.164,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-21 16:08:27,160.251.210.23,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-09-21 16:08:27,203.56.198.45,100,China,Wenquan,China Telecom,Chinanet FJ,Residential/Business,False
+2026-09-21 16:08:27,72.18.81.12,100,United States,Los Angeles,Axedale,"CloudCone, LLC",Data Center,False
+2026-09-21 16:08:27,97.93.43.157,100,United States,Long Beach,Charter Communications,Spectrum,Residential/Business,False
+2026-09-21 16:08:27,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-21 16:08:27,165.227.196.128,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-21 16:08:27,94.142.241.194,100,The Netherlands,Amsterdam,Netwerkvereniging Coloclue,Coloclue Member,Data Center,True
+2026-09-21 16:08:27,34.116.193.6,100,Poland,Warsaw,Google LLC,Google Cloud (europe-central2),Data Center,False
+2026-09-21 16:08:27,20.168.124.33,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-21 16:08:27,217.146.80.105,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-21 16:08:27,76.90.193.3,100,United States,Northridge,Charter Communications,Spectrum,Residential/Business,False
+2026-09-21 16:08:27,98.175.146.208,100,United States,New Orleans,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-21 16:08:27,181.78.9.206,100,Colombia,San Jacinto,Ufinet Panama S.A.,UFINET,Residential/Business,False
+2026-09-21 16:08:27,106.12.241.195,100,China,Wuhan,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-09-21 16:08:27,185.7.116.70,100,Russia,Yekaterinburg,Ural,CJSC Ural WES,Residential/Business,False
+2026-09-21 16:08:27,171.25.193.80,100,Sweden,Stockholm,Foreningen digitala fri- och rattigheter,DFRI,Data Center,True
+2026-09-21 16:08:27,185.242.226.61,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
