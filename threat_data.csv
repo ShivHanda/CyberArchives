@@ -119829,3 +119829,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-21 02:52:30,60.199.224.2,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
 2026-09-21 02:52:30,41.215.133.245,100,Kenya,Nairobi,FAIBA,,Residential/Business,False
 2026-09-21 02:52:30,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-21 09:30:23,162.248.100.206,100,United States,New York,"GALAXYGATE, LLC","GALAXYGATE, LLC",Residential/Business,False
+2026-09-21 09:30:23,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-21 09:30:23,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-21 09:30:23,213.166.84.62,100,United Kingdom,London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-21 09:30:23,181.196.24.37,100,Ecuador,Quito,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,Residential/Business,False
+2026-09-21 09:30:23,112.3.101.213,100,China,Yixing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-21 09:30:23,103.79.90.26,100,Indonesia,Temanggung,Pemerintah Kabupaten Temanggung,,Residential/Business,False
+2026-09-21 09:30:23,138.197.66.96,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-21 09:30:23,68.10.53.112,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-21 09:30:23,159.203.240.139,100,United States,San Francisco,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-21 09:30:23,185.164.6.225,100,Austria,Vienna,hostingprovider02,,Data Center,False
+2026-09-21 09:30:23,41.193.100.133,100,South Africa,Century City,Vox Telecommunications PTY Ltd,CPT Voice & Connectivity Solutions,Residential/Business,False
+2026-09-21 09:30:23,98.70.127.17,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-21 09:30:23,202.70.78.237,100,United States,Los Angeles,Nepal Telecom,Nepal Telecommunications Corporation,Residential/Business,False
+2026-09-21 09:30:23,202.165.22.102,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Data Center,False
+2026-09-21 09:30:23,163.61.134.228,100,Indonesia,Tangerang,PT Lentera Abadi Solusinet,PT Lentera Abadi Solusinet,Residential/Business,False
+2026-09-21 09:30:23,46.247.61.1,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-21 09:30:23,3.83.252.105,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-21 09:30:23,103.115.198.22,100,Pakistan,Lahore,AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED,,Residential/Business,False
+2026-09-21 09:30:23,66.116.248.73,100,India,Navi Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-21 09:30:23,106.75.25.139,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-21 09:30:23,42.112.31.145,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-09-21 09:30:23,59.88.202.131,100,India,Mysuru,BSNL Internet,,Residential/Business,False
+2026-09-21 09:30:23,122.187.228.253,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-21 09:30:23,121.8.209.94,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-21 09:30:23,91.218.162.216,100,Tajikistan,Dushanbe,"Opened Joint Stock Company ""Tojiktelecom""","Opened Joint Stock Company ""Tojiktelecom""",Residential/Business,False
+2026-09-21 09:30:23,58.137.94.220,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Wisma Asia Company Limited,Residential/Business,False
+2026-09-21 09:30:23,20.171.192.70,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-21 09:30:23,185.100.212.141,100,India,Mumbai,Yotta Network Services Private Limited,RedSwitches Pty Ltd,Residential/Business,True
+2026-09-21 09:30:23,193.124.20.250,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-21 09:30:23,146.70.194.252,100,France,Paris 10 Entrepôt,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-21 09:30:23,200.69.21.47,100,Japan,Chiyoda City,WHG Hosting Services Ltd,"A2 Hosting, Inc",Data Center,False
+2026-09-21 09:30:23,91.40.147.72,100,Germany,Lauta,Deutsche Telekom AG,Deutsche Telekom AG,Residential/Business,False
+2026-09-21 09:30:23,154.16.119.69,100,United States,Buffalo,ipxo,,Data Center,False
+2026-09-21 09:30:23,106.12.185.146,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-09-21 09:30:23,182.253.236.158,100,Indonesia,Central Jakarta,BIZNET,,Residential/Business,False
+2026-09-21 09:30:23,193.160.223.29,100,Germany,Frankfurt am Main,23M GmbH,"SmartHost, LLC",Data Center,False
+2026-09-21 09:30:23,14.225.239.154,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-21 09:30:23,41.111.143.137,100,Algeria,Algiers,Algerie Telecom,,Residential/Business,False
+2026-09-21 09:30:23,103.13.206.152,100,Singapore,Singapore,Cloud Host Pte Ltd,CLOUDHOST,Data Center,False
+2026-09-21 09:30:23,78.36.202.91,100,Russia,Kaliningrad,Rostelecom networks,OJSC Rostelecom North-West,Residential/Business,False
+2026-09-21 09:30:23,66.132.172.210,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-21 09:30:23,64.20.52.53,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
+2026-09-21 09:30:23,45.240.35.227,100,Egypt,Abū an Numrus,LINKdotNET AS number,Link Egypt (Link.NET),Residential/Business,False
+2026-09-21 09:30:23,109.70.100.14,100,Austria,Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,Data Center,True
+2026-09-21 09:30:23,183.179.44.89,100,Hong Kong,Tseung Kwan O,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-09-21 09:30:23,193.163.125.247,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-21 09:30:23,45.194.92.106,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-21 09:30:23,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-21 09:30:23,14.103.117.97,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
