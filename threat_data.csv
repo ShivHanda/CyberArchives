@@ -119929,3 +119929,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-21 16:08:27,185.7.116.70,100,Russia,Yekaterinburg,Ural,CJSC Ural WES,Residential/Business,False
 2026-09-21 16:08:27,171.25.193.80,100,Sweden,Stockholm,Foreningen digitala fri- och rattigheter,DFRI,Data Center,True
 2026-09-21 16:08:27,185.242.226.61,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-21 21:34:33,222.108.100.117,100,South Korea,Gwangmyeong,Korea Telecom,KORNET,Residential/Business,False
+2026-09-21 21:34:33,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-21 21:34:33,204.76.203.231,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-21 21:34:33,172.180.64.127,100,United States,Phoenix,Microsoft,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-21 21:34:33,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-09-21 21:34:33,156.236.66.15,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-09-21 21:34:33,141.255.164.75,100,Switzerland,Zurich,Private Layer INC,Clientid7451,Data Center,False
+2026-09-21 21:34:33,101.32.98.228,100,Japan,Chiyoda City,Aceville Pte.ltd,,Data Center,False
+2026-09-21 21:34:33,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-21 21:34:33,70.183.226.91,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-21 21:34:33,177.220.170.28,100,Brazil,Curitiba,Ligga Servicos EM Telecom S.A.,Ligga Servicos EM Telecom S.A,Residential/Business,False
+2026-09-21 21:34:33,187.174.238.116,100,Mexico,Cuernavaca,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-21 21:34:33,176.120.22.240,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-09-21 21:34:33,66.132.195.97,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-21 21:34:33,78.66.44.23,100,Sweden,Årjäng,Telia Company AB,,Residential/Business,False
+2026-09-21 21:34:33,43.173.10.13,100,Indonesia,Jakarta,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-21 21:34:33,51.68.236.90,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-21 21:34:33,211.46.188.16,100,South Korea,Cheongyang-gun,Korea Telecom,,Residential/Business,False
+2026-09-21 21:34:33,64.62.156.25,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-21 21:34:33,104.196.219.200,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-21 21:34:33,4.224.23.232,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-21 21:34:33,157.245.34.56,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-21 21:34:33,103.208.219.38,100,Australia,Huntingwood,Hostopia Australia Web Pty Ltd,Oracle Corporation,Data Center,False
+2026-09-21 21:34:33,123.123.207.104,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-09-21 21:34:33,79.124.62.246,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-09-21 21:34:33,66.132.195.76,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-21 21:34:33,91.211.23.39,100,Russia,Yekaterinburg,"Joint stock company ""For""","Joint stock company """"",Residential/Business,False
+2026-09-21 21:34:33,45.148.10.120,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-21 21:34:33,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-09-21 21:34:33,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-09-21 21:34:33,103.189.89.196,100,India,New Delhi,Micro Hosting Private Limited,Mind Over Matter Solutions PTE LTD,Data Center,False
+2026-09-21 21:34:33,118.107.139.224,100,Pakistan,Gilgit,Micronet,,Mobile,False
+2026-09-21 21:34:33,189.204.230.91,100,Mexico,Mexico City,"Operbes, S.A. de C.V.","Operbes, S.A. de C.V",Residential/Business,False
+2026-09-21 21:34:33,34.75.93.143,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-21 21:34:33,20.65.217.207,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-21 21:34:33,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-21 21:34:33,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-21 21:34:33,40.119.45.117,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-21 21:34:33,73.21.28.14,100,United States,Savannah,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-09-21 21:34:33,62.212.70.129,100,The Netherlands,Amsterdam,LeaseWeb Netherlands B.V.,LeaseWeb Netherlands B.V.,Data Center,False
+2026-09-21 21:34:33,170.82.182.184,100,Brazil,Castanhal,SEA TELECOM LTDA,Mundial NET Telecom - EPP,Residential/Business,False
+2026-09-21 21:34:33,162.248.100.206,100,United States,New York,"GALAXYGATE, LLC","GALAXYGATE, LLC",Residential/Business,False
+2026-09-21 21:34:33,165.154.182.182,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-21 21:34:33,66.116.237.85,100,United States,Phoenix,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-21 21:34:33,181.115.172.95,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-09-21 21:34:33,43.230.5.42,100,Indonesia,Purwodadi Grobogan,PT Wijaya Solusindo,,Residential/Business,False
+2026-09-21 21:34:33,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-21 21:34:33,219.78.240.92,100,Hong Kong,Yau Tong,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-21 21:34:33,14.49.166.131,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-09-21 21:34:33,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
