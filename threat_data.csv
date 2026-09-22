@@ -120179,3 +120179,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-22 17:52:15,134.199.239.40,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-09-22 17:52:15,119.96.159.237,100,China,Hefei,CHINANET Hubei province network,Chinanet HB,Residential/Business,False
 2026-09-22 17:52:15,185.216.145.188,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-22 20:45:45,185.105.141.165,100,Poland,Stara Błotnica,"""Internet Dla Mazowsza"" Network",KBTO Sp. z o. o.,Residential/Business,False
+2026-09-22 20:45:45,141.95.162.162,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-09-22 20:45:45,176.65.134.121,100,Germany,Hauzenberg,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-22 20:45:45,72.240.125.133,100,United States,Maumee,"Buckeye Cablevision, Inc.",,Residential/Business,False
+2026-09-22 20:45:45,109.160.32.109,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-22 20:45:45,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-22 20:45:45,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-22 20:45:45,104.211.74.130,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-22 20:45:45,187.51.208.158,100,Brazil,São José do Rio Preto,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-22 20:45:45,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-22 20:45:45,20.221.74.75,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-22 20:45:45,223.197.146.177,100,Hong Kong,Royal Peninsula,PCCW IMSBiz,HKT Limited,Residential/Business,False
+2026-09-22 20:45:45,202.165.22.102,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Data Center,False
+2026-09-22 20:45:45,203.170.192.251,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-09-22 20:45:45,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-22 20:45:45,147.90.234.13,100,United States,New York,Fourplex Telecom LLC,Fourplex Telecom LLC,Data Center,False
+2026-09-22 20:45:45,109.160.32.15,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-22 20:45:45,66.132.172.239,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-22 20:45:45,200.8.54.129,100,Venezuela,Carora,Corporación Telemic C.A.,Corporación Telemic C.A,Residential/Business,False
+2026-09-22 20:45:45,45.156.87.210,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-09-22 20:45:45,35.229.233.242,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-22 20:45:45,152.32.141.172,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-22 20:45:45,144.225.187.68,100,United States,Los Angeles,CNServer LLC,,Data Center,False
+2026-09-22 20:45:45,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-22 20:45:45,89.21.67.187,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-22 20:45:45,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-22 20:45:45,202.6.200.210,100,Indonesia,Tangerang,PT Amana Digital Nusantara,Indonesia Network Information Center,Residential/Business,False
+2026-09-22 20:45:45,52.248.43.85,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-22 20:45:45,118.194.251.58,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-22 20:45:45,222.108.100.117,100,South Korea,Gwangmyeong,Korea Telecom,KORNET,Residential/Business,False
+2026-09-22 20:45:45,187.52.212.235,100,Brazil,Cascavel,V tal,V tal,Residential/Business,False
+2026-09-22 20:45:45,20.38.35.178,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-22 20:45:45,169.40.142.253,100,United Kingdom,London,Zkillu SAS,Private Customer,Residential/Business,False
+2026-09-22 20:45:45,5.32.107.6,100,United Arab Emirates,Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company PJSC,Residential/Business,False
+2026-09-22 20:45:45,66.132.195.47,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-22 20:45:45,70.183.226.55,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-22 20:45:45,148.251.82.243,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-22 20:45:45,203.185.56.59,100,Hong Kong,Tsuen Wan,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,Residential/Business,False
+2026-09-22 20:45:45,150.5.169.176,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-22 20:45:45,72.215.35.136,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-22 20:45:45,175.101.46.86,100,India,Hyderabad,ExcellMedia Pvt Ltd,Excell Media Pvt Ltd,Residential/Business,False
+2026-09-22 20:45:45,200.105.172.184,100,Bolivia,La Paz,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-09-22 20:45:45,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-22 20:45:45,103.99.214.214,100,Indonesia,Sungaigerong,Universitas Muhammadiyah Palembang,Universitas Muhammadiyah Palembang,Residential/Business,False
+2026-09-22 20:45:45,103.186.21.148,100,Bangladesh,Natore,Red Data (Pvt.) Limited,Red Data pvt Ltd,Residential/Business,False
+2026-09-22 20:45:45,31.13.19.104,100,Russia,Moscow,Matrix telecom,Mostcom PK Joint Stock Company,Residential/Business,False
+2026-09-22 20:45:45,59.63.166.218,100,China,Taohua,CHINANET Jiangx province IDC network,Chinanet JX,Residential/Business,False
+2026-09-22 20:45:45,20.83.58.79,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-22 20:45:45,20.65.202.178,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-22 20:45:45,69.5.169.198,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
