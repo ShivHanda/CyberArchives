@@ -120229,3 +120229,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-22 20:45:45,20.83.58.79,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-09-22 20:45:45,20.65.202.178,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
 2026-09-22 20:45:45,69.5.169.198,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-22 23:57:11,185.242.226.72,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-22 23:57:11,34.47.168.250,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-09-22 23:57:11,103.90.226.200,100,Vietnam,Quận Phú Nhuận,VNXCLOUD,Vietnix cloud company limited,Data Center,False
+2026-09-22 23:57:11,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-09-22 23:57:11,109.160.32.79,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-22 23:57:11,181.103.1.176,100,Paraguay,Asunción,Núcleo S.A.,Núcleo S.A,Residential/Business,False
+2026-09-22 23:57:11,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-09-22 23:57:11,34.32.37.74,100,Germany,Berlin,Google LLC,Google Cloud (europe-west10),Data Center,False
+2026-09-22 23:57:11,181.119.227.157,100,Ecuador,Quito,Ufinet Panama S.A.,UFINET,Residential/Business,False
+2026-09-22 23:57:11,179.51.174.242,100,Brazil,Louveira,Vmax Digital Do Brasil Ltda,Vmax Digital Do Brasil Ltda,Residential/Business,False
+2026-09-22 23:57:11,178.67.248.12,100,Russia,St Petersburg,"PJSC ""Rostelecom"" North-West Region",OJSC Rostelecom,Residential/Business,False
+2026-09-22 23:57:11,78.197.6.173,100,France,Paris,ProXad network / Free,Free,Residential/Business,False
+2026-09-22 23:57:11,103.214.100.4,100,Indonesia,Sekupang,SMARTPLUS,,Residential/Business,False
+2026-09-22 23:57:11,162.144.3.204,100,United States,Phoenix,Oracle Corporation,Unified Layer,Data Center,False
+2026-09-22 23:57:11,182.253.237.100,100,Indonesia,Central Jakarta,BIZNET,,Residential/Business,False
+2026-09-22 23:57:11,197.248.207.138,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-09-22 23:57:11,178.128.75.66,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-09-22 23:57:11,34.32.171.27,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-22 23:57:11,213.65.190.48,100,Sweden,Arvika,Telia Company AB,Telia Network services,Residential/Business,False
+2026-09-22 23:57:11,52.141.2.20,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-09-22 23:57:11,34.32.125.254,100,Germany,Berlin,Google LLC,Google Cloud (europe-west10),Data Center,False
+2026-09-22 23:57:11,172.203.209.193,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-22 23:57:11,114.35.75.12,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-22 23:57:11,34.23.43.31,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-22 23:57:11,47.77.235.195,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-22 23:57:11,34.24.248.176,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-22 23:57:11,34.63.42.56,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-22 23:57:11,45.194.92.221,100,Canada,Toronto,Vpsvaulthost LTD,East Coast Host,Data Center,False
+2026-09-22 23:57:11,143.198.208.150,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-22 23:57:11,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-22 23:57:11,109.160.32.96,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-22 23:57:11,109.160.32.35,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-22 23:57:11,34.219.180.31,100,United States,Boardman,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-09-22 23:57:11,77.239.124.203,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-22 23:57:11,177.30.68.202,100,Brazil,Goiânia,TIM S/A,TIM S/A,Residential/Business,False
+2026-09-22 23:57:11,177.69.6.211,100,Brazil,São Paulo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,Residential/Business,False
+2026-09-22 23:57:11,109.123.232.21,100,Singapore,Singapore,Contabo Asia Private Limited,Contabo GmbH,Data Center,False
+2026-09-22 23:57:11,92.118.39.223,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-22 23:57:11,175.6.54.250,100,China,Qingyuan,"No.293, Wanbao Avenue",Chinanet HN,Residential/Business,False
+2026-09-22 23:57:11,177.125.252.11,100,Brazil,Aracaju,BK Telecomunicações LTDA,BK Telecomunicações LTDA,Residential/Business,False
+2026-09-22 23:57:11,195.178.110.3,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-22 23:57:11,104.219.251.64,100,United States,Phoenix,"Namecheap, Inc.","Namecheap, Inc",Data Center,True
+2026-09-22 23:57:11,176.124.201.146,100,The Netherlands,Amsterdam,"Timeweb, LLP","JSC ""TIMEWEB""",Data Center,False
+2026-09-22 23:57:11,176.53.215.202,100,Russia,St Petersburg,PULNET,,Residential/Business,False
+2026-09-22 23:57:11,185.180.141.108,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-22 23:57:11,34.151.148.174,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-09-22 23:57:11,4.184.246.230,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-09-22 23:57:11,182.253.221.13,100,Indonesia,Tangerang,Biznet Networks,PT Sumber Alfaria Trijaya,Data Center,False
+2026-09-22 23:57:11,78.66.44.246,100,Sweden,Skoghall,Telia Company AB,,Residential/Business,False
+2026-09-22 23:57:11,175.45.204.121,100,South Korea,Seongnam-si,Naver Business Platform Asia Pacific Pte. Ltd.,NAVER Cloud Corp.,Data Center,False
