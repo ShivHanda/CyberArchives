@@ -119979,3 +119979,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-21 21:34:33,219.78.240.92,100,Hong Kong,Yau Tong,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
 2026-09-21 21:34:33,14.49.166.131,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
 2026-09-21 21:34:33,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-22 00:29:55,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-22 00:29:55,171.25.158.50,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,True
+2026-09-22 00:29:55,64.62.197.48,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-22 00:29:55,78.128.114.174,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-22 00:29:55,31.132.90.3,100,Kazakhstan,Astana,Customers FTTB,,Residential/Business,True
+2026-09-22 00:29:55,43.166.134.47,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-09-22 00:29:55,221.120.57.172,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-22 00:29:55,221.120.42.196,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-22 00:29:55,186.5.180.176,100,Argentina,Villa Minetti,Alberto Oscar Genovese,Alberto Oscar Genovese,Residential/Business,False
+2026-09-22 00:29:55,64.62.197.172,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-22 00:29:55,73.93.207.215,100,United States,Hayward,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-09-22 00:29:55,116.228.233.93,100,China,Hongkou,China Telecom (Group),"Shanghai Xinding International Cargo Transport Angent Co., Ltd.",Residential/Business,False
+2026-09-22 00:29:55,218.23.192.91,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-09-22 00:29:55,40.124.121.167,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-22 00:29:55,193.163.125.224,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-22 00:29:55,221.10.70.210,100,China,Chengdu,CNC Group CHINA169 Sichuan Province Network,,Residential/Business,False
+2026-09-22 00:29:55,192.159.99.144,100,United States,New York,1337 Services GmbH,1337 Services GmbH,Data Center,True
+2026-09-22 00:29:55,221.120.1.99,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-22 00:29:55,111.36.57.69,100,China,Jinan,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-22 00:29:55,58.57.154.146,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-09-22 00:29:55,174.79.114.145,100,United States,Baton Rouge,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-22 00:29:55,122.187.227.199,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-22 00:29:55,125.22.69.166,100,India,Noida,Bharti Airtel Ltd.,BHARTI,Mobile,False
+2026-09-22 00:29:55,85.217.140.36,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-22 00:29:55,121.131.220.143,100,South Korea,Mapo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-22 00:29:55,153.19.161.177,100,Poland,Słupsk,"Technical University of Gdansk, Academic Computer Center TASK",Task DS PAP,Residential/Business,False
+2026-09-22 00:29:55,158.94.187.184,100,United States,Seattle,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-22 00:29:55,211.240.117.75,100,South Korea,Seodaemun-gu,"ELIMNET, INC.",elimnet,Residential/Business,False
+2026-09-22 00:29:55,35.221.139.43,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-22 00:29:55,220.246.42.222,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-22 00:29:55,66.132.186.138,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-22 00:29:55,172.174.72.225,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-09-22 00:29:55,59.90.111.74,100,India,Nashik,BSNL Internet,,Residential/Business,False
+2026-09-22 00:29:55,85.217.149.68,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-22 00:29:55,106.12.106.232,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-09-22 00:29:55,47.84.100.65,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-09-22 00:29:55,201.137.50.192,100,Mexico,Coyoacán,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-09-22 00:29:55,34.175.48.23,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-09-22 00:29:55,111.171.127.190,100,South Korea,Nam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-22 00:29:55,175.97.207.27,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-09-22 00:29:55,45.160.84.48,100,Brazil,Aracaju,Digital Virtual Ltda - ME,Master Link NET Ltda,Residential/Business,False
+2026-09-22 00:29:55,185.169.4.119,100,Lithuania,Vilnius,UAB Host Baltic,UAB Host Baltic,Data Center,False
+2026-09-22 00:29:55,45.198.224.120,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-09-22 00:29:55,129.121.99.2,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-22 00:29:55,34.145.191.221,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-22 00:29:55,20.150.211.250,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-22 00:29:55,159.223.169.71,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-22 00:29:55,62.192.173.180,100,United States,Chicago,Virtual Machine Solutions LLC,Virtual Machine Solutions LLC,Data Center,True
+2026-09-22 00:29:55,220.154.131.135,100,China,Qingdao,China Telecom,China Telecom Group Corporation,Residential/Business,False
+2026-09-22 00:29:55,66.132.186.248,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
