@@ -120029,3 +120029,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-22 00:29:55,62.192.173.180,100,United States,Chicago,Virtual Machine Solutions LLC,Virtual Machine Solutions LLC,Data Center,True
 2026-09-22 00:29:55,220.154.131.135,100,China,Qingdao,China Telecom,China Telecom Group Corporation,Residential/Business,False
 2026-09-22 00:29:55,66.132.186.248,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-22 07:11:03,70.184.111.145,100,United States,Phoenix,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-22 07:11:03,211.223.107.86,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-22 07:11:03,213.230.127.104,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-09-22 07:11:03,116.110.220.232,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-09-22 07:11:03,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-22 07:11:03,64.62.197.105,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-22 07:11:03,171.76.110.233,100,India,Meerut,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-09-22 07:11:03,193.57.9.240,100,The Netherlands,Amsterdam,Onidel Pty Ltd,Onidel Pty Ltd,Residential/Business,False
+2026-09-22 07:11:03,185.10.63.235,100,Russia,Moscow,RU.CARAVAN network,"Avantel, Close Joint Stock Company",Residential/Business,False
+2026-09-22 07:11:03,45.198.224.26,100,Sweden,Stockholm,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,True
+2026-09-22 07:11:03,171.244.142.205,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-22 07:11:03,146.70.194.220,100,France,Bouniagues,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-22 07:11:03,152.32.139.200,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-09-22 07:11:03,34.24.136.46,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-22 07:11:03,51.83.46.40,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-22 07:11:03,20.84.107.144,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-22 07:11:03,119.166.182.21,100,China,Qingdao,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-09-22 07:11:03,101.36.122.44,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-22 07:11:03,222.108.100.117,100,South Korea,Gwangmyeong,Korea Telecom,KORNET,Residential/Business,False
+2026-09-22 07:11:03,213.234.11.10,100,Russia,Volgograd,Unico network,JSC UNICO,Residential/Business,False
+2026-09-22 07:11:03,43.157.20.63,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-22 07:11:03,190.149.6.54,100,Guatemala,Guatemala City,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA","TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",Residential/Business,False
+2026-09-22 07:11:03,143.244.57.123,100,France,Paris,Datacamp Limited,Cdn77 PAR,Data Center,True
+2026-09-22 07:11:03,74.220.219.26,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-09-22 07:11:03,82.152.132.24,100,Romania,Bucharest,Eclipse Networking Ltd.,,Residential/Business,False
+2026-09-22 07:11:03,82.202.131.210,100,Russia,St Petersburg,BEGET,,Residential/Business,False
+2026-09-22 07:11:03,85.217.149.63,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-22 07:11:03,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-22 07:11:03,102.211.7.162,100,Libya,Benghazi,Libyan Elite Company for Technical Solutions,LibyanElite,Residential/Business,False
+2026-09-22 07:11:03,14.161.40.22,100,Vietnam,Ho Chi Minh City,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-09-22 07:11:03,89.146.123.84,100,Uzbekistan,Tashkent,Sarkor-Telecom Co,Sarkor-Telecom Company,Residential/Business,False
+2026-09-22 07:11:03,189.90.45.77,100,Brazil,Imperatriz,Jupiter Telecomunicacoes e Informatica Ltda,Jupiter Telecomunicacoes e Informatica Ltda,Residential/Business,False
+2026-09-22 07:11:03,91.92.42.243,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-22 07:11:03,121.37.203.84,100,China,Guangzhou,Huawei Cloud Service data center,Huawei Cloud Service,Data Center,False
+2026-09-22 07:11:03,64.62.197.100,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-22 07:11:03,213.209.159.236,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-22 07:11:03,116.71.136.125,100,Pakistan,Karachi,PTCL Triple Play Project,,Residential/Business,False
+2026-09-22 07:11:03,31.208.21.48,100,Sweden,Gothenburg,Bredband2 AB,Bredband2,Residential/Business,False
+2026-09-22 07:11:03,38.127.4.134,100,United States,New Orleans,Cogent Communications,Qiniu (China) Limited,Residential/Business,False
+2026-09-22 07:11:03,103.190.7.203,100,India,Rajkot,Saurashtra Infratel PVT LTD,Saurashtra Infratel PVT LTD,Residential/Business,False
+2026-09-22 07:11:03,84.32.44.79,100,United States,Los Angeles,Hosteons Pte. Ltd.,Hosteons Pte. Ltd,Data Center,False
+2026-09-22 07:11:03,204.76.203.31,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-09-22 07:11:03,185.242.226.59,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-22 07:11:03,185.190.25.168,100,Germany,Frankfurt am Main,haoxiangyun,Patron Technology Persia Ltd,Residential/Business,False
+2026-09-22 07:11:03,34.22.208.38,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-22 07:11:03,37.187.35.26,100,France,Strasbourg,OVH SAS,OVH SAS,Data Center,True
+2026-09-22 07:11:03,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-22 07:11:03,171.25.158.47,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-22 07:11:03,45.82.78.100,100,Singapore,Singapore,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-09-22 07:11:03,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
