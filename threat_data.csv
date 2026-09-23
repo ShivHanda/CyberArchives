@@ -120424,3 +120424,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-23 14:36:23,79.57.94.57,100,Italy,Brescia,INTERBUSINESS,,Residential/Business,False
 2026-09-23 14:36:23,66.132.172.187,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-09-23 14:36:23,60.205.223.197,100,China,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-23 19:23:38,136.107.24.253,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-23 19:23:38,109.160.32.85,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-23 19:23:38,199.45.155.28,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-23 19:23:38,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
+2026-09-23 19:23:38,66.132.186.184,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-23 19:23:38,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-23 19:23:38,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-23 19:23:38,66.132.186.219,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-23 19:23:38,79.124.58.134,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-23 19:23:38,180.247.57.33,100,Indonesia,Bekasi,Telekomunikasi Indonesia,,Residential/Business,False
+2026-09-23 19:23:38,213.209.159.241,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-23 19:23:38,217.144.53.45,100,Hungary,Budapest,SzerverPlex.hu KFT.,Deninet KFT,Residential/Business,False
+2026-09-23 19:23:38,40.119.46.93,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-23 19:23:38,174.76.33.81,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-23 19:23:38,162.243.147.237,100,United States,San Francisco,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-23 19:23:38,182.65.204.23,100,India,Udupi,Bharti Airtel,Bharti Airtel Limited,Residential/Business,False
+2026-09-23 19:23:38,136.228.161.66,100,Myanmar,Yangon,Myanma Post & Telecommunication,,Mobile,False
+2026-09-23 19:23:38,103.143.11.150,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
+2026-09-23 19:23:38,78.39.48.166,100,Iran,Tehran,Respina Networks & Beyond PJSC,Iran Information Technology Company PJSC,Residential/Business,False
+2026-09-23 19:23:38,45.74.244.51,100,Turkey,Istanbul,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi,Data Center,False
+2026-09-23 19:23:38,124.45.31.57,100,Japan,Shirahama,NTT-ME Corporation,NTT-ME Corporation,Residential/Business,False
+2026-09-23 19:23:38,109.160.32.29,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-23 19:23:38,35.228.102.85,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-09-23 19:23:38,119.28.140.106,100,Hong Kong,Hong Kong,ComsenzNet,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,True
+2026-09-23 19:23:38,65.20.149.239,100,Iraq,Zayouna,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-09-23 19:23:38,213.209.159.228,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-23 19:23:38,128.14.225.164,100,Germany,Frankfurt Am Main,Zenlayer Inc,UCLOUD,Data Center,False
+2026-09-23 19:23:38,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-23 19:23:38,220.119.37.141,100,South Korea,Sasang-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-23 19:23:38,146.19.248.106,100,The Netherlands,Amsterdam,SpectraIP B.V.,SpectraIP B.V,Data Center,False
+2026-09-23 19:23:38,98.161.97.44,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-23 19:23:38,8.134.124.8,100,China,Guangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-23 19:23:38,3.213.226.45,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-09-23 19:23:38,79.124.58.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-23 19:23:38,152.89.12.101,100,Iran,Tehran,Sharif University Of Technology,Sharif University Of Technology,Residential/Business,False
+2026-09-23 19:23:38,167.233.211.121,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-23 19:23:38,187.93.202.22,100,Brazil,Praia Grande,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-23 19:23:38,85.217.140.8,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-23 19:23:38,187.51.84.86,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-23 19:23:38,103.104.112.8,100,India,New Delhi,Webstar Broadband Private Limited,Webstar Broadband Private Limited,Residential/Business,False
+2026-09-23 19:23:38,213.209.159.154,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-23 19:23:38,109.160.32.90,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-23 19:23:38,165.154.179.204,100,Russia,Moscow,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-23 19:23:38,190.96.127.50,100,Argentina,Córdoba,Empresa Provincial de Energia de Cordoba,Empresa Provincial de Energia de Cordoba,Residential/Business,False
+2026-09-23 19:23:38,72.214.79.233,100,United States,Virginia Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-23 19:23:38,110.226.114.130,100,India,Ahmedabad,Bharti Airtel,Bharti Airtel Ltd.,Residential/Business,False
+2026-09-23 19:23:38,85.175.170.253,100,Russia,Krasnodar,Southen Telecommunication Maintainer,OJSC Rostelecom Macroregional Branch South,Residential/Business,False
+2026-09-23 19:23:38,221.150.171.99,100,South Korea,Yongin-si,Korea Telecom,KORNET,Residential/Business,False
+2026-09-23 19:23:38,101.96.214.98,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-23 19:23:38,102.212.64.41,100,South Africa,Cedarville,Snowvalley Communications,Joe Gqabi Network,Residential/Business,False
