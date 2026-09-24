@@ -120719,3 +120719,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-24 19:43:20,16.146.156.184,100,United States,Boardman,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
 2026-09-24 19:43:20,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-09-24 19:43:20,78.128.114.166,100,Bulgaria,Karlovo,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-24 22:56:14,36.64.131.68,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-09-24 22:56:14,2.57.122.74,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-24 22:56:14,50.151.191.229,100,United States,Nashville,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-24 22:56:14,109.160.32.81,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-24 22:56:14,66.132.186.133,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-24 22:56:14,77.239.124.215,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-24 22:56:14,50.17.101.4,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-24 22:56:14,143.244.57.118,100,France,Paris,Datacamp Limited,Cdn77 PAR,Data Center,True
+2026-09-24 22:56:14,162.248.100.206,100,United States,New York,"GALAXYGATE, LLC","GALAXYGATE, LLC",Residential/Business,False
+2026-09-24 22:56:14,76.37.177.40,100,United States,Ilion,Charter Communications,Spectrum,Residential/Business,False
+2026-09-24 22:56:14,195.178.110.101,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-24 22:56:14,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-24 22:56:14,209.99.188.168,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-24 22:56:14,9.234.16.68,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-24 22:56:14,45.56.97.67,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-24 22:56:14,192.42.116.106,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-24 22:56:14,188.152.238.126,100,Italy,Modena,VODAFONE,,Residential/Business,False
+2026-09-24 22:56:14,5.252.83.92,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,142.93.52.71,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-24 22:56:14,5.252.83.91,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,5.252.83.79,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,81.192.46.32,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-09-24 22:56:14,5.252.83.75,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-24 22:56:14,108.5.103.8,100,United States,Warren Township,Verizon Business,Verizon Online LLC,Residential/Business,False
+2026-09-24 22:56:14,117.72.35.56,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-09-24 22:56:14,5.252.83.73,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,200.126.105.149,100,Chile,Pitrufquén,Telefonica del Sur S.A.,Telefonica del Sur S.A,Residential/Business,False
+2026-09-24 22:56:14,5.252.83.65,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,219.78.240.92,100,Hong Kong,Yau Tong,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-09-24 22:56:14,5.252.83.61,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,124.174.32.95,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-24 22:56:14,117.205.2.250,100,India,Ahmedabad,BSNL Internet,,Residential/Business,False
+2026-09-24 22:56:14,141.255.164.75,100,Switzerland,Zurich,Private Layer INC,Clientid7451,Data Center,False
+2026-09-24 22:56:14,45.144.53.67,100,Finland,Helsinki,H2nexus Cloud Services - Fzco,H2nexus LTD,Data Center,False
+2026-09-24 22:56:14,47.128.23.33,100,Singapore,Singapore,Amazon Technologies Inc,AWS EC2 (ap-southeast-1),Data Center,False
+2026-09-24 22:56:14,85.217.140.16,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-24 22:56:14,5.252.83.57,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,85.217.149.63,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-24 22:56:14,159.69.73.185,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-24 22:56:14,196.244.192.202,100,Finland,Helsinki,Orion Network Limited,Fibersa,Data Center,True
+2026-09-24 22:56:14,5.252.83.56,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,47.251.3.161,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-24 22:56:14,5.252.83.53,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,77.239.124.253,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-24 22:56:14,5.88.119.21,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-09-24 22:56:14,140.238.38.228,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-09-24 22:56:14,5.252.83.43,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-09-24 22:56:14,45.148.10.18,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-24 22:56:14,192.253.248.226,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
