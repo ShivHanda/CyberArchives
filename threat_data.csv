@@ -120819,3 +120819,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-25 03:00:00,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-09-25 03:00:00,65.49.20.99,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-09-25 03:00:00,47.99.96.84,100,China,Hangzhou,Aliyun Computing Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-09-25 09:16:35,59.29.75.107,100,South Korea,Donghae-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-25 09:16:35,64.62.156.127,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-25 09:16:35,64.62.156.128,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-25 09:16:35,24.234.208.160,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-25 09:16:35,24.216.226.46,100,United States,Yakima,Charter Communications,Spectrum,Residential/Business,False
+2026-09-25 09:16:35,35.87.216.211,100,United States,Boardman,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-09-25 09:16:35,193.24.211.218,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-09-25 09:16:35,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-25 09:16:35,85.11.167.121,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-09-25 09:16:35,9.234.19.75,100,United States,Des Moines,MICROSOFT,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-25 09:16:35,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-25 09:16:35,183.223.156.154,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-25 09:16:35,221.155.47.189,100,South Korea,Pocheon-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-25 09:16:35,47.74.47.143,100,Japan,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,Data Center,False
+2026-09-25 09:16:35,129.121.139.111,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-09-25 09:16:35,58.222.244.226,100,China,Nanjing,Chinanet,,Residential/Business,False
+2026-09-25 09:16:35,182.48.68.82,100,Bangladesh,Dhaka,Corporate Office,,Residential/Business,False
+2026-09-25 09:16:35,198.145.226.48,100,United States,Los Angeles,20 Point Networks LLC,LOS-ANGELES-NET2,Data Center,True
+2026-09-25 09:16:35,85.217.140.39,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-25 09:16:35,89.109.4.236,100,Russia,Nizhniy Novgorod,NMTS,,Residential/Business,False
+2026-09-25 09:16:35,70.166.140.123,100,United States,Fayetteville,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-25 09:16:35,34.32.172.62,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-09-25 09:16:35,69.57.172.207,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-09-25 09:16:35,98.83.10.183,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-25 09:16:35,104.199.176.250,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-09-25 09:16:35,135.119.17.197,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-09-25 09:16:35,5.100.16.36,100,Germany,Weitramsdorf,suec // dacor,suec // dacor GmbH,Residential/Business,False
+2026-09-25 09:16:35,185.151.196.17,100,Israel,Qiryat Mal'akhi,Partner Communications Ltd.,Star Network and Promotion LTD,Mobile,False
+2026-09-25 09:16:35,77.239.124.175,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-25 09:16:35,44.210.204.255,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-25 09:16:35,82.102.67.233,100,Cyprus,Paphos,PrimeTel PLC,DSP NetWay LTD,Residential/Business,False
+2026-09-25 09:16:35,64.62.156.207,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-25 09:16:35,202.145.0.61,100,Indonesia,Jakarta,PT UniNET Media Sakti,,Residential/Business,False
+2026-09-25 09:16:35,148.59.129.112,100,United States,Piscataway,Datacamp Limited,HYAS,Residential/Business,False
+2026-09-25 09:16:35,150.107.38.251,100,Hong Kong,Cheung Sha Wan,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-09-25 09:16:35,4.185.40.215,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-09-25 09:16:35,20.214.191.94,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-09-25 09:16:35,89.37.172.140,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-25 09:16:35,20.168.117.138,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-25 09:16:35,74.7.227.175,100,United States,Atlanta,Microsoft Corporation,Cloud,Data Center,False
+2026-09-25 09:16:35,47.250.50.149,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-09-25 09:16:35,27.254.190.148,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Cloud Csloxinfo,Data Center,False
+2026-09-25 09:16:35,84.42.46.89,100,Russia,Bryansk,PJSC Rostelecom,PJSC Rostelecom,Residential/Business,False
+2026-09-25 09:16:35,193.90.12.122,100,Norway,Oslo,GLOBALCONNECT,,Residential/Business,False
+2026-09-25 09:16:35,43.131.24.216,100,Germany,Frankfurt am Main,Aceville Pte.ltd,,Data Center,False
+2026-09-25 09:16:35,203.192.211.180,100,India,Mumbai,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-09-25 09:16:35,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-25 09:16:35,195.178.110.3,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-25 09:16:35,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Residential/Business,False
+2026-09-25 09:16:35,66.132.224.27,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
