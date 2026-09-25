@@ -120969,3 +120969,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-25 19:45:58,65.49.1.78,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-09-25 19:45:58,20.118.36.197,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
 2026-09-25 19:45:58,113.23.225.9,100,Malaysia,Putrajaya,Extreme Broadband,,Residential/Business,False
+2026-09-25 23:00:40,109.160.32.25,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-25 23:00:40,138.197.96.117,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-25 23:00:40,183.91.11.36,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-09-25 23:00:40,202.46.28.140,100,Indonesia,Gubengairlangga,Universitas Katolik Widya Mandala,,Residential/Business,False
+2026-09-25 23:00:40,35.247.221.203,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-09-25 23:00:40,69.5.169.140,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-25 23:00:40,176.65.148.103,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-25 23:00:40,186.13.24.118,100,Argentina,Olivos,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-09-25 23:00:40,93.152.221.108,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-25 23:00:40,185.242.226.17,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-09-25 23:00:40,20.215.52.168,100,Poland,Warsaw,Microsoft Corporation,Microsoft Azure Cloud (polandcentral),Data Center,False
+2026-09-25 23:00:40,57.131.42.36,100,Italy,Milan,OVH SAS,OVH Srl,Data Center,False
+2026-09-25 23:00:40,81.161.239.10,100,United States,Kansas City,GRAV-AS,GravHosting LLC,Data Center,False
+2026-09-25 23:00:40,91.208.197.163,100,Moldova,Chisinau,Alexhost SRL,Alexhost S.R.L,Data Center,True
+2026-09-25 23:00:40,124.71.59.102,100,China,Guangzhou,Huawei Cloud Service data center,Huawei Cloud Service,Data Center,False
+2026-09-25 23:00:40,151.252.84.225,100,Russia,Surgut,Tele-plus LLC,Tele-plus LLC,Residential/Business,False
+2026-09-25 23:00:40,221.150.182.179,100,South Korea,Yongin-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-25 23:00:40,96.126.106.7,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-25 23:00:40,34.21.156.54,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-09-25 23:00:40,94.154.43.43,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-25 23:00:40,167.71.233.141,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-25 23:00:40,14.225.218.99,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-25 23:00:40,45.148.10.80,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-25 23:00:40,109.94.173.183,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Data Center,False
+2026-09-25 23:00:40,130.12.180.65,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-09-25 23:00:40,143.42.164.127,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-25 23:00:40,150.136.227.229,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,True
+2026-09-25 23:00:40,16.5.0.240,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-25 23:00:40,103.191.243.96,100,China,Longgang District,China Telecom (Group),"Shenzhen Pengcheng communication network Co., Ltd",Residential/Business,False
+2026-09-25 23:00:40,191.210.72.37,100,Brazil,Maceió,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-25 23:00:40,195.178.110.3,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-25 23:00:40,77.94.99.50,100,Russia,Moscow,"PJSC ""Bashinformsvyaz""",Bashtel,Data Center,False
+2026-09-25 23:00:40,94.23.66.112,100,Italy,Milan,OVH SAS,OVH Srl,Data Center,False
+2026-09-25 23:00:40,94.154.43.122,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-25 23:00:40,187.212.43.1,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-09-25 23:00:40,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-25 23:00:40,16.5.0.242,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-25 23:00:40,34.140.234.80,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-09-25 23:00:40,109.160.32.75,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-25 23:00:40,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-25 23:00:40,92.118.39.58,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-25 23:00:40,111.26.106.119,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-25 23:00:40,138.2.235.147,100,United States,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),Data Center,True
+2026-09-25 23:00:40,156.225.1.86,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-09-25 23:00:40,172.236.111.197,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-25 23:00:40,185.226.197.98,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-09-25 23:00:40,194.50.235.130,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-25 23:00:40,45.255.125.15,100,Kazakhstan,Almaty,Shenzhen yingda communication technology co,,Data Center,False
+2026-09-25 23:00:40,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-09-25 23:00:40,4.221.162.168,100,South Africa,Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),Data Center,False
