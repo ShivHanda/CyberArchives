@@ -121069,3 +121069,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-26 03:04:24,69.12.71.34,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
 2026-09-26 03:04:24,167.99.173.242,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
 2026-09-26 03:04:24,94.154.43.203,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-26 08:59:40,109.160.32.40,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-26 08:59:40,47.242.197.5,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-09-26 08:59:40,14.225.206.187,100,Vietnam,Hanoi,Vietnam Posts and Telecommunications Group,VNPT,Residential/Business,False
+2026-09-26 08:59:40,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-26 08:59:40,20.172.68.104,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-26 08:59:40,65.49.1.26,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-26 08:59:40,152.32.229.188,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-26 08:59:40,212.102.40.218,100,United States,Dallas,Datacamp Limited,Cdn77 DAL,Data Center,False
+2026-09-26 08:59:40,65.49.1.240,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,65.49.1.31,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-26 08:59:40,23.29.118.81,100,United States,New York,Primary,,Data Center,False
+2026-09-26 08:59:40,111.70.32.11,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-26 08:59:40,40.74.212.61,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-26 08:59:40,20.163.10.17,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-26 08:59:40,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-09-26 08:59:40,65.49.1.239,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,171.25.158.47,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-09-26 08:59:40,147.50.103.212,100,Thailand,Pattaya,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-09-26 08:59:40,43.228.157.10,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
+2026-09-26 08:59:40,65.49.1.237,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,34.26.152.184,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-09-26 08:59:40,209.99.185.195,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-09-26 08:59:40,65.49.1.232,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-26 08:59:40,91.191.209.118,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-09-26 08:59:40,213.32.21.29,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-09-26 08:59:40,212.28.186.169,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-09-26 08:59:40,172.169.232.157,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-26 08:59:40,65.49.1.231,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,34.77.137.207,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-26 08:59:40,139.162.70.53,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-26 08:59:40,20.243.208.191,100,Japan,Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),Data Center,False
+2026-09-26 08:59:40,58.115.52.27,100,Taiwan,New Taipei City,KBT,"KBT Co., LTD",Residential/Business,False
+2026-09-26 08:59:40,176.31.21.38,100,Spain,Madrid,OVH SAS,OVH Hispano,Data Center,False
+2026-09-26 08:59:40,179.48.18.42,100,Brazil,Milhã,Marcos Raniell Pinheiro Oliveira,Marcos Raniell Pinheiro Oliveira,Residential/Business,False
+2026-09-26 08:59:40,38.65.227.91,100,United States,Chicago,BigScoots,BigScoots,Residential/Business,False
+2026-09-26 08:59:40,185.30.32.224,100,Germany,Hamburg,webgo GmbH,webgo GmbH,Data Center,False
+2026-09-26 08:59:40,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-26 08:59:40,77.239.124.201,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-26 08:59:40,111.70.38.124,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-26 08:59:40,65.49.1.23,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,47.250.147.131,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-09-26 08:59:40,117.102.87.140,100,Indonesia,Bekasi,Biznet Networks,PT Teckindo Prima Gemilang Jaya,Residential/Business,False
+2026-09-26 08:59:40,65.49.1.230,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-26 08:59:40,183.6.72.120,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-09-26 08:59:40,103.162.1.80,100,Indonesia,Jakarta,Sintegrasi Networks,,Residential/Business,True
+2026-09-26 08:59:40,125.212.235.194,100,Vietnam,Hanoi,Vietel - CHT Compamy Ltd,Viettel Group,Residential/Business,False
+2026-09-26 08:59:40,183.82.111.224,100,India,Hyderabad,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-09-26 08:59:40,202.72.215.109,100,Indonesia,East Jakarta,PT ARTHA TELEKOMINDO,SCBD CustomerNetwork7,Residential/Business,False
+2026-09-26 08:59:40,156.236.66.15,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
