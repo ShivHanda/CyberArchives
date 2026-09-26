@@ -121214,3 +121214,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-26 17:41:44,172.237.84.149,100,Singapore,Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
 2026-09-26 17:41:44,20.229.185.186,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
 2026-09-26 17:41:44,20.58.177.98,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-09-26 20:32:10,112.31.254.122,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-26 20:32:10,70.167.235.73,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-26 20:32:10,77.239.124.172,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-26 20:32:10,58.247.18.34,100,China,Shanghai,CNC Group CHINA169 Shanghai Province Network,"And Shanghai Industrial Co., Ltd.",Mobile,False
+2026-09-26 20:32:10,173.244.60.241,100,United States,New York,LogicWeb Inc.,LogicWeb Inc,Residential/Business,False
+2026-09-26 20:32:10,160.187.247.119,100,Vietnam,Ho Chi Minh City,DVDVN,DVDVN Technology Company Limited,Data Center,True
+2026-09-26 20:32:10,115.74.7.119,100,Vietnam,Ho Chi Minh City,VIETELxdsl,xDSL Services,Residential/Business,False
+2026-09-26 20:32:10,201.28.234.10,100,Brazil,São Vicente,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-26 20:32:10,79.124.59.78,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-26 20:32:10,77.239.124.176,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-26 20:32:10,160.119.76.142,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
+2026-09-26 20:32:10,122.187.234.73,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-26 20:32:10,101.96.196.4,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-09-26 20:32:10,82.200.235.132,100,Kazakhstan,Almaty,JSC Kazakhtelecom,LLC Kokos.kz,Residential/Business,False
+2026-09-26 20:32:10,43.228.157.183,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
+2026-09-26 20:32:10,20.204.42.136,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-26 20:32:10,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-26 20:32:10,109.160.32.111,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-26 20:32:10,121.142.87.218,100,South Korea,Michuhol,Korea Telecom,Kornet,Residential/Business,False
+2026-09-26 20:32:10,82.102.18.188,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-09-26 20:32:10,43.157.38.228,100,Germany,Frankfurt am Main,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-26 20:32:10,187.174.238.116,100,Mexico,Cuernavaca,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-26 20:32:10,85.203.23.117,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-09-26 20:32:10,136.119.75.88,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-26 20:32:10,106.75.153.103,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-26 20:32:10,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-26 20:32:10,142.93.86.172,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-26 20:32:10,205.169.39.57,100,United States,Santa Clara,CenturyLink Communications,"Palo Alto Networks, Inc",Data Center,False
+2026-09-26 20:32:10,36.255.97.51,100,United States,San Jose,Kill Ping,,Residential/Business,True
+2026-09-26 20:32:10,20.217.80.108,100,Israel,Tel Aviv,Microsoft Corporation,Microsoft Corporation,Data Center,False
+2026-09-26 20:32:10,45.33.70.89,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-26 20:32:10,95.143.217.78,100,Russia,Moscow,Iskratelecom JSC,GC BB,Residential/Business,False
+2026-09-26 20:32:10,103.159.199.43,100,Indonesia,Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-09-26 20:32:10,167.71.106.67,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-26 20:32:10,62.60.130.148,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-26 20:32:10,34.88.186.127,100,Finland,Lappeenranta,Google LLC,Google Cloud (europe-north1),Data Center,False
+2026-09-26 20:32:10,89.109.4.236,100,Russia,Nizhniy Novgorod,NMTS,,Residential/Business,False
+2026-09-26 20:32:10,81.22.51.64,100,Russia,Samara,MetroMAX,Sakha-Belcom Ltd.,Residential/Business,False
+2026-09-26 20:32:10,20.213.164.196,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-09-26 20:32:10,72.215.44.72,100,United States,Fort Walton Beach,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-26 20:32:10,139.59.133.58,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-09-26 20:32:10,20.169.85.17,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-26 20:32:10,197.248.207.139,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-09-26 20:32:10,171.244.39.95,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-26 20:32:10,41.193.100.133,100,South Africa,Century City,Vox Telecommunications PTY Ltd,CPT Voice & Connectivity Solutions,Residential/Business,False
+2026-09-26 20:32:10,82.147.142.205,100,Bulgaria,Sofia,A1 Bulgaria EAD,Orbitel customer and internal,Residential/Business,False
+2026-09-26 20:32:10,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-26 20:32:10,192.42.116.65,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-26 20:32:10,72.202.225.82,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-26 20:32:10,58.22.255.28,100,China,Longyan,CNCGroup CHINA169 FuJian province network,,Residential/Business,True
