@@ -121414,3 +121414,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-27 13:28:17,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-09-27 13:28:17,20.219.2.60,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
 2026-09-27 13:28:17,103.216.170.48,100,India,Mumbai,Bombay Bullion Commmunication,,Residential/Business,False
+2026-09-27 18:01:15,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-09-27 18:01:15,110.81.20.56,100,China,Quanzhou,Chinanet,Chinanet FJ,Residential/Business,False
+2026-09-27 18:01:15,104.211.74.130,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-27 18:01:15,117.34.85.168,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,False
+2026-09-27 18:01:15,34.82.60.66,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-09-27 18:01:15,46.10.201.90,100,Bulgaria,Sofia,Business Customer Migration,BTC Plc,Residential/Business,False
+2026-09-27 18:01:15,189.98.169.221,100,Brazil,Santa Bárbara d'Oeste,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-09-27 18:01:15,159.203.83.195,100,United States,Clifton,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-27 18:01:15,14.51.12.142,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-27 18:01:15,34.146.222.123,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-09-27 18:01:15,20.207.121.172,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-27 18:01:15,111.171.125.94,100,South Korea,Nam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-09-27 18:01:15,35.87.57.173,100,United States,Boardman,"Amazon.com, Inc.",AWS EC2 (us-west-2),Data Center,False
+2026-09-27 18:01:15,170.106.153.232,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-09-27 18:01:15,157.66.54.189,100,Indonesia,Bogor,CV Andhika Pratama Sanggoro,CV Mico Digital Indonesia,Residential/Business,False
+2026-09-27 18:01:15,104.28.201.73,100,United States,San Jose,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-09-27 18:01:15,45.142.193.161,100,United Kingdom,Manchester,ValorNode - Internet Solutions,Limited Network LTD,Residential/Business,False
+2026-09-27 18:01:15,180.149.199.220,100,France,Paris,Groupe LWS SARL,LWS dedicated VPS,Data Center,False
+2026-09-27 18:01:15,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-27 18:01:15,182.44.4.202,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-09-27 18:01:15,187.94.255.193,100,Brazil,Piumhi,Vital NET,VITAL,Residential/Business,False
+2026-09-27 18:01:15,20.141.30.9,100,United States,Boydton,Microsoft Corporation,Microsoft Corporation,Data Center,False
+2026-09-27 18:01:15,66.132.195.102,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-27 18:01:15,205.237.106.81,100,France,Paris,ESTOXY OU,ESTOXY OU,Residential/Business,False
+2026-09-27 18:01:15,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-27 18:01:15,64.49.11.225,100,United Kingdom,Coventry,PebbleHost Ltd,Sparked Host LLC,Data Center,False
+2026-09-27 18:01:15,113.53.62.169,100,Thailand,Bangkok,TOT Public Company Limited,TOT Public Company Limited,Residential/Business,False
+2026-09-27 18:01:15,66.132.186.140,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-27 18:01:15,80.94.95.245,100,Hungary,Budapest,SS-Net,Unmanaged LTD,Data Center,False
+2026-09-27 18:01:15,51.159.91.169,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-09-27 18:01:15,58.20.236.52,100,China,Changsha,CNC Group CHINA169 Hunan Province Network,CNC Group,Residential/Business,False
+2026-09-27 18:01:15,77.239.124.177,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-27 18:01:15,13.140.42.213,100,United States,Carlstadt,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-09-27 18:01:15,144.91.95.55,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-27 18:01:15,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
+2026-09-27 18:01:15,186.122.177.140,100,Argentina,Buenos Aires,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-09-27 18:01:15,125.141.83.17,100,South Korea,Dongjak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-27 18:01:15,223.15.228.240,100,China,Taiyuan,Chinanet,Sxpdsn,Residential/Business,False
+2026-09-27 18:01:15,45.148.10.175,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-27 18:01:15,139.59.250.28,100,Singapore,Singapore,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-27 18:01:15,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-09-27 18:01:15,211.72.38.55,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-09-27 18:01:15,79.124.49.62,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-27 18:01:15,49.231.192.36,100,Thailand,Phaya Thai,TCC1012-DON MUENG-by-AWN,,Mobile,False
+2026-09-27 18:01:15,103.18.6.159,100,Vietnam,Trung Phụng,RUNSYSTEM,,Data Center,True
+2026-09-27 18:01:15,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-27 18:01:15,159.89.198.186,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 18:01:15,84.5.129.68,100,France,Paris,Societe Francaise Du Radiotelephone - SFR SA,SFR SA,Residential/Business,False
+2026-09-27 18:01:15,165.154.251.138,100,Thailand,Bangkok,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-09-27 18:01:15,118.107.139.224,100,Pakistan,Gilgit,Micronet,,Mobile,False
