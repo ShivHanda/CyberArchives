@@ -121314,3 +121314,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-27 00:06:15,136.85.64.155,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
 2026-09-27 00:06:15,147.90.234.22,100,United States,New York,Fourplex Telecom LLC,Fourplex Telecom LLC,Data Center,False
 2026-09-27 00:06:15,20.46.245.36,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-27 07:28:15,165.227.55.4,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 07:28:15,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-09-27 07:28:15,139.162.120.104,100,Japan,Tokyo,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-27 07:28:15,84.72.122.41,100,Switzerland,Einsiedeln,Sunrise GmbH,Sunrise GmbH,Residential/Business,False
+2026-09-27 07:28:15,47.254.159.184,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-09-27 07:28:15,172.214.209.153,100,United States,Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),Data Center,False
+2026-09-27 07:28:15,220.196.191.58,100,France,Paris,China Unicom Network,,Residential/Business,False
+2026-09-27 07:28:15,122.169.40.221,100,India,Pune,BHARTI,ABTS-MUMBAI,Residential/Business,False
+2026-09-27 07:28:15,104.243.133.18,100,United States,Los Angeles,HT,yunxin llc,Residential/Business,False
+2026-09-27 07:28:15,66.132.172.104,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-27 07:28:15,117.50.70.125,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-27 07:28:15,51.38.224.114,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-09-27 07:28:15,20.219.2.60,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-27 07:28:15,77.90.185.207,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-09-27 07:28:15,64.62.197.133,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-27 07:28:15,14.53.202.223,100,South Korea,Yangpyeong,Korea Telecom,Kornet,Residential/Business,False
+2026-09-27 07:28:15,109.160.32.23,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-27 07:28:15,172.232.108.36,100,India,Chennai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-09-27 07:28:15,119.152.102.54,100,Pakistan,Lahore,Pakistan Telecommuication company limited,,Residential/Business,False
+2026-09-27 07:28:15,185.30.32.211,100,Germany,Hamburg,webgo GmbH,webgo GmbH,Data Center,False
+2026-09-27 07:28:15,20.55.22.221,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-27 07:28:15,170.187.147.89,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-09-27 07:28:15,20.118.26.138,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-27 07:28:15,184.105.139.97,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-27 07:28:15,105.96.109.45,100,Algeria,Sidi Bel Abbes,Algerie Telecom,,Residential/Business,False
+2026-09-27 07:28:15,85.217.149.14,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 07:28:15,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-09-27 07:28:15,65.108.194.8,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-09-27 07:28:15,172.202.106.57,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-27 07:28:15,154.222.8.141,100,Germany,Frankfurt am Main,Datagear LLP,Datagear LLP,Residential/Business,False
+2026-09-27 07:28:15,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-27 07:28:15,64.227.130.40,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 07:28:15,40.67.180.50,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-27 07:28:15,218.26.96.58,100,China,Taiyuan,CNC Group CHINA169 Shanxi Province Network,China Network Communications Group Corporation,Residential/Business,False
+2026-09-27 07:28:15,142.93.204.55,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 07:28:15,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 07:28:15,163.7.3.241,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-27 07:28:15,103.113.171.119,100,Indonesia,Jakarta,PT Cloudata Indonesia,,Data Center,False
+2026-09-27 07:28:15,185.247.137.249,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-27 07:28:15,88.207.210.23,100,Luxembourg,Winseler,POST Luxembourg,EPT,Residential/Business,False
+2026-09-27 07:28:15,39.88.68.152,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-09-27 07:28:15,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-27 07:28:15,52.224.109.126,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-27 07:28:15,188.253.7.4,100,Taiwan,Taipei,Akari Networks Limited,,Residential/Business,True
+2026-09-27 07:28:15,45.124.78.68,100,China,Hangzhou,ERX-NASDA-ASN,"Zhejiang Xuanyun Technology Co., Ltd.",Residential/Business,False
+2026-09-27 07:28:15,43.172.8.79,100,United States,Hamilton,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-27 07:28:15,85.217.149.21,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 07:28:15,185.30.32.221,100,Germany,Hamburg,webgo GmbH,webgo GmbH,Data Center,False
+2026-09-27 07:28:15,162.144.61.196,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-09-27 07:28:15,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
