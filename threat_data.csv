@@ -121364,3 +121364,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-27 07:28:15,185.30.32.221,100,Germany,Hamburg,webgo GmbH,webgo GmbH,Data Center,False
 2026-09-27 07:28:15,162.144.61.196,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
 2026-09-27 07:28:15,180.93.172.213,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-09-27 13:28:17,103.90.235.196,100,Vietnam,Quận Mười Một,WEBPANDA,Web Panda Company Ltd,Residential/Business,False
+2026-09-27 13:28:17,38.207.137.41,100,Japan,Tokyo,Nearoute Limited,Nearoute Limited,Residential/Business,False
+2026-09-27 13:28:17,187.62.234.12,100,Brazil,Araguaçu,Metroflex Telecomunicacoes Ltda,Vese Telecom Ltda-me,Residential/Business,False
+2026-09-27 13:28:17,38.68.184.85,100,Venezuela,Barquisimeto,Boom Solutions C.A,Boom Solutions C.A,Residential/Business,False
+2026-09-27 13:28:17,172.105.184.105,100,Australia,Sydney,Akamai Technologies,Linode,Data Center,False
+2026-09-27 13:28:17,195.250.30.134,100,India,Navi Mumbai,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-09-27 13:28:17,87.251.64.131,100,Poland,Warsaw,Shesternin Vladimir Anatolievich,Isaev,Residential/Business,False
+2026-09-27 13:28:17,84.44.39.47,100,Türkiye,Istanbul,Vodafone Net Iletisim Hizmetler,Borusan Telekom,Residential/Business,False
+2026-09-27 13:28:17,188.43.28.193,100,Russia,Vladivostok,TRANS-TELECOM,,Residential/Business,False
+2026-09-27 13:28:17,64.225.25.2,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 13:28:17,210.56.12.205,100,Pakistan,Saidpur,PTCL ITI Future Connect 79,,Residential/Business,False
+2026-09-27 13:28:17,77.239.124.207,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-27 13:28:17,64.62.156.66,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-27 13:28:17,193.24.211.218,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-09-27 13:28:17,182.69.177.210,100,India,Gurugram,Bharti Airtel,Bharti Airtel Ltd.,Residential/Business,False
+2026-09-27 13:28:17,66.132.224.28,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-27 13:28:17,114.6.128.61,100,Indonesia,Jakarta,PT. INDOSAT Tbk,IOH B2B,Mobile,False
+2026-09-27 13:28:17,163.7.6.114,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-27 13:28:17,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-27 13:28:17,173.249.16.192,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-27 13:28:17,185.93.89.116,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,False
+2026-09-27 13:28:17,211.62.111.247,100,South Korea,Daegu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-27 13:28:17,69.164.211.124,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-27 13:28:17,222.92.61.242,100,China,Suzhou,Chinanet,Chinanet JS,Residential/Business,True
+2026-09-27 13:28:17,185.74.7.77,100,Uzbekistan,Salor,"""Uzbektelekom"" Joint Stock Company",Uztelecom DC,Data Center,False
+2026-09-27 13:28:17,185.30.32.204,100,Germany,Hamburg,webgo GmbH,webgo GmbH,Data Center,False
+2026-09-27 13:28:17,66.132.195.68,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-27 13:28:17,162.144.61.196,100,United States,Phoenix,Unified Layer,Oracle Corporation,Data Center,False
+2026-09-27 13:28:17,64.227.114.1,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-27 13:28:17,175.196.78.7,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-09-27 13:28:17,20.42.56.227,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-27 13:28:17,85.217.140.19,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 13:28:17,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-27 13:28:17,117.72.108.255,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-09-27 13:28:17,161.132.54.218,100,Peru,Lima,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-09-27 13:28:17,85.217.149.37,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 13:28:17,45.138.12.45,100,United Kingdom,Newport,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-09-27 13:28:17,66.132.172.128,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-27 13:28:17,178.16.54.250,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-09-27 13:28:17,212.80.213.23,100,Thailand,Nonthaburi,"Siamdata Communication Co., ltd.","ReadyIDC Co., Ltd",Residential/Business,True
+2026-09-27 13:28:17,85.217.140.30,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 13:28:17,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-27 13:28:17,20.80.93.123,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-27 13:28:17,85.217.140.42,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-27 13:28:17,103.90.25.52,100,Indonesia,Cileungsir,Arananetwork Infra Cyber CDC,,Residential/Business,False
+2026-09-27 13:28:17,45.140.42.24,100,Germany,Frankfurt am Main,Clouvider Limited,Clouvider Limited,Data Center,False
+2026-09-27 13:28:17,130.210.44.52,100,India,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),Data Center,False
+2026-09-27 13:28:17,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-27 13:28:17,20.219.2.60,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-27 13:28:17,103.216.170.48,100,India,Mumbai,Bombay Bullion Commmunication,,Residential/Business,False
