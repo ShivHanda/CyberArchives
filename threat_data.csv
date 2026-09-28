@@ -121564,3 +121564,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-28 03:06:14,92.118.39.223,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-09-28 03:06:14,216.10.245.73,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
 2026-09-28 03:06:14,2a0f:ca80:b00b:9346::5,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-09-28 10:24:01,103.142.26.97,100,Vietnam,Quận Tân Phú,Vietnam Internet Network Information Center,Tinomail Company Limited,Residential/Business,False
+2026-09-28 10:24:01,77.38.254.255,100,Latvia,Riga,"SIA ""BITE Latvija""",Baltkom,Residential/Business,False
+2026-09-28 10:24:01,103.9.204.151,100,Vietnam,Huế,SUNSOFT,GSS Investment Corporation,Residential/Business,False
+2026-09-28 10:24:01,160.251.215.51,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-09-28 10:24:01,40.76.100.1,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-28 10:24:01,82.65.162.180,100,France,Brax,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-09-28 10:24:01,156.239.236.204,100,Hong Kong,Hong Kong,Binary Networks Solutions LLC,Binary Networks Solutions LLC,Data Center,False
+2026-09-28 10:24:01,20.46.235.176,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-28 10:24:01,213.6.240.126,100,Palestine,Ramallah,Palestine Telecommunications Company,Palestine Telecommunications Company,Residential/Business,False
+2026-09-28 10:24:01,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-28 10:24:01,212.112.133.91,100,Denmark,Munkebo,Sinal A/S,Stofa,Residential/Business,False
+2026-09-28 10:24:01,212.132.64.89,100,Germany,Frankfurt am Main,IONOS SE fra.de,IONOS SE,Data Center,False
+2026-09-28 10:24:01,122.187.230.123,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-28 10:24:01,211.216.58.204,100,South Korea,Busan,Korea Telecom,,Residential/Business,False
+2026-09-28 10:24:01,176.103.15.155,100,Ukraine,Balakliya,CHP Zarko Alexandr Ivanovich,"PC TV ""CABLE TV NETWORK ""DIALOGUE""",Residential/Business,False
+2026-09-28 10:24:01,35.227.35.122,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-09-28 10:24:01,120.198.61.146,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-28 10:24:01,20.15.203.91,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-28 10:24:01,131.255.68.201,100,Brazil,Monte Azul Paulista,Turbonet Telecom Ltda,Turbonet Telecom Ltda,Residential/Business,False
+2026-09-28 10:24:01,72.219.204.81,100,United States,Oklahoma City,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-09-28 10:24:01,112.176.164.13,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-28 10:24:01,39.155.182.194,100,China,Jinrongjie,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-28 10:24:01,37.205.9.65,100,Czechia,Liberec,RELBIT-VPSFREE,,Data Center,False
+2026-09-28 10:24:01,185.200.112.241,100,Ukraine,Lviv,Chumachenko Dmytro Stepanovych,Koval Ihor Ivanovych,Residential/Business,False
+2026-09-28 10:24:01,178.75.46.13,100,Russia,Bryansk,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Bryansk Branch",Residential/Business,False
+2026-09-28 10:24:01,46.59.91.172,100,Sweden,Karlstad,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-09-28 10:24:01,197.85.7.165,100,South Africa,Cape Town,Dimension Data,Dimension Data,Residential/Business,False
+2026-09-28 10:24:01,211.220.156.232,100,South Korea,Busan,Korea Telecom,Kornet,Residential/Business,False
+2026-09-28 10:24:01,14.103.118.25,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-09-28 10:24:01,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-28 10:24:01,197.5.145.150,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-09-28 10:24:01,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-28 10:24:01,213.177.179.165,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-28 10:24:01,64.176.11.215,100,Chile,Santiago,"The Constant Company, LLC","The Constant Company, LLC",Data Center,False
+2026-09-28 10:24:01,185.232.155.31,100,Iran,Tehran,Tebyan-e-Noor Cultural-Artistic Institute,Tebyan-e-Noor Cultural-Artistic Institute,Residential/Business,False
+2026-09-28 10:24:01,69.5.169.76,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-28 10:24:01,69.5.169.140,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-28 10:24:01,27.212.157.254,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,False
+2026-09-28 10:24:01,34.42.254.49,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-09-28 10:24:01,68.197.81.87,100,United States,Medford,Cablevision Systems Corp.,Optimum Online (Cablevision Systems),Residential/Business,False
+2026-09-28 10:24:01,85.204.70.116,100,France,Paris,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-09-28 10:24:01,103.154.244.101,100,Vietnam,Đống Đa,NSTECH,Nstech Viet NAM Joint Stock Company,Residential/Business,False
+2026-09-28 10:24:01,114.30.86.98,100,Indonesia,Ungaran,Bumi Merbabu Permai,,Data Center,False
+2026-09-28 10:24:01,185.40.122.250,100,Iceland,Reykjavik,Nova hf,Nova Customers Static IP,Residential/Business,False
+2026-09-28 10:24:01,95.58.221.186,100,Kazakhstan,Pavlodar,JSC Kazakhtelecom,Univer,Residential/Business,False
+2026-09-28 10:24:01,129.121.139.106,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-09-28 10:24:01,103.57.189.185,100,Malaysia,Padang Tengku,IP ServerOne Solutions Sdn Bhd,Ipdc Solutions SDN BHD,Data Center,False
+2026-09-28 10:24:01,157.90.112.239,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-09-28 10:24:01,169.40.142.202,100,United Kingdom,London,Zkillu SAS,Private Customer,Residential/Business,True
+2026-09-28 10:24:01,79.124.58.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
