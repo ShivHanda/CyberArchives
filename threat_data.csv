@@ -121514,3 +121514,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-27 22:45:08,117.72.35.56,100,China,Chaowai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
 2026-09-27 22:45:08,134.209.94.69,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-09-27 22:45:08,159.223.139.221,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-28 03:06:14,64.62.197.59,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-09-28 03:06:14,177.136.32.83,100,Brazil,Salvador,TASCOM TELECOMUNICAÇÕES LTDA,Andrade Network,Residential/Business,False
+2026-09-28 03:06:14,192.253.248.87,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-09-28 03:06:14,213.209.159.208,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-28 03:06:14,8.216.9.248,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-28 03:06:14,141.145.148.89,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Data Center,False
+2026-09-28 03:06:14,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-09-28 03:06:14,69.5.169.123,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-28 03:06:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-28 03:06:14,89.248.173.217,100,The Netherlands,Amsterdam,IP Volume inc,Quasi Networks LTD.,Residential/Business,False
+2026-09-28 03:06:14,65.49.1.70,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-09-28 03:06:14,43.224.66.209,100,United States,Denver,Aofei Data International Company Limited,,Data Center,False
+2026-09-28 03:06:14,165.227.141.56,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-28 03:06:14,83.255.208.30,100,Sweden,Karlstad,COMHEM,Com Hem AB,Residential/Business,False
+2026-09-28 03:06:14,176.65.149.152,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-09-28 03:06:14,103.154.137.41,100,Indonesia,Central Jakarta,MORATELINDONAP,,Residential/Business,False
+2026-09-28 03:06:14,147.224.161.222,100,United States,Chicago,Oracle Corporation,Oracle Cloud Infrastructure (us-chicago-1),Data Center,True
+2026-09-28 03:06:14,216.226.77.20,100,United Kingdom,London,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-09-28 03:06:14,182.253.221.13,100,Indonesia,Tangerang,Biznet Networks,PT Sumber Alfaria Trijaya,Data Center,False
+2026-09-28 03:06:14,109.160.32.135,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-28 03:06:14,69.12.166.128,100,United States,Los Angeles,"Sonic.net, LLC","Sonic.net, Inc",Residential/Business,False
+2026-09-28 03:06:14,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-28 03:06:14,94.154.43.69,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-09-28 03:06:14,45.148.10.8,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-28 03:06:14,91.236.224.37,100,Ukraine,Kyiv,Gigacloud LLC,Gigacloud LLC,Data Center,True
+2026-09-28 03:06:14,184.105.139.70,100,United States,Dallas,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-28 03:06:14,34.197.70.90,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-28 03:06:14,182.48.206.84,100,India,Navi Mumbai,DVOIS,Dvois Broadband Pvt Ltd,Residential/Business,False
+2026-09-28 03:06:14,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-28 03:06:14,182.75.234.236,100,India,Erode,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
+2026-09-28 03:06:14,91.92.42.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-28 03:06:14,47.251.249.232,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-09-28 03:06:14,20.65.170.243,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-28 03:06:14,150.95.105.97,100,Vietnam,Hanoi,GMO-Z.com Runsystem Joint Stock Company,GMO-Z.com Runsystem Joint Stock Company,Data Center,False
+2026-09-28 03:06:14,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-28 03:06:14,130.12.182.197,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,False
+2026-09-28 03:06:14,94.183.206.96,100,The Netherlands,Amsterdam,TurtleGuard,Eternity International Limited,Data Center,False
+2026-09-28 03:06:14,211.220.251.161,100,South Korea,Yangsan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-09-28 03:06:14,185.93.89.118,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,True
+2026-09-28 03:06:14,200.155.66.2,100,Brazil,São Paulo,Equinix (EMEA) Acquisition Enterprises B.V.,Equinix Brasil,Data Center,True
+2026-09-28 03:06:14,42.1.65.89,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-09-28 03:06:14,103.162.1.80,100,Indonesia,Jakarta,Sintegrasi Networks,,Residential/Business,True
+2026-09-28 03:06:14,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-28 03:06:14,103.28.38.27,100,Vietnam,Đống Đa,NhanHoa Software Company,NHANHOA,Residential/Business,True
+2026-09-28 03:06:14,138.226.239.233,100,France,Paris,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-09-28 03:06:14,138.226.239.234,100,France,Paris,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-09-28 03:06:14,43.228.157.8,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
+2026-09-28 03:06:14,92.118.39.223,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-09-28 03:06:14,216.10.245.73,100,India,Mumbai,PDR,P.D.R Solutions FZC,Data Center,False
+2026-09-28 03:06:14,2a0f:ca80:b00b:9346::5,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
