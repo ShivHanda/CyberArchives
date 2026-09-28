@@ -121614,3 +121614,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-28 10:24:01,157.90.112.239,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
 2026-09-28 10:24:01,169.40.142.202,100,United Kingdom,London,Zkillu SAS,Private Customer,Residential/Business,True
 2026-09-28 10:24:01,79.124.58.162,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-28 19:06:46,103.115.45.185,100,Hong Kong,Hong Kong,Cloudie Limited,Sakura Network Limited,Data Center,True
+2026-09-28 19:06:46,160.22.126.54,100,Indonesia,Sangatta,PT. Kaltim Net Nusantara,,Residential/Business,False
+2026-09-28 19:06:46,182.43.235.75,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-09-28 19:06:46,77.239.124.178,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-28 19:06:46,45.78.206.111,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-28 19:06:46,152.42.221.98,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-28 19:06:46,171.244.201.80,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-28 19:06:46,199.45.155.46,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-28 19:06:46,93.152.209.11,100,China,Haidian,Omniline Investment s.r.o.,Dedik Services Limited,Residential/Business,True
+2026-09-28 19:06:46,103.146.158.85,100,Hong Kong,Sheung Wan,Yisu Cloud LTD,"HK KXSY TECHNOLOGY CO., LIMITED",Data Center,False
+2026-09-28 19:06:46,43.166.136.202,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-09-28 19:06:46,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-28 19:06:46,70.167.233.144,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-28 19:06:46,105.244.238.92,100,South Africa,Midrand,Vodacom ENS,,Residential/Business,False
+2026-09-28 19:06:46,109.160.32.144,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-28 19:06:46,189.125.111.177,100,Brazil,São Paulo,Cirion Technologies do Brasil Ltda,FD DO BRASIL SOLUÇÕES DE PAGAMENTOS LTDA,Residential/Business,False
+2026-09-28 19:06:46,175.107.218.16,100,Pakistan,Karachi,Cyber Internet Services Pakistan,Broadband Services,Residential/Business,False
+2026-09-28 19:06:46,194.88.98.87,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-28 19:06:46,34.11.36.167,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-28 19:06:46,23.141.84.60,100,Hong Kong,Tseung Kwan O,cognetcloud INC,CloudForge Inc,Data Center,False
+2026-09-28 19:06:46,144.6.149.73,100,Australia,Perth,Aussie Broadband,,Residential/Business,False
+2026-09-28 19:06:46,160.16.111.191,100,Japan,Tokyo,SAKURA Internet Inc.,SAKURA,Data Center,False
+2026-09-28 19:06:46,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-28 19:06:46,103.13.215.248,100,Thailand,Ratchathewi,Lixium Sarl,Bunny Communications LLC,Residential/Business,True
+2026-09-28 19:06:46,37.193.56.149,100,Russia,Novosibirsk,Novotelecom Ltd,Novotelecom ltd.,Residential/Business,False
+2026-09-28 19:06:46,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-09-28 19:06:46,20.168.11.148,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-28 19:06:46,20.163.168.177,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-28 19:06:46,181.188.148.74,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-09-28 19:06:46,193.24.123.120,100,Russia,Moscow,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-09-28 19:06:46,52.141.4.134,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-09-28 19:06:46,72.212.168.84,100,United States,Virginia Beach,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-28 19:06:46,137.184.143.252,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-09-28 19:06:46,45.78.224.85,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-09-28 19:06:46,69.5.169.180,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-09-28 19:06:46,75.156.145.235,100,Canada,Medicine Hat,TELUS Communications Inc.,TELUS Communications Inc,Residential/Business,False
+2026-09-28 19:06:46,103.121.20.18,100,Indonesia,Depok,PT. Eka Mas Republik,Myrepublic,Residential/Business,False
+2026-09-28 19:06:46,120.48.90.166,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-09-28 19:06:46,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-28 19:06:46,203.76.101.66,100,Bangladesh,Dhaka,Link3 Technologies Limited,Link3 Technologies Limited,Residential/Business,False
+2026-09-28 19:06:46,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-09-28 19:06:46,51.75.247.232,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-09-28 19:06:46,175.12.108.55,100,China,Qingyuan,China Telecom,Chinanet HN,Residential/Business,False
+2026-09-28 19:06:46,40.112.183.29,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-09-28 19:06:46,185.136.15.86,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-09-28 19:06:46,77.239.124.202,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-28 19:06:46,5.88.119.21,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-09-28 19:06:46,95.165.140.133,100,Russia,Moscow,Moscow Local Telephone Network (OAO MGTS),OAO Mgts),Residential/Business,False
+2026-09-28 19:06:46,103.98.161.85,100,Vietnam,Ho Chi Minh City,CLEARSKY,Clearsky Service Solutions Company Limited,Residential/Business,False
+2026-09-28 19:06:46,172.94.9.74,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
