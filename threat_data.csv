@@ -121814,3 +121814,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-29 14:31:51,193.32.209.248,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
 2026-09-29 14:31:51,213.176.26.52,100,The Netherlands,Spaarndam,KOI CLOUD SERVICES (Pty) Ltd,Cipher Operations DOO Beograd - Novi Beograd,Data Center,False
 2026-09-29 14:31:51,65.49.20.91,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-29 20:23:39,100.58.113.108,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-09-29 20:23:39,77.239.124.148,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-29 20:23:39,175.198.62.180,100,South Korea,Gangseo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-09-29 20:23:39,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-29 20:23:39,77.91.65.181,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-09-29 20:23:39,103.216.170.143,100,India,Mumbai,Bombay Bullion Commmunication,,Residential/Business,False
+2026-09-29 20:23:39,23.21.204.95,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-29 20:23:39,34.150.57.148,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-09-29 20:23:39,189.240.44.9,100,Mexico,Azcapotzalco,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-09-29 20:23:39,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-09-29 20:23:39,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-29 20:23:39,24.43.144.225,100,United States,Wilmington,Charter Communications,Spectrum,Residential/Business,False
+2026-09-29 20:23:39,77.91.65.170,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-09-29 20:23:39,178.20.210.152,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-09-29 20:23:39,185.218.86.25,100,Hong Kong,Hong Kong,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-09-29 20:23:39,51.38.224.114,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-09-29 20:23:39,165.154.236.104,100,Singapore,Singapore,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-09-29 20:23:39,37.29.83.180,100,Russia,Novosibirsk,MEGAFONSIB,OJSC MegaFon,Residential/Business,False
+2026-09-29 20:23:39,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-29 20:23:39,92.222.92.185,100,France,Paris,OVH SAS,RunAbove Static IP,Data Center,False
+2026-09-29 20:23:39,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-29 20:23:39,85.217.140.34,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-29 20:23:39,92.16.96.23,100,United Kingdom,Newcastle upon Tyne,TalkTalk,Carphone Warehouse Broadband Services,Residential/Business,False
+2026-09-29 20:23:39,195.230.103.245,100,Germany,Frankfurt am Main,"Securitytrails, LLC","Securitytrails, LLC",Residential/Business,False
+2026-09-29 20:23:39,210.87.97.90,100,Indonesia,Medan,PT Solusi Data Cepat,PT. ICLOUD TEKNOLOGI INDONESIA,Data Center,False
+2026-09-29 20:23:39,37.179.190.72,100,Italy,Cosenza,IP VDF,,Residential/Business,False
+2026-09-29 20:23:39,109.160.32.143,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-29 20:23:39,222.76.248.54,100,China,Xiamen,Chinanet,Chinanet FJ,Residential/Business,True
+2026-09-29 20:23:39,51.159.91.169,100,France,Paris,SCALEWAY,ONLINE,Data Center,False
+2026-09-29 20:23:39,148.216.28.11,100,Mexico,Morelia,"Alestra, S. de R.L. de C.V.",Universidad Michoacana de San Nicolas de Hidalgo,Residential/Business,False
+2026-09-29 20:23:39,129.226.202.180,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,Aceville Pte.ltd,Data Center,False
+2026-09-29 20:23:39,102.38.3.104,100,Libya,Tripoli,Giga for Telecommunication and Technology Limited,GKA,Residential/Business,False
+2026-09-29 20:23:39,217.146.80.100,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-29 20:23:39,43.135.115.233,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-09-29 20:23:39,123.253.162.254,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-09-29 20:23:39,44.194.139.149,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-09-29 20:23:39,193.8.187.13,100,Ukraine,Kyiv,Stolitomson Company DOO,CojuhariSolutions,Residential/Business,False
+2026-09-29 20:23:39,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-29 20:23:39,37.193.56.149,100,Russia,Novosibirsk,Novotelecom Ltd,Novotelecom ltd.,Residential/Business,False
+2026-09-29 20:23:39,103.143.72.165,100,Japan,Chiyoda City,Gaaishing Industrial Holdings Limited,Gaaishing Industrial Holdings Limited,Data Center,True
+2026-09-29 20:23:39,43.166.142.76,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-09-29 20:23:39,87.236.176.59,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-09-29 20:23:39,185.180.141.108,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-09-29 20:23:39,85.203.21.21,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-29 20:23:39,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
