@@ -121714,3 +121714,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-29 00:07:17,101.47.159.50,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
 2026-09-29 00:07:17,77.239.124.176,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
 2026-09-29 00:07:17,154.16.44.208,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-09-29 07:46:26,34.48.138.194,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-29 07:46:26,185.177.72.100,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,True
+2026-09-29 07:46:26,31.145.131.202,100,Türkiye,Istanbul,Vodafone Net Iletisim Hizmetler,Ibbspor,Residential/Business,False
+2026-09-29 07:46:26,45.33.40.18,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-09-29 07:46:26,124.18.182.99,100,Japan,Hamamatsu,"Chubu Telecommunications Co., Inc.",General placeholder reference all addresses,Residential/Business,False
+2026-09-29 07:46:26,192.42.116.110,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-09-29 07:46:26,213.136.72.253,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-29 07:46:26,20.211.90.37,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-09-29 07:46:26,160.22.31.41,100,Indonesia,Jombang,PT Aufa Berkah Media,PT Aufa Berkah Media,Residential/Business,False
+2026-09-29 07:46:26,169.211.232.182,100,South Korea,Icheon-si,Korea Telecom,Kornet,Residential/Business,False
+2026-09-29 07:46:26,196.188.187.85,100,Ethiopia,Addis Ababa,Ethiotelecom,,Mobile,False
+2026-09-29 07:46:26,64.62.156.153,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-29 07:46:26,77.239.124.38,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-29 07:46:26,103.154.63.62,100,Vietnam,Giảng Võ,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Data Center,False
+2026-09-29 07:46:26,103.172.20.218,100,Indonesia,Rengasdengklok,PT Vaiotech Lintas Nusantara,PT Vaiotech Lintas Nusantara,Residential/Business,False
+2026-09-29 07:46:26,45.142.31.44,100,Greece,Athens,LLC Rusbuilding,Global Connectivity Solutions LLP,Residential/Business,True
+2026-09-29 07:46:26,36.134.69.15,100,China,Shenyang,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-29 07:46:26,85.217.140.41,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-29 07:46:26,45.205.1.160,100,Brazil,São Paulo,Vpsvaulthost LTD,Vpsvault.host LTD,Data Center,False
+2026-09-29 07:46:26,66.132.186.163,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-09-29 07:46:26,89.248.172.11,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,False
+2026-09-29 07:46:26,65.75.210.171,100,United States,Dallas,Spartan Host LLC,Spartan Host Ltd,Data Center,True
+2026-09-29 07:46:26,183.232.212.207,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-09-29 07:46:26,193.187.110.214,100,Turkey,Istanbul,Fast Zone IT,Cyberaegis Casa S.R.L,Residential/Business,False
+2026-09-29 07:46:26,14.103.86.48,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-09-29 07:46:26,122.187.234.56,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-09-29 07:46:26,34.62.118.175,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-29 07:46:26,20.121.140.16,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-29 07:46:26,69.5.169.31,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-29 07:46:26,80.69.185.150,100,Russia,Novosibirsk,JSC Avantel,JSC Avantel,Residential/Business,False
+2026-09-29 07:46:26,91.92.243.184,100,United States,New York,Omegatech LTD,Omegatech LTD,Data Center,False
+2026-09-29 07:46:26,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-09-29 07:46:26,186.13.24.118,100,Argentina,Olivos,Techtel LMDS Comunicaciones Interactivas S.A.,AMX Argentina S.A,Residential/Business,False
+2026-09-29 07:46:26,42.236.73.142,100,China,Zhengzhou,China Unicom Henan Province Network,,Residential/Business,False
+2026-09-29 07:46:26,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-29 07:46:26,129.204.14.225,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-09-29 07:46:26,112.123.228.180,100,China,Hefei,China Unicom CHINA169 Anhui Province Network,,Residential/Business,False
+2026-09-29 07:46:26,77.239.124.39,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-29 07:46:26,95.179.247.214,100,Germany,Frankfurt am Main,"The Constant Company, LLC",Vultr Holdings LLC Frankfurt,Data Center,False
+2026-09-29 07:46:26,109.70.100.7,100,Austria,Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,Data Center,True
+2026-09-29 07:46:26,170.106.153.232,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-09-29 07:46:26,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-29 07:46:26,183.103.13.130,100,South Korea,Nam-gu,Korea Telecom,,Residential/Business,False
+2026-09-29 07:46:26,8.234.157.211,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-09-29 07:46:26,172.178.123.200,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-29 07:46:26,40.121.200.75,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-29 07:46:26,109.238.87.130,100,United States,Buffalo,B2 Net Solutions Inc.,UFO TECHNOLOGIES LIMITED,Data Center,True
+2026-09-29 07:46:26,165.154.45.62,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-29 07:46:26,40.67.160.88,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-09-29 07:46:26,64.62.156.162,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
