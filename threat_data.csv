@@ -121859,3 +121859,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-29 20:23:39,185.180.141.108,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
 2026-09-29 20:23:39,85.203.21.21,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
 2026-09-29 20:23:39,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-30 00:57:11,174.67.181.68,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-09-30 00:57:11,70.182.12.165,100,United States,Port Allen,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-30 00:57:11,94.26.106.143,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-30 00:57:11,2.57.122.208,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-30 00:57:11,120.48.136.241,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-09-30 00:57:11,109.160.32.169,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-30 00:57:11,77.91.65.7,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-09-30 00:57:11,77.91.65.6,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-09-30 00:57:11,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-30 00:57:11,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-30 00:57:11,14.103.117.86,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-09-30 00:57:11,125.94.107.91,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,True
+2026-09-30 00:57:11,207.188.158.216,100,Spain,Málaga,Xtra Telecom S.A.,Xtra Telecom S.A,Residential/Business,False
+2026-09-30 00:57:11,81.172.120.224,100,Spain,Grijota,Fibergreen Tecnologicas S.L.,Fibergreen Tecnologicas S.L,Residential/Business,False
+2026-09-30 00:57:11,91.92.199.36,100,Bulgaria,Sofia,Neterra Ltd.,Elektron Invest Ltd.,Residential/Business,True
+2026-09-30 00:57:11,109.205.211.27,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-09-30 00:57:11,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-30 00:57:11,20.58.177.98,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-09-30 00:57:11,177.10.182.175,100,Brazil,Santa Helena de Goiás,Conectiva Tecnologia Ltda,Conectiva Tecnologia Ltda,Residential/Business,False
+2026-09-30 00:57:11,160.251.101.169,100,Japan,Chiyoda City,"GMO Internet Group, Inc.",interQ,Residential/Business,False
+2026-09-30 00:57:11,179.27.97.205,100,Uruguay,Punta del Este,Administracion Nacional de Telecomunicaciones,Administracion Nacional de Telecomunicaciones,Residential/Business,False
+2026-09-30 00:57:11,185.144.27.10,100,France,Paris,Vem,,Residential/Business,False
+2026-09-30 00:57:11,185.223.235.23,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-30 00:57:11,61.239.246.166,100,Hong Kong,Kwai Chung,Hong Kong Broadband Network Limited,Pose21,Residential/Business,False
+2026-09-30 00:57:11,77.91.65.165,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-09-30 00:57:11,85.217.140.48,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-30 00:57:11,46.247.61.118,100,Hong Kong,Hong Kong,Alpha Strike Labs GmbH,Alpha Strike Labs GmbH,Residential/Business,False
+2026-09-30 00:57:11,171.231.196.196,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-09-30 00:57:11,186.139.251.57,100,Argentina,Buenos Aires,Telecom Argentina S.A,Fibertel,Residential/Business,False
+2026-09-30 00:57:11,207.180.239.60,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-09-30 00:57:11,77.91.122.5,100,The Netherlands,Amsterdam,Alferov Aleksey Aleksandrovich,Mevspace,Data Center,True
+2026-09-30 00:57:11,220.250.52.111,100,China,Jinrongjie,CHINA UNICOM China169 Backbone,UNI FJFZ XinXin Netbar,Residential/Business,False
+2026-09-30 00:57:11,34.84.170.154,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-09-30 00:57:11,16.5.0.165,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-09-30 00:57:11,176.61.107.79,100,Ireland,Dublin,Virgin Media Ireland,,Residential/Business,False
+2026-09-30 00:57:11,151.243.11.139,100,Ukraine,Kyiv,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-09-30 00:57:11,31.70.90.134,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-09-30 00:57:11,78.66.44.61,100,Sweden,Årjäng,Telia Company AB,,Residential/Business,False
+2026-09-30 00:57:11,174.138.31.11,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-30 00:57:11,85.217.149.42,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-30 00:57:11,34.140.132.132,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-09-30 00:57:11,217.60.196.2,100,Germany,Frankfurt am Main,OVH SAS,BlastVPS Services,Data Center,False
+2026-09-30 00:57:11,194.88.98.121,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-30 00:57:11,70.183.226.78,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-09-30 00:57:11,151.243.11.136,100,Ukraine,Kyiv,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-09-30 00:57:11,151.243.11.138,100,Ukraine,Kyiv,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-09-30 00:57:11,66.132.195.23,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-30 00:57:11,217.154.186.166,100,Spain,Madrid,IONOS SE,IONOS SE,Data Center,False
+2026-09-30 00:57:11,40.124.80.46,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-30 00:57:11,153.19.161.177,100,Poland,Słupsk,"Technical University of Gdansk, Academic Computer Center TASK",Task DS PAP,Residential/Business,False
