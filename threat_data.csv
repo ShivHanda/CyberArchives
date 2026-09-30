@@ -122009,3 +122009,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-30 14:30:26,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-09-30 14:30:26,66.132.195.55,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-09-30 14:30:26,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
+2026-09-30 20:27:30,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-09-30 20:27:30,109.70.100.14,100,Austria,Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,Data Center,True
+2026-09-30 20:27:30,109.160.32.43,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-30 20:27:30,185.12.59.118,100,Norway,Oslo,Blix Solutions,Blixcust10463,Residential/Business,False
+2026-09-30 20:27:30,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-30 20:27:30,75.112.23.30,100,United States,Orlando,Charter Communications,Spectrum,Residential/Business,False
+2026-09-30 20:27:30,177.182.182.146,100,Brazil,Belo Horizonte,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,Residential/Business,False
+2026-09-30 20:27:30,27.0.135.6,100,China,Quzhou,Fuzhou,Kaopy,Data Center,False
+2026-09-30 20:27:30,109.160.32.179,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-30 20:27:30,77.239.124.174,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-30 20:27:30,193.8.187.15,100,Ukraine,Kyiv,Stolitomson Company DOO,CojuhariSolutions,Residential/Business,False
+2026-09-30 20:27:30,93.183.214.86,100,Ukraine,Lviv,"PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",ISP Podilya Telephone Company,Residential/Business,False
+2026-09-30 20:27:30,210.68.105.68,100,Taiwan,Xizhi District,Digital United Inc.,Digital United Inc.,Residential/Business,False
+2026-09-30 20:27:30,193.8.187.3,100,Ukraine,Kyiv,Stolitomson Company DOO,CojuhariSolutions,Residential/Business,False
+2026-09-30 20:27:30,64.227.146.92,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-09-30 20:27:30,77.239.124.175,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-30 20:27:30,103.49.62.60,100,Hong Kong,Kwun Tong,Web Technology Company Limited,Best Webtechnology Limited,Residential/Business,True
+2026-09-30 20:27:30,27.49.74.254,100,Philippines,Pasig,Converge ICT,,Residential/Business,False
+2026-09-30 20:27:30,196.49.7.116,100,Rwanda,Kigali,Rwanda Internet Exchange Point (RINEX) c/o RICTA,RICTA ccTLD,Residential/Business,False
+2026-09-30 20:27:30,135.235.138.43,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-09-30 20:27:30,87.106.63.76,100,United Kingdom,Worcester,IONOS SE,Gb Wtr Ionos Cloud Bhx1,Data Center,False
+2026-09-30 20:27:30,117.2.49.125,100,Vietnam,Da Nang,Viettel Corporation,,Residential/Business,False
+2026-09-30 20:27:30,8.216.8.127,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-09-30 20:27:30,143.110.221.192,100,Canada,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-09-30 20:27:30,69.6.250.129,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-09-30 20:27:30,14.36.171.104,100,South Korea,Gwangmyeong,Korea Telecom,Kornet,Residential/Business,False
+2026-09-30 20:27:30,141.95.159.188,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-09-30 20:27:30,45.79.192.159,100,United States,Atlanta,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-09-30 20:27:30,37.187.35.26,100,France,Strasbourg,OVH SAS,OVH SAS,Data Center,True
+2026-09-30 20:27:30,81.28.167.30,100,Russia,Tolyatti,AIST Networks,JSC AIST,Residential/Business,False
+2026-09-30 20:27:30,102.220.161.126,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-09-30 20:27:30,211.178.247.182,100,South Korea,Dongdaemun,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-09-30 20:27:30,78.153.140.237,100,United Kingdom,City of London,HOSTGLOBAL.PLUS LTD,Cloudkleyer Frankfurt GmbH,Data Center,False
+2026-09-30 20:27:30,169.40.142.132,100,United Kingdom,London,Zkillu SAS,Private Customer,Residential/Business,False
+2026-09-30 20:27:30,77.239.124.215,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-30 20:27:30,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-30 20:27:30,2.36.238.38,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-09-30 20:27:30,40.124.187.32,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-09-30 20:27:30,80.99.216.230,100,Hungary,Budapest,One Hungary Ltd.,One Hungary Ltd,Residential/Business,False
+2026-09-30 20:27:30,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-09-30 20:27:30,185.243.5.92,100,United States,Newark,ReliableSite.Net LLC,Dedires LLC,Residential/Business,False
+2026-09-30 20:27:30,155.4.209.51,100,Sweden,Karlstad,Bahnhof AB,General Private,Residential/Business,False
+2026-09-30 20:27:30,36.255.97.42,100,United States,San Jose,Kill Ping,,Residential/Business,True
+2026-09-30 20:27:30,45.207.209.16,100,Hong Kong,Hong Kong,Vapeline Technology,,Data Center,False
+2026-09-30 20:27:30,20.189.119.89,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-09-30 20:27:30,61.72.55.130,100,South Korea,Namyangju,Korea Telecom,,Residential/Business,False
+2026-09-30 20:27:30,77.239.124.31,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-09-30 20:27:30,117.50.122.20,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-09-30 20:27:30,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-09-30 20:27:30,43.228.157.183,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
