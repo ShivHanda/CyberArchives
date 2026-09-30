@@ -121959,3 +121959,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-09-30 07:49:28,173.244.60.241,100,United States,New York,LogicWeb Inc.,LogicWeb Inc,Residential/Business,False
 2026-09-30 07:49:28,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-09-30 07:49:28,146.148.127.161,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-09-30 14:30:26,109.160.32.121,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-30 14:30:26,58.221.60.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-09-30 14:30:26,5.226.140.125,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-09-30 14:30:26,66.132.172.233,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-09-30 14:30:26,197.248.207.142,100,Kenya,Nairobi,Safaricom Limited,Safaricom Limited,Residential/Business,False
+2026-09-30 14:30:26,35.241.202.92,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-09-30 14:30:26,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-30 14:30:26,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-09-30 14:30:26,185.136.15.13,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-09-30 14:30:26,218.201.250.120,100,China,Guangzhou,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-09-30 14:30:26,185.246.128.133,100,Sweden,Stockholm,w1n ltd,Dedicated Servers,Residential/Business,False
+2026-09-30 14:30:26,119.93.130.51,100,Philippines,San Roque,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-09-30 14:30:26,20.106.202.68,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-09-30 14:30:26,109.160.32.132,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-09-30 14:30:26,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-09-30 14:30:26,37.40.228.22,100,Oman,Muscat,OmanMobile Telecommunication company LLC,OmanMobile Telecommunication company LLC,Residential/Business,False
+2026-09-30 14:30:26,49.0.82.4,100,Thailand,Bangkok,AIS-Fibre,,Residential/Business,False
+2026-09-30 14:30:26,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
+2026-09-30 14:30:26,85.217.149.55,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-30 14:30:26,213.209.159.226,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-09-30 14:30:26,143.244.57.82,100,France,Paris,Datacamp Limited,Cdn77 PAR,Data Center,True
+2026-09-30 14:30:26,69.5.169.23,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-09-30 14:30:26,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-09-30 14:30:26,101.36.125.2,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-09-30 14:30:26,85.217.149.20,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-09-30 14:30:26,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-30 14:30:26,211.223.187.249,100,South Korea,Jeju City,Korea Telecom,KORNET,Residential/Business,False
+2026-09-30 14:30:26,91.92.42.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-09-30 14:30:26,160.248.2.90,100,Japan,Adachi,"NTT PC Communications, Inc.","NTT PC Communications, Inc.",Residential/Business,True
+2026-09-30 14:30:26,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-09-30 14:30:26,103.75.101.41,100,Indonesia,Bogor,MORATELINDO,Moratelindo,Residential/Business,False
+2026-09-30 14:30:26,178.128.75.66,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-09-30 14:30:26,162.239.29.145,100,United States,Orlando,"AT&T Enterprises, LLC",Steve Tacinelli,Residential/Business,False
+2026-09-30 14:30:26,216.218.206.121,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-09-30 14:30:26,37.59.112.122,100,France,Roubaix,OVH SAS,VPS static ips,Data Center,False
+2026-09-30 14:30:26,68.167.181.161,100,United States,Los Angeles,GTT Americas,Bunny Communications,Residential/Business,True
+2026-09-30 14:30:26,79.3.96.178,100,Italy,Legnano,Telecom Italia S.p.A. TIN EASY LITE,INTERBUSINESS,Residential/Business,False
+2026-09-30 14:30:26,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-09-30 14:30:26,94.154.46.245,100,United States,New York,Omegatech LTD,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-09-30 14:30:26,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-30 14:30:26,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-09-30 14:30:26,85.203.21.3,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-09-30 14:30:26,195.178.110.108,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-09-30 14:30:26,20.172.68.47,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-09-30 14:30:26,88.204.245.66,100,Kazakhstan,Almaty,JSC Kazakhtelecom,Ipabdulova,Residential/Business,False
+2026-09-30 14:30:26,20.251.39.228,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-09-30 14:30:26,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-09-30 14:30:26,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-09-30 14:30:26,66.132.195.55,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-09-30 14:30:26,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
