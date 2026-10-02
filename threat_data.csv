@@ -122404,3 +122404,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-02 17:15:58,87.106.210.150,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
 2026-10-02 17:15:58,34.81.117.1,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
 2026-10-02 17:15:58,31.14.254.5,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-02 21:42:35,204.76.203.231,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-02 21:42:35,61.76.38.54,100,South Korea,Ulju-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-10-02 21:42:35,34.159.247.96,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-02 21:42:35,61.5.22.56,100,Indonesia,Jakarta,PT. TELKOM INDONESIA,,Residential/Business,False
+2026-10-02 21:42:35,185.214.101.139,100,Spain,Navalcarnero,Iomart Cloud Services Limited,Invermae Solutions NocX,Data Center,False
+2026-10-02 21:42:35,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-02 21:42:35,109.160.32.148,100,United States,Cornelius,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-02 21:42:35,14.232.239.151,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-10-02 21:42:35,117.6.44.221,100,Vietnam,Hanoi,VIETTEL,,Residential/Business,False
+2026-10-02 21:42:35,213.230.127.104,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-10-02 21:42:35,77.239.124.33,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-02 21:42:35,220.93.167.144,100,South Korea,Nam-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-02 21:42:35,109.248.156.49,100,Kazakhstan,Kostanay,Uplink LLC,Uplink LLC,Residential/Business,False
+2026-10-02 21:42:35,125.240.188.136,100,South Korea,Yongin-si,LG POWERCOMM,Pubnetplus,Residential/Business,False
+2026-10-02 21:42:35,77.91.65.105,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-10-02 21:42:35,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-02 21:42:35,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-02 21:42:35,43.228.157.250,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
+2026-10-02 21:42:35,187.110.238.50,100,Brazil,Fortaleza,DB3 SERVICOS DE TELECOMUNICACOES S.A,DB3 SERVICOS DE TELECOMUNICACOES S.A,Residential/Business,False
+2026-10-02 21:42:35,45.138.12.43,100,United Kingdom,Newport,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-02 21:42:35,24.234.239.13,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-10-02 21:42:35,125.253.123.34,100,Vietnam,Quận Tân Phú,ODS Joint Stock Company,ODSJSC,Residential/Business,False
+2026-10-02 21:42:35,124.158.13.141,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-10-02 21:42:35,193.187.110.214,100,Turkey,Istanbul,Fast Zone IT,Cyberaegis Casa S.R.L,Residential/Business,False
+2026-10-02 21:42:35,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-02 21:42:35,192.236.223.56,100,United States,Los Angeles,HostPapa,CENTRIOHOST-LLC.,Data Center,False
+2026-10-02 21:42:35,89.67.39.124,100,Poland,Lublin,UPC.pl,UPC Polska Sp. z o.o.,Residential/Business,False
+2026-10-02 21:42:35,222.168.35.178,100,China,Changchun,Chinanet,CC Pifuminiaoyiyuan,Residential/Business,False
+2026-10-02 21:42:35,34.153.213.64,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-02 21:42:35,47.250.88.140,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-10-02 21:42:35,66.116.243.149,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,True
+2026-10-02 21:42:35,5.102.169.29,100,United Kingdom,Maidstone,CustodianDC Limited,Custdc Jssec,Residential/Business,True
+2026-10-02 21:42:35,20.15.201.167,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-02 21:42:35,164.92.160.36,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-02 21:42:35,89.109.4.236,100,Russia,Nizhniy Novgorod,NMTS,,Residential/Business,False
+2026-10-02 21:42:35,85.217.149.61,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-02 21:42:35,69.5.169.26,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-02 21:42:35,66.116.241.89,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-02 21:42:35,79.124.60.218,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-02 21:42:35,92.207.4.157,100,United Kingdom,Southampton,Gamma Mobile,,Residential/Business,False
+2026-10-02 21:42:35,20.5.85.204,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-02 21:42:35,103.63.25.111,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV. PURBASARI PRATAMA,Data Center,False
+2026-10-02 21:42:35,193.8.187.3,100,Ukraine,Kyiv,Stolitomson Company DOO,CojuhariSolutions,Residential/Business,False
+2026-10-02 21:42:35,59.8.98.7,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-10-02 21:42:35,98.122.215.23,100,United States,Apex,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-10-02 21:42:35,62.210.142.177,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-10-02 21:42:35,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-02 21:42:35,193.8.187.11,100,Ukraine,Kyiv,Stolitomson Company DOO,CojuhariSolutions,Residential/Business,False
+2026-10-02 21:42:35,45.156.129.165,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-10-02 21:42:35,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
