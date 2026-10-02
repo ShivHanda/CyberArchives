@@ -122304,3 +122304,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-02 03:38:15,4.227.177.164,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-10-02 03:38:15,40.124.117.65,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
 2026-10-02 03:38:15,119.54.13.201,100,China,Jilin,CNC Group CHINA169 Jilin Province Network,,Residential/Business,False
+2026-10-02 10:14:19,168.235.210.157,100,United States,Linden,"Surf Air Wireless, LLC",FreedomNet,Residential/Business,False
+2026-10-02 10:14:19,24.23.125.83,100,United States,Aliquippa,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-10-02 10:14:19,81.19.216.97,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-02 10:14:19,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-02 10:14:19,1.214.214.114,100,South Korea,Suwon,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-10-02 10:14:19,20.70.173.30,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-02 10:14:19,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-02 10:14:19,216.126.227.184,100,United States,Ogden,RouterHosting LLC,anyNode,Data Center,False
+2026-10-02 10:14:19,158.180.79.132,100,South Korea,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),Data Center,False
+2026-10-02 10:14:19,119.207.89.131,100,South Korea,Jeju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-02 10:14:19,65.49.1.235,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-02 10:14:19,116.59.10.150,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-02 10:14:19,64.62.156.225,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-02 10:14:19,85.208.96.208,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-10-02 10:14:19,185.226.197.104,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-10-02 10:14:19,94.154.46.243,100,United States,New York,Omegatech LTD,FOP Danik Vyacheslav Evgenievich,Residential/Business,False
+2026-10-02 10:14:19,160.191.89.83,100,Vietnam,Go Vap,GOLDEN,Golden EGG Marketing Company Limited,Residential/Business,False
+2026-10-02 10:14:19,115.239.70.191,100,China,Jiaxing,Chinanet,,Residential/Business,False
+2026-10-02 10:14:19,70.167.234.118,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-02 10:14:19,77.67.9.200,100,United Kingdom,London,GTT,,Residential/Business,False
+2026-10-02 10:14:19,8.219.176.1,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-02 10:14:19,66.132.172.148,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-02 10:14:19,162.241.235.82,100,United States,Ashburn,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-10-02 10:14:19,185.191.171.1,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Data Center,False
+2026-10-02 10:14:19,34.76.193.6,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-02 10:14:19,27.123.107.154,100,India,Gurugram,Bharti Airtel,Bharti Airtel Limited,Residential/Business,False
+2026-10-02 10:14:19,65.20.168.147,100,Iraq,Najaf,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-10-02 10:14:19,163.172.66.206,100,France,Paris,Scaleway SAS,ONLINE,Data Center,True
+2026-10-02 10:14:19,5.160.108.78,100,Iran,Tehran,Respina Networks & Beyond PJSC,IP Master Group LLC FZ,Residential/Business,False
+2026-10-02 10:14:19,79.124.58.18,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Residential/Business,False
+2026-10-02 10:14:19,58.34.174.90,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-10-02 10:14:19,59.23.40.73,100,South Korea,Daegu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-02 10:14:19,8.216.8.90,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-02 10:14:19,85.208.96.198,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-10-02 10:14:19,193.163.125.88,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-02 10:14:19,89.108.74.178,100,Russia,Moscow,"""Domain names registrar REG.RU"", Ltd",Reg.Ru-B2C,Data Center,False
+2026-10-02 10:14:19,31.189.214.146,100,Italy,Palermo,H3G Italy SpA,UMTS Company,Residential/Business,False
+2026-10-02 10:14:19,62.108.201.221,100,Sweden,Sundsvall,Arkaden Konsult AB,Arkaden Konsult AB,Residential/Business,False
+2026-10-02 10:14:19,69.5.20.205,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-02 10:14:19,27.115.113.138,100,China,Shanghai,China Unicom Shanghai Province Network,,Residential/Business,False
+2026-10-02 10:14:19,64.62.156.200,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-02 10:14:19,18.119.209.50,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-02 10:14:19,150.136.214.177,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
+2026-10-02 10:14:19,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-02 10:14:19,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-02 10:14:19,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-02 10:14:19,24.193.147.183,100,United States,Queens,Charter Communications Inc,Spectrum,Residential/Business,False
+2026-10-02 10:14:19,193.163.125.93,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-02 10:14:19,118.193.65.234,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-02 10:14:19,193.176.31.224,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
