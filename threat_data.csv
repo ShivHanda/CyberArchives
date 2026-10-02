@@ -122354,3 +122354,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-02 10:14:19,193.163.125.93,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
 2026-10-02 10:14:19,118.193.65.234,100,United Kingdom,City of London,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
 2026-10-02 10:14:19,193.176.31.224,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-02 17:15:58,65.49.1.172,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-02 17:15:58,121.14.34.219,100,China,Guangzhou,China Telecom,,Residential/Business,False
+2026-10-02 17:15:58,159.65.2.17,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-02 17:15:58,103.97.101.25,100,Indonesia,Pekalongan,Dinas Kominfo Kota Pekalongan,,Residential/Business,False
+2026-10-02 17:15:58,70.183.236.137,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-02 17:15:58,60.12.5.190,100,China,Hangzhou,CNC Group CHINA169 Zhejiang Province Network,,Residential/Business,False
+2026-10-02 17:15:58,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-02 17:15:58,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-02 17:15:58,104.248.130.34,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-02 17:15:58,103.88.76.27,100,India,Puducherry,Thamizhaga Internet Communications Private Limited,Thamizhaga Internet Communications Private Limited,Residential/Business,False
+2026-10-02 17:15:58,98.80.120.159,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,129.121.78.234,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-02 17:15:58,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-02 17:15:58,138.2.92.229,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-10-02 17:15:58,150.95.84.186,100,Thailand,Bangkok,GMO-Z.COM PTE. LTD.,Zcom,Residential/Business,False
+2026-10-02 17:15:58,125.88.160.13,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-02 17:15:58,178.128.84.187,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-02 17:15:58,92.222.24.87,100,France,Paris,OVH SAS,OVH SAS,Data Center,False
+2026-10-02 17:15:58,69.5.20.205,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-02 17:15:58,77.91.65.95,100,Finland,Helsinki,Foton Telecom CJSC,,Residential/Business,False
+2026-10-02 17:15:58,18.212.90.9,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,34.14.122.221,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-02 17:15:58,89.125.168.199,100,Germany,Frankfurt am Main,Scalaxy B.V.,OneDash,Residential/Business,False
+2026-10-02 17:15:58,77.66.185.168,100,Russia,Kazan',MTS PJSC,PJSC MTS / former CJSC Comstar-Direct,Mobile,False
+2026-10-02 17:15:58,198.55.103.143,100,Ireland,Dublin,HostPapa,VPS ACE,Data Center,False
+2026-10-02 17:15:58,54.174.230.107,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,199.45.154.176,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-02 17:15:58,54.204.76.69,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,51.254.130.161,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-10-02 17:15:58,104.152.52.123,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-10-02 17:15:58,82.213.47.180,100,Palestine,Ramallah,Palestine Telecommunications Company,PALTEL,Residential/Business,False
+2026-10-02 17:15:58,72.47.208.90,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-02 17:15:58,40.124.121.167,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-02 17:15:58,151.237.115.206,100,Bulgaria,Sofia,Pronet Telecom Ltd,Pronet Telecom Ltd.,Residential/Business,False
+2026-10-02 17:15:58,54.197.86.219,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,54.159.49.205,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,213.215.209.101,100,Italy,Rome,COLT Technology Services Group Limited,Babylon Cloud SpA,Data Center,False
+2026-10-02 17:15:58,134.199.173.198,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-02 17:15:58,3.129.187.38,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-02 17:15:58,172.213.17.173,100,Italy,Milan,Microsoft Corporation,Microsoft Azure Cloud (italynorth),Data Center,False
+2026-10-02 17:15:58,158.173.79.48,100,Lithuania,Vilnius,UAB Bacloud,"VPN Consumer Vilnius, Lithuania",Data Center,True
+2026-10-02 17:15:58,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-02 17:15:58,36.135.62.103,100,China,Changchun,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-02 17:15:58,18.212.20.153,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-02 17:15:58,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-02 17:15:58,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-02 17:15:58,2a0f:ca80:b00b:eff9::5,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-02 17:15:58,87.106.210.150,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
+2026-10-02 17:15:58,34.81.117.1,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-10-02 17:15:58,31.14.254.5,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
