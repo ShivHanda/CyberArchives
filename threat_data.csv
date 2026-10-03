@@ -122649,3 +122649,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-03 17:43:08,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
 2026-10-03 17:43:08,42.112.31.145,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Residential/Business,False
 2026-10-03 17:43:08,78.89.154.59,100,Kuwait,As Sālimīyah,WTC Mobile IP,,Mobile,False
+2026-10-03 20:28:05,109.160.32.31,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-03 20:28:05,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-03 20:28:05,47.245.141.207,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-03 20:28:05,209.38.69.12,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-03 20:28:05,160.119.66.206,100,The Netherlands,Amsterdam,HostUS,,Data Center,False
+2026-10-03 20:28:05,175.198.180.129,100,South Korea,Namdong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-03 20:28:05,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-03 20:28:05,161.33.228.223,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-10-03 20:28:05,129.121.74.52,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-03 20:28:05,138.226.239.34,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-03 20:28:05,2.57.17.182,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-10-03 20:28:05,103.60.242.169,100,Vietnam,Mai Dich,Mega Technology Company Limited,Mega Technology Company Limited,Residential/Business,False
+2026-10-03 20:28:05,187.212.59.26,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-10-03 20:28:05,160.251.202.50,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-10-03 20:28:05,213.209.159.175,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-03 20:28:05,66.132.172.134,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-03 20:28:05,69.5.169.147,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-03 20:28:05,101.126.53.14,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-10-03 20:28:05,14.19.139.114,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-03 20:28:05,176.65.148.91,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-03 20:28:05,69.5.169.158,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-03 20:28:05,142.93.40.40,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-03 20:28:05,41.93.82.201,100,Tanzania,Dar es Salaam,Tanzania Education And Research Network,Tanzania Education And Research Network,Residential/Business,False
+2026-10-03 20:28:05,174.138.23.25,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-03 20:28:05,34.48.161.156,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-03 20:28:05,106.12.127.250,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-03 20:28:05,120.50.9.202,100,Bangladesh,Kafrul,TelNET Communication Ltd,Telnet,Residential/Business,False
+2026-10-03 20:28:05,125.124.72.167,100,China,Yanguan,Chinanet,,Residential/Business,False
+2026-10-03 20:28:05,49.204.74.149,100,India,Bengaluru,Atria Convergence Technologies Ltd.,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-10-03 20:28:05,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-03 20:28:05,184.186.73.83,100,United States,Lafayette,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-03 20:28:05,185.247.137.223,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-03 20:28:05,77.91.71.91,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-03 20:28:05,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-03 20:28:05,154.40.33.241,100,United States,Los Angeles,NetLab Global,Cogent Communications,Residential/Business,False
+2026-10-03 20:28:05,163.7.9.55,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-03 20:28:05,193.32.209.236,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-03 20:28:05,92.222.74.154,100,France,Paris,OVH SAS,RunAbove Static IP,Data Center,False
+2026-10-03 20:28:05,163.47.33.38,100,Bangladesh,Dhaka,Link3 Technologies Limited,Link3 Technologies Ltd,Residential/Business,False
+2026-10-03 20:28:05,183.56.210.110,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-10-03 20:28:05,213.209.159.236,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-03 20:28:05,89.21.67.167,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-03 20:28:05,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-03 20:28:05,203.236.95.41,100,South Korea,Gyeonggi-do,Korea Telecom,,Residential/Business,False
+2026-10-03 20:28:05,79.143.45.75,100,Ukraine,Vinnytsia,Vinteleport Additional,,Residential/Business,False
