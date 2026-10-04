@@ -122794,3 +122794,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-04 07:39:53,177.220.190.171,100,Brazil,Curitiba,Ligga Servicos EM Telecom S.A,E. F. CLEMENTE & CIA LTDA,Residential/Business,False
 2026-10-04 07:39:53,188.166.248.40,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
 2026-10-04 07:39:53,122.194.13.97,100,China,Suzhou,CNC Group CHINA169 Jiangsu Province Network,,Residential/Business,True
+2026-10-04 13:36:52,197.221.232.44,100,Zimbabwe,Chinhoyi,Telone PVT Ltd,,Residential/Business,False
+2026-10-04 13:36:52,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-10-04 13:36:52,129.121.102.102,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-04 13:36:52,73.21.28.14,100,United States,Savannah,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-10-04 13:36:52,197.5.145.102,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-10-04 13:36:52,103.255.109.151,100,Indonesia,Sidoarjo,PT Sarana Intimedia Telematika,PT Citra Satelit Pratama,Residential/Business,False
+2026-10-04 13:36:52,187.174.238.116,100,Mexico,Cuernavaca,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-04 13:36:52,203.189.195.8,100,China,Guangzhou,Cloud Computing Corporation,Chinanet GD,Data Center,False
+2026-10-04 13:36:52,211.198.160.213,100,South Korea,Seo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-04 13:36:52,190.128.166.110,100,Paraguay,Asunción,Telecel S.A.,Telecel S.A,Residential/Business,False
+2026-10-04 13:36:52,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-04 13:36:52,217.60.242.17,100,United Kingdom,London,Gold IP L.l.c-fz,Gold IP L.l.c-fz,Residential/Business,False
+2026-10-04 13:36:52,123.58.198.35,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-04 13:36:52,2602:fa59:10:311::1,100,United States,Ogden,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-10-04 13:36:52,172.172.131.149,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-04 13:36:52,62.38.20.61,100,Greece,Athens,Vodafone-panafon Hellenic Telecommunications Company SA,Vodafone Greece Fixed,Residential/Business,False
+2026-10-04 13:36:52,69.5.169.149,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-10-04 13:36:52,118.196.68.35,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-10-04 13:36:52,85.155.179.37,100,United States,Los Angeles,HostHatch,"HostHatch, LLC",Data Center,False
+2026-10-04 13:36:52,129.121.138.217,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-04 13:36:52,45.238.2.87,100,Brazil,Goiânia,T & I TELECOMUNICAÇÕES LTDA ME,T & I TELECOMUNICAÇÕES LTDA ME,Residential/Business,False
+2026-10-04 13:36:52,45.161.109.121,100,Chile,Port Montt,SERVICIOS INGENIERIA Y PRODUCTOS EN TELECOMUNICACIONES SpA (SIPTEL CHILE),SERVICIOS INGENIERIA Y PRODUCTOS EN TELECOMUNICACIONES SpA (SIPTEL CHILE),Residential/Business,False
+2026-10-04 13:36:52,185.136.15.90,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-10-04 13:36:52,187.140.193.66,100,Mexico,Celaya,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-04 13:36:52,195.239.242.118,100,Russia,Moscow,Sovam Teleport,,Residential/Business,False
+2026-10-04 13:36:52,193.176.31.253,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-04 13:36:52,66.132.195.79,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-04 13:36:52,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-10-04 13:36:52,5.252.83.47,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-04 13:36:52,113.141.171.139,100,China,Xincheng,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,True
+2026-10-04 13:36:52,20.197.26.46,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-04 13:36:52,79.124.58.22,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Residential/Business,False
+2026-10-04 13:36:52,14.103.28.111,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-04 13:36:52,185.223.235.14,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-04 13:36:52,24.234.208.160,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc,Residential/Business,False
+2026-10-04 13:36:52,58.186.20.101,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-04 13:36:52,185.245.184.230,100,Russia,St Petersburg,Forest Net LTD,Forest Net LTD,Residential/Business,False
+2026-10-04 13:36:52,69.5.169.60,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-04 13:36:52,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-04 13:36:52,118.122.147.195,100,China,Chengdu,CHINANET SiChuan Telecom Internet Data Center,Chinanet SC,Data Center,True
+2026-10-04 13:36:52,183.179.44.89,100,Hong Kong,Tseung Kwan O,Hong Kong Broadband Network Limited,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-10-04 13:36:52,62.210.89.150,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-10-04 13:36:52,192.253.248.223,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-04 13:36:52,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-04 13:36:52,163.172.163.10,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-10-04 13:36:52,178.128.75.66,100,United States,Santa Clara,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-04 13:36:52,78.47.215.179,100,Germany,Falkenstein,Hetzner,George Tsoulouhas,Data Center,False
+2026-10-04 13:36:52,219.128.15.190,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-04 13:36:52,94.154.43.146,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-10-04 13:36:52,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
