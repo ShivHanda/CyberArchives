@@ -122844,3 +122844,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-04 13:36:52,219.128.15.190,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
 2026-10-04 13:36:52,94.154.43.146,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
 2026-10-04 13:36:52,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-04 17:56:47,85.217.149.42,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-04 17:56:47,109.160.32.145,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-04 17:56:47,79.124.49.70,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-04 17:56:47,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-10-04 17:56:47,116.71.136.125,100,Pakistan,Karachi,PTCL Triple Play Project,,Residential/Business,False
+2026-10-04 17:56:47,117.241.173.88,100,India,Jodhpur,BSNL Internet,,Residential/Business,False
+2026-10-04 17:56:47,203.170.192.251,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Idc Csloxinfo,Residential/Business,False
+2026-10-04 17:56:47,52.204.81.148,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-04 17:56:47,66.132.186.200,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-04 17:56:47,46.24.47.94,100,Spain,Barcelona,Vodafone Espana S.A.U.,SVL Sistemas Seguridad SL,Residential/Business,False
+2026-10-04 17:56:47,218.51.148.194,100,South Korea,Seoul,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-04 17:56:47,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-10-04 17:56:47,66.132.186.237,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-04 17:56:47,153.99.92.11,100,China,Nanjing,CHINA UNICOM China169 Backbone,Unicom JS,Residential/Business,True
+2026-10-04 17:56:47,159.203.46.22,100,Canada,Toronto,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-04 17:56:47,143.198.161.227,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-04 17:56:47,52.3.26.180,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-04 17:56:47,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-04 17:56:47,62.16.41.154,100,Russia,Perm,MTS PJSC,CCL Home34,Mobile,False
+2026-10-04 17:56:47,129.121.143.149,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-04 17:56:47,20.77.26.9,100,United Kingdom,City of London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),Data Center,False
+2026-10-04 17:56:47,66.132.195.100,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-04 17:56:47,103.142.240.142,100,Indonesia,Jakarta,Multi Teknologi Telematika,,Residential/Business,False
+2026-10-04 17:56:47,66.132.195.37,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-04 17:56:47,109.160.32.178,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-04 17:56:47,203.18.243.123,100,Australia,Melbourne,Lightning Broadband Pty Ltd,Lightning Broadband,Residential/Business,False
+2026-10-04 17:56:47,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-04 17:56:47,103.112.54.86,100,Bangladesh,Dhaka,Carnival Internet,,Residential/Business,False
+2026-10-04 17:56:47,80.102.218.187,100,Spain,Valdepeñas,Uni2 1,,Residential/Business,False
+2026-10-04 17:56:47,77.239.124.153,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-04 17:56:47,36.134.208.91,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-04 17:56:47,195.178.110.102,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-04 17:56:47,69.5.169.252,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-04 17:56:47,103.123.53.88,100,India,Mumbai,Yotta Network Services Private Limited,Yotta Network Services Private Limited,Residential/Business,False
+2026-10-04 17:56:47,118.139.164.171,100,Singapore,Singapore,Godaddy.com,,Data Center,False
+2026-10-04 17:56:47,156.59.197.102,100,Hong Kong,Hong Kong,Zenlayer Inc,ZEN,Data Center,False
+2026-10-04 17:56:47,20.71.254.235,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-10-04 17:56:47,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-04 17:56:47,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-04 17:56:47,129.226.153.214,100,Singapore,Singapore,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-10-04 17:56:47,66.132.172.135,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-04 17:56:47,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-04 17:56:47,103.59.95.165,100,Indonesia,Pekanbaru,PT Lakuloka Digital Indonesia,,Data Center,False
+2026-10-04 17:56:47,129.121.126.188,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-04 17:56:47,125.253.123.34,100,Vietnam,Quận Tân Phú,ODS Joint Stock Company,ODSJSC,Residential/Business,False
+2026-10-04 17:56:47,178.251.140.3,100,Russia,Moscow,DSSV Core Net,,Residential/Business,False
+2026-10-04 17:56:47,211.51.132.104,100,South Korea,Gimhae,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-04 17:56:47,123.25.97.130,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-10-04 17:56:47,181.15.247.219,100,Argentina,Buenos Aires,Telecom Argentina S.A,Gustavo Carrizo,Residential/Business,False
+2026-10-04 17:56:47,48.216.218.42,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
