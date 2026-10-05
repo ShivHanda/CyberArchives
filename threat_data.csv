@@ -123044,3 +123044,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-05 08:06:52,85.217.149.33,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
 2026-10-05 08:06:52,102.140.97.134,100,Nigeria,Ikoyi,Accelon,Internet,Residential/Business,True
 2026-10-05 08:06:52,2.188.206.146,100,Iran,Tehran,Telecommunication Infrastructure Company,Respina,Residential/Business,False
+2026-10-05 19:00:16,85.217.149.21,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-05 19:00:16,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-05 19:00:16,220.247.224.226,100,Sri Lanka,Avissawella,Sri Lanka Telecom Ltd,,Data Center,False
+2026-10-05 19:00:16,58.220.39.200,100,China,Nanjing,"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.",Chinanet JS,Residential/Business,False
+2026-10-05 19:00:16,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-05 19:00:16,4.37.150.238,100,United States,Monroe,"Level 3 Communications, Inc.","Level 3, LLC",Residential/Business,False
+2026-10-05 19:00:16,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-05 19:00:16,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-05 19:00:16,101.44.67.149,100,Hong Kong,Hong Kong,Huawei International Pte. LTD,,Data Center,False
+2026-10-05 19:00:16,139.59.234.78,100,Singapore,Singapore,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-10-05 19:00:16,116.123.150.231,100,South Korea,Suwon,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-05 19:00:16,4.182.219.135,100,Germany,Frankfurt am Main,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),Data Center,False
+2026-10-05 19:00:16,220.132.197.23,100,Taiwan,Taichung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-05 19:00:16,20.29.30.201,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-05 19:00:16,5.252.83.128,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-05 19:00:16,34.83.93.216,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-10-05 19:00:16,109.160.32.30,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-05 19:00:16,185.214.101.139,100,Spain,Navalcarnero,Iomart Cloud Services Limited,Invermae Solutions NocX,Data Center,False
+2026-10-05 19:00:16,100.49.117.77,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-05 19:00:16,118.43.210.170,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-10-05 19:00:16,103.255.250.161,100,Singapore,Singapore,EN Technologies Co-location,EN Technologies Pte Ltd,Residential/Business,False
+2026-10-05 19:00:16,77.239.124.74,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-05 19:00:16,113.171.81.144,100,Vietnam,Hanoi,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-10-05 19:00:16,101.89.141.184,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-05 19:00:16,129.121.75.215,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-05 19:00:16,123.180.188.162,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-10-05 19:00:16,109.160.32.114,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-05 19:00:16,77.91.71.92,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-05 19:00:16,74.7.227.173,100,United States,Atlanta,Microsoft Corporation,Cloud,Data Center,False
+2026-10-05 19:00:16,34.53.184.30,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-05 19:00:16,66.132.172.103,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-05 19:00:16,49.164.114.179,100,South Korea,Gunpo,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-10-05 19:00:16,104.28.205.123,100,United States,Gainesville,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-05 19:00:16,176.120.22.61,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-10-05 19:00:16,103.90.235.196,100,Vietnam,Quận Mười Một,WEBPANDA,Web Panda Company Ltd,Residential/Business,False
+2026-10-05 19:00:16,160.22.126.54,100,Indonesia,Sangatta,PT. Kaltim Net Nusantara,,Residential/Business,False
+2026-10-05 19:00:16,20.229.185.186,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-10-05 19:00:16,172.110.223.179,100,United States,Newark,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-10-05 19:00:16,163.7.8.79,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-05 19:00:16,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-05 19:00:16,103.215.75.19,100,United States,Dallas,Rekha M. Jain,,Residential/Business,True
+2026-10-05 19:00:16,89.126.211.166,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Data Center,True
+2026-10-05 19:00:16,85.217.149.47,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-05 19:00:16,167.71.233.141,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-05 19:00:16,160.119.76.137,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
+2026-10-05 19:00:16,104.248.50.219,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-05 19:00:16,70.183.235.233,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-05 19:00:16,40.83.182.122,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
+2026-10-05 19:00:16,51.195.149.120,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-10-05 19:00:16,77.78.203.131,100,Bosnia and Herzegovina,Sarajevo,Telemach BH,,Residential/Business,False
