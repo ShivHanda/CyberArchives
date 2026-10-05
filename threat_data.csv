@@ -122944,3 +122944,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-04 20:51:58,121.15.140.235,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
 2026-10-04 20:51:58,104.199.236.38,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
 2026-10-04 20:51:58,51.210.247.58,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-10-05 00:22:44,193.163.125.128,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-05 00:22:44,218.148.11.13,100,South Korea,Anyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-05 00:22:44,220.133.110.9,100,Taiwan,Kaohsiung,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-05 00:22:44,137.74.114.131,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-10-05 00:22:44,174.71.214.155,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-05 00:22:44,43.138.60.111,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-05 00:22:44,103.86.198.253,100,Bangladesh,Tongi,Nasrin Sultana t/a Maisha,,Residential/Business,False
+2026-10-05 00:22:44,152.32.206.87,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-05 00:22:44,182.76.115.214,100,India,Navi Mumbai,Bharti Airtel,Nbcc LTD,Mobile,False
+2026-10-05 00:22:44,102.53.15.18,100,Morocco,Casablanca,Casa Marrakech 4G MarocTelecom,,Residential/Business,False
+2026-10-05 00:22:44,77.91.71.91,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-05 00:22:44,4.210.91.174,100,Ireland,Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),Data Center,False
+2026-10-05 00:22:44,223.18.35.4,100,Hong Kong,Wong Tai Sin,HGC Global Communications Limited,HGC Global Communications Limited,Residential/Business,False
+2026-10-05 00:22:44,221.229.218.50,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-10-05 00:22:44,135.125.235.107,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-10-05 00:22:44,72.167.43.80,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-05 00:22:44,71.6.154.144,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-05 00:22:44,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-05 00:22:44,172.93.100.166,100,United States,Piscataway,ReliableSite.Net LLC,Michael von Khurja,Data Center,True
+2026-10-05 00:22:44,20.169.85.54,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-05 00:22:44,180.210.206.32,100,Singapore,Singapore,Sparkstation Pte Ltd,Sparkstation,Data Center,False
+2026-10-05 00:22:44,193.47.62.167,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-05 00:22:44,45.116.78.92,100,Hong Kong,Hong Kong,Colocation at Shatin China Telecom,Digital Based System Company Limited,Data Center,False
+2026-10-05 00:22:44,176.39.99.251,100,Ukraine,Tarashcha,Lanet Network Ltd,Lanet Network Ltd,Residential/Business,False
+2026-10-05 00:22:44,172.236.228.39,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-05 00:22:44,193.163.125.123,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-05 00:22:44,109.160.32.129,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-05 00:22:44,2.57.217.229,100,Georgia,Tbilisi,Multisoft LLC,Multisoftservice,Residential/Business,True
+2026-10-05 00:22:44,64.62.156.103,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-05 00:22:44,175.45.204.121,100,South Korea,Seongnam-si,Naver Business Platform Asia Pacific Pte. Ltd.,NAVER Cloud Corp.,Data Center,False
+2026-10-05 00:22:44,194.50.235.139,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-05 00:22:44,85.217.149.46,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-05 00:22:44,94.154.43.122,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-10-05 00:22:44,193.32.209.231,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-05 00:22:44,212.132.111.47,100,Germany,Berlin,IONOS SE ber.de,IONOS SE,Data Center,False
+2026-10-05 00:22:44,34.178.74.226,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-05 00:22:44,216.244.94.253,100,Indonesia,Jakarta,Wowrack.com,PT.Wowrack Indonesia,Data Center,False
+2026-10-05 00:22:44,222.219.232.57,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-10-05 00:22:44,108.174.145.192,100,Brazil,Vinhedo,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-05 00:22:44,106.75.227.248,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-05 00:22:44,106.75.216.134,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,True
+2026-10-05 00:22:44,106.75.222.86,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-05 00:22:44,101.36.119.203,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-05 00:22:44,40.119.27.158,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-05 00:22:44,154.18.197.35,100,Philippines,Quezon City,Cogent Communications,Ping Networks PH,Residential/Business,False
+2026-10-05 00:22:44,173.15.22.211,100,United States,Chicago,Comcast Cable Communications,Blue Island News Printing,Residential/Business,False
+2026-10-05 00:22:44,101.126.53.14,100,China,Chaowai,GHSX,,Residential/Business,False
+2026-10-05 00:22:44,101.47.15.119,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,True
+2026-10-05 00:22:44,35.187.231.181,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
+2026-10-05 00:22:44,41.93.82.201,100,Tanzania,Dar es Salaam,Tanzania Education And Research Network,Tanzania Education And Research Network,Residential/Business,False
