@@ -122994,3 +122994,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-05 00:22:44,101.47.15.119,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,True
 2026-10-05 00:22:44,35.187.231.181,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,True
 2026-10-05 00:22:44,41.93.82.201,100,Tanzania,Dar es Salaam,Tanzania Education And Research Network,Tanzania Education And Research Network,Residential/Business,False
+2026-10-05 08:06:52,27.155.103.100,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-10-05 08:06:52,196.250.67.161,100,Uganda,Kampala,GVA,GVA UG,Residential/Business,False
+2026-10-05 08:06:52,70.167.235.103,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-05 08:06:52,183.63.125.162,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-05 08:06:52,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-10-05 08:06:52,193.80.70.193,100,Austria,Vienna,A1 Telekom Austria AG,EUNET,Residential/Business,False
+2026-10-05 08:06:52,34.116.169.19,100,Poland,Warsaw,Google LLC,Google Cloud (europe-central2),Data Center,False
+2026-10-05 08:06:52,203.124.50.166,100,Pakistan,Gujranwala,COMSATS,CIS Lahore,Residential/Business,False
+2026-10-05 08:06:52,43.161.234.148,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-10-05 08:06:52,20.194.30.107,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-10-05 08:06:52,43.173.111.217,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-05 08:06:52,78.163.58.144,100,Türkiye,Atakum,Turk Telekom,Turk Telekomunikasyon A.S,Residential/Business,False
+2026-10-05 08:06:52,39.164.66.85,100,China,Guancheng,"China Mobile Communications Group Co., Ltd","China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-05 08:06:52,58.115.53.1,100,Taiwan,New Taipei City,KBT,"KBT Co., LTD",Residential/Business,False
+2026-10-05 08:06:52,213.206.207.162,100,The Netherlands,Wehl,ML Consultancy,MLC/InterConnect,Residential/Business,False
+2026-10-05 08:06:52,34.135.65.189,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-05 08:06:52,193.176.31.201,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-05 08:06:52,61.97.17.208,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-05 08:06:52,47.84.139.182,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-10-05 08:06:52,47.251.251.235,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-05 08:06:52,136.108.146.136,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-05 08:06:52,181.49.149.174,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-10-05 08:06:52,199.45.155.32,100,Hong Kong,Hong Kong,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-05 08:06:52,74.82.47.37,100,United States,Gunnison,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-05 08:06:52,87.251.64.131,100,Poland,Warsaw,Shesternin Vladimir Anatolievich,Isaev,Residential/Business,False
+2026-10-05 08:06:52,98.168.103.132,100,United States,Chesapeake,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-05 08:06:52,64.62.156.86,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-05 08:06:52,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-05 08:06:52,139.198.113.29,100,Hong Kong,Hong Kong,Yunify Technologies Inc,Yunify Technologies Inc.,Data Center,False
+2026-10-05 08:06:52,45.121.25.115,100,Vietnam,Hanoi,MOBIFONE,Mobifone Corporation,Mobile,False
+2026-10-05 08:06:52,31.145.131.202,100,Türkiye,Istanbul,Vodafone Net Iletisim Hizmetler,Ibbspor,Residential/Business,False
+2026-10-05 08:06:52,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-05 08:06:52,20.51.243.7,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-05 08:06:52,185.226.197.43,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-10-05 08:06:52,176.236.127.114,100,Türkiye,Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,Residential/Business,False
+2026-10-05 08:06:52,8.219.165.219,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-05 08:06:52,213.209.159.208,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-05 08:06:52,34.156.22.151,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,True
+2026-10-05 08:06:52,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-05 08:06:52,36.133.53.52,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-05 08:06:52,80.95.38.14,100,Russia,Penza,Rostelecom MRF Volga,,Residential/Business,False
+2026-10-05 08:06:52,115.178.75.243,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-05 08:06:52,2.57.122.74,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-05 08:06:52,182.253.221.210,100,Indonesia,Tangerang,BIZNET,,Residential/Business,False
+2026-10-05 08:06:52,118.196.142.135,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-05 08:06:52,184.105.247.204,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-05 08:06:52,43.153.124.181,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-05 08:06:52,85.217.149.33,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-05 08:06:52,102.140.97.134,100,Nigeria,Ikoyi,Accelon,Internet,Residential/Business,True
+2026-10-05 08:06:52,2.188.206.146,100,Iran,Tehran,Telecommunication Infrastructure Company,Respina,Residential/Business,False
