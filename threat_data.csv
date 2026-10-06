@@ -123094,3 +123094,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-05 19:00:16,40.83.182.122,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,True
 2026-10-05 19:00:16,51.195.149.120,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
 2026-10-05 19:00:16,77.78.203.131,100,Bosnia and Herzegovina,Sarajevo,Telemach BH,,Residential/Business,False
+2026-10-06 01:04:17,77.239.124.79,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-06 01:04:17,163.227.52.50,100,Indonesia,Gianyar,PT Jagoan Data Nusantara,Indonesia Network Information Center,Residential/Business,False
+2026-10-06 01:04:17,221.131.139.70,100,China,Nanjing,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-10-06 01:04:17,5.252.83.165,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-06 01:04:17,93.123.109.163,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-06 01:04:17,64.62.197.17,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-10-06 01:04:17,109.160.32.160,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-06 01:04:17,101.96.199.69,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-06 01:04:17,163.7.3.26,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-06 01:04:17,2.188.206.146,100,Iran,Tehran,Telecommunication Infrastructure Company,Respina,Residential/Business,False
+2026-10-06 01:04:17,37.10.113.218,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-06 01:04:17,116.99.253.167,100,Vietnam,Sơn Dương,Viettel Group,VIETTEL,Residential/Business,False
+2026-10-06 01:04:17,46.147.195.11,100,Russia,Tula,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Tula Branch",Residential/Business,False
+2026-10-06 01:04:17,152.32.141.9,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-06 01:04:17,182.42.93.139,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-10-06 01:04:17,165.99.207.153,100,Pakistan,Islamabad,HEC,Bahria University Islamabad,Residential/Business,True
+2026-10-06 01:04:17,117.27.135.91,100,China,Wenquan,Fuzhou,Chinanet FJ,Residential/Business,False
+2026-10-06 01:04:17,94.154.43.63,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-10-06 01:04:17,204.76.203.219,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-06 01:04:17,123.58.198.35,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-06 01:04:17,213.209.159.133,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,True
+2026-10-06 01:04:17,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-06 01:04:17,109.173.38.135,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-10-06 01:04:17,148.59.129.134,100,United States,Piscataway,Datacamp Limited,HYAS,Residential/Business,False
+2026-10-06 01:04:17,148.59.129.131,100,United States,Piscataway,Datacamp Limited,HYAS,Residential/Business,False
+2026-10-06 01:04:17,54.37.68.60,100,United Kingdom,London,OVH SAS,OVH,Data Center,False
+2026-10-06 01:04:17,202.181.151.54,100,Mexico,Guadalajara,"HostDime.com, Inc.",HostDime.com.mx S.A. de C.V,Data Center,False
+2026-10-06 01:04:17,4.37.150.238,100,United States,Monroe,"Level 3 Communications, Inc.","Level 3, LLC",Residential/Business,False
+2026-10-06 01:04:17,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-06 01:04:17,118.99.114.147,100,Indonesia,North Jakarta,Biznet Gamers,,Residential/Business,False
+2026-10-06 01:04:17,14.103.118.194,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-10-06 01:04:17,46.10.201.90,100,Bulgaria,Sofia,Business Customer Migration,BTC Plc,Residential/Business,False
+2026-10-06 01:04:17,93.51.116.48,100,Italy,Milan,Fastweb SpA,FASTWEB VULA Statico,Residential/Business,False
+2026-10-06 01:04:17,143.42.173.60,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-06 01:04:17,157.245.113.227,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-06 01:04:17,64.89.163.30,100,Germany,Frankfurt am Main,Netiface America,10GIG.host,Data Center,False
+2026-10-06 01:04:17,77.239.120.195,100,Germany,Frankfurt am Main,Senko Digital LLC,Senko Digital LLC,Residential/Business,False
+2026-10-06 01:04:17,192.81.229.181,100,United States,Kankakee,Fabulous Fiber LLC,Fabulous Fiber LLC,Residential/Business,False
+2026-10-06 01:04:17,34.158.236.35,100,Poland,Warsaw,Google LLC,Google Cloud (europe-central2),Data Center,False
+2026-10-06 01:04:17,143.42.1.213,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-06 01:04:17,40.74.209.135,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-06 01:04:17,50.114.236.21,100,United States,Kansas City,CNServer LLC,,Data Center,False
+2026-10-06 01:04:17,64.62.156.184,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-06 01:04:17,183.91.11.36,100,Vietnam,Hanoi,CMC Telecom Infrastructure Company,CMCTELECOM,Residential/Business,False
+2026-10-06 01:04:17,14.29.181.34,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-06 01:04:17,20.40.250.48,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-06 01:04:17,79.124.56.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-06 01:04:17,185.93.89.37,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,False
+2026-10-06 01:04:17,83.48.125.229,100,Spain,Chamartin,RIMA (Red IP Multi Acceso),,Residential/Business,False
+2026-10-06 01:04:17,142.93.136.140,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
