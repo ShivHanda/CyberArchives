@@ -123344,3 +123344,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-07 03:49:16,89.21.67.135,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
 2026-10-07 03:49:16,167.99.86.0,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-07 03:49:16,5.226.140.47,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-07 10:46:45,18.218.118.203,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-10-07 10:46:45,123.13.66.113,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-10-07 10:46:45,88.231.63.15,100,Türkiye,Trabzon,Turk Telekomunikasyon A.S,TurkTelecom,Residential/Business,False
+2026-10-07 10:46:45,103.171.10.132,100,India,Chennai,Rmax Broadband Pvt ltd,Rmaxtec,Residential/Business,False
+2026-10-07 10:46:45,190.140.106.75,100,Panama,Panama City,Cable Onda,DESIGNET,Residential/Business,False
+2026-10-07 10:46:45,103.26.79.107,100,China,Beijing,Chinanet Jiangsu,Anhui Yanhuang Network Technology  Co.,Residential/Business,False
+2026-10-07 10:46:45,46.98.62.56,100,Ukraine,Dnipro,"ISP ""Fregat""",,Residential/Business,False
+2026-10-07 10:46:45,172.90.1.117,100,United States,Los Angeles,Charter Communications,Spectrum,Residential/Business,False
+2026-10-07 10:46:45,195.206.182.204,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-07 10:46:45,115.140.161.61,100,South Korea,Changwon-si,LG POWERCOMM,Xpeed,Residential/Business,False
+2026-10-07 10:46:45,120.136.25.236,100,Cambodia,Phnom Penh,Camintel S.A,Camintelnet,Residential/Business,False
+2026-10-07 10:46:45,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-07 10:46:45,115.190.151.242,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-10-07 10:46:45,49.200.99.254,100,India,Vadodara,GSM,Tata Teleservices Limited -GSM Division,Residential/Business,False
+2026-10-07 10:46:45,213.234.8.114,100,Russia,Volgograd,Unico network,,Residential/Business,False
+2026-10-07 10:46:45,14.29.198.130,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-10-07 10:46:45,211.149.143.207,100,China,Haidian,China Internet Network Information Center,"Chengdu west dimension digital technology Co., LTD",Data Center,False
+2026-10-07 10:46:45,207.90.244.18,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-10-07 10:46:45,189.203.163.10,100,Mexico,Benito Juarez,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.","TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-10-07 10:46:45,206.189.104.174,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-07 10:46:45,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-10-07 10:46:45,111.229.194.151,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-07 10:46:45,70.184.126.19,100,United States,Phoenix,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-07 10:46:45,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-07 10:46:45,103.24.212.134,100,Indonesia,Semarang,PT. ADAU PUTRA NETWORK,,Residential/Business,False
+2026-10-07 10:46:45,66.132.172.183,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-07 10:46:45,183.230.9.103,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-07 10:46:45,220.80.103.232,100,South Korea,Buk-gu,Korea Telecom,KT,Residential/Business,False
+2026-10-07 10:46:45,20.219.14.152,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-07 10:46:45,2.28.13.214,100,Germany,Falkenstein,Hetzner Online GmbH,Hetzner,Residential/Business,False
+2026-10-07 10:46:45,200.223.196.90,100,Brazil,Fortaleza,V tal,Telemar Norte Leste S.A,Residential/Business,False
+2026-10-07 10:46:45,182.48.80.240,100,Bangladesh,Dhaka,Corporate Office,,Residential/Business,False
+2026-10-07 10:46:45,81.236.211.54,100,Sweden,Karlstad,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-10-07 10:46:45,88.215.1.201,100,United Kingdom,Tattenhall,Gamma Telecom xDSL Network,Gamma Telecom DSL Services,Residential/Business,False
+2026-10-07 10:46:45,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-07 10:46:45,192.253.248.173,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-07 10:46:45,115.178.75.243,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-07 10:46:45,111.70.32.53,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-07 10:46:45,103.180.123.42,100,Indonesia,South Jakarta,PT Indo Telemedia Solusi,PT Indo Telemedia Solusi,Residential/Business,False
+2026-10-07 10:46:45,194.0.89.139,100,Ukraine,Kyiv,SYNAPSE,"Open JSC ""Stock company ""Sater""",Residential/Business,False
+2026-10-07 10:46:45,20.80.75.19,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-07 10:46:45,193.24.123.120,100,Russia,Moscow,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-10-07 10:46:45,20.171.13.6,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-07 10:46:45,66.132.195.101,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-07 10:46:45,103.86.180.10,100,India,Pune,Paradise Telecom Pvt Ltd,Paradise Telecom Pvt Ltd,Residential/Business,False
+2026-10-07 10:46:45,218.92.251.198,100,China,Nanjing,CHINANET jiangsu province network,,Residential/Business,False
+2026-10-07 10:46:45,65.181.71.117,100,Hong Kong,Central,PCCW IMS Limited,PCCW IMS Ltd (PCCW Business Internet Access),Residential/Business,False
+2026-10-07 10:46:45,189.149.254.122,100,Mexico,Mexico City,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-10-07 10:46:45,172.94.9.74,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-07 10:46:45,222.116.25.156,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
