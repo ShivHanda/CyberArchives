@@ -123394,3 +123394,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-07 10:46:45,189.149.254.122,100,Mexico,Mexico City,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
 2026-10-07 10:46:45,172.94.9.74,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
 2026-10-07 10:46:45,222.116.25.156,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-07 18:17:30,66.132.172.228,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-07 18:17:30,109.160.32.160,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-07 18:17:30,122.15.129.26,100,India,Mumbai,VODAFONE-STATIC,,Mobile,False
+2026-10-07 18:17:30,14.103.83.214,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-07 18:17:30,110.39.14.226,100,Pakistan,Lahore,Wateen Telecom Limited,Wateen Telecom Limited,Residential/Business,False
+2026-10-07 18:17:30,213.209.159.236,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-07 18:17:30,34.185.207.157,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-07 18:17:30,51.68.151.167,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-10-07 18:17:30,123.58.215.196,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-07 18:17:30,166.62.41.190,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-07 18:17:30,40.80.204.15,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-07 18:17:30,104.208.69.113,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-10-07 18:17:30,171.244.48.137,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-10-07 18:17:30,201.239.164.161,100,Chile,Quillota,VTR BANDA ANCHA S.A.,VTR BANDA ANCHA S.A,Residential/Business,False
+2026-10-07 18:17:30,111.92.157.246,100,Pakistan,Phalia,Fariya Networks,Fariya Networks (Pvt.) Ltd.,Residential/Business,False
+2026-10-07 18:17:30,106.75.175.85,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-07 18:17:30,8.208.10.94,100,United Kingdom,London,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,Data Center,False
+2026-10-07 18:17:30,34.133.155.143,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-07 18:17:30,20.219.160.77,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-07 18:17:30,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-07 18:17:30,43.153.47.115,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-07 18:17:30,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-07 18:17:30,103.243.27.155,100,Hong Kong,San Po Kong,HongKong Virtual Internal Server Company Limited,HongKong Virtual Internal Server Company Limited,Data Center,True
+2026-10-07 18:17:30,35.240.182.111,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-07 18:17:30,20.118.219.95,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-07 18:17:30,85.217.140.37,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-07 18:17:30,51.124.186.154,100,Netherlands,Amsterdam,Microsoft,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-10-07 18:17:30,106.12.182.44,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-07 18:17:30,169.40.142.239,100,France,Saint-Denis,Zkillu SAS,Private Customer,Residential/Business,False
+2026-10-07 18:17:30,43.166.127.235,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-07 18:17:30,201.17.146.173,100,Brazil,Nova Lima,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-10-07 18:17:30,121.237.180.222,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,True
+2026-10-07 18:17:30,34.21.35.250,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-07 18:17:30,34.158.147.220,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-07 18:17:30,218.255.103.194,100,Hong Kong,Kowloon Bay,HKBN Enterprise Solutions HK Limited,HKBNES,Residential/Business,False
+2026-10-07 18:17:30,86.54.31.36,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-10-07 18:17:30,171.244.201.80,100,Vietnam,Hanoi,Viettel Corporation,VIETEL,Residential/Business,False
+2026-10-07 18:17:30,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-10-07 18:17:30,185.121.110.227,100,Ukraine,Rybotyn,Galaxy Plus LLC,GalaxyPlus,Residential/Business,True
+2026-10-07 18:17:30,185.191.171.8,100,United States,Washington,SEMrush CY LTD,SEMrush CY LTD,Data Center,False
+2026-10-07 18:17:30,2a14:c380:1300:192::a,100,The Netherlands,Amsterdam,Julian Achter,Julian Achter,Data Center,False
+2026-10-07 18:17:30,167.71.72.95,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-07 18:17:30,190.181.44.194,100,Bolivia,Cochabamba,AXS Bolivia S. A.,AXS Bolivia S. A,Residential/Business,False
+2026-10-07 18:17:30,20.118.219.154,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-07 18:17:30,185.216.68.66,100,Germany,Frankfurt am Main,Alexhost SRL,OvO Systems Ltd,Data Center,False
+2026-10-07 18:17:30,85.217.149.19,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-07 18:17:30,31.56.58.172,100,France,Saint-Denis,Zkillu SAS,zkilly,Residential/Business,False
+2026-10-07 18:17:30,172.252.13.101,100,United States,Los Angeles,"GorillaServers, Inc.",,Data Center,False
+2026-10-07 18:17:30,91.92.47.252,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-07 18:17:30,46.59.109.240,100,Sweden,Karlstad,Bahnhof AB,General Private NET A463,Residential/Business,False
