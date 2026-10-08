@@ -123594,3 +123594,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-08 12:38:40,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-10-08 12:38:40,35.241.132.20,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-10-08 12:38:40,64.62.156.186,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-08 19:37:00,77.239.124.149,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-08 19:37:00,45.138.12.23,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,True
+2026-10-08 19:37:00,104.243.133.18,100,United States,Los Angeles,HT,yunxin llc,Residential/Business,False
+2026-10-08 19:37:00,34.79.59.9,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-08 19:37:00,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-08 19:37:00,180.76.194.91,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-08 19:37:00,47.79.207.74,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,True
+2026-10-08 19:37:00,216.73.216.174,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-10-08 19:37:00,181.10.138.162,100,Argentina,Córdoba,Telecom Argentina S.A,Gobierno de la Provincia de La Rioja,Residential/Business,False
+2026-10-08 19:37:00,47.251.13.32,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-08 19:37:00,85.217.149.21,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-08 19:37:00,109.160.32.147,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-08 19:37:00,152.32.169.7,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-08 19:37:00,135.119.16.91,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-10-08 19:37:00,188.240.59.22,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-08 19:37:00,192.222.53.104,100,United States,Dallas,Lambda,Lambda,Residential/Business,False
+2026-10-08 19:37:00,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-08 19:37:00,200.222.71.218,100,Brazil,Manaus,V tal,V tal,Residential/Business,False
+2026-10-08 19:37:00,209.141.47.217,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-10-08 19:37:00,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-08 19:37:00,185.246.128.133,100,Sweden,Stockholm,w1n ltd,Dedicated Servers,Residential/Business,False
+2026-10-08 19:37:00,89.23.108.24,100,Germany,Frankfurt am Main,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-10-08 19:37:00,136.248.242.166,100,Chile,Santiago,Oracle Corporation,Oracle Cloud Infrastructure (sa-santiago-1),Data Center,False
+2026-10-08 19:37:00,203.189.221.17,100,China,Guangzhou,CHINANET-CloudyCompany,,Data Center,False
+2026-10-08 19:37:00,221.150.171.99,100,South Korea,Yongin-si,Korea Telecom,KORNET,Residential/Business,False
+2026-10-08 19:37:00,5.61.209.106,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-10-08 19:37:00,129.121.141.3,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-08 19:37:00,123.58.209.116,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-08 19:37:00,103.121.89.16,100,Vietnam,Vinhomes Royal City,Cau Giay Branch of Bach Kim Network solutions Join stock company,BKNS-CG,Residential/Business,False
+2026-10-08 19:37:00,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-08 19:37:00,74.118.81.174,100,Afghanistan,Kabul,Main Street,,Residential/Business,False
+2026-10-08 19:37:00,171.244.197.19,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-10-08 19:37:00,103.61.44.43,100,Vietnam,Yên Phụ,Scom Technology Join stock company,SCOM,Residential/Business,False
+2026-10-08 19:37:00,20.92.77.159,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-08 19:37:00,59.144.172.10,100,India,Delhi,BHARTI,BTNL Delhi,Residential/Business,False
+2026-10-08 19:37:00,34.48.191.186,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-08 19:37:00,40.80.203.142,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-08 19:37:00,152.32.141.199,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-08 19:37:00,66.132.186.187,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-08 19:37:00,66.132.172.218,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-08 19:37:00,20.98.131.159,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-08 19:37:00,34.6.242.111,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-08 19:37:00,34.100.153.150,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-10-08 19:37:00,152.32.134.135,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-08 19:37:00,165.227.55.4,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-08 19:37:00,184.75.223.219,100,Canada,Toronto,Amanah Tech Inc.,Amanah Tech Inc,Data Center,True
+2026-10-08 19:37:00,85.203.23.19,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-10-08 19:37:00,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-10-08 19:37:00,103.186.1.91,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
+2026-10-08 19:37:00,16.216.88.134,100,United States,Brooklyn,Google LLC,ReflectionAI Inc,Data Center,True
