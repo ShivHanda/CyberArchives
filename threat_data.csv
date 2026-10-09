@@ -123694,3 +123694,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-09 00:05:49,34.77.51.30,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-10-09 00:05:49,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
 2026-10-09 00:05:49,197.242.145.222,100,South Africa,Johannesburg,Afrihost,,Data Center,False
+2026-10-09 08:19:51,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-09 08:19:51,58.242.118.12,100,China,Hefei,CNC Group CHINA169 AnHui province network,,Residential/Business,False
+2026-10-09 08:19:51,163.7.13.17,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-09 08:19:51,77.239.124.145,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-09 08:19:51,210.245.20.230,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Data Center,False
+2026-10-09 08:19:51,45.148.10.9,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-09 08:19:51,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-09 08:19:51,69.5.169.101,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 08:19:51,101.89.141.184,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-09 08:19:51,85.217.149.43,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-09 08:19:51,121.142.87.218,100,South Korea,Michuhol,Korea Telecom,Kornet,Residential/Business,False
+2026-10-09 08:19:51,103.143.10.140,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
+2026-10-09 08:19:51,8.213.238.72,100,Thailand,Bangkok,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-09 08:19:51,138.226.239.12,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-09 08:19:51,5.181.86.188,100,Seychelles,Pier Ward,Internet Solutions & Innovations LTD.,Internet Solutions & Innovations LTD,Data Center,False
+2026-10-09 08:19:51,89.37.172.135,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-09 08:19:51,211.106.133.202,100,South Korea,Songpa-gu,Korea Telecom,,Residential/Business,False
+2026-10-09 08:19:51,2.57.122.74,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-09 08:19:51,43.133.187.11,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-10-09 08:19:51,31.14.254.41,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 08:19:51,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-09 08:19:51,14.63.217.28,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-09 08:19:51,62.60.134.210,100,Iran,Tehran,AOFB,IPNET,Data Center,False
+2026-10-09 08:19:51,62.133.60.27,100,Germany,Frankfurt am Main,Global Connectivity Solutions LLP,Global Internet Solutions LLC,Residential/Business,False
+2026-10-09 08:19:51,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-09 08:19:51,101.47.15.119,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,True
+2026-10-09 08:19:51,69.5.169.17,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 08:19:51,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-09 08:19:51,173.255.223.89,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-10-09 08:19:51,45.17.39.120,100,United States,Birmingham,"AT&T Enterprises, LLC",Private Customer - AT&T Internet Services,Residential/Business,False
+2026-10-09 08:19:51,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-09 08:19:51,66.132.186.169,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-09 08:19:51,223.198.164.254,100,China,Qiongshan,Chinanet,Hainan TELECOM,Residential/Business,False
+2026-10-09 08:19:51,86.13.215.13,100,United Kingdom,Brockley,Virgin Media,Virgin Media Limited,Residential/Business,False
+2026-10-09 08:19:51,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-09 08:19:51,2.57.122.53,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-09 08:19:51,69.5.169.43,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 08:19:51,93.90.41.12,100,Russia,Dmitrov,Net By Net Holding LLC,Cjsc Advantage Telecom,Residential/Business,False
+2026-10-09 08:19:51,45.229.91.2,100,Brazil,Ponta Grossa,Netfibra Telecomunicacoes Ltda - ME,Netfibra Telecomunicacoes Ltda - ME,Residential/Business,False
+2026-10-09 08:19:51,161.118.194.12,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-10-09 08:19:51,185.220.101.154,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,Data Center,True
+2026-10-09 08:19:51,66.132.186.134,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-09 08:19:51,152.207.143.67,100,Cuba,Havana,Empresa de Telecomunicaciones de Cuba,UPR Soluciones REOME,Residential/Business,False
+2026-10-09 08:19:51,211.199.37.187,100,South Korea,Suseong-gu,Korea Telecom,,Residential/Business,False
+2026-10-09 08:19:51,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-09 08:19:51,193.124.20.226,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 08:19:51,2.57.17.17,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-10-09 08:19:51,82.147.85.103,100,Russia,Novosibirsk,Nerushenko Vyacheslav Nikolaevich,Nerushenko Vyacheslav Nikolaevich,Data Center,False
+2026-10-09 08:19:51,169.40.142.79,100,France,Saint-Denis,Zkillu SAS,Private Customer,Residential/Business,False
+2026-10-09 08:19:51,80.234.36.218,100,Russia,Syzran,Rostelecom networks,JSC VolgaTelecom Samara branch,Residential/Business,False
