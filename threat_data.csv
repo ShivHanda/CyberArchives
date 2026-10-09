@@ -123744,3 +123744,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-09 08:19:51,82.147.85.103,100,Russia,Novosibirsk,Nerushenko Vyacheslav Nikolaevich,Nerushenko Vyacheslav Nikolaevich,Data Center,False
 2026-10-09 08:19:51,169.40.142.79,100,France,Saint-Denis,Zkillu SAS,Private Customer,Residential/Business,False
 2026-10-09 08:19:51,80.234.36.218,100,Russia,Syzran,Rostelecom networks,JSC VolgaTelecom Samara branch,Residential/Business,False
+2026-10-09 16:45:20,66.132.172.96,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-09 16:45:20,213.209.159.236,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-09 16:45:20,103.149.197.34,100,India,Pune,Net Access Internet India Pvt Ltd,Net Access Internet India Pvt Ltd,Residential/Business,False
+2026-10-09 16:45:20,178.128.85.68,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-09 16:45:20,109.160.32.48,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-09 16:45:20,84.242.3.249,100,Russia,St Petersburg,Mobil-group ltd,Mobil,Residential/Business,False
+2026-10-09 16:45:20,81.23.173.32,100,Russia,Moscow,MTS PJSC,MTS Saransk Fixed Broadband Network,Mobile,False
+2026-10-09 16:45:20,120.48.118.142,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-09 16:45:20,113.211.192.150,100,Malaysia,Kuala Lumpur,Maxis Broadband Sdn.Bhd,,Residential/Business,False
+2026-10-09 16:45:20,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-09 16:45:20,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-09 16:45:20,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-09 16:45:20,114.80.39.74,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-09 16:45:20,216.73.216.26,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-10-09 16:45:20,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-09 16:45:20,20.235.120.216,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-09 16:45:20,141.148.165.230,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-10-09 16:45:20,218.149.170.253,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-09 16:45:20,64.225.72.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-09 16:45:20,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-09 16:45:20,20.84.123.15,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-09 16:45:20,103.143.239.201,100,Hong Kong,Mong Kok,Yisu Cloud LTD,"HONG KONG LING JIAN ZHUO TECHNOLOGY CO., LIMITED",Data Center,False
+2026-10-09 16:45:20,66.132.186.254,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-09 16:45:20,20.116.34.103,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-10-09 16:45:20,154.83.17.226,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-10-09 16:45:20,95.15.217.240,100,Turkey,Konya,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,Residential/Business,False
+2026-10-09 16:45:20,180.76.135.219,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-09 16:45:20,217.60.76.179,100,The Netherlands,Amsterdam,"Netiface America, Inc.",10GIG.host,Data Center,False
+2026-10-09 16:45:20,193.163.125.127,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-09 16:45:20,34.76.134.46,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-09 16:45:20,23.94.37.69,100,United States,Elk Grove Village,HostPapa,Ankit Jain,Data Center,False
+2026-10-09 16:45:20,170.106.169.228,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,False
+2026-10-09 16:45:20,42.1.65.89,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-09 16:45:20,185.242.226.126,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-10-09 16:45:20,176.10.203.54,100,Sweden,Karlstad,Bahnhof AB,General Private NET A463,Residential/Business,False
+2026-10-09 16:45:20,111.26.115.122,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-09 16:45:20,88.147.30.59,100,Italy,Piazza,NGI,NGI SpA,Residential/Business,False
+2026-10-09 16:45:20,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-10-09 16:45:20,173.254.207.25,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-10-09 16:45:20,101.47.15.119,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,Residential/Business,True
+2026-10-09 16:45:20,101.79.165.43,100,Singapore,Singapore,Meteverse Limited.,Cdnetworks,Data Center,False
+2026-10-09 16:45:20,59.126.224.134,100,Taiwan,Changhua,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-09 16:45:20,165.154.162.74,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-09 16:45:20,104.248.123.42,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-09 16:45:20,79.124.56.202,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-09 16:45:20,192.222.53.104,100,United States,Dallas,Lambda,Lambda,Residential/Business,False
+2026-10-09 16:45:20,14.103.114.85,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-09 16:45:20,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-09 16:45:20,220.250.52.101,100,China,Jinrongjie,CHINA UNICOM China169 Backbone,UNI FJFZ FujianInformationSecurityCenter,Residential/Business,False
+2026-10-09 16:45:20,162.243.71.89,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
