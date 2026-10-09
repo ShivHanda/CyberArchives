@@ -123644,3 +123644,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-08 19:37:00,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
 2026-10-08 19:37:00,103.186.1.91,100,Indonesia,Sukabumi,PT Cloud Hosting Indonesia,CV Ansa Project,Data Center,False
 2026-10-08 19:37:00,16.216.88.134,100,United States,Brooklyn,Google LLC,ReflectionAI Inc,Data Center,True
+2026-10-09 00:05:49,101.47.158.56,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-10-09 00:05:49,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-09 00:05:49,102.220.161.139,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-09 00:05:49,40.76.224.207,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-09 00:05:49,77.239.124.150,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,True
+2026-10-09 00:05:49,85.217.149.50,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-09 00:05:49,218.78.63.123,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-09 00:05:49,45.168.65.206,100,Brazil,São Paulo,Thiago aparecido scaramuzza santana,Thiago aparecido scaramuzza santana,Residential/Business,False
+2026-10-09 00:05:49,120.195.50.149,100,China,Nanjing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-09 00:05:49,157.245.34.56,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-09 00:05:49,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-09 00:05:49,218.17.163.229,100,China,Shenzhen,Chinanet,Zhongguodianxin,Residential/Business,False
+2026-10-09 00:05:49,91.225.162.39,100,Ukraine,Odesa,SPD Chernega Aleksandr Anatolevich,Flycom ISP,Residential/Business,False
+2026-10-09 00:05:49,47.251.76.220,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,True
+2026-10-09 00:05:49,218.13.214.18,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,True
+2026-10-09 00:05:49,85.217.149.48,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-09 00:05:49,218.21.37.250,100,China,Beijing,Chinanet,Ltqwt BAR,Residential/Business,False
+2026-10-09 00:05:49,113.107.33.56,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-10-09 00:05:49,43.226.39.182,100,China,Haikuotiankong,CHINANET Liaoning province Dalian MAN network,Shenzhen Qianhai bird cloud computing Co. Ltd.,Data Center,False
+2026-10-09 00:05:49,177.215.134.250,100,Brazil,São Paulo,TELEFÔNICA BRASIL S.A,Vivo,Residential/Business,False
+2026-10-09 00:05:49,40.124.172.59,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-09 00:05:49,162.241.29.37,100,United States,Atlanta,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-10-09 00:05:49,218.4.156.254,100,China,Kunshan,Chinanet,Chinanet JS,Residential/Business,False
+2026-10-09 00:05:49,112.161.42.97,100,South Korea,Goyang-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-09 00:05:49,222.71.205.34,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-09 00:05:49,103.134.255.114,100,Bangladesh,Dhaka,City Net Communication,Md Nasir Uddin,Residential/Business,False
+2026-10-09 00:05:49,2.55.100.104,100,Israel,Herzliya,Partner Communications,,Mobile,False
+2026-10-09 00:05:49,189.217.130.86,100,Mexico,Chalco,"Cablevisión, S.A. de C.V.","Cablevisión, S.A. de C.V",Residential/Business,False
+2026-10-09 00:05:49,46.59.88.86,100,Sweden,Karlstad,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-10-09 00:05:49,85.12.248.68,100,Russia,Yekaterinburg,INSYS network,,Residential/Business,False
+2026-10-09 00:05:49,16.216.88.172,100,United States,Brooklyn,Google LLC,ReflectionAI Inc,Data Center,True
+2026-10-09 00:05:49,74.249.132.26,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-09 00:05:49,43.166.250.187,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-10-09 00:05:49,62.60.130.201,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-09 00:05:49,2.57.17.5,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-10-09 00:05:49,136.117.52.210,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-10-09 00:05:49,167.71.81.114,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-09 00:05:49,34.145.148.55,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-09 00:05:49,34.21.196.97,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-09 00:05:49,34.39.172.43,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-10-09 00:05:49,217.60.242.59,100,United Kingdom,London,Gold IP L.l.c-fz,Gold IP L.l.c-fz,Residential/Business,False
+2026-10-09 00:05:49,35.233.99.27,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-09 00:05:49,172.212.107.121,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-09 00:05:49,193.124.20.228,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-09 00:05:49,143.244.168.161,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-09 00:05:49,45.188.241.159,100,Brazil,Itaquaquecetuba,M.M. Brito da Silva - Multimidia,Ulisses De Oliveira Santos - ME,Residential/Business,False
+2026-10-09 00:05:49,70.167.235.243,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-09 00:05:49,34.77.51.30,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-09 00:05:49,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-09 00:05:49,197.242.145.222,100,South Africa,Johannesburg,Afrihost,,Data Center,False
