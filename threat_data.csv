@@ -123994,3 +123994,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-10 16:47:33,119.167.206.194,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
 2026-10-10 16:47:33,43.157.174.69,100,Brazil,São Paulo,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,True
 2026-10-10 16:47:33,111.175.88.6,100,China,Shizishan,China Telecom,Chinanet HB,Residential/Business,False
+2026-10-10 21:00:47,109.160.32.45,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-10 21:00:47,139.198.113.29,100,Hong Kong,Hong Kong,Yunify Technologies Inc,Yunify Technologies Inc.,Data Center,False
+2026-10-10 21:00:47,45.198.224.26,100,Sweden,Stockholm,VPSVAULT.HOST LTD,Vpsvault.host LTD,Data Center,True
+2026-10-10 21:00:47,54.36.208.71,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-10-10 21:00:47,159.65.128.76,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-10 21:00:47,221.120.6.242,100,Taiwan,Shimen District,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-10 21:00:47,43.130.228.73,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-10-10 21:00:47,102.223.209.43,100,Democratic Republic of the Congo,Goma,OLIVERSOFT sarl,OLIVERSOFT sarl,Residential/Business,False
+2026-10-10 21:00:47,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-10 21:00:47,35.245.2.187,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-10 21:00:47,23.94.67.174,100,Ireland,Beaumont,HostPapa,,Data Center,True
+2026-10-10 21:00:47,120.48.80.100,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-10 21:00:47,212.3.155.8,100,Russia,Smolensk,"Smolensk branch of the JSC ""CenterTelecom""",OJSC Rostelecom,Residential/Business,False
+2026-10-10 21:00:47,103.210.22.74,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud HK,Data Center,False
+2026-10-10 21:00:47,86.38.187.38,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-10 21:00:47,34.140.3.155,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-10 21:00:47,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-10 21:00:47,172.239.71.239,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-10 21:00:47,121.153.41.110,100,South Korea,Cheonan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-10 21:00:47,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-10 21:00:47,200.138.46.146,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-10 21:00:47,18.116.101.220,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-10-10 21:00:47,61.246.239.15,100,India,Noida,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-10-10 21:00:47,179.111.150.75,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-10 21:00:47,116.198.225.204,100,China,Chaowai,CHINATELECOM Jiangsu Suqian IDC network,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",Residential/Business,False
+2026-10-10 21:00:47,35.221.80.189,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-10 21:00:47,85.217.140.11,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-10 21:00:47,40.83.95.41,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-10-10 21:00:47,182.44.26.211,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-10-10 21:00:47,109.160.32.36,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-10 21:00:47,210.79.191.160,100,Indonesia,Cicurug,PT KEBUN NARA SANTOSA,,Data Center,False
+2026-10-10 21:00:47,34.7.123.103,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-10 21:00:47,94.154.43.56,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-10-10 21:00:47,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-10 21:00:47,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-10 21:00:47,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-10-10 21:00:47,94.183.174.95,100,Germany,Hauzenberg,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-10 21:00:47,66.132.195.181,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-10 21:00:47,185.220.249.22,100,United States,Fremont,ZhouyiSat Communications,PE Habanov Anthony Uulu Zhazib,Residential/Business,False
+2026-10-10 21:00:47,103.195.236.209,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-10-10 21:00:47,121.242.232.147,100,India,Chennai,Tata Communications Limited,VSNL,Residential/Business,False
+2026-10-10 21:00:47,66.132.195.209,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-10 21:00:47,222.232.176.7,100,South Korea,Seoul,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-10 21:00:47,45.138.12.22,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,True
+2026-10-10 21:00:47,104.208.108.166,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-10-10 21:00:47,163.172.66.206,100,France,Paris,Scaleway SAS,ONLINE,Data Center,True
+2026-10-10 21:00:47,64.72.74.162,100,United States,Kingston,Zayo Bandwidth,Zayo Bandwidth,Residential/Business,False
+2026-10-10 21:00:47,210.183.21.53,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-10 21:00:47,4.249.17.251,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-10 21:00:47,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
