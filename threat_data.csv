@@ -124094,3 +124094,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-11 00:37:25,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
 2026-10-11 00:37:25,68.183.9.16,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-11 00:37:25,101.66.165.103,100,China,Hangzhou,China Unicom Zhejiang Province Network,,Residential/Business,False
+2026-10-11 08:09:22,20.207.204.56,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-11 08:09:22,27.254.190.148,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Cloud Csloxinfo,Data Center,False
+2026-10-11 08:09:22,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-11 08:09:22,45.91.64.7,100,Russia,Moscow,JSC Buduschee,TopTeleCom LLC,Residential/Business,False
+2026-10-11 08:09:22,84.54.73.26,100,Uzbekistan,Karmana Shahri,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-10-11 08:09:22,200.85.104.104,100,Argentina,Garín,Cooperativa Telefonica Del Viso,Cooperativa Telefonica Del Viso,Residential/Business,False
+2026-10-11 08:09:22,209.99.190.186,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-11 08:09:22,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Residential/Business,False
+2026-10-11 08:09:22,4.224.122.112,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-11 08:09:22,66.132.195.100,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-11 08:09:22,115.190.243.73,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-10-11 08:09:22,185.242.226.17,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-10-11 08:09:22,203.156.108.110,100,Thailand,Pak Kret,JasTel Network,Cust Copp Jastel,Residential/Business,False
+2026-10-11 08:09:22,124.116.23.182,100,China,Liuxiang,Shanxi(CHINANET-SN) Network of ChinaTelecom,,Residential/Business,False
+2026-10-11 08:09:22,223.233.85.139,100,India,Pune,Bharti Airtel Limited,Bharti Airtel Ltd.,Residential/Business,False
+2026-10-11 08:09:22,77.91.65.115,100,Finland,Helsinki,AO ALMAZ,,Residential/Business,False
+2026-10-11 08:09:22,69.5.169.14,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-11 08:09:22,102.88.137.145,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-10-11 08:09:22,187.20.55.111,100,Brazil,Belo Horizonte,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-10-11 08:09:22,136.90.72.167,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-11 08:09:22,109.160.32.106,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-11 08:09:22,177.104.140.2,100,Brazil,Brooklin,EVEO Serviços de Internet Ltda.,Eveo S.A,Residential/Business,False
+2026-10-11 08:09:22,85.217.140.54,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-11 08:09:22,115.178.75.242,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-11 08:09:22,20.42.110.118,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-11 08:09:22,189.56.195.78,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-11 08:09:22,77.67.26.15,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-11 08:09:22,194.180.48.47,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-11 08:09:22,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-11 08:09:22,184.168.21.211,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-11 08:09:22,124.155.125.131,100,Japan,Chiyoda City,"ASAHI Net, Inc.",ASAHI,Residential/Business,False
+2026-10-11 08:09:22,191.210.133.134,100,Brazil,São José do Rio Preto,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-11 08:09:22,222.174.184.86,100,China,Jinan,Chinanet,Chinanet SD,Residential/Business,False
+2026-10-11 08:09:22,40.124.114.57,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-11 08:09:22,66.132.195.57,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-11 08:09:22,172.86.112.198,100,United States,Dallas,RouterHosting LLC,Hivelocity Ventures Corp,Data Center,False
+2026-10-11 08:09:22,217.60.248.173,100,Hong Kong,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-10-11 08:09:22,46.162.209.20,100,Armenia,Yerevan,Ucom CJSC,Ucom CJSC,Mobile,False
+2026-10-11 08:09:22,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-11 08:09:22,175.119.225.92,100,South Korea,Seo-gu,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-11 08:09:22,20.219.91.90,100,India,Chennai,Microsoft Corporation,Microsoft Azure Cloud (southindia),Data Center,False
+2026-10-11 08:09:22,85.217.149.63,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-11 08:09:22,109.160.32.156,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-11 08:09:22,210.245.20.230,100,Vietnam,Hanoi,Vietnam Internet Network Information Center,,Data Center,False
+2026-10-11 08:09:22,192.158.31.44,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-11 08:09:22,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-11 08:09:22,185.216.145.177,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-11 08:09:22,199.30.231.6,100,United States,Seattle,"DomainTools, LLC","DomainTools, LLC",Residential/Business,False
+2026-10-11 08:09:22,178.178.194.128,100,Russia,Avsyunino,PJSC MegaFon,MegaFon,Mobile,False
+2026-10-11 08:09:22,46.191.141.152,100,Russia,Ufa,"JSC ""Ufanet""",JSC Ufanet,Residential/Business,False
