@@ -124344,3 +124344,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-12 08:26:07,195.239.97.254,100,Russia,Gorno-Altaysk,"PJSC ""Vimpelcom""",Stnet,Residential/Business,False
 2026-10-12 08:26:07,182.95.63.126,100,India,Delhi,Bharti Airtel Limited,Bharti Airtel Limited,Mobile,False
 2026-10-12 08:26:07,66.132.186.199,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-12 19:33:37,109.160.32.102,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-12 19:33:37,164.30.17.82,100,Germany,Hanover,TELEKOM,,Residential/Business,False
+2026-10-12 19:33:37,109.160.32.119,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-12 19:33:37,191.97.12.90,100,Colombia,Otanche,TV AZTECA SUCURSAL COLOMBIA,TV AZTECA SUCURSAL COLOMBIA,Residential/Business,False
+2026-10-12 19:33:37,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-12 19:33:37,52.3.26.180,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-12 19:33:37,31.59.168.62,100,Latvia,Riga,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,Data Center,False
+2026-10-12 19:33:37,85.208.96.200,100,United States,Ashburn,SEMrush CY LTD,Crawlers,Data Center,False
+2026-10-12 19:33:37,213.142.132.30,100,Turkey,Bahçelievler,Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.,Teknosos Bilisim Hizmetleri VE Tic. Ltd. STI,Data Center,False
+2026-10-12 19:33:37,35.241.165.22,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-12 19:33:37,20.193.141.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-10-12 19:33:37,14.20.73.11,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-12 19:33:37,65.20.251.41,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-10-12 19:33:37,98.175.40.144,100,United States,Rogers,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-12 19:33:37,64.226.64.124,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-12 19:33:37,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-10-12 19:33:37,218.149.228.161,100,South Korea,Daegu,Korea Telecom,hangugtongsindaegubonbu,Residential/Business,False
+2026-10-12 19:33:37,222.86.168.224,100,China,Guiyang,Chinanet,Chinanet GZ,Residential/Business,False
+2026-10-12 19:33:37,208.83.230.62,100,United States,Pleasant Grove,Sumofiber,Sumofiber,Residential/Business,False
+2026-10-12 19:33:37,23.100.83.23,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-12 19:33:37,221.164.235.149,100,South Korea,Gumi,Korea Telecom,KORNET,Residential/Business,False
+2026-10-12 19:33:37,35.217.85.89,100,United States,Salt Lake City,Google Ireland Limited,Google Cloud (us-west3),Data Center,False
+2026-10-12 19:33:37,149.54.81.114,100,Afghanistan,Kandahar,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-10-12 19:33:37,207.254.40.89,100,United States,Las Vegas,"MacStadium, Inc.","MacStadium, Inc.",Residential/Business,False
+2026-10-12 19:33:37,103.199.109.103,100,Bangladesh,Dhaka,Bijoy Online Ltd,BIJOY,Residential/Business,False
+2026-10-12 19:33:37,115.191.23.138,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-10-12 19:33:37,128.14.227.52,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-10-12 19:33:37,176.195.60.25,100,Russia,Moscow,Net By Net Holding LLC,Net By Net Holding LLC,Residential/Business,False
+2026-10-12 19:33:37,34.71.120.211,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-12 19:33:37,69.5.169.91,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-12 19:33:37,20.65.179.71,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-12 19:33:37,20.219.160.77,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-12 19:33:37,201.79.36.79,100,United States,Kansas City,"DigitalOcean, LLC","DigitalOcean, LLC",Residential/Business,False
+2026-10-12 19:33:37,16.216.88.172,100,United States,Brooklyn,Google LLC,ReflectionAI Inc,Data Center,True
+2026-10-12 19:33:37,2607:ff10:c8:594::a,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc",Residential/Business,False
+2026-10-12 19:33:37,35.214.201.82,100,Netherlands,Groningen,Google Ireland Limited,Google Cloud (europe-west4),Data Center,False
+2026-10-12 19:33:37,71.6.232.29,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-12 19:33:37,149.0.16.108,100,Türkiye,Istanbul,Vodafone Net DSL - ISTANBUL ESENTEPE FTTH,,Residential/Business,False
+2026-10-12 19:33:37,45.148.10.120,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-12 19:33:37,71.6.142.213,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-12 19:33:37,69.5.20.205,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-12 19:33:37,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-12 19:33:37,178.160.230.97,100,Armenia,Yerevan,Telecom Armenia CJSC,Armenia Telephone Company,Residential/Business,False
+2026-10-12 19:33:37,180.93.1.64,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-10-12 19:33:37,85.217.149.74,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-12 19:33:37,164.92.211.98,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-12 19:33:37,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-12 19:33:37,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-12 19:33:37,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-12 19:33:37,165.154.156.67,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
