@@ -124244,3 +124244,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-11 21:22:10,217.154.21.68,100,France,Courbevoie,MISTRAL,,Residential/Business,False
 2026-10-11 21:22:10,101.33.55.172,100,Japan,Yokohama,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,Data Center,False
 2026-10-11 21:22:10,121.133.167.161,100,South Korea,Yongin-si,Korea Telecom,,Residential/Business,False
+2026-10-12 00:54:08,64.225.38.92,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-12 00:54:08,62.10.174.7,100,United States,Phoenix,Tiscali Italia SpA,Tiscali Italia SpA,Data Center,False
+2026-10-12 00:54:08,185.91.69.248,100,United Kingdom,Redditch,Hostgnome LTD,Hostgnome LTD,Data Center,False
+2026-10-12 00:54:08,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-12 00:54:08,146.88.241.80,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-10-12 00:54:08,188.240.59.21,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-12 00:54:08,220.124.224.150,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-10-12 00:54:08,156.245.146.194,100,Singapore,Singapore,Zillion Network Inc.,"Hong Kong Lightlayer Technology Co., Limited",Residential/Business,False
+2026-10-12 00:54:08,124.174.39.136,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-12 00:54:08,136.248.121.226,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-10-12 00:54:08,45.207.209.16,100,Hong Kong,Hong Kong,Vapeline Technology,,Data Center,False
+2026-10-12 00:54:08,5.202.169.252,100,Iran,Tehran,PTS-Network,,Residential/Business,False
+2026-10-12 00:54:08,47.245.131.81,100,Germany,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-12 00:54:08,74.208.195.25,100,United States,Kansas City,IONOS SE,IONOS Inc,Data Center,False
+2026-10-12 00:54:08,182.43.235.75,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-10-12 00:54:08,45.58.52.47,100,United States,Dallas,HostUS,HostUS,Data Center,False
+2026-10-12 00:54:08,159.65.128.76,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-12 00:54:08,121.131.103.35,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-12 00:54:08,210.61.216.167,100,Taiwan,Hsinchu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-12 00:54:08,185.223.235.52,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-12 00:54:08,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-12 00:54:08,91.239.95.23,100,Ukraine,Svesa,FOP Lukyanenko Aleksandr Ivanovich,SvessaRoute,Residential/Business,False
+2026-10-12 00:54:08,121.227.152.250,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-10-12 00:54:08,165.154.147.69,100,Malaysia,Kuala Lumpur,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-12 00:54:08,20.64.97.174,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-12 00:54:08,107.155.15.218,100,Japan,Tokyo,Zenlayer Inc,UCLOUD,Data Center,False
+2026-10-12 00:54:08,40.67.173.126,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-12 00:54:08,104.152.52.214,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,True
+2026-10-12 00:54:08,2607:ff10:c8:594::b,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc",Residential/Business,False
+2026-10-12 00:54:08,94.26.106.122,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-12 00:54:08,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-12 00:54:08,45.8.19.160,100,United States,New York,F.N.S. HOLDINGS LIMITED,"VPN Consumer New York City, United States of America",Residential/Business,True
+2026-10-12 00:54:08,200.37.103.36,100,Peru,Tacna,Telefonica del Peru S.A.A.,INTEGRATEL PERÚ S.A.A,Residential/Business,False
+2026-10-12 00:54:08,172.202.115.4,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-12 00:54:08,91.90.142.7,100,Israel,Tel Aviv,Check Point Software Technologies LTD,NAT,Residential/Business,False
+2026-10-12 00:54:08,121.131.220.135,100,South Korea,Mapo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-12 00:54:08,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-10-12 00:54:08,62.60.134.134,100,Iran,Tehran,AOFB,IPNET,Data Center,False
+2026-10-12 00:54:08,209.38.69.12,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-12 00:54:08,172.191.74.151,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-12 00:54:08,14.102.95.218,100,India,New Delhi,World Phone Internet Services Pvt Ltd,World Phone  Pvt Ltd,Residential/Business,False
+2026-10-12 00:54:08,20.251.194.156,100,Norway,Lorenskog,Microsoft Corporation,Microsoft Azure Cloud (norwaye),Data Center,False
+2026-10-12 00:54:08,115.191.7.28,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-10-12 00:54:08,185.216.145.173,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-12 00:54:08,139.198.113.29,100,Hong Kong,Hong Kong,Yunify Technologies Inc,Yunify Technologies Inc.,Data Center,False
+2026-10-12 00:54:08,154.16.44.44,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-10-12 00:54:08,47.254.134.254,100,Germany,Frankfurt am Main,Alibaba Cloud LLC,Alibaba Cloud - DE,Data Center,False
+2026-10-12 00:54:08,104.152.52.207,100,United States,Chicago,Rethem Hosting LLC,Rethem Hosting LLC,Data Center,False
+2026-10-12 00:54:08,152.32.236.116,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-12 00:54:08,8.209.89.121,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
