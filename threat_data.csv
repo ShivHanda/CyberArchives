@@ -124544,3 +124544,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-13 17:17:46,64.225.72.42,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-13 17:17:46,69.42.211.106,100,Netherlands,Amsterdam,objx.net,Objx,Data Center,False
 2026-10-13 17:17:46,122.160.165.158,100,India,Ghaziabad,BHARTI,Abts Delhi,Residential/Business,False
+2026-10-13 22:11:20,94.20.62.126,100,Azerbaijan,Baku,DELTA-CC,,Residential/Business,False
+2026-10-13 22:11:20,94.158.58.10,100,Uzbekistan,Tashkent,COMNET-NAT,,Residential/Business,False
+2026-10-13 22:11:20,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 22:11:20,2604:2dc0:101:100::1189,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-10-13 22:11:20,77.239.124.41,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-13 22:11:20,188.240.59.15,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-13 22:11:20,23.242.188.215,100,United States,Newbury Park,Charter Communications,Spectrum,Residential/Business,False
+2026-10-13 22:11:20,111.70.32.205,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-13 22:11:20,130.12.182.227,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-10-13 22:11:20,5.253.38.188,100,United States,Los Angeles,CNServer LLC,Securewan,Data Center,False
+2026-10-13 22:11:20,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 22:11:20,66.132.195.64,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-13 22:11:20,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-13 22:11:20,211.199.255.53,100,South Korea,Seogwipo,Korea Telecom,Jeonnambonbujang,Residential/Business,False
+2026-10-13 22:11:20,85.217.140.31,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-13 22:11:20,86.38.187.251,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-13 22:11:20,179.185.18.67,100,Brazil,Salvador,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-10-13 22:11:20,89.248.172.12,100,The Netherlands,Utrecht,IP Volume inc,Quasi Networks LTD.,Data Center,True
+2026-10-13 22:11:20,103.149.197.34,100,India,Pune,Net Access Internet India Pvt Ltd,Net Access Internet India Pvt Ltd,Residential/Business,False
+2026-10-13 22:11:20,109.160.32.145,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-13 22:11:20,151.245.151.79,100,United Arab Emirates,Warisan,"DigitalOcean, LLC",Diamond IP Brokers Fzco,Residential/Business,False
+2026-10-13 22:11:20,185.177.72.49,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-10-13 22:11:20,211.252.94.151,100,South Korea,Paju-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-13 22:11:20,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-13 22:11:20,86.38.187.12,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-13 22:11:20,34.59.157.165,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-13 22:11:20,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 22:11:20,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-13 22:11:20,47.250.184.67,100,Malaysia,Kuala Lumpur,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-13 22:11:20,45.61.187.220,100,United States,Miami,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-10-13 22:11:20,66.132.172.203,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-13 22:11:20,45.78.201.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-13 22:11:20,161.132.40.54,100,Peru,Lima,Red Cientifica Peruana,Red Cientifica Peruana,Residential/Business,False
+2026-10-13 22:11:20,134.33.97.55,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-13 22:11:20,178.62.33.244,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-13 22:11:20,162.241.29.37,100,United States,Atlanta,"Network Solutions, LLC",Unified Layer,Data Center,True
+2026-10-13 22:11:20,164.92.138.142,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-13 22:11:20,129.121.142.210,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-13 22:11:20,66.175.212.77,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,True
+2026-10-13 22:11:20,180.76.188.229,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-13 22:11:20,95.142.47.113,100,Russia,Moscow,VDSINA,,Data Center,True
+2026-10-13 22:11:20,94.154.43.100,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-10-13 22:11:20,103.167.89.222,100,Vietnam,Liên Chiểu,JOBKEY,Jobkey Joint Stock Company,Residential/Business,False
+2026-10-13 22:11:20,103.206.204.136,100,Thailand,Bang Khen,Planet Communications Asia Public Company Limited,Planet Communications Asia Public Company Limited,Residential/Business,False
+2026-10-13 22:11:20,58.211.39.86,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-10-13 22:11:20,77.91.71.91,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-13 22:11:20,222.103.201.40,100,South Korea,Pohang-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-13 22:11:20,66.116.207.168,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-13 22:11:20,85.198.19.241,100,Iran,Tehran,ASIATECH,,Residential/Business,False
+2026-10-13 22:11:20,111.26.67.36,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
