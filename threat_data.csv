@@ -124444,3 +124444,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-13 01:45:44,179.111.150.75,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
 2026-10-13 01:45:44,208.83.230.62,100,United States,Pleasant Grove,Sumofiber,Sumofiber,Residential/Business,False
 2026-10-13 01:45:44,210.183.21.53,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-13 08:50:13,213.5.130.216,100,France,Paris,FBW NETWORKS SAS,FBW NETWORKS,Residential/Business,False
+2026-10-13 08:50:13,147.50.103.212,100,Thailand,Pattaya,Advanced Wireless Network Company Limited,Advanced Wireless Network Company Limited,Mobile,False
+2026-10-13 08:50:13,164.30.17.82,100,Germany,Hanover,TELEKOM,,Residential/Business,False
+2026-10-13 08:50:13,103.48.192.48,100,Vietnam,Dich Vong,Vietnam Internet Network Information Center,JSC - Hanoi,Residential/Business,True
+2026-10-13 08:50:13,203.185.198.16,100,Australia,Melbourne,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-10-13 08:50:13,4.224.40.94,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-13 08:50:13,34.75.202.90,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-13 08:50:13,71.6.232.28,100,United States,Las Vegas,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-13 08:50:13,89.21.67.183,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-13 08:50:13,200.220.137.34,100,Brazil,São José dos Campos,NipBr - NipCable do Brasil Telecom LTDA,Cipolatti e Locação e Comércio Ltda,Residential/Business,False
+2026-10-13 08:50:13,66.132.195.70,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-13 08:50:13,182.88.192.109,100,China,Liuzhou,China Unicom Guangxi Province Network,,Residential/Business,False
+2026-10-13 08:50:13,36.64.131.68,100,Indonesia,Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-10-13 08:50:13,40.124.85.13,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-13 08:50:13,47.251.141.39,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-13 08:50:13,203.156.108.110,100,Thailand,Pak Kret,JasTel Network,Cust Copp Jastel,Residential/Business,False
+2026-10-13 08:50:13,46.151.182.181,100,Germany,Frankfurt am Main,Netiface LLC,Ghosty Networks LLC,Data Center,False
+2026-10-13 08:50:13,179.48.18.42,100,Brazil,Milhã,Marcos Raniell Pinheiro Oliveira,Marcos Raniell Pinheiro Oliveira,Residential/Business,False
+2026-10-13 08:50:13,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-13 08:50:13,77.83.39.17,100,The Netherlands,Amsterdam,Pfcloud UG (haftungsbeschrankt),Lanedonet Datacenter,Data Center,False
+2026-10-13 08:50:13,109.160.32.179,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-13 08:50:13,176.53.159.199,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-13 08:50:13,66.132.224.228,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-13 08:50:13,72.212.176.37,100,United States,Virginia Beach,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-13 08:50:13,45.148.10.37,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-13 08:50:13,54.38.52.18,100,Poland,Wroclaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-10-13 08:50:13,61.19.246.157,100,Thailand,Hat Yai,National Telecom Public Company Limited,,Data Center,False
+2026-10-13 08:50:13,40.124.83.225,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-13 08:50:13,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 08:50:13,102.220.163.101,100,Slovenia,Ljubljana,Network,,Data Center,False
+2026-10-13 08:50:13,196.190.92.246,100,Ethiopia,Addis Ababa,EthioNet,Ethio Telecom,Residential/Business,False
+2026-10-13 08:50:13,112.27.230.157,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-13 08:50:13,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-13 08:50:13,95.97.149.70,100,The Netherlands,Amsterdam,Vodafone Ziggo,Liberty Global B.V.,Residential/Business,False
+2026-10-13 08:50:13,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-13 08:50:13,203.145.165.2,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Ltd.,Residential/Business,False
+2026-10-13 08:50:13,59.98.148.5,100,India,Meerut,BSNL Internet,NIB,Residential/Business,False
+2026-10-13 08:50:13,103.147.159.91,100,Indonesia,Cikupa,PT Aplikanusa Lintasarta,CV MITRA CIPTA SOLUSINDO,Residential/Business,False
+2026-10-13 08:50:13,218.29.63.10,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-10-13 08:50:13,14.103.110.123,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-13 08:50:13,103.174.104.114,100,India,Gopīganj,Super IT Services,Super IT Services,Residential/Business,False
+2026-10-13 08:50:13,104.28.222.16,100,Finland,Helsinki,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-13 08:50:13,120.48.60.44,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-13 08:50:13,45.148.10.35,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-13 08:50:13,117.62.22.127,100,China,Suzhou,CN2 Jiangsu Province Network,,Residential/Business,False
+2026-10-13 08:50:13,157.230.165.126,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-13 08:50:13,179.43.153.10,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-13 08:50:13,20.194.96.223,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-10-13 08:50:13,114.112.96.82,100,China,Beijing,"IDC, China Telecommunications Corporation","Beijing Linktom Technology Co., Ltd.",Residential/Business,False
+2026-10-13 08:50:13,170.64.140.170,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
