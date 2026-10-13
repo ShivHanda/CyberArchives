@@ -124394,3 +124394,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-12 19:33:37,85.217.140.15,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-10-12 19:33:37,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-10-12 19:33:37,165.154.156.67,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-13 01:45:44,129.205.31.68,100,Uganda,Kampala,ROKE Telkom Uganda,,Residential/Business,False
+2026-10-13 01:45:44,20.207.204.56,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-13 01:45:44,109.160.32.142,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-13 01:45:44,179.43.153.10,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-13 01:45:44,20.211.97.120,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-13 01:45:44,158.94.209.62,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-10-13 01:45:44,159.223.233.26,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-13 01:45:44,45.138.12.27,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,True
+2026-10-13 01:45:44,86.38.187.131,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-13 01:45:44,5.252.83.242,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-13 01:45:44,47.254.38.225,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,True
+2026-10-13 01:45:44,171.34.229.46,100,China,Nanchang,China Unicom Jiangxi Province Network,,Residential/Business,False
+2026-10-13 01:45:44,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-10-13 01:45:44,81.19.216.97,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-13 01:45:44,43.156.116.171,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-13 01:45:44,118.194.250.245,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-13 01:45:44,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-13 01:45:44,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 01:45:44,173.239.214.125,100,United States,Edison,LogicWeb Inc,,Data Center,True
+2026-10-13 01:45:44,191.101.96.209,100,Panama,Panama City,Trans Ocean Network,Trans Ocean Network,Data Center,False
+2026-10-13 01:45:44,199.165.159.25,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-13 01:45:44,34.79.59.9,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-13 01:45:44,193.163.125.196,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-13 01:45:44,69.12.89.83,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-10-13 01:45:44,150.136.214.177,100,United States,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),Data Center,False
+2026-10-13 01:45:44,187.9.232.170,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-13 01:45:44,109.160.32.148,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-13 01:45:44,46.229.233.132,100,Slovakia,Bratislava,VNET a.s.,VNET a.s.,Residential/Business,False
+2026-10-13 01:45:44,45.148.10.183,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-13 01:45:44,136.248.121.226,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-10-13 01:45:44,118.145.107.219,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-13 01:45:44,176.65.149.182,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-13 01:45:44,152.200.181.42,100,Colombia,Medellín,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-10-13 01:45:44,111.39.167.59,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-13 01:45:44,139.59.131.24,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,True
+2026-10-13 01:45:44,65.49.20.66,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-10-13 01:45:44,84.201.243.44,100,Russia,Podgornoye,"JSC ""ER-Telecom Holding""","CJSC ""ER-Telecom Holding"" Izhevsk branch",Residential/Business,False
+2026-10-13 01:45:44,5.175.40.183,100,Spain,Madrid,"AXARNET COMUNICACIONES, S.L.","AXARNET COMUNICACIONES, S.L",Data Center,False
+2026-10-13 01:45:44,101.96.214.98,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-13 01:45:44,179.48.18.42,100,Brazil,Milhã,Marcos Raniell Pinheiro Oliveira,Marcos Raniell Pinheiro Oliveira,Residential/Business,False
+2026-10-13 01:45:44,192.241.179.235,100,United States,Secaucus,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-13 01:45:44,207.90.244.28,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-10-13 01:45:44,157.173.220.19,100,India,Mumbai,HOSTINGER IN,Hostinger International Limited,Data Center,False
+2026-10-13 01:45:44,113.160.130.228,100,Vietnam,Bac Ninh,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-10-13 01:45:44,109.160.32.115,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-13 01:45:44,104.250.184.10,100,United States,Houston,Secure Internet LLC,Internet Security - US TX,Data Center,True
+2026-10-13 01:45:44,195.239.40.213,100,Russia,Moscow,Sovam Teleport,Non Profit Partnership Innovation Agency,Residential/Business,False
+2026-10-13 01:45:44,179.111.150.75,100,Brazil,Campinas,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-13 01:45:44,208.83.230.62,100,United States,Pleasant Grove,Sumofiber,Sumofiber,Residential/Business,False
+2026-10-13 01:45:44,210.183.21.53,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
