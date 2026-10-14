@@ -124744,3 +124744,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-14 14:49:25,70.183.233.89,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
 2026-10-14 14:49:25,79.124.56.214,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
 2026-10-14 14:49:25,40.67.171.30,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-14 19:55:33,115.178.75.242,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-14 19:55:33,156.225.1.98,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-10-14 19:55:33,20.65.170.250,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-14 19:55:33,51.161.136.177,100,Australia,Sydney,OVH SAS,OVH Australia PTY LTD,Data Center,False
+2026-10-14 19:55:33,88.76.116.135,100,Germany,Krefeld,ARCOR-IP,Arcor AG,Residential/Business,False
+2026-10-14 19:55:33,77.239.124.63,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-14 19:55:33,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-14 19:55:33,144.225.187.181,100,United States,Los Angeles,CNServer LLC,,Data Center,False
+2026-10-14 19:55:33,110.25.110.133,100,Taiwan,Zhongshan,"Far EastTone Telecommunication Co., Ltd.","Far EasTone Telecommunication Co., Ltd.",Residential/Business,False
+2026-10-14 19:55:33,176.32.193.16,100,Armenia,Yerevan,iTV,Interactive TV LLC,Residential/Business,False
+2026-10-14 19:55:33,89.180.208.156,100,Portugal,Lisbon,NOS COMUNICACOES S.A,NOS Comunicacoes S.A.,Residential/Business,False
+2026-10-14 19:55:33,78.128.114.46,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-14 19:55:33,222.83.114.16,100,China,Xingfulu,Chinanet,Chinanet XJ,Residential/Business,False
+2026-10-14 19:55:33,31.70.77.230,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,True
+2026-10-14 19:55:33,130.185.96.125,100,Israel,Giv‘atayim,Pelephone Communications Ltd.,Pelephone Communications Ltd,Mobile,False
+2026-10-14 19:55:33,34.80.150.200,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-10-14 19:55:33,165.154.120.223,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-14 19:55:33,161.132.38.233,100,Peru,Lima,Red Cientifica Peruana,Red Cientifica Peruana,Mobile,False
+2026-10-14 19:55:33,180.184.51.110,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-14 19:55:33,185.243.218.225,100,Norway,Sandefjord,Gigahost,Gigahost,Data Center,True
+2026-10-14 19:55:33,165.154.163.10,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-14 19:55:33,129.121.75.215,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-14 19:55:33,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-14 19:55:33,85.204.70.114,100,France,Paris,Hydra Communications Ltd,Hydra Communications Ltd,Data Center,True
+2026-10-14 19:55:33,202.165.22.102,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Data Center,False
+2026-10-14 19:55:33,79.124.56.142,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-14 19:55:33,40.74.212.22,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-14 19:55:33,116.153.81.58,100,China,Nanchang,China Unicom CHINA169 Network,,Residential/Business,False
+2026-10-14 19:55:33,4.148.9.171,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-14 19:55:33,106.0.165.219,100,Thailand,Surin,Ministry of Education - EMISC,Ministry of Education - EMISC,Residential/Business,False
+2026-10-14 19:55:33,52.248.42.156,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-14 19:55:33,216.219.95.217,100,United States,Los Angeles,"Interserver, Inc","Host Department NJ, LLC",Data Center,False
+2026-10-14 19:55:33,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-14 19:55:33,70.9.114.231,100,United States,Roseville,"Consolidated Communications, Inc.",Consolidated Communications,Residential/Business,False
+2026-10-14 19:55:33,154.92.23.249,100,Hong Kong,Tseung Kwan O,Yisu Cloud LTD,Yisu Cloud Ltd,Data Center,False
+2026-10-14 19:55:33,20.118.242.5,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-14 19:55:33,109.160.32.144,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-14 19:55:33,103.143.10.140,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
+2026-10-14 19:55:33,109.160.32.155,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-14 19:55:33,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-14 19:55:33,107.150.105.153,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Zenlayer Inc,Data Center,False
+2026-10-14 19:55:33,31.130.35.29,100,Russia,Moscow,Kom lan Ltd,Kom lan Ltd,Residential/Business,False
+2026-10-14 19:55:33,102.220.160.67,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-14 19:55:33,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-10-14 19:55:33,109.160.32.117,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-14 19:55:33,136.85.114.135,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-14 19:55:33,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-14 19:55:33,36.139.161.140,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-14 19:55:33,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-14 19:55:33,85.235.75.52,100,Türkiye,Istanbul,Bulent Aydin trading as Hostlayici,Hostlayici,Data Center,False
