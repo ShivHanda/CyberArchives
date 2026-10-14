@@ -124794,3 +124794,48 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-14 19:55:33,36.139.161.140,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
 2026-10-14 19:55:33,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-10-14 19:55:33,85.235.75.52,100,Türkiye,Istanbul,Bulent Aydin trading as Hostlayici,Hostlayici,Data Center,False
+2026-10-14 22:56:03,111.59.125.171,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-14 22:56:03,52.188.192.39,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-14 22:56:03,20.14.93.159,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-14 22:56:03,143.244.47.89,100,United States,New York,Datacamp Limited,Cdnext NYC,Data Center,True
+2026-10-14 22:56:03,112.184.214.7,100,South Korea,Gangneung,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-14 22:56:03,176.65.148.142,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-14 22:56:03,222.110.147.56,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-10-14 22:56:03,82.102.18.182,100,France,Orgerus,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-14 22:56:03,109.160.32.41,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-14 22:56:03,144.172.109.237,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,True
+2026-10-14 22:56:03,74.235.184.74,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-14 22:56:03,112.161.75.207,100,South Korea,Goyang-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-14 22:56:03,144.172.105.41,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,True
+2026-10-14 22:56:03,66.132.195.190,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-14 22:56:03,130.12.181.21,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-10-14 22:56:03,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-14 22:56:03,58.211.152.4,100,China,Suzhou,Chinanet,Suzhou Ares International  CO LTD,Residential/Business,False
+2026-10-14 22:56:03,112.151.168.124,100,South Korea,Seongnam-si,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-10-14 22:56:03,66.132.186.202,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-14 22:56:03,45.148.10.206,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-14 22:56:03,45.221.114.250,100,Hong Kong,Hong Kong,VMISS Inc.,Telkom SA LTD.,Residential/Business,False
+2026-10-14 22:56:03,144.172.101.35,100,United States,Las Vegas,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-10-14 22:56:03,139.162.184.146,100,Germany,Frankfurt am Main,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-14 22:56:03,66.132.159.33,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-14 22:56:03,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-14 22:56:03,112.123.228.180,100,China,Hefei,China Unicom CHINA169 Anhui Province Network,,Residential/Business,False
+2026-10-14 22:56:03,144.124.253.215,100,The Netherlands,Amsterdam,Servers Tech Fzco,Servers Tech Fzco,Data Center,True
+2026-10-14 22:56:03,20.193.141.133,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,True
+2026-10-14 22:56:03,50.6.249.246,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-14 22:56:03,91.134.133.184,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-10-14 22:56:03,45.115.26.80,100,The Netherlands,Eygelshoven,SolidCore Hosting LTD,Internet Security IDN,Data Center,True
+2026-10-14 22:56:03,176.99.112.253,100,Ukraine,Simferopol,Infostroy LLC,,Residential/Business,False
+2026-10-14 22:56:03,20.98.129.124,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-14 22:56:03,77.67.26.77,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-14 22:56:03,153.117.8.109,100,Pakistan,Lahore,Cyber Internet Services (Private) Limited,Cyber  Pvt Ltd,Residential/Business,False
+2026-10-14 22:56:03,112.120.3.100,100,Hong Kong,Banyan Garden,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-10-14 22:56:03,153.117.50.27,100,Pakistan,Gujranwala,Cyber Internet Services (Private) Limited,Cyber  Pvt Ltd,Residential/Business,False
+2026-10-14 22:56:03,104.28.240.84,100,Bangladesh,Dhaka,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-14 22:56:03,40.119.43.15,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-14 22:56:03,103.53.158.121,100,Vietnam,Tương Mai,HOPLONG,HOP Long Technology Joint Stock Company,Data Center,False
+2026-10-14 22:56:03,111.228.55.58,100,China,Chaowai,China Telecom,Jdcom,Residential/Business,False
+2026-10-14 22:56:03,73.193.55.194,100,United States,Everett,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-10-14 22:56:03,185.158.22.150,100,Iraq,Karbala,"Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",,Residential/Business,False
+2026-10-14 22:56:03,104.28.240.82,100,Bangladesh,Dhaka,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-14 22:56:03,175.201.85.209,100,South Korea,Suncheon,Korea Telecom,,Residential/Business,False
