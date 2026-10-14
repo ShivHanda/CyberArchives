@@ -124594,3 +124594,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-13 22:11:20,66.116.207.168,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
 2026-10-13 22:11:20,85.198.19.241,100,Iran,Tehran,ASIATECH,,Residential/Business,False
 2026-10-13 22:11:20,111.26.67.36,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-14 03:08:36,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-10-14 03:08:36,103.191.14.243,100,Indonesia,Utan,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,Residential/Business,False
+2026-10-14 03:08:36,95.188.91.101,100,Russia,Krasnoyarsk,Rostelecom networks,OJSC Rostelecom,Residential/Business,False
+2026-10-14 03:08:36,101.227.203.162,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-10-14 03:08:36,81.28.167.30,100,Russia,Tolyatti,AIST Networks,JSC AIST,Residential/Business,False
+2026-10-14 03:08:36,93.123.109.101,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-14 03:08:36,191.6.0.43,100,Brazil,Venda Nova do Imigrante,Betini NET Telecom Ltda,Betini NET Telecom Ltda,Residential/Business,False
+2026-10-14 03:08:36,93.48.225.80,100,Italy,Milan,Fastweb SpA,Fastweb Internet NGA,Residential/Business,False
+2026-10-14 03:08:36,182.66.213.59,100,India,Mumbai,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-10-14 03:08:36,204.76.203.4,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-14 03:08:36,14.47.200.242,100,South Korea,Suwon,Korea Telecom,Kornet,Residential/Business,False
+2026-10-14 03:08:36,115.57.186.193,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-10-14 03:08:36,20.169.55.172,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-14 03:08:36,120.141.27.68,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,TM TECHNOLOGY SERVICES SDN BHD,Residential/Business,False
+2026-10-14 03:08:36,45.82.76.138,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-10-14 03:08:36,36.67.227.241,100,Indonesia,West Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-10-14 03:08:36,27.8.44.168,100,China,Chongqing,China Unicom Chongqing Province Network,,Residential/Business,False
+2026-10-14 03:08:36,20.150.194.107,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-14 03:08:36,93.185.162.26,100,Indonesia,Jakarta,Cyberzone S.A.,Cyberzone S.A,Residential/Business,True
+2026-10-14 03:08:36,186.215.228.157,100,Brazil,Rio de Janeiro,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-10-14 03:08:36,85.203.21.45,100,Singapore,Singapore,EXPRESS,VPN-Consumer-Network,Data Center,True
+2026-10-14 03:08:36,109.160.32.38,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-14 03:08:36,116.53.130.4,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-10-14 03:08:36,91.218.108.6,100,Russia,Moscow,Smart Technology LLC,Smart Technology LLC,Residential/Business,False
+2026-10-14 03:08:36,64.205.72.28,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-14 03:08:36,104.251.180.112,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,SKN & Telecom Ltd,Residential/Business,False
+2026-10-14 03:08:36,86.38.187.7,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-14 03:08:36,187.154.96.215,100,Mexico,Centro,Uninet S.A. de C.V.,Uninet S.A. de C.V.,Residential/Business,False
+2026-10-14 03:08:36,77.239.124.155,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-14 03:08:36,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-14 03:08:36,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-14 03:08:36,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-14 03:08:36,64.205.72.20,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-14 03:08:36,124.222.229.150,100,China,Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-14 03:08:36,64.89.163.85,100,Germany,Frankfurt am Main,Netiface America,10GIG.host,Data Center,False
+2026-10-14 03:08:36,85.217.149.72,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-14 03:08:36,2602:f71d:400::30,100,Japan,Chiyoda City,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-14 03:08:36,178.16.53.33,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,False
+2026-10-14 03:08:36,45.5.252.250,100,Brazil,Itabirinha,Help Servicos,Help Servicos,Residential/Business,False
+2026-10-14 03:08:36,113.203.197.89,100,Pakistan,Lahore,Connect Communication,,Residential/Business,False
+2026-10-14 03:08:36,85.239.151.10,100,Eritrea,Asmara,"Interserver, Inc",Aeza Network,Data Center,False
+2026-10-14 03:08:36,8.216.7.143,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-14 03:08:36,193.32.209.246,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-14 03:08:36,60.52.34.196,100,Malaysia,Shah Alam,TM TECHNOLOGY SERVICES SDN BHD,Adsl Streamyx,Residential/Business,False
+2026-10-14 03:08:36,69.5.169.127,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-14 03:08:36,8.216.16.144,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-14 03:08:36,50.242.76.137,100,United States,Vallejo,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-14 03:08:36,136.107.32.171,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-14 03:08:36,103.47.145.24,100,The Netherlands,Eygelshoven,Gaditek Associates,,Data Center,True
+2026-10-14 03:08:36,85.217.140.42,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
