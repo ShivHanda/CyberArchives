@@ -124889,3 +124889,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-15 02:47:40,34.156.47.23,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-10-15 02:47:40,34.139.34.12,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
 2026-10-15 02:47:40,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-15 08:45:10,190.129.122.185,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-10-15 08:45:10,86.38.187.54,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-15 08:45:10,185.93.89.132,100,The Netherlands,Eygelshoven,Limited Network LTD,Limited Network LTD,Data Center,False
+2026-10-15 08:45:10,194.164.107.4,100,Singapore,Singapore,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-15 08:45:10,42.200.66.164,100,Hong Kong,South Wave Court,PCCW IMSBiz,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-10-15 08:45:10,212.55.77.19,100,Ukraine,Cherkasy,broadband,,Residential/Business,True
+2026-10-15 08:45:10,194.164.107.5,100,Singapore,Singapore,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-15 08:45:10,172.190.113.61,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-15 08:45:10,193.32.209.253,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,87.236.176.140,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-15 08:45:10,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-15 08:45:10,193.32.209.246,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,193.3.53.8,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-10-15 08:45:10,195.178.110.108,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-15 08:45:10,143.198.68.20,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-15 08:45:10,103.104.112.8,100,India,New Delhi,Webstar Broadband Private Limited,Webstar Broadband Private Limited,Residential/Business,False
+2026-10-15 08:45:10,192.72.56.178,100,Taiwan,Taipei,Digital United Inc.,,Residential/Business,False
+2026-10-15 08:45:10,80.94.92.55,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-15 08:45:10,119.209.12.20,100,South Korea,Seongnam-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-15 08:45:10,193.25.217.68,100,The Netherlands,Amsterdam,GRAV-AS,GravHosting LLC,Data Center,False
+2026-10-15 08:45:10,79.124.59.106,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-15 08:45:10,85.217.149.4,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-15 08:45:10,104.155.100.213,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-15 08:45:10,172.234.218.210,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-15 08:45:10,172.191.178.196,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-15 08:45:10,116.254.97.131,100,Indonesia,Jakarta,SpaceX Starlink,,Residential/Business,False
+2026-10-15 08:45:10,193.176.31.248,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,173.254.29.95,100,United States,Phoenix,Oracle Corporation,Unified Layer,Data Center,False
+2026-10-15 08:45:10,193.176.31.244,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,176.98.13.44,100,Ukraine,Vasylkiv,Crystal Telecom Ltd,Crystal Telecom Ltd,Residential/Business,False
+2026-10-15 08:45:10,172.211.56.214,100,Netherlands,Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),Data Center,False
+2026-10-15 08:45:10,34.53.236.164,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-15 08:45:10,109.105.210.85,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-10-15 08:45:10,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-15 08:45:10,193.176.31.237,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,77.67.26.253,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-15 08:45:10,212.73.148.42,100,Singapore,Singapore,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-15 08:45:10,155.103.71.239,100,Türkiye,Istanbul,FibaCloud,"White Label Services, LLC",Data Center,False
+2026-10-15 08:45:10,193.176.31.235,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-15 08:45:10,193.176.31.212,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-15 08:45:10,193.176.31.227,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,13.86.117.219,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-15 08:45:10,77.67.26.16,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-15 08:45:10,51.38.224.114,100,France,Gravelines,OVH SAS,OVH,Data Center,False
+2026-10-15 08:45:10,193.176.31.210,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-15 08:45:10,46.188.119.26,100,Russia,Moscow,2COM,2COM Co ltd.,Residential/Business,False
+2026-10-15 08:45:10,40.119.45.252,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-15 08:45:10,193.176.29.13,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
