@@ -124839,3 +124839,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-14 22:56:03,185.158.22.150,100,Iraq,Karbala,"Trade Link Logistics General Trading & Contracting Company W.L.L., L.L.C.",,Residential/Business,False
 2026-10-14 22:56:03,104.28.240.82,100,Bangladesh,Dhaka,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
 2026-10-14 22:56:03,175.201.85.209,100,South Korea,Suncheon,Korea Telecom,,Residential/Business,False
+2026-10-15 02:47:40,104.251.180.112,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,SKN & Telecom Ltd,Residential/Business,False
+2026-10-15 02:47:40,45.115.26.80,100,The Netherlands,Eygelshoven,SolidCore Hosting LTD,Internet Security IDN,Data Center,True
+2026-10-15 02:47:40,45.115.26.99,100,The Netherlands,Eygelshoven,SolidCore Hosting LTD,Ivacy Limited,Data Center,True
+2026-10-15 02:47:40,101.47.159.125,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-10-15 02:47:40,85.217.149.37,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-15 02:47:40,109.160.32.38,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-15 02:47:40,45.180.148.202,100,Brazil,São Paulo,MOV TELECOM SERVICOS DE PROVEDORES DE INTERNET LTD,MOV TELECOM SERVICOS DE PROVEDORES DE INTERNET LTD,Residential/Business,False
+2026-10-15 02:47:40,81.192.46.32,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-10-15 02:47:40,47.254.74.245,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-15 02:47:40,85.217.149.6,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-15 02:47:40,91.92.42.88,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-15 02:47:40,80.94.92.234,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-15 02:47:40,77.91.65.61,100,Finland,Helsinki,AO ALMAZ,,Residential/Business,False
+2026-10-15 02:47:40,152.32.141.9,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-15 02:47:40,93.152.221.158,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-15 02:47:40,31.43.42.159,100,Ukraine,Kyiv,Ukrainian Telecommunication Group LLC,Ukrainian Telecommunication Group LLC,Residential/Business,False
+2026-10-15 02:47:40,152.32.148.250,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-15 02:47:40,136.65.77.22,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-15 02:47:40,136.232.11.10,100,India,Kanchipuram,Reliance Jio Infocomm Limited,Rjil Internet,Residential/Business,False
+2026-10-15 02:47:40,51.68.151.167,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-10-15 02:47:40,45.115.26.126,100,The Netherlands,Eygelshoven,SolidCore Hosting LTD,Ivacy Limited,Data Center,True
+2026-10-15 02:47:40,66.240.236.116,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Data Center,False
+2026-10-15 02:47:40,188.132.230.188,100,Türkiye,Istanbul,VG Telekomunikasyon Ticaret Limited Sirketi,VG TELEKOMUNIKASYON TICARET LIMITED SIRKETI,Data Center,False
+2026-10-15 02:47:40,104.30.167.164,100,United States,Kent,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-15 02:47:40,65.109.215.207,100,Finland,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,Data Center,False
+2026-10-15 02:47:40,91.229.234.76,100,Russia,Yekaterinburg,PortalTeleNet LLC,PortalTeleNet LLC,Residential/Business,False
+2026-10-15 02:47:40,200.138.46.17,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-15 02:47:40,66.132.159.43,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-15 02:47:40,77.91.122.6,100,The Netherlands,Amsterdam,Alferov Aleksey Aleksandrovich,Mevspace,Data Center,False
+2026-10-15 02:47:40,91.92.40.65,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-15 02:47:40,175.205.195.27,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-15 02:47:40,152.32.247.22,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-10-15 02:47:40,176.120.22.61,100,Russia,Moscow,Proton66 OOO,Proton66 OOO,Residential/Business,False
+2026-10-15 02:47:40,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-15 02:47:40,101.36.110.201,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-10-15 02:47:40,77.91.65.173,100,Finland,Helsinki,AO ALMAZ,,Residential/Business,False
+2026-10-15 02:47:40,121.188.243.13,100,South Korea,Seogwipo-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-15 02:47:40,31.70.90.134,100,Germany,Berlin,IONOS SE,IONOS SE,Data Center,False
+2026-10-15 02:47:40,31.173.12.28,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-10-15 02:47:40,106.12.127.112,100,China,Jinrongjie,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-15 02:47:40,102.210.149.105,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-10-15 02:47:40,80.94.95.109,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Data Center,False
+2026-10-15 02:47:40,158.179.164.202,100,South Korea,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),Data Center,False
+2026-10-15 02:47:40,8.219.188.175,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-15 02:47:40,66.132.172.116,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-15 02:47:40,34.81.53.46,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-10-15 02:47:40,61.9.8.202,100,Philippines,Juban,ComClark Network & Technology Corp,Converge ICT Network,Residential/Business,False
+2026-10-15 02:47:40,34.156.47.23,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-15 02:47:40,34.139.34.12,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-15 02:47:40,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
