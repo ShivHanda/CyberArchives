@@ -125284,3 +125284,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-16 19:12:21,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
 2026-10-16 19:12:21,112.15.161.249,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
 2026-10-16 19:12:21,125.212.244.35,100,Vietnam,Ho Chi Minh City,Viettel Group,Viettel Group,Residential/Business,False
+2026-10-16 22:24:37,193.187.110.132,100,Turkey,Istanbul,Fast Zone IT,Cyberaegis Casa S.R.L,Residential/Business,False
+2026-10-16 22:24:37,92.118.39.231,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-16 22:24:37,112.15.161.249,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-10-16 22:24:37,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-10-16 22:24:37,159.65.60.217,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,138.68.163.228,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,134.209.179.28,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,157.245.36.98,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-16 22:24:37,93.123.109.113,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-16 22:24:37,109.160.32.118,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-16 22:24:37,188.59.182.213,100,Türkiye,Eskişehir,Turkcell Internet,,Residential/Business,False
+2026-10-16 22:24:37,188.166.154.42,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-16 22:24:37,133.167.93.179,100,Japan,Osaka,SAKURA Internet Inc.,SAKURA-OSAKA,Data Center,False
+2026-10-16 22:24:37,167.172.50.164,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,139.59.190.133,100,United Kingdom,Slough,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,True
+2026-10-16 22:24:37,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-16 22:24:37,170.64.133.75,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,159.65.55.71,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,178.62.96.5,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-16 22:24:37,206.135.24.10,100,Mexico,Valle Hermoso,Ientc S De RL De CV,GTT Americas,Residential/Business,False
+2026-10-16 22:24:37,190.223.36.108,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-10-16 22:24:37,138.68.158.150,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-16 22:24:37,190.129.122.185,100,Bolivia,Cochabamba,Entel S.A. - EntelNet,Empresa Nacional De Telecomunicaciones Sociedad Anonima,Residential/Business,False
+2026-10-16 22:24:37,109.160.32.43,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-16 22:24:37,77.83.39.32,100,The Netherlands,Amsterdam,Pfcloud UG (haftungsbeschrankt),Lanedonet Datacenter,Data Center,False
+2026-10-16 22:24:37,34.179.199.54,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-16 22:24:37,66.132.172.182,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-16 22:24:37,141.98.11.129,100,Lithuania,Vilnius,UAB Host Baltic,,Data Center,False
+2026-10-16 22:24:37,104.199.36.53,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-16 22:24:37,168.144.118.103,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-10-16 22:24:37,85.217.140.49,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-16 22:24:37,138.68.186.222,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,134.209.185.7,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,52.128.227.50,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited,Residential/Business,False
+2026-10-16 22:24:37,143.20.60.56,100,Germany,Limburg an der Lahn,OVH SAS,Private Customer,Residential/Business,False
+2026-10-16 22:24:37,115.64.67.164,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-10-16 22:24:37,168.107.68.221,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-10-16 22:24:37,122.165.71.110,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-16 22:24:37,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-10-16 22:24:37,165.227.231.104,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,92.118.39.49,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-16 22:24:37,73.183.74.177,100,United States,Morgantown,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-10-16 22:24:37,201.17.133.138,100,Brazil,Nova Lima,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,Residential/Business,False
+2026-10-16 22:24:37,161.35.45.196,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,207.90.244.27,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-10-16 22:24:37,122.176.21.104,100,India,New Delhi,Bharti Airtel,Bharti Telenet Ltd.,Residential/Business,False
+2026-10-16 22:24:37,167.71.233.141,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-16 22:24:37,142.93.37.35,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 22:24:37,61.146.235.54,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
