@@ -125084,3 +125084,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-15 22:50:31,188.59.178.28,100,Türkiye,Eskişehir,Turkcell Internet,,Residential/Business,False
 2026-10-15 22:50:31,85.217.149.70,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
 2026-10-15 22:50:31,72.205.170.20,100,United States,New Orleans,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-16 02:44:36,193.176.31.198,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-16 02:44:36,69.5.169.207,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-10-16 02:44:36,101.32.240.31,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-10-16 02:44:36,64.62.156.62,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-16 02:44:36,177.19.145.25,100,Brazil,Fortaleza,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-10-16 02:44:36,194.88.98.93,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-16 02:44:36,194.67.203.160,100,Russia,Moscow,Ihor Hosting LTD,Ihor Servers,Data Center,False
+2026-10-16 02:44:36,85.217.140.27,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-16 02:44:36,118.145.82.180,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-16 02:44:36,112.47.143.143,100,China,Quanzhou,"China Mobile Communications Group Co., Ltd",China Mobile Communications Corporation,Mobile,False
+2026-10-16 02:44:36,221.132.21.185,100,Vietnam,Hanoi,VNPT,Vietnam Posts and Telecommunications Group,Residential/Business,False
+2026-10-16 02:44:36,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-10-16 02:44:36,187.194.139.92,100,Mexico,Puebla City,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-10-16 02:44:36,93.152.221.51,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-16 02:44:36,66.132.224.16,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-16 02:44:36,34.87.26.215,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-16 02:44:36,172.172.170.199,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-16 02:44:36,109.160.32.34,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-16 02:44:36,64.23.175.24,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 02:44:36,68.183.139.205,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-16 02:44:36,120.26.220.254,100,China,Hangzhou,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-16 02:44:36,65.49.20.88,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-16 02:44:36,77.91.65.41,100,Finland,Helsinki,AO ALMAZ,,Residential/Business,False
+2026-10-16 02:44:36,69.5.7.218,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-16 02:44:36,129.212.230.253,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-16 02:44:36,95.90.13.168,100,Germany,Altdorf bei Nürnberg,Vodafone Kabel Deutschland,Vodafone Kabel Deutschland GmbH,Residential/Business,False
+2026-10-16 02:44:36,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-16 02:44:36,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-16 02:44:36,104.41.137.249,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-16 02:44:36,111.26.69.160,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-16 02:44:36,109.63.187.134,100,Russia,Moscow,PJSC MegaFon,Net By Net Holding LLC,Residential/Business,False
+2026-10-16 02:44:36,193.3.53.8,100,United States,Los Angeles,"Securitytrails, LLC",Objects GmbH,Residential/Business,False
+2026-10-16 02:44:36,144.172.115.75,100,United States,Ogden,RouterHosting LLC,FranTech Solutions,Data Center,False
+2026-10-16 02:44:36,91.191.209.46,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-10-16 02:44:36,139.59.151.17,100,Germany,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC",Data Center,False
+2026-10-16 02:44:36,78.128.114.174,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-16 02:44:36,123.58.198.35,100,Vietnam,Ho Chi Minh City,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-16 02:44:36,154.16.44.85,100,United Kingdom,London,Hydra Communications Ltd,Digital Energy Technologies Limited,Data Center,True
+2026-10-16 02:44:36,104.243.46.227,100,United States,Miami,ReliableSite.Net LLC,alex winkler,Data Center,False
+2026-10-16 02:44:36,104.208.108.166,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-10-16 02:44:36,60.211.233.218,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-10-16 02:44:36,45.148.10.26,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-16 02:44:36,20.102.98.53,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-16 02:44:36,141.193.153.146,100,Hong Kong,Hong Kong,Netsec Limited,Netsec,Residential/Business,False
+2026-10-16 02:44:36,79.124.58.118,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-10-16 02:44:36,13.140.129.159,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-16 02:44:36,69.5.169.248,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-16 02:44:36,66.132.186.242,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-16 02:44:36,160.119.76.146,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
+2026-10-16 02:44:36,125.130.223.207,100,South Korea,Suwon,Korea Telecom,Kornet,Residential/Business,False
