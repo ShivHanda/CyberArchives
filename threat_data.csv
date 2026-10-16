@@ -125134,3 +125134,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-16 02:44:36,66.132.186.242,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
 2026-10-16 02:44:36,160.119.76.146,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
 2026-10-16 02:44:36,125.130.223.207,100,South Korea,Suwon,Korea Telecom,Kornet,Residential/Business,False
+2026-10-16 08:40:37,65.20.198.159,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-10-16 08:40:37,101.13.4.124,100,Taiwan,Taipei,"Taiwan Mobile Co., Ltd.",TAIWANMOBILE,Mobile,False
+2026-10-16 08:40:37,203.198.173.137,100,Hong Kong,Central,Hong Kong Telecommunications (HKT) Limited Mass Internet,VDSL Trial Cust : Excalibur Capital Ltd,Residential/Business,False
+2026-10-16 08:40:37,95.84.137.185,100,Russia,Moscow,NCNET,,Residential/Business,False
+2026-10-16 08:40:37,87.236.176.225,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-16 08:40:37,109.105.210.59,100,United States,Dallas,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-10-16 08:40:37,151.252.84.225,100,Russia,Surgut,Tele-plus LLC,Tele-plus LLC,Residential/Business,False
+2026-10-16 08:40:37,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-16 08:40:37,186.201.41.234,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-16 08:40:37,36.67.236.171,100,Indonesia,West Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
+2026-10-16 08:40:37,134.33.66.248,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-16 08:40:37,66.132.195.100,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-16 08:40:37,73.111.97.205,100,United States,Chicago,Comcast Cable Communications,"Comcast IP Services, L.L.C.",Residential/Business,False
+2026-10-16 08:40:37,125.131.2.28,100,South Korea,Seocho-gu,Korea Telecom,,Residential/Business,False
+2026-10-16 08:40:37,89.37.172.156,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-16 08:40:37,176.65.139.160,100,The Netherlands,Amsterdam,Storm Industries LLC,Storm Industries LLC,Data Center,False
+2026-10-16 08:40:37,218.234.186.2,100,South Korea,Uijeongbu-si,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-16 08:40:37,176.65.148.227,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-16 08:40:37,117.34.125.173,100,China,Liuxiang,CHINANET SHAANXI province Cloud Base network,Chinanet SN,Data Center,True
+2026-10-16 08:40:37,189.56.0.19,100,Brazil,São José do Rio Preto,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-16 08:40:37,43.153.121.250,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-16 08:40:37,122.114.35.15,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
+2026-10-16 08:40:37,109.238.86.17,100,United Kingdom,Erith,UFO TECHNOLOGIES LIMITED,UFO TECHNOLOGIES LIMITED,Residential/Business,False
+2026-10-16 08:40:37,172.200.195.165,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus2),Data Center,False
+2026-10-16 08:40:37,103.225.15.98,100,India,Bengaluru,Bharat Sanchar Nigam Ltd,WI FI of Ganga Ghat,Residential/Business,False
+2026-10-16 08:40:37,141.145.159.132,100,United Arab Emirates,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),Data Center,False
+2026-10-16 08:40:37,81.193.216.17,100,Portugal,Madalena,PT Comunicacoes S.A,PT Comunicacoes S.A.,Residential/Business,False
+2026-10-16 08:40:37,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-16 08:40:37,104.234.32.111,100,United States,Chicago,F.N.S. HOLDINGS LIMITED,F.N.S. HOLDINGS LIMITED,Data Center,True
+2026-10-16 08:40:37,180.157.47.130,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-16 08:40:37,83.254.172.36,100,Sweden,Angered,COMHEM,Com Hem AB,Mobile,False
+2026-10-16 08:40:37,173.71.90.121,100,United States,Trenton,Verizon Business,Verizon Business,Residential/Business,False
+2026-10-16 08:40:37,110.78.36.218,100,Thailand,Sukhumvit,National Telecom Public Company Limited,CAT Telecom public company Ltd,Residential/Business,False
+2026-10-16 08:40:37,45.80.27.169,100,France,Paris 10 Entrepôt,Free Pro SAS,Free Pro,Residential/Business,False
+2026-10-16 08:40:37,118.70.125.152,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-16 08:40:37,89.248.163.168,100,Poland,Warsaw,IP Volume inc,Quasi Networks LTD.,Residential/Business,False
+2026-10-16 08:40:37,112.184.14.71,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-10-16 08:40:37,152.32.135.48,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-16 08:40:37,65.49.1.70,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,True
+2026-10-16 08:40:37,66.132.195.51,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-16 08:40:37,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-16 08:40:37,217.218.10.45,100,Iran,Tehran,DCI,Iran Information Technology Company PJSC,Residential/Business,False
+2026-10-16 08:40:37,109.160.32.121,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-16 08:40:37,60.2.173.138,100,China,Chengde,CNC Group CHINA169 Hebei Province Network,,Residential/Business,False
+2026-10-16 08:40:37,104.234.32.103,100,United States,Chicago,F.N.S. HOLDINGS LIMITED,F.N.S. HOLDINGS LIMITED,Data Center,True
+2026-10-16 08:40:37,200.138.46.219,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-16 08:40:37,183.233.85.194,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-16 08:40:37,125.138.166.217,100,South Korea,Cheonan,Korea Telecom,,Residential/Business,False
+2026-10-16 08:40:37,109.160.32.165,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-16 08:40:37,69.5.169.133,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
