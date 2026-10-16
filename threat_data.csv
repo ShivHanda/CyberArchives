@@ -125234,3 +125234,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-16 14:27:40,85.217.140.49,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
 2026-10-16 14:27:40,104.143.77.9,100,United States,Bountiful,InstaVPS,SentraCam,Data Center,False
 2026-10-16 14:27:40,152.32.182.41,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-16 19:12:21,130.211.55.221,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-16 19:12:21,80.223.176.145,100,Finland,Lahti,Telia Finland Oyj,Telia Finland Oyj,Residential/Business,False
+2026-10-16 19:12:21,110.78.36.218,100,Thailand,Sukhumvit,National Telecom Public Company Limited,CAT Telecom public company Ltd,Residential/Business,False
+2026-10-16 19:12:21,185.242.235.139,100,Hong Kong,Fo Tan,Cloudie Limited,TEN,Data Center,False
+2026-10-16 19:12:21,1.235.14.41,100,South Korea,Gangnam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-16 19:12:21,103.187.146.107,100,Indonesia,Jakarta,Cloud Host Pte Ltd,Cloud Host Pte Ltd,Data Center,False
+2026-10-16 19:12:21,196.188.97.116,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-10-16 19:12:21,20.5.85.204,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-16 19:12:21,166.62.41.13,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-16 19:12:21,45.198.224.124,100,Sweden,Stockholm,VPSVAULT.HOST LTD,Vpsvault.host LTD,Data Center,False
+2026-10-16 19:12:21,193.163.125.134,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-16 19:12:21,34.53.212.113,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-16 19:12:21,210.86.226.51,100,Vietnam,Liên Chiểu,NETNAM,,Residential/Business,False
+2026-10-16 19:12:21,179.43.153.2,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-16 19:12:21,102.220.161.174,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-16 19:12:21,66.132.172.207,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-16 19:12:21,162.243.147.237,100,United States,San Francisco,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-16 19:12:21,116.55.245.26,100,China,Kunming,CHINANET Yunnan province IDC1 network,Chinanet YN,Residential/Business,True
+2026-10-16 19:12:21,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-10-16 19:12:21,31.14.254.106,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-16 19:12:21,70.169.4.116,100,United States,Hampton,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-16 19:12:21,173.254.29.230,100,United States,Phoenix,Oracle Corporation,Unified Layer,Data Center,False
+2026-10-16 19:12:21,222.116.59.127,100,South Korea,Jeju City,Korea Telecom,KORNET,Residential/Business,False
+2026-10-16 19:12:21,51.68.226.87,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-10-16 19:12:21,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-16 19:12:21,122.165.162.117,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-16 19:12:21,222.186.170.245,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-10-16 19:12:21,31.14.254.74,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-16 19:12:21,20.84.123.15,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-16 19:12:21,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-16 19:12:21,20.40.233.198,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-16 19:12:21,3.91.151.163,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-10-16 19:12:21,141.193.153.146,100,Hong Kong,Hong Kong,Netsec Limited,Netsec,Residential/Business,False
+2026-10-16 19:12:21,192.253.248.251,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-16 19:12:21,4.240.126.25,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-16 19:12:21,159.192.137.133,100,Thailand,Khwaeng Thung Song Hong,National Telecom Public Company Limited,CAT BB,Residential/Business,False
+2026-10-16 19:12:21,172.105.69.26,100,Germany,Frankfurt am Main,Akamai Technologies,Linode,Data Center,False
+2026-10-16 19:12:21,49.124.152.250,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-10-16 19:12:21,66.132.224.28,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-16 19:12:21,69.5.169.108,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,False
+2026-10-16 19:12:21,49.213.6.30,100,Hong Kong,North Point,Henderson Data Centre Ltd,Towngas Telecommunications Fixed Network Limited,Data Center,False
+2026-10-16 19:12:21,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-10-16 19:12:21,115.73.221.4,100,Vietnam,Ho Chi Minh City,VIETELmetro,,Residential/Business,False
+2026-10-16 19:12:21,47.254.253.222,100,Malaysia,Kuala Lumpur,Alibaba Cloud LLC,Alibaba Cloud - MY,Data Center,False
+2026-10-16 19:12:21,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,,Residential/Business,False
+2026-10-16 19:12:21,152.32.225.117,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-16 19:12:21,4.206.92.183,100,Canada,Toronto,Microsoft Corporation,Microsoft Azure Cloud (canadacentral),Data Center,False
+2026-10-16 19:12:21,195.178.110.26,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-16 19:12:21,112.15.161.249,100,China,Hangzhou,China Mobile communications corporation,China Mobile,Mobile,False
+2026-10-16 19:12:21,125.212.244.35,100,Vietnam,Ho Chi Minh City,Viettel Group,Viettel Group,Residential/Business,False
