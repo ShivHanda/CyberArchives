@@ -125534,3 +125534,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-17 16:47:46,189.178.72.229,100,Mexico,Guadalajara,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
 2026-10-17 16:47:46,82.47.63.121,100,Poland,Warsaw,OVH SAS,Doprax ApS,Residential/Business,False
 2026-10-17 16:47:46,220.250.52.101,100,China,Jinrongjie,CHINA UNICOM China169 Backbone,UNI FJFZ FujianInformationSecurityCenter,Residential/Business,False
+2026-10-17 19:57:38,157.245.72.120,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-17 19:57:38,61.6.206.13,100,Brunei,Bandar Seri Begawan,Unified National Networks,,Residential/Business,False
+2026-10-17 19:57:38,152.200.181.42,100,Colombia,Medellín,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,Residential/Business,False
+2026-10-17 19:57:38,138.226.239.10,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-17 19:57:38,137.131.32.234,100,United States,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),Data Center,False
+2026-10-17 19:57:38,20.214.147.109,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-10-17 19:57:38,189.243.178.2,100,Mexico,Morelia,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-17 19:57:38,85.217.140.23,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 19:57:38,130.12.182.122,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-10-17 19:57:38,110.172.28.143,100,Vietnam,Quận Mười Một,CONTABO,Contabo Company Limited,Residential/Business,False
+2026-10-17 19:57:38,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-17 19:57:38,70.34.202.108,100,Sweden,Spånga,The Constant Company,Vultr,Data Center,False
+2026-10-17 19:57:38,43.226.39.182,100,China,Haikuotiankong,CHINANET Liaoning province Dalian MAN network,Shenzhen Qianhai bird cloud computing Co. Ltd.,Data Center,False
+2026-10-17 19:57:38,34.79.51.100,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 19:57:38,66.132.186.137,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-17 19:57:38,101.36.228.201,100,China,Beijing,China Unicom IP network,"Beijing Zhonglianlixin Technology Co., Ltd.",Residential/Business,False
+2026-10-17 19:57:38,109.160.32.36,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-17 19:57:38,70.167.234.161,100,United States,Crestview,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-17 19:57:38,192.207.105.196,100,United States,Newburyport,OVH SAS,Searchlight Cyber LLC,Residential/Business,False
+2026-10-17 19:57:38,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-17 19:57:38,185.180.141.44,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-10-17 19:57:38,37.157.91.62,100,Estonia,Tallinn,Telia Eesti AS,,Residential/Business,False
+2026-10-17 19:57:38,123.58.213.128,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-17 19:57:38,85.137.51.161,100,Singapore,Singapore,Trunk-Networks,,Residential/Business,False
+2026-10-17 19:57:38,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-17 19:57:38,16.216.88.206,100,United States,Brooklyn,Google LLC,ReflectionAI Inc,Data Center,True
+2026-10-17 19:57:38,70.183.226.44,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-17 19:57:38,34.78.64.142,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 19:57:38,192.42.116.53,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-10-17 19:57:38,86.38.187.187,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-17 19:57:38,121.127.34.205,100,United States,Chicago,"Ryamer, LLC",Equinix Chicago,Residential/Business,True
+2026-10-17 19:57:38,182.43.235.75,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,True
+2026-10-17 19:57:38,183.104.220.195,100,South Korea,Namhae-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-10-17 19:57:38,34.24.62.134,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-17 19:57:38,45.78.201.248,100,Singapore,Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-17 19:57:38,201.149.53.243,100,Mexico,Miguel Hidalgo,"Megacable Comunicaciones de Mexico, S.A. de C.V.","Megacable Comunicaciones de Mexico, S.A. de C.V",Residential/Business,False
+2026-10-17 19:57:38,45.148.10.5,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-17 19:57:38,103.48.192.48,100,Vietnam,Dich Vong,Vietnam Internet Network Information Center,JSC - Hanoi,Residential/Business,True
+2026-10-17 19:57:38,43.153.124.181,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-17 19:57:38,31.14.254.70,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-17 19:57:38,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-17 19:57:38,85.217.140.11,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 19:57:38,37.193.132.190,100,Russia,Novosibirsk,Novotelecom Ltd,Novotelecom ltd.,Residential/Business,False
+2026-10-17 19:57:38,34.68.68.19,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-17 19:57:38,102.220.160.39,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-17 19:57:38,103.241.43.193,100,Vietnam,Đinh Công Hạ,MMOSOFT,MMO Viet NAM Software Company Limited,Residential/Business,False
+2026-10-17 19:57:38,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-17 19:57:38,77.83.39.12,100,The Netherlands,Amsterdam,Pfcloud UG (haftungsbeschrankt),Lanedonet Datacenter,Data Center,False
+2026-10-17 19:57:38,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-17 19:57:38,103.24.63.85,100,India,Mumbai,wnet telecom pvt ltd,Wnet telecom pvt ltd,Residential/Business,False
