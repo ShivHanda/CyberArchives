@@ -125384,3 +125384,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-17 02:36:14,66.132.224.86,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
 2026-10-17 02:36:14,34.187.111.186,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
 2026-10-17 02:36:14,39.120.34.60,100,South Korea,Gimpo-si,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-17 08:11:30,109.160.32.129,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-17 08:11:30,103.101.250.217,100,Bangladesh,Dhaka,Bangladesh Police,Bangladesh Police,Residential/Business,False
+2026-10-17 08:11:30,200.174.115.18,100,Brazil,Taboão da Serra,Claro S.A,EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES SA-EMBRATEL,Residential/Business,False
+2026-10-17 08:11:30,50.6.241.208,100,Canada,Toronto,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-17 08:11:30,54.90.159.174,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,True
+2026-10-17 08:11:30,69.5.169.123,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-17 08:11:30,172.180.64.131,100,United States,Phoenix,Microsoft,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-17 08:11:30,91.191.209.118,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-10-17 08:11:30,40.67.165.94,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-17 08:11:30,51.158.145.102,100,The Netherlands,Haarlem,Scaleway SAS,Scaleway,Data Center,False
+2026-10-17 08:11:30,146.70.194.228,100,France,Rixheim,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-17 08:11:30,210.99.6.47,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-17 08:11:30,66.132.195.163,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-17 08:11:30,108.84.235.97,100,United States,Sacramento,"AT&T Enterprises, LLC","AT&T Enterprises, LLC",Residential/Business,False
+2026-10-17 08:11:30,103.187.165.26,100,Indonesia,South Tangerang,PT Amanusa Telemedia Mahardika,PT Amanusa Telemedia Mahardika,Residential/Business,False
+2026-10-17 08:11:30,3.147.122.184,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-17 08:11:30,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 08:11:30,40.119.27.190,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-17 08:11:30,130.12.182.107,100,Slovenia,Ljubljana,VPS Dedicated LLC,Netiface LLC,Data Center,True
+2026-10-17 08:11:30,210.212.136.3,100,India,Vadodara,BSNL Internet,National Internet Backbone,Residential/Business,False
+2026-10-17 08:11:30,149.54.40.222,100,Afghanistan,Gardez,Government Communications Network,Government Communications Network,Residential/Business,False
+2026-10-17 08:11:30,45.43.37.254,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,True
+2026-10-17 08:11:30,37.28.180.250,100,Russia,Moscow,MegaFon-Moscow,,Mobile,False
+2026-10-17 08:11:30,106.243.155.71,100,South Korea,Seo-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-10-17 08:11:30,103.104.112.8,100,India,New Delhi,Webstar Broadband Private Limited,Webstar Broadband Private Limited,Residential/Business,False
+2026-10-17 08:11:30,197.5.145.102,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-10-17 08:11:30,165.154.202.254,100,United States,Los Angeles,Scloud Pte Ltd,Scloud Pte Ltd,Data Center,False
+2026-10-17 08:11:30,122.168.123.73,100,India,Indore,BHARTI,1 Malviya Nagar,Residential/Business,False
+2026-10-17 08:11:30,64.205.72.233,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-17 08:11:30,70.175.182.42,100,United States,Pensacola,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-17 08:11:30,34.22.139.160,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 08:11:30,65.49.20.68,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-17 08:11:30,118.39.219.45,100,South Korea,Jinju-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-17 08:11:30,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-17 08:11:30,64.62.197.212,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-10-17 08:11:30,173.239.211.64,100,United States,New York,F.N.S. HOLDINGS LIMITED,LogicWeb Inc,Data Center,True
+2026-10-17 08:11:30,66.132.195.53,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-17 08:11:30,18.218.118.203,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-10-17 08:11:30,139.144.239.72,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-17 08:11:30,138.226.239.34,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-17 08:11:30,178.128.208.8,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-17 08:11:30,49.231.192.36,100,Thailand,Phaya Thai,TCC1012-DON MUENG-by-AWN,,Mobile,False
+2026-10-17 08:11:30,100.53.130.45,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-17 08:11:30,216.226.78.20,100,Japan,Chiyoda City,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-17 08:11:30,34.87.254.19,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-10-17 08:11:30,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-17 08:11:30,69.5.169.173,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-17 08:11:30,65.49.20.67,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-17 08:11:30,27.254.190.148,100,Thailand,Huai Khwang,CS Loxinfo Public Company Limited,Cloud Csloxinfo,Data Center,False
+2026-10-17 08:11:30,125.31.2.160,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
