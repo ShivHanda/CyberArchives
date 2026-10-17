@@ -125634,3 +125634,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-17 21:59:01,58.229.253.119,100,South Korea,Seoul,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
 2026-10-17 21:59:01,192.151.255.194,100,United States,Miami,"POWER LINE (HK) CO., LIMITED",CloudRadium L.L.C,Data Center,False
 2026-10-17 21:59:01,45.74.59.2,100,United Kingdom,London,Secure Internet LLC,Virtualine Technologies,Data Center,True
+2026-10-17 23:52:15,211.228.76.180,100,South Korea,Seo-gu,Korea Telecom,,Residential/Business,False
+2026-10-17 23:52:15,64.34.94.207,100,Japan,Tokyo,Aptum Technologies,Blutique,Data Center,False
+2026-10-17 23:52:15,87.120.104.29,100,Norway,Sandefjord,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,False
+2026-10-17 23:52:15,101.96.197.182,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-17 23:52:15,209.141.43.146,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-10-17 23:52:15,217.154.35.203,100,United Kingdom,London,IONOS SE,IONOS SE,Data Center,False
+2026-10-17 23:52:15,70.184.175.154,100,United States,Chesapeake,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-17 23:52:15,185.242.226.81,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
+2026-10-17 23:52:15,109.160.32.177,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-17 23:52:15,120.79.243.17,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-10-17 23:52:15,103.67.162.139,100,Vietnam,Qui Nhon,MINHTHOIPC,Thoi MMO Company Limited,Residential/Business,False
+2026-10-17 23:52:15,20.196.193.222,100,South Korea,Seoul,Microsoft Corporation,Microsoft Azure Cloud (koreacentral),Data Center,False
+2026-10-17 23:52:15,117.173.156.172,100,China,Chengdu,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-17 23:52:15,115.160.76.23,100,South Korea,Jinju,Seokyung Cable Television Co.. Ltd.,Scsnet,Residential/Business,False
+2026-10-17 23:52:15,20.163.58.216,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-17 23:52:15,171.25.158.87,100,Sweden,Vaxjo,Patrik Lagerman,Kronnet,Residential/Business,False
+2026-10-17 23:52:15,170.64.137.166,100,Australia,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-17 23:52:15,86.38.187.86,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-17 23:52:15,34.84.37.178,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-17 23:52:15,106.120.205.138,100,China,Beijing,China Networks Inter-Exchange,Chinanet BJ,Residential/Business,False
+2026-10-17 23:52:15,203.17.87.209,100,Indonesia,Jakarta,SpaceX Starlink,SpaceX Starlink,Residential/Business,False
+2026-10-17 23:52:15,105.28.108.165,100,South Africa,Kempton Park,SEACOM Limited Networks,,Residential/Business,True
+2026-10-17 23:52:15,92.118.39.14,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-17 23:52:15,27.185.17.40,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-10-17 23:52:15,196.92.7.246,100,Morocco,Rabat,Itissalat Al-MAGHRIB,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-10-17 23:52:15,176.195.60.25,100,Russia,Moscow,Net By Net Holding LLC,Net By Net Holding LLC,Residential/Business,False
+2026-10-17 23:52:15,219.79.4.2,100,Hong Kong,Causeway Bay,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,Residential/Business,False
+2026-10-17 23:52:15,205.185.117.197,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-10-17 23:52:15,77.239.124.134,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-17 23:52:15,20.65.202.151,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-17 23:52:15,104.37.102.67,100,United States,Attica,ALTIUS Broadband,Respawn Point,Residential/Business,False
+2026-10-17 23:52:15,111.238.174.6,100,Japan,Higashiōizumi,Kddi Corporation,KDDI,Residential/Business,False
+2026-10-17 23:52:15,47.251.185.187,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-17 23:52:15,103.120.116.162,100,Pakistan,Tando Adam,Broadband Business Ideas (PVT.) Limited,Broadband Business Ideas (PVT.) Limited,Residential/Business,False
+2026-10-17 23:52:15,154.201.66.125,100,Hong Kong,Hong Kong,cognetcloud INC,High Family Technology Co,Data Center,False
+2026-10-17 23:52:15,20.40.252.89,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-17 23:52:15,52.128.227.50,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited,Residential/Business,False
+2026-10-17 23:52:15,14.103.117.97,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-17 23:52:15,77.90.185.20,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-10-17 23:52:15,51.24.112.219,100,United Kingdom,London,"Amazon.com, Inc.",AWS EC2 (eu-west-2),Data Center,False
+2026-10-17 23:52:15,77.67.26.185,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-17 23:52:15,58.221.60.25,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-10-17 23:52:15,42.96.20.16,100,Vietnam,Hanoi,HOALAC-VNNIC,HoaLac Software City Development Company,Residential/Business,False
+2026-10-17 23:52:15,193.32.162.175,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-17 23:52:15,45.198.224.177,100,Sweden,Stockholm,VPSVAULT.HOST LTD,Vpsvault.host LTD,Data Center,False
+2026-10-17 23:52:15,20.84.75.121,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-17 23:52:15,59.8.49.221,100,South Korea,Seogwipo,Korea Telecom,Kornet,Residential/Business,False
+2026-10-17 23:52:15,211.46.177.174,100,South Korea,Cheongyang-gun,Korea Telecom,Kornet,Residential/Business,False
+2026-10-17 23:52:15,129.121.100.53,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-17 23:52:15,64.205.72.56,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
