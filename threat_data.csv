@@ -125484,3 +125484,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-17 13:24:32,64.226.83.235,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-17 13:24:32,77.67.26.179,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
 2026-10-17 13:24:32,121.242.232.147,100,India,Chennai,Tata Communications Limited,VSNL,Residential/Business,False
+2026-10-17 16:47:46,169.197.140.197,100,United States,Miami,GTHost,GTHost,Data Center,False
+2026-10-17 16:47:46,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-17 16:47:46,31.14.254.64,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-17 16:47:46,183.221.243.30,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-17 16:47:46,85.217.149.26,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 16:47:46,118.26.38.29,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-17 16:47:46,129.205.31.68,100,Uganda,Kampala,ROKE Telkom Uganda,,Residential/Business,False
+2026-10-17 16:47:46,141.95.54.130,100,Germany,Limburg an der Lahn,OVH SAS,OVH GmbH,Data Center,False
+2026-10-17 16:47:46,85.137.51.161,100,Singapore,Singapore,Trunk-Networks,,Residential/Business,False
+2026-10-17 16:47:46,121.191.167.183,100,South Korea,Chungju,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-17 16:47:46,77.83.39.45,100,The Netherlands,Amsterdam,Pfcloud UG (haftungsbeschrankt),Lanedonet Datacenter,Data Center,False
+2026-10-17 16:47:46,186.97.249.154,100,Colombia,Medellín,EPM Telecomunicaciones S.A. E.S.P.,Colombia Móvil,Residential/Business,False
+2026-10-17 16:47:46,200.50.67.106,100,Barbados,Bridgetown,Cable & Wireless (Barbados) Limited,Cariaccess Communications,Mobile,False
+2026-10-17 16:47:46,66.132.172.226,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-17 16:47:46,125.19.218.50,100,India,Mumbai,BHARTI,Bharti Televentures Ltd.,Mobile,False
+2026-10-17 16:47:46,183.109.124.136,100,South Korea,Dongjak-gu,Korea Telecom,heobeuringkeujusighwyeusa,Residential/Business,False
+2026-10-17 16:47:46,112.3.100.42,100,China,Yixing,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-17 16:47:46,116.110.150.157,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-10-17 16:47:46,45.156.129.168,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-10-17 16:47:46,45.156.129.171,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-10-17 16:47:46,106.75.148.246,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-17 16:47:46,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-17 16:47:46,91.203.6.58,100,Ukraine,Kyiv,Denis Pavlovich Semenyuk,TutHost part 2,Data Center,False
+2026-10-17 16:47:46,103.200.23.154,100,Vietnam,Quận Phú Nhuận,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,Residential/Business,False
+2026-10-17 16:47:46,146.19.125.40,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech,Residential/Business,False
+2026-10-17 16:47:46,35.169.240.53,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-17 16:47:46,183.6.102.122,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-17 16:47:46,192.253.248.229,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-17 16:47:46,195.178.110.228,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-17 16:47:46,103.132.1.231,100,Thailand,Lak Si,"Bangmod Enterprise Co., Ltd.","Bangmod Enterprise Co., Ltd.",Residential/Business,False
+2026-10-17 16:47:46,185.200.116.41,100,Singapore,Singapore,M247 Europe SRL,M247 LTD,Data Center,True
+2026-10-17 16:47:46,165.154.100.252,100,Philippines,Manila,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-17 16:47:46,92.16.96.23,100,United Kingdom,Felling,TalkTalk,Carphone Warehouse Broadband Services,Residential/Business,False
+2026-10-17 16:47:46,172.237.137.146,100,United States,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-17 16:47:46,151.0.169.26,100,Italy,Milan,Fastweb SpA,Fastweb Edistudio,Residential/Business,False
+2026-10-17 16:47:46,20.150.211.114,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-17 16:47:46,213.230.64.246,100,Uzbekistan,Tashkent,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-10-17 16:47:46,178.128.97.205,100,Singapore,Singapore,"DigitalOcean, LLC",Digitalocean,Data Center,False
+2026-10-17 16:47:46,217.114.40.181,100,Iran,Qarchak,Vandad Vira Hooman LLC,"Nahor Hadish Design and Architecture Co., Ltd",Residential/Business,False
+2026-10-17 16:47:46,20.106.51.109,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-17 16:47:46,52.187.230.78,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-17 16:47:46,35.237.94.18,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,True
+2026-10-17 16:47:46,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 16:47:46,157.10.186.28,100,Vietnam,Yen Hoa,FPT Smart Cloud Company Limited,FPT Semiconductor Joint Stock Company,Data Center,False
+2026-10-17 16:47:46,172.110.223.200,100,United States,Newark,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-10-17 16:47:46,119.201.160.103,100,South Korea,Bonghwa-gun,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-17 16:47:46,20.80.92.173,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-17 16:47:46,189.178.72.229,100,Mexico,Guadalajara,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-10-17 16:47:46,82.47.63.121,100,Poland,Warsaw,OVH SAS,Doprax ApS,Residential/Business,False
+2026-10-17 16:47:46,220.250.52.101,100,China,Jinrongjie,CHINA UNICOM China169 Backbone,UNI FJFZ FujianInformationSecurityCenter,Residential/Business,False
