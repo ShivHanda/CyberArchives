@@ -125584,3 +125584,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-17 19:57:38,77.83.39.12,100,The Netherlands,Amsterdam,Pfcloud UG (haftungsbeschrankt),Lanedonet Datacenter,Data Center,False
 2026-10-17 19:57:38,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-10-17 19:57:38,103.24.63.85,100,India,Mumbai,wnet telecom pvt ltd,Wnet telecom pvt ltd,Residential/Business,False
+2026-10-17 21:59:01,197.5.145.102,100,Tunisia,Sousse,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),ATI - Agence Tunisienne Internet,Residential/Business,False
+2026-10-17 21:59:01,172.190.220.228,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-17 21:59:01,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-17 21:59:01,171.237.176.209,100,Vietnam,Hanoi,VIETEL,Viettel Corporation,Residential/Business,False
+2026-10-17 21:59:01,118.69.191.195,100,Vietnam,Ho Chi Minh City,Vietnam Internet Network Information Center,,Residential/Business,False
+2026-10-17 21:59:01,207.90.244.28,100,United States,Pflugerville,Cogent Communications,"SHODAN, LLC",Residential/Business,False
+2026-10-17 21:59:01,45.115.26.119,100,The Netherlands,Eygelshoven,SolidCore Hosting LTD,Ivacy Limited,Data Center,True
+2026-10-17 21:59:01,77.67.26.231,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-17 21:59:01,120.28.109.188,100,Philippines,San Juan,Globe Telecom,,Residential/Business,False
+2026-10-17 21:59:01,82.64.79.135,100,France,Paris,Proxad / Free SAS,ProXad network / Free SA,Residential/Business,False
+2026-10-17 21:59:01,102.220.160.38,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-17 21:59:01,103.191.14.243,100,Indonesia,Utan,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,Residential/Business,False
+2026-10-17 21:59:01,202.189.23.15,100,China,Beijing,China Telecom,"Beijing New Power Technology Co., Ltd",Residential/Business,False
+2026-10-17 21:59:01,40.124.168.230,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-17 21:59:01,85.217.149.46,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-17 21:59:01,74.225.146.100,100,India,Pune,AT&T Corp.,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-17 21:59:01,207.219.221.101,100,Canada,Vancouver,TELUS Communications Inc.,TELUS Communications Inc,Residential/Business,False
+2026-10-17 21:59:01,20.207.202.183,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-17 21:59:01,193.37.32.75,100,Singapore,Singapore,F.N.S. HOLDINGS LIMITED,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-10-17 21:59:01,104.199.36.53,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 21:59:01,48.217.235.68,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-17 21:59:01,119.93.40.244,100,Philippines,Mandaluyong,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,Residential/Business,False
+2026-10-17 21:59:01,120.79.243.17,100,China,Shenzhen,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD",Data Center,False
+2026-10-17 21:59:01,122.160.70.166,100,India,New Delhi,BHARTI,Abts Delhi,Residential/Business,False
+2026-10-17 21:59:01,54.77.111.234,100,Ireland,Dublin,"Amazon.com, Inc.",AWS EC2 (eu-west-1),Data Center,False
+2026-10-17 21:59:01,122.184.78.199,100,India,Gurugram,Bharti Airtel Limited,Bharti Airtel Limited,Residential/Business,False
+2026-10-17 21:59:01,129.121.116.121,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-17 21:59:01,175.201.85.209,100,South Korea,Suncheon,Korea Telecom,,Residential/Business,False
+2026-10-17 21:59:01,170.231.236.98,100,Switzerland,Zurich,Grupo Panaglobal 15 S.A,Grupo Panaglobal 15 S.A,Residential/Business,False
+2026-10-17 21:59:01,147.182.183.163,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-17 21:59:01,5.252.83.247,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-17 21:59:01,85.216.81.75,100,Germany,Frankfurt am Main,Vodafone,Vodafone BW GmbH,Residential/Business,False
+2026-10-17 21:59:01,34.77.137.207,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 21:59:01,194.180.49.127,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-17 21:59:01,122.165.71.110,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-17 21:59:01,37.230.158.248,100,Russia,Krasnodar,"OOO ""SPETSTELECOM-YUG""","OOO ""SPETSTELECOM-YUG""",Residential/Business,False
+2026-10-17 21:59:01,103.215.74.112,100,United States,Dallas,Rekha M. Jain,,Residential/Business,False
+2026-10-17 21:59:01,5.252.83.203,100,United Kingdom,London,Internet Utilities Europe and Asia Limited,Internet Utilities Europe and Asia Limited,Residential/Business,True
+2026-10-17 21:59:01,34.156.206.32,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 21:59:01,176.65.149.164,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-17 21:59:01,109.160.32.119,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-17 21:59:01,34.85.117.47,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-17 21:59:01,178.173.147.252,100,Iran,Shiraz,Shiraz Hamyar Co,hamyar,Residential/Business,False
+2026-10-17 21:59:01,35.241.239.86,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-17 21:59:01,2.57.17.145,100,United Kingdom,London,Hydra Communications Ltd,Private Customer,Data Center,True
+2026-10-17 21:59:01,77.239.124.148,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-17 21:59:01,200.222.71.218,100,Brazil,Manaus,V tal,V tal,Residential/Business,False
+2026-10-17 21:59:01,58.229.253.119,100,South Korea,Seoul,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-17 21:59:01,192.151.255.194,100,United States,Miami,"POWER LINE (HK) CO., LIMITED",CloudRadium L.L.C,Data Center,False
+2026-10-17 21:59:01,45.74.59.2,100,United Kingdom,London,Secure Internet LLC,Virtualine Technologies,Data Center,True
