@@ -125834,3 +125834,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-18 13:43:06,50.6.111.203,100,United States,Ashburn,Oracle Corporation,,Data Center,False
 2026-10-18 13:43:06,173.254.205.174,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
 2026-10-18 13:43:06,172.212.203.125,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-18 17:02:11,34.19.221.9,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-10-18 17:02:11,69.6.234.27,100,Colombia,Bogotá,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-18 17:02:11,103.174.64.201,100,Indonesia,Bekasi,PT Patra Sinar Teknologi,PT Patra Sinar Teknologi,Residential/Business,False
+2026-10-18 17:02:11,98.80.130.239,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-18 17:02:11,104.208.108.166,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-10-18 17:02:11,185.227.152.135,100,Hong Kong,San Po Kong,Cloudie Limited,"ANYUN INTERNET TECHNOLOGY (HONGKONG) CO., LIMITED",Data Center,False
+2026-10-18 17:02:11,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-18 17:02:11,200.138.46.76,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-18 17:02:11,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-18 17:02:11,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-18 17:02:11,61.222.211.114,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-18 17:02:11,157.10.45.192,100,Vietnam,Tuyen Quang,HAINAMTECH,HAI NAM Tech Joint Stock Company,Data Center,False
+2026-10-18 17:02:11,103.46.186.148,100,Indonesia,Utan,PT Air Lintas Komunikasi,PT Air Lintas Komunikasi,Residential/Business,True
+2026-10-18 17:02:11,52.188.225.23,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-18 17:02:11,121.184.40.103,100,South Korea,Daedeok-gu,Korea Telecom,,Residential/Business,False
+2026-10-18 17:02:11,44.207.207.36,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-10-18 17:02:11,77.67.26.121,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-18 17:02:11,36.140.151.122,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-18 17:02:11,163.7.1.218,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-18 17:02:11,169.58.137.184,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-18 17:02:11,130.12.180.174,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-10-18 17:02:11,182.43.221.112,100,China,Jinan,Cloud Computing Corporation,Chinanet SD,Data Center,False
+2026-10-18 17:02:11,35.242.222.173,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-18 17:02:11,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-18 17:02:11,34.87.118.114,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-18 17:02:11,36.133.212.147,100,China,Guangzhou,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-18 17:02:11,50.6.111.141,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-18 17:02:11,1.171.23.107,100,Taiwan,Hsinchu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-18 17:02:11,109.160.32.31,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-18 17:02:11,156.225.1.91,100,Hong Kong,Chai Wan,Agotoz Pte. LTD,Agotoz Pte. LTD,Residential/Business,False
+2026-10-18 17:02:11,85.203.23.193,100,Singapore,Singapore,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",Data Center,True
+2026-10-18 17:02:11,129.121.115.119,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-18 17:02:11,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-10-18 17:02:11,5.188.206.30,100,United States,Golden,e-mail: noc@fastvps.biz,Technology Advanced Investment Limited,Data Center,False
+2026-10-18 17:02:11,118.194.251.197,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-18 17:02:11,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-18 17:02:11,135.222.210.116,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Residential/Business,False
+2026-10-18 17:02:11,14.103.136.236,100,China,Haidian,"Beijing Volcano Engine Technology Co., Ltd.",China Internet Network Information Center,Residential/Business,False
+2026-10-18 17:02:11,78.44.238.178,100,Czechia,Prague,Vodafone Czech Republic,UPC Broadband,Residential/Business,False
+2026-10-18 17:02:11,14.39.180.249,100,South Korea,Yongsan-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-18 17:02:11,116.16.188.35,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-10-18 17:02:11,92.118.39.32,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-18 17:02:11,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-18 17:02:11,121.133.167.123,100,South Korea,Yongin-si,Korea Telecom,,Residential/Business,False
+2026-10-18 17:02:11,43.155.202.161,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-18 17:02:11,8.219.122.8,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-18 17:02:11,175.209.156.146,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-18 17:02:11,216.226.78.30,100,Japan,Chiyoda City,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-18 17:02:11,34.19.244.92,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-10-18 17:02:11,110.172.28.143,100,Vietnam,Quận Mười Một,CONTABO,Contabo Company Limited,Residential/Business,False
