@@ -125884,3 +125884,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-18 17:02:11,216.226.78.30,100,Japan,Chiyoda City,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
 2026-10-18 17:02:11,34.19.244.92,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
 2026-10-18 17:02:11,110.172.28.143,100,Vietnam,Quận Mười Một,CONTABO,Contabo Company Limited,Residential/Business,False
+2026-10-18 19:57:25,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-18 19:57:25,163.172.66.206,100,France,Paris,Scaleway SAS,ONLINE,Data Center,True
+2026-10-18 19:57:25,51.77.158.34,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-10-18 19:57:25,152.32.236.102,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-18 19:57:25,34.206.212.24,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-18 19:57:25,182.253.79.194,100,Indonesia,Denpasar,BIZNET,,Residential/Business,False
+2026-10-18 19:57:25,122.51.100.190,100,China,Shanghai,Shenzhen Tencent Computer Systems Company Limited,Guangzhou Haizhiguang communication technology Limited,Residential/Business,False
+2026-10-18 19:57:25,185.4.113.19,100,The Netherlands,Utrecht,Ymor E-services,,Data Center,False
+2026-10-18 19:57:25,154.54.100.16,100,United States,Beltsville,Cogent Communications,AiNET Corporation,Residential/Business,False
+2026-10-18 19:57:25,132.145.122.251,100,Japan,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),Data Center,False
+2026-10-18 19:57:25,66.132.186.141,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-18 19:57:25,201.184.50.251,100,Colombia,Bogotá,EPM Telecomunicaciones S.A. E.S.P.,,Residential/Business,False
+2026-10-18 19:57:25,178.153.240.152,100,Qatar,Doha,Ooredoo-MBB,,Residential/Business,False
+2026-10-18 19:57:25,185.255.212.178,100,Bulgaria,Karnobat,ET VESELIN JELQZKOV,Karnobatnet,Residential/Business,False
+2026-10-18 19:57:25,69.5.169.141,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-18 19:57:25,109.160.32.143,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-18 19:57:25,187.249.34.68,100,Mexico,Reynosa,Transtelco Inc,"IP Matrix, S.A. de C.V",Residential/Business,False
+2026-10-18 19:57:25,81.19.219.224,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-18 19:57:25,129.121.116.121,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-18 19:57:25,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-18 19:57:25,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-18 19:57:25,172.202.114.251,100,United States,Des Moines,Microsoft,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-18 19:57:25,183.66.149.42,100,China,Chongqing,Chinanet,Chinanet CQ,Residential/Business,False
+2026-10-18 19:57:25,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-18 19:57:25,165.154.11.121,100,Nigeria,Lagos,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-18 19:57:25,182.73.176.186,100,India,Chennai,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-10-18 19:57:25,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-18 19:57:25,35.237.160.83,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-18 19:57:25,173.212.237.80,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-18 19:57:25,179.48.18.42,100,Brazil,Milhã,Marcos Raniell Pinheiro Oliveira,Marcos Raniell Pinheiro Oliveira,Residential/Business,False
+2026-10-18 19:57:25,34.231.118.144,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-18 19:57:25,109.160.32.124,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-18 19:57:25,129.121.142.84,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-18 19:57:25,172.174.5.146,100,United States,Boydton,Microsoft,Microsoft Azure Cloud (eastus),Data Center,True
+2026-10-18 19:57:25,194.154.92.163,100,Russia,Moscow,"PJSC ""Vimpelcom""",BeeLine,Residential/Business,False
+2026-10-18 19:57:25,43.128.3.201,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-18 19:57:25,136.85.86.55,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-18 19:57:25,207.254.40.89,100,United States,Las Vegas,"MacStadium, Inc.","MacStadium, Inc.",Residential/Business,False
+2026-10-18 19:57:25,40.119.29.247,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-18 19:57:25,94.154.43.223,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-10-18 19:57:25,103.171.69.184,100,Bangladesh,Dhaka,Multilink International,Multilink International,Residential/Business,False
+2026-10-18 19:57:25,34.140.132.132,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-18 19:57:25,85.137.57.233,100,Ukraine,Kyiv,Virtual Systems LLC,,Data Center,False
+2026-10-18 19:57:25,123.253.162.253,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-10-18 19:57:25,172.236.228.229,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-18 19:57:25,79.124.56.138,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-18 19:57:25,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-18 19:57:25,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-18 19:57:25,169.58.137.184,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-18 19:57:25,172.236.228.218,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
