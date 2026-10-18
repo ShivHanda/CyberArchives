@@ -125784,3 +125784,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-18 08:28:31,122.187.229.201,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
 2026-10-18 08:28:31,20.127.185.37,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-10-18 08:28:31,209.99.185.195,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-18 13:43:06,203.156.108.110,100,Thailand,Pak Kret,JasTel Network,Cust Copp Jastel,Residential/Business,False
+2026-10-18 13:43:06,34.75.217.131,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-18 13:43:06,37.10.113.219,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-18 13:43:06,20.150.194.95,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-18 13:43:06,77.239.124.41,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-18 13:43:06,34.39.128.173,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-10-18 13:43:06,57.128.239.181,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-10-18 13:43:06,106.12.146.250,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-18 13:43:06,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-10-18 13:43:06,102.88.137.213,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-10-18 13:43:06,18.221.179.104,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-18 13:43:06,111.47.243.219,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-18 13:43:06,211.225.18.106,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-18 13:43:06,109.238.212.91,100,Czechia,Prague,PLANET,"Planet A, a.s.",Mobile,False
+2026-10-18 13:43:06,199.165.159.41,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-18 13:43:06,216.126.225.6,100,United States,Ogden,RouterHosting LLC,anyNode,Data Center,False
+2026-10-18 13:43:06,79.124.60.194,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-18 13:43:06,81.19.219.246,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-18 13:43:06,2.33.204.219,100,Italy,San Valentino Torio,VODAFONE,,Residential/Business,False
+2026-10-18 13:43:06,109.160.32.106,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-18 13:43:06,103.155.46.254,100,Indonesia,Probolinggo,PRONETINDO,,Residential/Business,False
+2026-10-18 13:43:06,202.165.22.173,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Data Center,False
+2026-10-18 13:43:06,136.112.140.159,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-18 13:43:06,175.209.156.146,100,South Korea,Gwanak-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-18 13:43:06,40.124.117.28,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-18 13:43:06,61.29.254.109,100,Singapore,Singapore,China Telecom Global Limited,,Residential/Business,False
+2026-10-18 13:43:06,191.97.12.90,100,Colombia,Otanche,TV AZTECA SUCURSAL COLOMBIA,TV AZTECA SUCURSAL COLOMBIA,Residential/Business,False
+2026-10-18 13:43:06,34.38.10.112,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-18 13:43:06,207.175.114.123,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-18 13:43:06,119.28.46.114,100,Hong Kong,Hong Kong,ComsenzNet,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-18 13:43:06,68.183.92.206,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-18 13:43:06,186.251.71.202,100,Brazil,Trindade,PW INFORMATICA E TECNOLOGIA LTDA,PW INFORMATICA E TECNOLOGIA LTDA,Residential/Business,False
+2026-10-18 13:43:06,23.29.118.81,100,United States,New York,Primary,,Data Center,False
+2026-10-18 13:43:06,130.12.180.32,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-10-18 13:43:06,198.74.58.192,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-18 13:43:06,193.24.211.219,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-10-18 13:43:06,193.32.162.84,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-18 13:43:06,216.118.231.170,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited.,Residential/Business,False
+2026-10-18 13:43:06,154.83.16.14,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-10-18 13:43:06,180.93.244.95,100,Vietnam,Quận Bốn,SPT,Saigon Postel Corporation,Residential/Business,False
+2026-10-18 13:43:06,198.46.134.48,100,United States,Buffalo,HostPapa,Foroquimica SL,Data Center,False
+2026-10-18 13:43:06,129.121.78.222,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-18 13:43:06,85.217.149.58,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-18 13:43:06,181.199.121.162,100,Ecuador,Guayaquil,Telconet S.A,Ecuanet - Corporacion Ecuatoriana De Informacion,Residential/Business,False
+2026-10-18 13:43:06,34.141.93.225,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-18 13:43:06,31.14.32.7,100,The Netherlands,Amsterdam,NewVM B.V.,Modat,Data Center,False
+2026-10-18 13:43:06,69.5.169.52,100,Germany,Frankfurt am Main,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-18 13:43:06,50.6.111.203,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-18 13:43:06,173.254.205.174,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-10-18 13:43:06,172.212.203.125,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
