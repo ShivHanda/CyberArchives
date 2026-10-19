@@ -126134,3 +126134,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-19 16:44:40,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
 2026-10-19 16:44:40,201.71.192.108,100,Brazil,Joviânia,Conectte Telecom Ltda,Conectte Telecom Ltda,Residential/Business,False
 2026-10-19 16:44:40,158.94.209.101,100,The Netherlands,Amsterdam,Omegatech LTD,Omegatech LTD,Residential/Business,True
+2026-10-19 21:55:42,50.70.121.135,100,Canada,Winnipeg,Shaw Communications,Shaw Communications Inc,Residential/Business,False
+2026-10-19 21:55:42,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-19 21:55:42,200.102.179.59,100,United Kingdom,City of London,NET,,Residential/Business,False
+2026-10-19 21:55:42,181.129.41.162,100,Colombia,Medellín,EPM Telecomunicaciones S.A. E.S.P.,EPM Telecomunicaciones S.A. E.S.P,Residential/Business,False
+2026-10-19 21:55:42,190.161.135.48,100,Chile,Talca,VTR BANDA ANCHA S.A.,VTR BANDA ANCHA S.A,Residential/Business,False
+2026-10-19 21:55:42,5.226.140.92,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-19 21:55:42,34.52.229.253,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-19 21:55:42,176.65.139.131,100,The Netherlands,Amsterdam,Storm Industries LLC,Storm Industries LLC,Data Center,False
+2026-10-19 21:55:42,135.148.63.92,100,United States,Reston,OVH SAS,OVH US LLC,Data Center,False
+2026-10-19 21:55:42,42.1.65.123,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-19 21:55:42,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-19 21:55:42,167.172.82.161,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-19 21:55:42,193.163.125.191,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-19 21:55:42,50.114.236.89,100,United States,Kansas City,CNServer LLC,,Data Center,False
+2026-10-19 21:55:42,170.106.152.218,100,United States,Santa Clara,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-10-19 21:55:42,125.229.194.81,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-19 21:55:42,109.160.32.178,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-19 21:55:42,50.212.27.150,100,United States,Cambridge,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-19 21:55:42,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-19 21:55:42,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-19 21:55:42,185.177.72.66,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-10-19 21:55:42,213.215.209.101,100,Italy,Rome,COLT Technology Services Group Limited,Babylon Cloud SpA,Data Center,False
+2026-10-19 21:55:42,45.140.192.52,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-10-19 21:55:42,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-10-19 21:55:42,185.180.141.107,100,United States,Chicago,Zenlayer Inc,ICG 1 ZEN DFW,Residential/Business,False
+2026-10-19 21:55:42,81.97.108.152,100,United Kingdom,Brighton,Virgin Media Limited,Vmcbbuk,Residential/Business,False
+2026-10-19 21:55:42,18.218.118.203,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,True
+2026-10-19 21:55:42,34.78.64.142,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-19 21:55:42,156.236.31.85,100,The Netherlands,Amsterdam,BitCommand LLC,BitCommand LLC,Residential/Business,False
+2026-10-19 21:55:42,77.74.202.251,100,Iran,Tehran,Toesegaran Shabakeh Arseh Novin Ltd,narges haghverdi,Residential/Business,False
+2026-10-19 21:55:42,4.246.204.51,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-19 21:55:42,58.240.123.98,100,China,Suzhou,CNC Group Jiangsu province network,,Residential/Business,False
+2026-10-19 21:55:42,222.222.210.183,100,China,Shijiazhuang,Chinanet,Chinanet HE,Residential/Business,False
+2026-10-19 21:55:42,97.74.236.4,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-19 21:55:42,146.70.194.236,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-19 21:55:42,187.94.255.203,100,Brazil,Piumhi,Vital NET,VITAL,Residential/Business,False
+2026-10-19 21:55:42,85.217.140.50,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-19 21:55:42,145.63.130.152,100,Germany,Frankfurt am Main,Podaon SIA,Podaon SIA,Residential/Business,False
+2026-10-19 21:55:42,2.26.2.114,100,The Netherlands,Amsterdam,Play2go International Limited,,Data Center,False
+2026-10-19 21:55:42,20.80.109.139,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-19 21:55:42,47.254.122.247,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-19 21:55:42,72.211.57.133,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-19 21:55:42,190.149.6.54,100,Guatemala,Guatemala City,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA","TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",Residential/Business,False
+2026-10-19 21:55:42,78.136.223.227,100,Russia,Moscow,"JSC ""ER-Telecom Holding"" Moscow region","JSC ""ER-Telecom Holding""",Residential/Business,False
+2026-10-19 21:55:42,85.121.5.34,100,Moldova,Chisinau,Alexhost SRL,Alexhost SRL,Data Center,False
+2026-10-19 21:55:42,107.173.254.11,100,United States,Buffalo,HostPapa,RackNerd LLC,Data Center,False
+2026-10-19 21:55:42,173.244.60.139,100,United States,New York,LogicWeb Inc.,LogicWeb Inc,Residential/Business,False
+2026-10-19 21:55:42,66.116.253.148,100,India,Mumbai,Oracle Corporation,,Data Center,False
+2026-10-19 21:55:42,103.94.129.11,100,Bangladesh,Chittagong,University Of Chittagong,University Of Chittagong,Residential/Business,False
+2026-10-19 21:55:42,156.238.41.211,100,Cabo Verde,Praia,"Cabo Verde Telecom, SA",Edgoo Networks,Residential/Business,False
