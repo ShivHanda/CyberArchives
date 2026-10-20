@@ -126334,3 +126334,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-20 13:12:20,119.28.46.114,100,Hong Kong,Hong Kong,ComsenzNet,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
 2026-10-20 13:12:20,35.198.22.132,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
 2026-10-20 13:12:20,182.10.170.81,100,Indonesia,Cirebon,PT Telekomunikasi Selular Indonesia,,Data Center,False
+2026-10-20 18:14:29,34.35.79.186,100,South Africa,Johannesburg,Google LLC,Google Cloud (africa-south1),Data Center,False
+2026-10-20 18:14:29,203.154.158.195,100,Thailand,Vadhana,Internet Thailand Company Ltd.,Internet Thailand Company Ltd,Residential/Business,False
+2026-10-20 18:14:29,89.153.125.230,100,Portugal,Porto,NOS Comunicacoes S.A.,TVCABO-Portugal,Residential/Business,False
+2026-10-20 18:14:29,74.118.81.174,100,Afghanistan,Kabul,Main Street,,Residential/Business,False
+2026-10-20 18:14:29,104.28.246.113,100,United States,St Louis,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-20 18:14:29,203.161.55.99,100,United Kingdom,London,"Namecheap, Inc.","Namecheap, Inc.",Data Center,False
+2026-10-20 18:14:29,62.60.134.210,100,Iran,Tehran,AOFB,IPNET,Data Center,False
+2026-10-20 18:14:29,64.99.117.209,100,United States,Westminster,Ting Fiber Inc.,Ting Fiber Inc,Residential/Business,False
+2026-10-20 18:14:29,176.65.148.233,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-20 18:14:29,111.61.176.58,100,China,Shijiazhuang,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Residential/Business,False
+2026-10-20 18:14:29,20.150.212.114,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-20 18:14:29,84.54.71.143,100,Uzbekistan,Samarkand,"""Uzbektelekom"" Joint Stock Company",Uztelecom,Residential/Business,False
+2026-10-20 18:14:29,177.223.35.89,100,Brazil,Goiânia,LINQ TELECOMUNICAÇOES LTDA ME,Linq Telecomunicacoes,Residential/Business,False
+2026-10-20 18:14:29,137.184.78.203,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-20 18:14:29,47.77.231.181,100,United States,Minkler,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-10-20 18:14:29,122.96.50.175,100,China,Nanjing,CNC Group CHINA169 Jiangsu Province Network,,Residential/Business,False
+2026-10-20 18:14:29,42.96.17.249,100,Vietnam,Quận Một,Long Van System Solution,,Residential/Business,False
+2026-10-20 18:14:29,169.58.246.108,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-20 18:14:29,211.178.247.182,100,South Korea,Dongdaemun,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-20 18:14:29,77.164.208.216,100,The Netherlands,Beverwijk,KPN B.V.,,Residential/Business,False
+2026-10-20 18:14:29,20.58.188.171,100,Australia,The Rocks,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),Data Center,False
+2026-10-20 18:14:29,134.33.96.110,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-20 18:14:29,203.75.213.2,100,Taiwan,New Taipei City,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-20 18:14:29,36.37.73.242,100,Indonesia,West Jakarta,PT Aplikanusa Lintasarta,LA BPP,Residential/Business,False
+2026-10-20 18:14:29,45.174.162.68,100,Brazil,Cururupu,Nando NET Fibra,Nando NET Fibra,Residential/Business,False
+2026-10-20 18:14:29,34.90.246.60,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-20 18:14:29,121.189.102.147,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-10-20 18:14:29,124.156.226.179,100,Japan,Tokyo,Tencent Cloud Computing (Beijing) Co,,Data Center,True
+2026-10-20 18:14:29,103.113.170.231,100,Indonesia,Jakarta,PT Cloudata Indonesia,,Data Center,False
+2026-10-20 18:14:29,114.248.10.29,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-10-20 18:14:29,86.98.118.16,100,United Arab Emirates,Ajman,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,King of Internet,Residential/Business,False
+2026-10-20 18:14:29,61.142.255.146,100,China,Zhongshan,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-20 18:14:29,217.24.185.244,100,Russia,Polevskoy,Insys LLC,Insys EKB,Residential/Business,False
+2026-10-20 18:14:29,121.184.128.107,100,South Korea,Seongnam-si,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-20 18:14:29,196.238.51.120,100,Tunisia,Aryanah,Orange Tunisie,,Residential/Business,False
+2026-10-20 18:14:29,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-20 18:14:29,136.248.121.226,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-10-20 18:14:29,35.189.8.200,100,Australia,Sydney,Google LLC,Google Cloud (australia-southeast1),Data Center,False
+2026-10-20 18:14:29,78.128.113.22,100,Bulgaria,Sofia,Miti 2000 EOOD,Miti 2000 EOOD,Data Center,False
+2026-10-20 18:14:29,20.207.202.183,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-20 18:14:29,86.38.187.210,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-20 18:14:29,57.131.32.79,100,Italy,Milan,OVH SAS,OVH Srl,Data Center,False
+2026-10-20 18:14:29,35.240.203.88,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-20 18:14:29,77.239.124.64,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-20 18:14:29,104.232.79.58,100,United States,Boulder,HT,,Residential/Business,False
+2026-10-20 18:14:29,100.29.192.76,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-10-20 18:14:29,121.227.31.13,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,True
+2026-10-20 18:14:29,35.241.178.74,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-20 18:14:29,66.132.195.35,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-20 18:14:29,202.164.149.101,100,India,Muvattupuzha,Asianet Satellite Communications Pvt Ltd,,Residential/Business,False
