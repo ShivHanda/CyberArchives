@@ -126384,3 +126384,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-20 18:14:29,35.241.178.74,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-10-20 18:14:29,66.132.195.35,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-10-20 18:14:29,202.164.149.101,100,India,Muvattupuzha,Asianet Satellite Communications Pvt Ltd,,Residential/Business,False
+2026-10-20 22:53:05,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-20 22:53:05,206.189.67.6,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,185.177.72.66,100,France,Vélizy-Villacoublay,Bucklog SARL,FBW NETWORKS,Residential/Business,False
+2026-10-20 22:53:05,138.68.11.128,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,143.110.140.226,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,104.248.208.107,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,138.197.193.198,100,United States,Santa Clara,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-20 22:53:05,64.227.48.174,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,165.22.153.4,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,190.171.189.85,100,Chile,Santiago,CTC. CORP S.A. (TELEFONICA EMPRESAS),CTC. CORP S.A. (TELEFONICA EMPRESAS),Residential/Business,False
+2026-10-20 22:53:05,196.251.121.107,100,Ukraine,Kyiv,Netiface LLC,,Residential/Business,True
+2026-10-20 22:53:05,192.42.116.44,100,The Netherlands,Amsterdam,Church of Cyberology,TOR Exit and More,Residential/Business,True
+2026-10-20 22:53:05,107.150.146.69,100,United States,Norcross,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-10-20 22:53:05,20.12.242.182,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-20 22:53:05,64.227.50.93,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,16.5.0.215,100,Brazil,São Paulo,"EMBNEX, LLC",EMBNEX. LLC,Residential/Business,False
+2026-10-20 22:53:05,165.22.148.223,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,34.180.122.99,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-20 22:53:05,223.226.137.24,100,India,Ahmedabad,Bharti Airtel,Bharti Airtel Ltd.,Residential/Business,False
+2026-10-20 22:53:05,64.205.72.14,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-20 22:53:05,71.6.199.65,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-20 22:53:05,190.230.219.208,100,Argentina,La Plata,Telecom Argentina S.A.,Apolo -Gold-Telecom-Per,Residential/Business,False
+2026-10-20 22:53:05,209.99.190.186,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-20 22:53:05,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-20 22:53:05,50.117.59.139,100,United States,San Jose,EGIHosting,EGIHosting,Data Center,False
+2026-10-20 22:53:05,172.210.9.220,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-20 22:53:05,46.29.26.191,100,Turkey,Istanbul,M/S ROBI TRADERS,FortiCore Digital,Residential/Business,False
+2026-10-20 22:53:05,103.24.212.134,100,Indonesia,Semarang,PT. ADAU PUTRA NETWORK,,Residential/Business,False
+2026-10-20 22:53:05,182.73.176.186,100,India,Chennai,Bharti Airtel,Bharti Airtel Ltd,Mobile,False
+2026-10-20 22:53:05,85.217.140.48,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 22:53:05,91.92.41.82,100,Bulgaria,Sofia,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,True
+2026-10-20 22:53:05,41.93.32.116,100,Tanzania,Dar es Salaam,Tanzania Education And Research Network,Ternet Services,Residential/Business,False
+2026-10-20 22:53:05,102.210.148.92,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-10-20 22:53:05,103.179.240.237,100,Pakistan,Lahore,PLAY BROADBAND (PRIVATE) LIMITED,Superuser IT Solutions (Pvt) Ltd,Residential/Business,False
+2026-10-20 22:53:05,45.90.163.37,100,France,Paris,Sapinet SAS,Sapinet,Data Center,False
+2026-10-20 22:53:05,211.105.129.57,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-20 22:53:05,118.38.44.223,100,South Korea,Gijang-gun,Korea Telecom,,Residential/Business,False
+2026-10-20 22:53:05,85.217.140.26,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 22:53:05,85.217.140.13,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 22:53:05,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-20 22:53:05,165.22.137.234,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 22:53:05,147.90.234.19,100,United States,New York,Fourplex Telecom LLC,Fourplex Telecom LLC,Data Center,False
+2026-10-20 22:53:05,185.71.141.6,100,Palestinian Territory,as-Samu,Astra for Telecommunication and IT Services,ZONE Technologies Ltd,Residential/Business,True
+2026-10-20 22:53:05,182.253.221.210,100,Indonesia,Tangerang,BIZNET,,Residential/Business,False
+2026-10-20 22:53:05,51.254.136.153,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-10-20 22:53:05,182.242.168.180,100,China,Kunming,Chinanet,Chinanet YN,Residential/Business,False
+2026-10-20 22:53:05,168.107.68.221,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-1),Data Center,False
+2026-10-20 22:53:05,103.187.165.26,100,Indonesia,South Tangerang,PT Amanusa Telemedia Mahardika,PT Amanusa Telemedia Mahardika,Residential/Business,False
+2026-10-20 22:53:05,222.108.100.117,100,South Korea,Gwangmyeong,Korea Telecom,KORNET,Residential/Business,False
+2026-10-20 22:53:05,185.242.226.9,100,The Netherlands,Amsterdam,IP Volume inc,AI Spera,Residential/Business,False
