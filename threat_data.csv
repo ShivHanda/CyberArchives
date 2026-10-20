@@ -126184,3 +126184,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-19 21:55:42,66.116.253.148,100,India,Mumbai,Oracle Corporation,,Data Center,False
 2026-10-19 21:55:42,103.94.129.11,100,Bangladesh,Chittagong,University Of Chittagong,University Of Chittagong,Residential/Business,False
 2026-10-19 21:55:42,156.238.41.211,100,Cabo Verde,Praia,"Cabo Verde Telecom, SA",Edgoo Networks,Residential/Business,False
+2026-10-20 00:52:41,31.14.254.100,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-20 00:52:41,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-10-20 00:52:41,139.135.41.253,100,Pakistan,Lahore,Cyber Internet Services (Private) Limited,Cyber Internet Services (Private) Limited,Residential/Business,False
+2026-10-20 00:52:41,46.164.132.34,100,Ukraine,Novi Petrivtsi,Pjsc Datagroup,Pjsc Datagroup,Residential/Business,False
+2026-10-20 00:52:41,103.111.70.134,100,India,Mumbai,Sysnet Broadband Services Private Limited,Sysnet Broadband Services Private Limited,Residential/Business,False
+2026-10-20 00:52:41,200.138.46.51,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-20 00:52:41,14.49.141.86,100,South Korea,Seogwipo,Korea Telecom,Kornet,Residential/Business,False
+2026-10-20 00:52:41,86.38.187.207,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-20 00:52:41,137.23.10.39,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-10-20 00:52:41,201.63.67.250,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-20 00:52:41,182.16.33.82,100,Hong Kong,Hong Kong,SIMCENTRIC,,Data Center,False
+2026-10-20 00:52:41,85.217.149.50,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 00:52:41,167.99.0.133,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-20 00:52:41,66.132.195.113,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-20 00:52:41,145.241.107.14,100,Saudi Arabia,Riyadh,Oracle Corporation,Oracle Cloud Infrastructure (me-riyadh-1),Data Center,False
+2026-10-20 00:52:41,167.86.118.220,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-20 00:52:41,106.12.160.188,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-20 00:52:41,217.60.242.50,100,United Kingdom,London,Gold IP L.l.c-fz,Gold IP L.l.c-fz,Residential/Business,False
+2026-10-20 00:52:41,31.14.254.111,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-20 00:52:41,114.162.143.2,100,Japan,Sendai,NTT Communications Corporation,Open Computer Network,Residential/Business,False
+2026-10-20 00:52:41,103.73.220.218,100,Hong Kong,Kwai Chung,GoMami Networks,Hong Kong Broadband Network Limited,Residential/Business,False
+2026-10-20 00:52:41,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-20 00:52:41,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-20 00:52:41,217.146.80.122,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-20 00:52:41,23.92.26.77,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-20 00:52:41,66.132.186.135,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-20 00:52:41,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 00:52:41,64.205.72.157,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-20 00:52:41,85.217.140.53,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 00:52:41,93.42.227.251,100,Italy,Milan,Fastweb SpA,Fastweb Insupport,Residential/Business,False
+2026-10-20 00:52:41,115.160.76.23,100,South Korea,Jinju,Seokyung Cable Television Co.. Ltd.,Scsnet,Residential/Business,False
+2026-10-20 00:52:41,102.218.68.126,100,Sudan,Khartoum North,MAX NET INTERNET SERVICES,MaxNet INTERNET SERVICES,Residential/Business,False
+2026-10-20 00:52:41,129.121.136.31,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-20 00:52:41,62.60.130.253,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-20 00:52:41,31.14.254.112,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Residential/Business,True
+2026-10-20 00:52:41,20.40.44.6,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-20 00:52:41,129.121.75.215,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-20 00:52:41,5.226.140.44,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-20 00:52:41,193.176.31.198,100,The Netherlands,Amsterdam,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-20 00:52:41,182.254.209.187,100,China,Shanghai,Tencent Cloud Computing,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-20 00:52:41,218.78.63.123,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-20 00:52:41,200.138.46.246,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-20 00:52:41,95.214.53.157,100,Poland,Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,Data Center,True
+2026-10-20 00:52:41,34.52.229.253,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-20 00:52:41,111.70.9.143,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-20 00:52:41,60.199.224.2,100,Taiwan,Taipei,Taiwan Fixed Network,"Taiwan Fixed Network CO., LTD.",Residential/Business,False
+2026-10-20 00:52:41,94.154.43.63,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,False
+2026-10-20 00:52:41,168.144.58.115,100,United States,Memphis,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-20 00:52:41,45.180.16.0,100,Brazil,Birigui,Link Brasil Telecomunicacoes Ltda,NET FAGA TELECOMUNICACOES LTDA,Residential/Business,False
+2026-10-20 00:52:41,23.132.164.185,100,The Netherlands,Amsterdam,Netiface America,10GIG.HOST,Data Center,False
