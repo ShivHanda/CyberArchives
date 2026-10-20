@@ -126234,3 +126234,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-20 00:52:41,168.144.58.115,100,United States,Memphis,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-20 00:52:41,45.180.16.0,100,Brazil,Birigui,Link Brasil Telecomunicacoes Ltda,NET FAGA TELECOMUNICACOES LTDA,Residential/Business,False
 2026-10-20 00:52:41,23.132.164.185,100,The Netherlands,Amsterdam,Netiface America,10GIG.HOST,Data Center,False
+2026-10-20 07:00:46,182.93.50.90,100,Macao,Zhuojiacun,Companhia de Telecomunicacoes de Macau,CTM Internet Service,Residential/Business,False
+2026-10-20 07:00:46,138.226.239.34,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-20 07:00:46,4.148.17.168,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-20 07:00:46,62.60.134.132,100,Iran,Tehran,AOFB,IPNET,Data Center,False
+2026-10-20 07:00:46,42.193.15.224,100,China,Chengdu,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-20 07:00:46,31.173.2.182,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-10-20 07:00:46,94.249.151.147,100,Germany,Bad Soden am Taunus,M/S HARVIL MEDIA,noezIplease,Residential/Business,False
+2026-10-20 07:00:46,119.207.26.11,100,South Korea,Jeju City,Korea Telecom,,Residential/Business,False
+2026-10-20 07:00:46,185.226.197.97,100,The Netherlands,Amsterdam,Zenlayer Inc,ICG 4 ZEN AMS,Residential/Business,False
+2026-10-20 07:00:46,85.217.149.69,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-20 07:00:46,199.165.159.66,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-20 07:00:46,202.165.25.206,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,True
+2026-10-20 07:00:46,188.240.59.51,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-20 07:00:46,122.165.71.110,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-20 07:00:46,47.251.96.146,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-20 07:00:46,47.84.106.125,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-10-20 07:00:46,129.204.143.67,100,China,Guangzhou,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-20 07:00:46,152.32.199.20,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-10-20 07:00:46,151.80.213.177,100,France,Roubaix,OVH SAS,Housing Hive,Data Center,True
+2026-10-20 07:00:46,2.57.122.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-20 07:00:46,23.92.66.2,100,United States,Dallas,"HIVELOCITY, Inc.","HIVELOCITY, Inc",Data Center,False
+2026-10-20 07:00:46,209.141.47.217,100,United States,Las Vegas,FranTech Solutions,FranTech Solutions,Data Center,True
+2026-10-20 07:00:46,201.139.186.238,100,Brazil,Caucaia,DB3 SERVICOS DE TELECOMUNICACOES S.A,MOBCOM SOLUÇÕES EM TECNOLOGIA LTDA - ME,Residential/Business,False
+2026-10-20 07:00:46,51.45.55.60,100,France,Paris,"Amazon.com, Inc.",AWS EC2 (eu-west-3),Data Center,False
+2026-10-20 07:00:46,176.65.148.142,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-20 07:00:46,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-20 07:00:46,20.193.232.54,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-20 07:00:46,118.194.234.189,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Data Center,False
+2026-10-20 07:00:46,103.189.208.13,100,Vietnam,Sơn Trà,Tedev Technological Development Company Limited,TEDEV,Residential/Business,False
+2026-10-20 07:00:46,50.6.249.246,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-20 07:00:46,218.3.255.164,100,China,Nanjing,Chinanet,Chinanet JS,Residential/Business,False
+2026-10-20 07:00:46,43.173.76.83,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-20 07:00:46,184.176.134.71,100,United States,Phoenix,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-20 07:00:46,49.207.40.162,100,India,Delhi,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-10-20 07:00:46,14.103.111.16,100,China,Beijing,BITNET,"Beijing Bitone United Networks Technology Service Co., Ltd.",Residential/Business,False
+2026-10-20 07:00:46,146.148.113.227,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-20 07:00:46,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-20 07:00:46,213.209.159.228,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-20 07:00:46,181.79.159.3,100,Colombia,Bogotá,Ufinet Panama S.A.,UFINET,Residential/Business,False
+2026-10-20 07:00:46,36.37.73.242,100,Indonesia,West Jakarta,PT Aplikanusa Lintasarta,LA BPP,Residential/Business,False
+2026-10-20 07:00:46,66.132.172.118,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-20 07:00:46,66.132.186.243,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-20 07:00:46,185.247.137.6,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-20 07:00:46,183.230.9.103,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-20 07:00:46,62.60.130.242,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-20 07:00:46,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-20 07:00:46,79.72.59.54,100,Spain,Madrid,Oracle Corporation,Oracle Cloud Infrastructure (eu-madrid-1),Data Center,False
+2026-10-20 07:00:46,4.148.17.60,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-20 07:00:46,193.32.209.235,100,United Kingdom,City of London,Hydra Communications Ltd,Infrawatch Limited,Data Center,True
+2026-10-20 07:00:46,34.6.84.234,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
