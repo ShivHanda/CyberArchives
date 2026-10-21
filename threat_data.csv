@@ -126634,3 +126634,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-21 19:52:44,52.128.227.50,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited,Residential/Business,False
 2026-10-21 19:52:44,130.12.180.166,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
 2026-10-21 19:52:44,69.63.197.106,100,United States,Los Angeles,DMIT Cloud Services,,Data Center,False
+2026-10-21 22:58:25,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-21 22:58:25,143.110.178.177,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-21 22:58:25,15.235.193.207,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-10-21 22:58:25,65.20.204.41,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-10-21 22:58:25,122.165.56.162,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-21 22:58:25,20.14.88.130,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-21 22:58:25,41.221.49.85,100,Tanzania,Dar es Salaam,WIA Public,,Residential/Business,False
+2026-10-21 22:58:25,138.226.239.233,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-21 22:58:25,43.230.5.42,100,Indonesia,Purwodadi Grobogan,PT Wijaya Solusindo,,Residential/Business,False
+2026-10-21 22:58:25,149.6.48.107,100,Sweden,Limhamn,Cogent Communications,Cogent Communications,Residential/Business,False
+2026-10-21 22:58:25,113.30.149.218,100,Spain,Madrid,"Kamatera, Inc.",Cloudwebmanage EU MD,Data Center,False
+2026-10-21 22:58:25,102.220.161.85,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-21 22:58:25,124.83.9.140,100,Philippines,Bayawan,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Co,Residential/Business,False
+2026-10-21 22:58:25,149.202.40.80,100,France,Strasbourg,OVH SAS,OVH,Data Center,False
+2026-10-21 22:58:25,149.34.210.141,100,Turkey,Istanbul,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,Residential/Business,False
+2026-10-21 22:58:25,23.132.164.184,100,The Netherlands,Amsterdam,Netiface America,10GIG.HOST,Data Center,False
+2026-10-21 22:58:25,210.95.212.115,100,South Korea,Paju,Korea Telecom,Kornet,Residential/Business,False
+2026-10-21 22:58:25,149.34.224.128,100,Argentina,El Talar,DATTATEC.COM S.R.L,DATTATEC.COM S.R.L,Residential/Business,False
+2026-10-21 22:58:25,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-21 22:58:25,34.19.141.234,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-10-21 22:58:25,64.205.72.101,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-21 22:58:25,34.97.151.124,100,Japan,Osaka,Google LLC,Google Cloud (asia-northeast2),Data Center,False
+2026-10-21 22:58:25,149.118.57.35,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-2),Data Center,False
+2026-10-21 22:58:25,125.138.166.217,100,South Korea,Cheonan,Korea Telecom,,Residential/Business,False
+2026-10-21 22:58:25,149.118.67.149,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-10-21 22:58:25,136.108.61.21,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-21 22:58:25,129.121.140.234,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-21 22:58:25,149.118.53.37,100,Singapore,Singapore,Oracle Corporation,Oracle Cloud Infrastructure (ap-singapore-2),Data Center,False
+2026-10-21 22:58:25,120.48.80.100,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-21 22:58:25,220.123.33.105,100,South Korea,Boryeong,Korea Telecom,Kornet,Residential/Business,False
+2026-10-21 22:58:25,212.28.186.169,100,United States,St Louis,Contabo Inc.,Contabo GmbH,Data Center,False
+2026-10-21 22:58:25,140.115.197.4,100,Taiwan,Taoyuan,T-NCU.EDU.TW,,Residential/Business,False
+2026-10-21 22:58:25,135.235.138.43,100,India,Pune,MICROSOFT,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-21 22:58:25,103.172.20.218,100,Indonesia,Karawang,PT Vaiotech Lintas Nusantara,PT Vaiotech Lintas Nusantara,Residential/Business,False
+2026-10-21 22:58:25,144.126.238.71,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-21 22:58:25,34.92.228.195,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-10-21 22:58:25,193.163.125.234,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-21 22:58:25,45.148.10.15,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-21 22:58:25,183.89.250.247,100,Thailand,Mueang Samut Prakan,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,Residential/Business,False
+2026-10-21 22:58:25,51.254.136.153,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-10-21 22:58:25,165.22.51.61,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-21 22:58:25,134.122.125.153,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-21 22:58:25,165.232.35.215,100,United Kingdom,Slough,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-21 22:58:25,159.65.53.179,100,United Kingdom,Slough,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-21 22:58:25,185.241.208.20,100,Poland,Warsaw,1337 Services GmbH,1337 Services GmbH,Data Center,True
+2026-10-21 22:58:25,110.142.146.188,100,Australia,Sydney,Telstra Internet,,Residential/Business,False
+2026-10-21 22:58:25,103.93.160.210,100,Indonesia,Bogor,PT Biznet Gio Nusantara,Biznetgio,Residential/Business,False
+2026-10-21 22:58:25,65.20.189.52,100,Iraq,Baghdad,Hulum,Earthlink Telecommunications Equipment Trading & Services DMCC,Residential/Business,False
+2026-10-21 22:58:25,147.224.164.154,100,United States,Chicago,Oracle Corporation,Oracle Cloud Infrastructure (us-chicago-1),Data Center,False
+2026-10-21 22:58:25,61.28.144.154,100,Philippines,Manila,"Eastern Telecommunications Philippines, Inc.","Eastern Telecommunications Philippines, Inc",Residential/Business,False
