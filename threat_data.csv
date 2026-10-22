@@ -126734,3 +126734,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-22 02:54:38,92.118.39.77,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
 2026-10-22 02:54:38,58.115.52.27,100,Taiwan,New Taipei City,KBT,"KBT Co., LTD",Residential/Business,False
 2026-10-22 02:54:38,86.38.187.67,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-22 09:05:04,54.173.151.250,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-22 09:05:04,156.229.16.165,100,Russia,Moscow,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology HK Limited,Data Center,False
+2026-10-22 09:05:04,152.32.202.250,100,Japan,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-22 09:05:04,85.217.149.65,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-22 09:05:04,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-10-22 09:05:04,8.231.104.196,100,India,Mumbai,Google LLC,Google Cloud (asia-south1),Data Center,False
+2026-10-22 09:05:04,66.132.195.52,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-22 09:05:04,66.132.172.122,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-22 09:05:04,45.140.193.140,100,Brazil,São Paulo,Qnax Ltda,Qnax Ltda,Residential/Business,False
+2026-10-22 09:05:04,122.160.103.228,100,India,Gurugram,BHARTI,Abts Delhi,Residential/Business,False
+2026-10-22 09:05:04,202.164.42.142,100,India,Mohali,Quadrant Televentures Limited,Duke Fashions India LTD,Residential/Business,False
+2026-10-22 09:05:04,66.132.195.24,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-22 09:05:04,193.163.125.185,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-22 09:05:04,77.239.124.44,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-22 09:05:04,121.242.232.147,100,India,Chennai,Tata Communications Limited,VSNL,Residential/Business,False
+2026-10-22 09:05:04,109.160.32.43,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-22 09:05:04,45.79.153.72,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-22 09:05:04,109.160.32.149,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-22 09:05:04,172.235.235.248,100,Italy,Milan,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-22 09:05:04,34.91.0.68,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,True
+2026-10-22 09:05:04,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-22 09:05:04,103.195.236.196,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-10-22 09:05:04,115.68.195.133,100,South Korea,Gwangmyeong,SMILESERV,SMILESERV,Data Center,False
+2026-10-22 09:05:04,45.138.12.47,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,True
+2026-10-22 09:05:04,8.209.100.130,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-10-22 09:05:04,220.180.107.193,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-10-22 09:05:04,219.153.106.29,100,China,Chongqing,Chongqing Telecom,Chinanet CQ,Residential/Business,False
+2026-10-22 09:05:04,129.121.136.199,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-22 09:05:04,128.199.189.224,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-22 09:05:04,129.121.117.162,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-22 09:05:04,195.182.16.23,100,Germany,Frankfurt am Main,Amarutu Technology Ltd,Amarutu Technology Ltd,Residential/Business,False
+2026-10-22 09:05:04,166.62.41.13,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-22 09:05:04,51.254.130.161,100,France,Roubaix,OVH SAS,OVH,Data Center,False
+2026-10-22 09:05:04,179.51.153.37,100,Brazil,Eunápolis,Eunapolis Telecom Ltda,Eunapolis Telecom Ltda,Residential/Business,False
+2026-10-22 09:05:04,85.217.140.44,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-22 09:05:04,52.90.113.213,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-22 09:05:04,184.72.121.94,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-10-22 09:05:04,203.145.165.2,100,India,New Delhi,Bharti Airtel Limited,Bharti Airtel Ltd.,Residential/Business,False
+2026-10-22 09:05:04,220.116.117.213,100,South Korea,Nowon-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-22 09:05:04,34.174.215.174,100,United States,Dallas,Google LLC,Google Cloud (us-south1),Data Center,False
+2026-10-22 09:05:04,34.64.167.0,100,South Korea,Seoul,Google LLC,Google Cloud (asia-northeast3),Data Center,False
+2026-10-22 09:05:04,120.48.59.126,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-22 09:05:04,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-22 09:05:04,45.148.10.5,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-22 09:05:04,43.153.169.186,100,Japan,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-22 09:05:04,45.41.86.226,100,United States,Boulder,HT,,Residential/Business,False
+2026-10-22 09:05:04,20.172.68.73,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-22 09:05:04,71.161.90.170,100,United States,Keene,"Consolidated Communications, Inc.",Fidium,Residential/Business,False
+2026-10-22 09:05:04,93.152.221.43,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-22 09:05:04,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
