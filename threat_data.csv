@@ -126784,3 +126784,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-22 09:05:04,71.161.90.170,100,United States,Keene,"Consolidated Communications, Inc.",Fidium,Residential/Business,False
 2026-10-22 09:05:04,93.152.221.43,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
 2026-10-22 09:05:04,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-22 14:48:56,45.33.113.96,100,United States,Richardson,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-22 14:48:56,5.89.75.194,100,Italy,Milan,Vodafone,,Residential/Business,False
+2026-10-22 14:48:56,45.167.124.71,100,Colombia,Popayán,Sepcom Comunicaciones SAS,Sepcom Comunicaciones,Residential/Business,False
+2026-10-22 14:48:56,85.11.167.243,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-22 14:48:56,62.210.142.161,100,France,Paris,Scaleway SAS,ONLINE,Data Center,False
+2026-10-22 14:48:56,40.124.116.96,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-22 14:48:56,89.134.198.210,100,Hungary,Budapest,One Hungary Ltd.,One Hungary Ltd,Residential/Business,False
+2026-10-22 14:48:56,157.245.94.43,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-22 14:48:56,183.56.196.185,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-10-22 14:48:56,52.140.76.154,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-22 14:48:56,200.52.196.233,100,Mexico,Tlajomulco de Zúñiga,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-10-22 14:48:56,163.7.8.79,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-22 14:48:56,88.205.172.170,100,Russia,Yekaterinburg,Rostelecom Chelyabinsk,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-10-22 14:48:56,111.26.95.126,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-22 14:48:56,47.130.108.237,100,Singapore,Singapore,Amazon Technologies Inc,AWS EC2 (ap-southeast-1),Data Center,False
+2026-10-22 14:48:56,185.245.184.230,100,Russia,St Petersburg,Forest Net LTD,Forest Net LTD,Residential/Business,False
+2026-10-22 14:48:56,120.238.23.168,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-22 14:48:56,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-22 14:48:56,3.95.5.114,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-10-22 14:48:56,195.160.223.116,100,The Netherlands,Haarlem,SOLLUTIUM EU Sp z.o.o.,Freenet LTD,Data Center,False
+2026-10-22 14:48:56,204.8.96.73,100,United States,Dallas,Quintex Alliance Consulting,Quintex Alliance Consulting,Data Center,True
+2026-10-22 14:48:56,45.148.10.119,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-22 14:48:56,77.67.26.122,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-22 14:48:56,211.107.118.105,100,South Korea,Seo-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-22 14:48:56,65.49.1.61,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-22 14:48:56,111.26.95.254,100,China,Changchun,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-22 14:48:56,124.18.182.99,100,Japan,Hamamatsu,"Chubu Telecommunications Co., Inc.",General placeholder reference all addresses,Residential/Business,False
+2026-10-22 14:48:56,34.87.85.82,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-22 14:48:56,20.171.192.139,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-22 14:48:56,75.112.23.30,100,United States,Orlando,Charter Communications,Spectrum,Residential/Business,False
+2026-10-22 14:48:56,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-22 14:48:56,193.70.46.38,100,France,Roubaix,OVH SAS,OVH,Data Center,True
+2026-10-22 14:48:56,192.6.161.135,100,United States,Los Angeles,CNServer LLC,,Data Center,False
+2026-10-22 14:48:56,89.163.213.250,100,Germany,Düsseldorf,WIIT AG,myLoc managed IT AG,Data Center,False
+2026-10-22 14:48:56,158.173.20.208,100,The Netherlands,Amsterdam,Datacamp Limited,"VPN Consumer Amsterdam, The Netherlands",Data Center,True
+2026-10-22 14:48:56,124.174.7.42,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-22 14:48:56,35.204.198.10,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-22 14:48:56,109.160.32.48,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-22 14:48:56,150.241.244.61,100,India,Mumbai,Micro Hosting Private Limited,,Data Center,False
+2026-10-22 14:48:56,34.32.26.235,100,Germany,Berlin,Google LLC,Google Cloud (europe-west10),Data Center,False
+2026-10-22 14:48:56,93.152.221.41,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-22 14:48:56,192.81.131.73,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-22 14:48:56,31.173.4.22,100,Russia,Moscow,MegaFon,OJSC MegaFon,Mobile,False
+2026-10-22 14:48:56,81.192.46.29,100,Morocco,Casablanca,ONPT,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Residential/Business,False
+2026-10-22 14:48:56,34.19.230.199,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-10-22 14:48:56,79.124.58.246,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-10-22 14:48:56,40.124.117.9,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-22 14:48:56,136.87.123.94,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
+2026-10-22 14:48:56,34.39.199.207,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-10-22 14:48:56,136.70.62.1,100,United States,The Dalles,Google LLC,Google Cloud (us-west1),Data Center,False
