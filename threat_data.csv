@@ -126934,3 +126934,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-22 22:54:43,14.34.5.148,100,South Korea,Guro-gu,Korea Telecom,Kornet,Residential/Business,False
 2026-10-22 22:54:43,130.12.209.132,100,Albania,Durrës,Osir,Kl-ed Fiber,Residential/Business,False
 2026-10-22 22:54:43,107.180.212.169,100,United States,Dallas,"Pure Nodal, Inc.","Pure Nodal, Inc.",Residential/Business,False
+2026-10-23 02:58:21,8.211.142.197,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-23 02:58:21,185.220.101.28,100,Germany,Brandenburg an der Havel,Stiftung Erneuerbare Freiheit,Artikel10 e.V,Data Center,True
+2026-10-23 02:58:21,109.160.32.156,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 02:58:21,34.35.124.215,100,South Africa,Johannesburg,Google LLC,Google Cloud (africa-south1),Data Center,False
+2026-10-23 02:58:21,1.214.214.114,100,South Korea,Suwon,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-10-23 02:58:21,171.231.182.40,100,Vietnam,Da Nang,Viettel Corporation,VIETEL,Residential/Business,False
+2026-10-23 02:58:21,2.57.122.150,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-23 02:58:21,119.152.233.144,100,Pakistan,Lahore,Connect Communication,,Residential/Business,False
+2026-10-23 02:58:21,109.160.32.105,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 02:58:21,210.183.21.53,100,South Korea,Hwaseong-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-23 02:58:21,43.159.62.8,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Aceville Pte.ltd,Data Center,False
+2026-10-23 02:58:21,104.28.196.77,100,United States,Washington,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-23 02:58:21,45.148.10.61,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-23 02:58:21,34.156.51.173,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-23 02:58:21,89.248.167.131,100,The Netherlands,Amsterdam,IP Volume inc,IP Volume inc,Residential/Business,False
+2026-10-23 02:58:21,135.119.20.32,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Residential/Business,False
+2026-10-23 02:58:21,202.145.0.18,100,Indonesia,Jakarta,PT UniNET Media Sakti,,Residential/Business,False
+2026-10-23 02:58:21,78.128.112.6,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-10-23 02:58:21,168.75.77.111,100,Brazil,São Paulo,Oracle Corporation,Oracle Cloud Infrastructure (sa-saopaulo-1),Data Center,False
+2026-10-23 02:58:21,35.205.254.119,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-23 02:58:21,45.82.76.104,100,United Kingdom,London,Detai Prosperous Technologies Limited,Detai Prosperous Technologies Limited,Data Center,False
+2026-10-23 02:58:21,109.160.32.157,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 02:58:21,194.180.49.127,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-23 02:58:21,62.169.23.62,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-23 02:58:21,104.28.196.78,100,United States,Washington,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-23 02:58:21,211.221.2.119,100,South Korea,Seongnam-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-23 02:58:21,139.59.28.253,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-23 02:58:21,20.51.188.38,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-23 02:58:21,94.154.43.223,100,The Netherlands,Amsterdam,Storm Industries LLC,FOP Danik Vyacheslav Evgenievich,Data Center,True
+2026-10-23 02:58:21,8.216.13.61,100,Japan,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-23 02:58:21,104.28.228.78,100,United States,Washington,"Cloudflare, Inc.",Cloudflare WARP,Residential/Business,True
+2026-10-23 02:58:21,39.129.119.45,100,China,Guangzhou,"China Mobile Communications Group Co., Ltd","China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-23 02:58:21,45.33.40.18,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-23 02:58:21,109.160.32.39,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 02:58:21,43.165.198.144,100,Indonesia,Jakarta,Aceville Pte.ltd,,Data Center,True
+2026-10-23 02:58:21,61.177.36.109,100,China,Nanjing,Chinanet,"Suzhou Fengyuan Keji Jixie Co., ltd",Residential/Business,False
+2026-10-23 02:58:21,103.89.136.111,100,India,Noida,Planetcast Media Services Limited,Planetcast Media Services Limited,Residential/Business,False
+2026-10-23 02:58:21,173.249.52.138,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-23 02:58:21,79.124.56.214,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,False
+2026-10-23 02:58:21,64.62.156.103,100,United States,Minneapolis,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-23 02:58:21,45.148.10.37,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-23 02:58:21,102.220.161.171,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-23 02:58:21,8.209.114.226,100,Germany,Frankfurt am Main,Alibaba.com Singapore E-Commerce Private Limited,,Data Center,False
+2026-10-23 02:58:21,103.187.165.26,100,Indonesia,South Tangerang,PT Amanusa Telemedia Mahardika,PT Amanusa Telemedia Mahardika,Residential/Business,False
+2026-10-23 02:58:21,77.239.124.38,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-23 02:58:21,190.145.192.106,100,Colombia,Bogotá,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-10-23 02:58:21,74.249.131.24,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-23 02:58:21,184.105.247.195,100,United States,Shawnee,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-23 02:58:21,35.210.61.208,100,Belgium,Brussels,Google Ireland Limited,Google Cloud (europe-west1),Data Center,False
+2026-10-23 02:58:21,200.138.46.158,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
