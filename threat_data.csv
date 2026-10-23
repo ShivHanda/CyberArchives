@@ -127134,3 +127134,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-23 19:43:12,49.124.151.27,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
 2026-10-23 19:43:12,154.206.89.53,100,United States,San Jose,Kaopu Cloud HK Limited,Kaopu Cloud HK Limited,Data Center,False
 2026-10-23 19:43:12,165.227.102.187,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-23 22:49:57,85.217.140.45,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-23 22:49:57,195.178.110.232,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-23 22:49:57,20.65.169.82,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-23 22:49:57,65.254.92.190,100,Australia,Sydney,Dreamscape Networks PTY LTD,Endurance International Group,Residential/Business,False
+2026-10-23 22:49:57,195.178.191.5,100,Sweden,Bro,Bahnhof Internet,Bahnhof AB,Residential/Business,False
+2026-10-23 22:49:57,154.92.2.59,100,Hong Kong,Hong Kong,Xcloud Technology Limited,Xcloud Technology Limited,Data Center,True
+2026-10-23 22:49:57,34.159.236.96,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-23 22:49:57,65.254.95.190,100,Australia,Sydney,P.D.R Solutions FZC,Endurance International Group,Residential/Business,False
+2026-10-23 22:49:57,158.140.180.74,100,Indonesia,South Tangerang,MYREPUBLIC,,Residential/Business,False
+2026-10-23 22:49:57,45.40.57.172,100,India,Mumbai,Zenlayer Inc,UCLOUD,Data Center,False
+2026-10-23 22:49:57,77.239.124.77,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-23 22:49:57,185.246.188.74,100,The Netherlands,Amsterdam,FlokiNET ehf,FlokiNET Netherlands,Data Center,True
+2026-10-23 22:49:57,45.148.10.230,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-23 22:49:57,43.226.39.182,100,China,Haikuotiankong,CHINANET Liaoning province Dalian MAN network,Shenzhen Qianhai bird cloud computing Co. Ltd.,Data Center,False
+2026-10-23 22:49:57,115.243.248.82,100,India,Faridabad,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,Mobile,False
+2026-10-23 22:49:57,45.138.12.41,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-23 22:49:57,158.140.180.22,100,Indonesia,South Tangerang,MYREPUBLIC,,Residential/Business,False
+2026-10-23 22:49:57,157.90.114.45,100,Germany,Nuremberg,Hetzner Online GmbH,Hetzner,Data Center,False
+2026-10-23 22:49:57,193.189.100.200,100,Sweden,Stockholm,KeFF Networks Ltd,KeFF Networks Ltd,Data Center,True
+2026-10-23 22:49:57,85.217.140.14,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-23 22:49:57,156.227.233.77,100,Russia,Moscow,Yisu Cloud LTD,Cloud Innovation Ltd,Data Center,False
+2026-10-23 22:49:57,2.57.122.168,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-23 22:49:57,109.160.32.135,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 22:49:57,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-23 22:49:57,92.118.39.205,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-23 22:49:57,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-23 22:49:57,157.245.54.233,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-23 22:49:57,114.35.59.237,100,Taiwan,Douliu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-23 22:49:57,112.28.153.238,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-23 22:49:57,34.62.82.165,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-23 22:49:57,23.249.18.174,100,Hong Kong,Hong Kong,Prime Security Corp.,Prime Security Corp,Residential/Business,False
+2026-10-23 22:49:57,160.251.215.51,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-10-23 22:49:57,92.118.39.209,100,The Netherlands,Amsterdam,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-23 22:49:57,45.148.10.59,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-23 22:49:57,103.214.5.133,100,The Netherlands,Lelystad,HOSTSLIM OU,Rakar Investments Holding B.V,Data Center,False
+2026-10-23 22:49:57,66.132.186.244,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-23 22:49:57,187.216.224.85,100,Mexico,Huamantla,Uninet S.A. de C.V.,Uninet S.A. de C.V,Residential/Business,False
+2026-10-23 22:49:57,212.30.33.248,100,Spain,Madrid,Datacamp Limited,,Residential/Business,True
+2026-10-23 22:49:57,157.230.244.16,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-23 22:49:57,145.90.8.11,100,The Netherlands,Groningen,UT-ANYCAST,Universiteit Twente,Residential/Business,False
+2026-10-23 22:49:57,111.30.42.43,100,China,Youyilu,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-23 22:49:57,85.217.149.67,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-23 22:49:57,221.163.5.228,100,South Korea,Suwon,Korea Telecom,,Residential/Business,False
+2026-10-23 22:49:57,136.107.187.41,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-23 22:49:57,180.180.242.201,100,Thailand,Khwaeng Thung Song Hong,TOT Public Company Limited,TOT Public Company Limited,Data Center,False
+2026-10-23 22:49:57,154.8.197.49,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-23 22:49:57,118.252.27.84,100,China,Qingyuan,Chinanet,Chinanet HN,Residential/Business,False
+2026-10-23 22:49:57,34.6.29.74,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-23 22:49:57,34.35.97.200,100,South Africa,Johannesburg,Google LLC,Google Cloud (africa-south1),Data Center,False
+2026-10-23 22:49:57,115.48.40.190,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
