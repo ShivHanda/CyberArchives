@@ -127084,3 +127084,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-23 14:34:58,66.132.195.216,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
 2026-10-23 14:34:58,91.230.225.161,100,United Kingdom,London,F.N.S. HOLDINGS LIMITED,Netrouting B.V,Data Center,True
 2026-10-23 14:34:58,129.121.115.239,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-23 19:43:12,210.245.30.140,100,Vietnam,Hanoi,FPT Telecom Company,"Dai IP cap cho VPDD Givaudan Singapore Pte, Ltd",Residential/Business,False
+2026-10-23 19:43:12,103.143.10.140,100,United States,Los Angeles,Yisu Cloud LTD,"Hong Kong Acemob Technology Co., Limited",Data Center,False
+2026-10-23 19:43:12,179.43.153.2,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-23 19:43:12,45.148.10.125,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-23 19:43:12,204.76.203.212,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-23 19:43:12,2.50.136.144,100,United Arab Emirates,Fujairah,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,Emirates Telecommunications Corporation,Residential/Business,False
+2026-10-23 19:43:12,42.1.65.89,100,Vietnam,Hanoi,Mobifone Corporation,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-23 19:43:12,154.144.255.210,100,Morocco,Casablanca,CASA 4G MarocTelecom,,Residential/Business,False
+2026-10-23 19:43:12,77.91.71.91,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-23 19:43:12,38.103.170.148,100,Indonesia,Malang,Cogent Communications,PT Jagoan Hosting Indonesia,Data Center,False
+2026-10-23 19:43:12,69.5.7.218,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-23 19:43:12,66.132.172.233,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-23 19:43:12,194.103.82.72,100,Sweden,Sundbyberg,Obenetwork AB,Obenet AB,Residential/Business,False
+2026-10-23 19:43:12,103.159.54.61,100,Vietnam,Yên Xá,HT3 Vietnam Technology Investment and Development Joint Stock Company,HT3VIETNAM,Residential/Business,False
+2026-10-23 19:43:12,203.83.231.93,100,China,Guangzhou,China Telecom,,Data Center,False
+2026-10-23 19:43:12,172.180.64.72,100,United States,Phoenix,Microsoft,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-23 19:43:12,138.226.239.233,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-23 19:43:12,77.91.71.24,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-23 19:43:12,216.218.206.67,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-23 19:43:12,85.11.167.7,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-23 19:43:12,34.185.195.252,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-23 19:43:12,45.148.10.5,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-23 19:43:12,150.241.244.61,100,India,Mumbai,Micro Hosting Private Limited,,Data Center,False
+2026-10-23 19:43:12,221.1.218.230,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-10-23 19:43:12,34.158.103.4,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-23 19:43:12,95.85.226.199,100,The Netherlands,Amsterdam,OC NETWORKS LIMITED,1Cent Host,Data Center,False
+2026-10-23 19:43:12,100.28.191.174,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-10-23 19:43:12,77.90.185.94,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,True
+2026-10-23 19:43:12,109.160.32.49,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-23 19:43:12,185.194.178.37,100,France,Strasbourg,velia.net Internetdienste GmbH,Rackmarkt SL,Residential/Business,True
+2026-10-23 19:43:12,121.242.232.147,100,India,Chennai,Tata Communications Limited,VSNL,Residential/Business,False
+2026-10-23 19:43:12,80.94.92.179,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-23 19:43:12,172.239.71.239,100,United States,Los Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Data Center,False
+2026-10-23 19:43:12,165.154.147.69,100,Malaysia,Kuala Lumpur,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-23 19:43:12,77.90.185.239,100,Germany,Augsburg,Limited Network LTD,Limited Network LTD,Residential/Business,False
+2026-10-23 19:43:12,181.188.172.6,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-10-23 19:43:12,156.245.246.50,100,Hong Kong,Hong Kong,HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED,Binary Networks Solutions LLC,Data Center,False
+2026-10-23 19:43:12,152.32.230.104,100,Taiwan,Taipei,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCloud (HK) Holdings Group Limited,Data Center,False
+2026-10-23 19:43:12,194.180.11.186,100,Iran,Karaj,Vandad Vira Hooman LLC,Vandad Vira Hooman LLC,Residential/Business,False
+2026-10-23 19:43:12,70.183.235.22,100,United States,Destin,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-23 19:43:12,47.252.53.96,100,United States,Charlottesville,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-23 19:43:12,104.243.133.18,100,United States,Los Angeles,HT,yunxin llc,Residential/Business,False
+2026-10-23 19:43:12,79.101.120.76,100,Serbia,Stara Pazova,TELEKOM SRBIJA a.d.,TELEKOM-SRBIJA,Residential/Business,False
+2026-10-23 19:43:12,216.73.216.52,100,United States,Columbus,Amazon.com,Amazon Technologies Inc.,Data Center,False
+2026-10-23 19:43:12,218.78.92.76,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,False
+2026-10-23 19:43:12,121.229.202.143,100,China,Nanjing,China Telecom,Chinanet JS,Residential/Business,False
+2026-10-23 19:43:12,45.80.27.169,100,France,Paris 10 Entrepôt,Free Pro SAS,Free Pro,Residential/Business,False
+2026-10-23 19:43:12,49.124.151.27,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-10-23 19:43:12,154.206.89.53,100,United States,San Jose,Kaopu Cloud HK Limited,Kaopu Cloud HK Limited,Data Center,False
+2026-10-23 19:43:12,165.227.102.187,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
