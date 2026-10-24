@@ -127334,3 +127334,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-24 13:47:09,151.243.11.144,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
 2026-10-24 13:47:09,121.10.252.100,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
 2026-10-24 13:47:09,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
+2026-10-24 17:08:50,138.226.239.233,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-24 17:08:50,60.175.7.22,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,False
+2026-10-24 17:08:50,94.249.201.12,100,Germany,Bad Soden am Taunus,GHOSTnet GmbH,GHOSTnet GmbH,Data Center,True
+2026-10-24 17:08:50,207.241.172.73,100,Germany,Nuremberg,Advin Services LLC,Advin Services LLC,Residential/Business,False
+2026-10-24 17:08:50,166.143.59.227,100,United States,The Bronx,Verizon Business,Verizon Business,Mobile,False
+2026-10-24 17:08:50,115.190.126.68,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-10-24 17:08:50,109.205.211.203,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-10-24 17:08:50,182.48.80.240,100,Bangladesh,Dhaka,Corporate Office,,Residential/Business,False
+2026-10-24 17:08:50,218.146.81.169,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-24 17:08:50,109.105.209.12,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-10-24 17:08:50,193.32.162.175,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,False
+2026-10-24 17:08:50,200.138.46.120,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-24 17:08:50,5.61.209.106,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-10-24 17:08:50,49.207.40.162,100,India,Delhi,ACT Fibernet,Beam Telecom Pvt Ltd,Residential/Business,False
+2026-10-24 17:08:50,147.90.234.15,100,United States,New York,Fourplex Telecom LLC,Fourplex Telecom LLC,Data Center,False
+2026-10-24 17:08:50,180.74.140.143,100,Malaysia,Kluang,TM TECHNOLOGY SERVICES SDN BHD,Unifi Home,Residential/Business,False
+2026-10-24 17:08:50,194.163.135.254,100,France,Lauterbourg,Contabo GmbH,Contabo,Data Center,False
+2026-10-24 17:08:50,34.146.52.45,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-24 17:08:50,74.91.170.161,100,United States,Ashburn,Newfold Digital,"Newfold Digital, Inc.",Data Center,False
+2026-10-24 17:08:50,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-24 17:08:50,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-24 17:08:50,204.76.203.7,100,The Netherlands,Eygelshoven,Pfcloud UG,Intelligence Hosting LLC,Data Center,False
+2026-10-24 17:08:50,77.239.124.135,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-24 17:08:50,85.19.195.12,100,Norway,Oslo,Telia Norge AS,Telia Norge,Residential/Business,False
+2026-10-24 17:08:50,34.6.33.36,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-24 17:08:50,34.24.92.238,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-24 17:08:50,160.119.76.136,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
+2026-10-24 17:08:50,160.251.215.51,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-10-24 17:08:50,114.29.236.16,100,Hong Kong,Hong Kong,CLOUDWEBMANAGE,,Data Center,False
+2026-10-24 17:08:50,8.210.28.151,100,Hong Kong,Hong Kong,Alibaba.com LLC,Hong Kong,Data Center,False
+2026-10-24 17:08:50,65.254.95.164,100,Australia,Sydney,P.D.R Solutions FZC,Endurance International Group,Residential/Business,False
+2026-10-24 17:08:50,202.51.214.98,100,Indonesia,Jakarta,PT. Sejahtera Globalindo,,Residential/Business,False
+2026-10-24 17:08:50,143.110.145.158,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-24 17:08:50,20.150.194.160,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-24 17:08:50,102.220.161.178,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-24 17:08:50,86.38.187.97,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-24 17:08:50,100.29.192.46,100,United States,Ashburn,Amazon.com,AWS EC2 (us-east-1),Data Center,False
+2026-10-24 17:08:50,200.138.46.41,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-24 17:08:50,209.99.190.215,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-24 17:08:50,64.205.72.249,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-24 17:08:50,34.146.159.65,100,Japan,Tokyo,Google LLC,Google Cloud (asia-northeast1),Data Center,False
+2026-10-24 17:08:50,103.60.175.193,100,Bangladesh,Dhaka,Mazeda Networks Limited,Mazeda Networks Limited,Residential/Business,False
+2026-10-24 17:08:50,77.239.124.75,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-24 17:08:50,98.190.61.254,100,United States,Newport News,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-24 17:08:50,109.105.209.15,100,United States,Los Angeles,Zenlayer Inc,"NSEC - Sistemas Informaticos, S.A",Residential/Business,False
+2026-10-24 17:08:50,186.120.179.222,100,Dominican Republic,Santiago de los Caballeros,Altice Dominicana S.A.,Altice Dominicana S.A,Residential/Business,False
+2026-10-24 17:08:50,82.102.18.116,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-24 17:08:50,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-10-24 17:08:50,109.160.32.173,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-24 17:08:50,164.92.114.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
