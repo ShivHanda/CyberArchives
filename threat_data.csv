@@ -127384,3 +127384,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-24 17:08:50,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
 2026-10-24 17:08:50,109.160.32.173,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
 2026-10-24 17:08:50,164.92.114.247,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-24 20:03:57,34.150.186.226,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-24 20:03:57,151.243.11.33,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-10-24 20:03:57,118.196.43.235,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-24 20:03:57,98.157.226.42,100,United States,Cleveland,Charter Communications,Spectrum,Residential/Business,False
+2026-10-24 20:03:57,185.2.228.48,100,Lithuania,Vilnius,TELE2/ SWIPNET,Tele2 AB,Mobile,False
+2026-10-24 20:03:57,151.243.11.31,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-10-24 20:03:57,150.109.16.200,100,Singapore,Singapore,Aceville Pte.ltd,,Data Center,False
+2026-10-24 20:03:57,136.107.68.106,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,136.90.43.105,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,193.24.211.219,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-10-24 20:03:57,52.128.227.50,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited,Residential/Business,False
+2026-10-24 20:03:57,85.11.167.72,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-24 20:03:57,185.191.236.38,100,Switzerland,Zurich,Grupo Panaglobal 15 S.A,Alissa Hansson,Residential/Business,False
+2026-10-24 20:03:57,86.38.187.90,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-24 20:03:57,151.243.11.30,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-10-24 20:03:57,34.145.245.52,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,129.121.117.162,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-24 20:03:57,160.251.215.51,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-10-24 20:03:57,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-24 20:03:57,64.89.161.83,100,Luxembourg,Schieren,Netiface LLC,,Data Center,False
+2026-10-24 20:03:57,34.89.157.167,100,Germany,Frankfurt,Google LLC,Google Cloud (europe-west3),Data Center,False
+2026-10-24 20:03:57,111.70.23.253,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-24 20:03:57,162.217.103.68,100,United States,Dallas,Internap Holding LLC,Internap Holding LLC,Data Center,False
+2026-10-24 20:03:57,102.210.148.92,100,South Africa,Johannesburg,Konza,,Residential/Business,False
+2026-10-24 20:03:57,211.72.115.235,100,Taiwan,Taoyuan,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-24 20:03:57,35.245.117.198,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,77.91.71.25,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-24 20:03:57,66.116.253.243,100,India,Mumbai,Oracle Corporation,,Data Center,False
+2026-10-24 20:03:57,43.135.138.128,100,United States,Santa Clara,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,True
+2026-10-24 20:03:57,47.254.25.184,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-24 20:03:57,20.102.98.53,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-24 20:03:57,34.48.27.146,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,195.178.110.30,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-24 20:03:57,136.107.13.233,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,136.90.78.114,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-24 20:03:57,109.160.32.148,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-24 20:03:57,46.144.194.122,100,The Netherlands,Deventer,KPN B.V.,KPN B.V,Residential/Business,False
+2026-10-24 20:03:57,185.136.15.81,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-10-24 20:03:57,80.94.95.115,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Data Center,True
+2026-10-24 20:03:57,98.175.41.170,100,United States,Rogers,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-24 20:03:57,120.48.176.103,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-24 20:03:57,77.67.26.32,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-24 20:03:57,135.237.120.100,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-24 20:03:57,102.220.161.79,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-24 20:03:57,186.238.89.142,100,Brazil,São Paulo,Vivo,TELEF�NICA BRASIL S.A,Residential/Business,False
+2026-10-24 20:03:57,79.124.58.22,100,Bulgaria,Sofia,Tamatiya EOOD,Laado Raani Private Housing Space,Residential/Business,False
+2026-10-24 20:03:57,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-24 20:03:57,34.95.177.136,100,Brazil,Sao Paulo,Google LLC,Google Cloud (southamerica-east1),Data Center,False
+2026-10-24 20:03:57,185.247.137.233,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
