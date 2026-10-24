@@ -127284,3 +127284,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-24 08:33:34,179.43.153.2,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
 2026-10-24 08:33:34,185.136.15.111,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
 2026-10-24 08:33:34,46.151.178.14,100,Hong Kong,Hong Kong,Sino Worldwide Trading Limited,Sino Worldwide Trading Limited,Residential/Business,False
+2026-10-24 13:47:09,97.74.236.4,100,United States,Tempe,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-24 13:47:09,51.79.143.228,100,Singapore,Singapore,OVH SAS,OVH Singapore PTE. LTD,Data Center,False
+2026-10-24 13:47:09,197.199.224.52,100,Egypt,Al Qāhirah al Jadīdah,Etisalat Misr,Etisalat Misr,Residential/Business,False
+2026-10-24 13:47:09,118.70.125.152,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-24 13:47:09,196.251.121.215,100,Ukraine,Kyiv,Netiface LLC,,Residential/Business,True
+2026-10-24 13:47:09,216.118.231.170,100,Hong Kong,Hong Kong,Netsec Limited,Simcentric Solutions Limited.,Residential/Business,False
+2026-10-24 13:47:09,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-24 13:47:09,101.36.125.72,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-24 13:47:09,64.205.72.174,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-24 13:47:09,218.155.74.4,100,South Korea,Hanam,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-24 13:47:09,199.165.159.134,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-24 13:47:09,85.217.149.58,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-24 13:47:09,200.174.115.18,100,Brazil,Taboão da Serra,Claro S.A,EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES SA-EMBRATEL,Residential/Business,False
+2026-10-24 13:47:09,66.132.172.177,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-24 13:47:09,66.132.172.176,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-24 13:47:09,64.89.163.83,100,Germany,Frankfurt am Main,Netiface America,10GIG.host,Data Center,False
+2026-10-24 13:47:09,34.156.12.127,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-24 13:47:09,85.217.149.4,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-24 13:47:09,20.115.51.4,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-24 13:47:09,89.248.165.203,100,The Netherlands,Amsterdam,IP Volume inc,Quasi Networks LTD.,Residential/Business,False
+2026-10-24 13:47:09,104.208.108.166,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,True
+2026-10-24 13:47:09,189.194.140.170,100,Mexico,Puebla City,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V",Residential/Business,False
+2026-10-24 13:47:09,45.164.39.253,100,Brazil,Foz do Iguaçu,Oliveira Telecom,Oliveira Telecom,Residential/Business,False
+2026-10-24 13:47:09,176.65.132.251,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-24 13:47:09,14.22.23.243,100,China,Guangzhou,China Telecom,Chinanet GD,Residential/Business,False
+2026-10-24 13:47:09,165.154.51.225,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-24 13:47:09,34.187.45.61,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-24 13:47:09,89.248.163.168,100,Poland,Warsaw,IP Volume inc,Quasi Networks LTD.,Residential/Business,False
+2026-10-24 13:47:09,109.160.32.43,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-24 13:47:09,69.6.234.27,100,Colombia,Bogotá,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-24 13:47:09,213.177.179.24,100,The Netherlands,Eygelshoven,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-24 13:47:09,20.118.203.173,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-24 13:47:09,77.239.124.47,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-24 13:47:09,186.120.179.222,100,Dominican Republic,Santiago de los Caballeros,Altice Dominicana S.A.,Altice Dominicana S.A,Residential/Business,False
+2026-10-24 13:47:09,190.171.189.85,100,Chile,Santiago,CTC. CORP S.A. (TELEFONICA EMPRESAS),CTC. CORP S.A. (TELEFONICA EMPRESAS),Residential/Business,False
+2026-10-24 13:47:09,8.152.99.77,100,China,Beijing,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-24 13:47:09,154.221.18.89,100,Hong Kong,Chai Wan,Yisu Cloud LTD,Asline Limited,Data Center,False
+2026-10-24 13:47:09,122.114.12.133,100,China,Zhengzhou,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",Residential/Business,False
+2026-10-24 13:47:09,77.67.26.254,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-24 13:47:09,135.237.122.43,100,United States,Boydton,MICROSOFT,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-24 13:47:09,148.59.129.116,100,United States,Piscataway,Datacamp Limited,HYAS,Residential/Business,False
+2026-10-24 13:47:09,138.226.239.234,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-24 13:47:09,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-24 13:47:09,200.165.70.141,100,Brazil,Antônio Dias,V tal,Z E C INFORMATICA E ELETRONICOS LTDA,Residential/Business,False
+2026-10-24 13:47:09,193.24.211.219,100,Hong Kong,Central,Data Campus Limited,Data Campus Limited,Data Center,False
+2026-10-24 13:47:09,50.6.5.14,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-24 13:47:09,80.94.95.83,100,Bulgaria,Sofia,SS-Net,Unmanaged LTD,Data Center,False
+2026-10-24 13:47:09,151.243.11.144,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-10-24 13:47:09,121.10.252.100,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-24 13:47:09,190.115.84.25,100,Brazil,Leopoldo de Bulhões,J Riva Junior Eletronics ME,J Riva Junior Eletronics ME,Residential/Business,False
