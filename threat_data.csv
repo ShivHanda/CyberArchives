@@ -127184,3 +127184,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-23 22:49:57,34.6.29.74,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
 2026-10-23 22:49:57,34.35.97.200,100,South Africa,Johannesburg,Google LLC,Google Cloud (africa-south1),Data Center,False
 2026-10-23 22:49:57,115.48.40.190,100,China,Zhengzhou,CNC Group CHINA169 Henan Province Network,,Residential/Business,False
+2026-10-24 02:54:41,103.47.145.14,100,The Netherlands,Eygelshoven,Gaditek Associates,,Data Center,True
+2026-10-24 02:54:41,47.84.205.113,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-10-24 02:54:41,61.220.235.10,100,Taiwan,Taoyuan,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-24 02:54:41,40.112.183.29,100,United States,San Francisco,Microsoft Corporation,Microsoft Azure Cloud (westus),Data Center,False
+2026-10-24 02:54:41,85.217.140.44,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-24 02:54:41,122.165.56.162,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-24 02:54:41,51.195.149.120,100,United Kingdom,Erith,OVH SAS,OVH Ltd,Data Center,False
+2026-10-24 02:54:41,160.250.64.202,100,Vietnam,Cầu Diễn,WEB 360 TECHNOLOGY JOINT STOCK COMPANY,Web 360 Technology Joint Stock Company,Data Center,False
+2026-10-24 02:54:41,118.43.202.68,100,South Korea,Nam-gu,Korea Telecom,,Residential/Business,False
+2026-10-24 02:54:41,195.178.110.155,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-24 02:54:41,197.243.14.52,100,Rwanda,Kigali,BSC,,Residential/Business,False
+2026-10-24 02:54:41,202.62.88.25,100,India,Bhimavaram,CityOnline Services,,Residential/Business,False
+2026-10-24 02:54:41,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-24 02:54:41,220.158.233.62,100,Cambodia,Phnom Penh,BUCT,"VIETTEL (CAMBODIA) PTE., LTD",Mobile,False
+2026-10-24 02:54:41,193.163.125.21,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-24 02:54:41,20.163.3.174,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-24 02:54:41,62.60.130.210,100,Iran,Tehran,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,Data Center,False
+2026-10-24 02:54:41,85.198.19.241,100,Iran,Tehran,ASIATECH,,Residential/Business,False
+2026-10-24 02:54:41,45.135.193.198,100,Germany,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-24 02:54:41,194.180.49.123,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-24 02:54:41,157.173.125.24,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-24 02:54:41,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-24 02:54:41,5.61.209.106,100,The Netherlands,Amsterdam,Amarutu Technology Ltd. Network,,Residential/Business,False
+2026-10-24 02:54:41,113.11.231.104,100,India,Secunderabad,Krishna Raghava Online Pvt Ltd,Krishna Raghava Online Pvt Ltd,Residential/Business,False
+2026-10-24 02:54:41,3.147.122.184,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-24 02:54:41,8.222.239.48,100,Singapore,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,Data Center,False
+2026-10-24 02:54:41,61.184.36.53,100,China,Wuhan,Chinanet,,Residential/Business,False
+2026-10-24 02:54:41,66.132.172.240,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-24 02:54:41,217.150.47.21,100,Russia,Moscow,TRANS-TELECOM,,Residential/Business,False
+2026-10-24 02:54:41,103.176.160.146,100,India,Padghe,Jbn Online Private Limited,JBN Solution Private Limited,Residential/Business,False
+2026-10-24 02:54:41,103.101.250.217,100,Bangladesh,Dhaka,Bangladesh Police,Bangladesh Police,Residential/Business,False
+2026-10-24 02:54:41,209.99.190.186,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-24 02:54:41,138.226.239.91,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-24 02:54:41,200.138.46.163,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-24 02:54:41,43.155.182.60,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-24 02:54:41,13.220.253.111,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-24 02:54:41,172.110.223.182,100,United States,Newark,Husam A. H. Hijazi,Dedires LLC,Residential/Business,False
+2026-10-24 02:54:41,34.34.160.116,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-24 02:54:41,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-24 02:54:41,138.226.239.233,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-24 02:54:41,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-24 02:54:41,218.155.74.4,100,South Korea,Hanam,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-24 02:54:41,179.43.139.58,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-24 02:54:41,64.62.197.43,100,United States,Pleasanton,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",Data Center,False
+2026-10-24 02:54:41,65.254.93.170,100,Australia,Sydney,P.D.R Solutions FZC,,Residential/Business,False
+2026-10-24 02:54:41,194.180.49.121,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-24 02:54:41,138.226.239.90,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,False
+2026-10-24 02:54:41,123.253.162.253,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-10-24 02:54:41,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-24 02:54:41,64.205.72.162,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
