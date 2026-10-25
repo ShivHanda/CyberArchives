@@ -127529,3 +127529,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-25 03:00:50,37.187.197.110,100,France,Paris,OVH SAS,OVH HOSTING OY,Data Center,False
 2026-10-25 03:00:50,188.121.168.214,100,Slovakia,Moravany nad Váhom,Slovanet a.s.,Radiolan,Residential/Business,False
 2026-10-25 03:00:50,152.32.207.179,100,United States,Reston,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-25 08:52:50,103.182.10.220,100,India,Bhubaneswar,Em-cyberspace Services Private Limited,Neeladri Software Solution Private Limited,Residential/Business,False
+2026-10-25 08:52:50,160.155.16.199,100,Ivory Coast,Abidjan,ORANGE COTE D'IVOIRE,Ftth BNG YOP RES,Residential/Business,False
+2026-10-25 08:52:50,106.13.46.38,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-25 08:52:50,31.56.185.59,100,The Netherlands,Eygelshoven,Akenai-Products-AS,Akenai Products LTD,Residential/Business,False
+2026-10-25 08:52:50,164.92.211.98,100,The Netherlands,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-25 08:52:50,187.251.123.104,100,Mexico,La Paz,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.","TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V",Residential/Business,False
+2026-10-25 08:52:50,82.102.18.124,100,France,Chatou,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-25 08:52:50,86.54.31.36,100,The Netherlands,Amsterdam,MISTRAL,ADSL: Circle IT Solutions Limited,Data Center,False
+2026-10-25 08:52:50,109.160.32.161,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-25 08:52:50,120.28.219.231,100,Philippines,Cagayan de Oro,Globe Telecom,,Mobile,False
+2026-10-25 08:52:50,2407:1c00:6300:6250::,100,Singapore,Singapore,"GoDaddy.com, LLC",Godaddy.com,Residential/Business,False
+2026-10-25 08:52:50,13.221.159.164,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-25 08:52:50,176.65.148.226,100,The Netherlands,Eygelshoven,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-25 08:52:50,4.224.40.94,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-25 08:52:50,212.102.45.193,100,United States,Denver,DataCamp Limited,CDN77 Denver,Data Center,True
+2026-10-25 08:52:50,158.173.77.91,100,Italy,Milan,F.N.S. HOLDINGS LIMITED,"VPN Consumer Milan, Italy",Residential/Business,True
+2026-10-25 08:52:50,185.44.66.153,100,United States,New York,Massivegrid LTD,MassiveGRID,Data Center,False
+2026-10-25 08:52:50,71.6.146.130,100,United States,San Diego,"CariNet, Inc.","CariNet, Inc.",Residential/Business,False
+2026-10-25 08:52:50,200.138.46.24,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-25 08:52:50,66.132.172.239,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
+2026-10-25 08:52:50,103.154.62.14,100,Vietnam,Giảng Võ,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Data Center,False
+2026-10-25 08:52:50,212.33.198.41,100,Iran,Tehran,Asiatech Data Transmission company,Asiatech Data Transmission Co.,Residential/Business,False
+2026-10-25 08:52:50,136.23.84.96,100,United States,Washington,Google LLC,Google Cloud (us-east4),Data Center,False
+2026-10-25 08:52:50,43.161.251.162,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-10-25 08:52:50,203.192.247.84,100,India,Bengaluru,Entire In2Cable,Indusind Media And Communication Ltd.,Residential/Business,False
+2026-10-25 08:52:50,208.96.233.67,100,Canada,Coaticook,Cogeco Connexion inc,Cogeco Connexion inc,Residential/Business,False
+2026-10-25 08:52:50,34.194.233.48,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-25 08:52:50,125.253.123.34,100,Vietnam,Quận Tân Phú,ODS Joint Stock Company,ODSJSC,Residential/Business,False
+2026-10-25 08:52:50,109.160.32.32,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-25 08:52:50,109.160.32.163,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-25 08:52:50,77.67.26.208,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-25 08:52:50,45.33.109.8,100,United States,Fremont,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-25 08:52:50,62.171.128.231,100,Germany,Frankfurt am Main,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-25 08:52:50,211.200.11.218,100,South Korea,Namyangju,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-25 08:52:50,200.138.46.93,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-25 08:52:50,54.165.165.41,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-25 08:52:50,20.239.201.109,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-10-25 08:52:50,196.0.34.106,100,Uganda,Kampala,Uganda Telecom Ltd,UTCL,Residential/Business,False
+2026-10-25 08:52:50,103.142.26.97,100,Vietnam,Quận Tân Phú,Vietnam Internet Network Information Center,Tinomail Company Limited,Residential/Business,False
+2026-10-25 08:52:50,212.102.58.115,100,United States,Chicago,DataCamp Limited,CDN77 Chicago,Data Center,False
+2026-10-25 08:52:50,118.47.235.108,100,South Korea,Seoul,Korea Telecom,,Residential/Business,False
+2026-10-25 08:52:50,64.205.72.40,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-25 08:52:50,129.121.114.113,100,United States,Ashburn,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-25 08:52:50,211.253.9.49,100,South Korea,Seoul,PUBNET,jeongbotongsinyounriwewonhwyeu,Residential/Business,False
+2026-10-25 08:52:50,176.79.180.89,100,Portugal,Vila Nova de Gaia,PT Comunicacoes S.A.,PT Comunicacoes S.A.,Residential/Business,False
+2026-10-25 08:52:50,20.118.202.121,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-25 08:52:50,77.239.124.121,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-25 08:52:50,217.154.38.181,100,United Kingdom,Worcester,MISTRAL,,Residential/Business,False
+2026-10-25 08:52:50,185.247.137.40,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-25 08:52:50,34.175.5.203,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
