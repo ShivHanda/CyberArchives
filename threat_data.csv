@@ -127679,3 +127679,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-25 18:40:14,93.152.221.96,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
 2026-10-25 18:40:14,122.165.71.110,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
 2026-10-25 18:40:14,43.138.102.124,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-25 22:13:49,125.99.184.235,100,India,Delhi,Hathway IP over Cable Internet Access,,Residential/Business,False
+2026-10-25 22:13:49,59.14.218.35,100,South Korea,Siheung-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-25 22:13:49,43.230.5.42,100,Indonesia,Purwodadi Grobogan,PT Wijaya Solusindo,,Residential/Business,False
+2026-10-25 22:13:49,40.124.116.238,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-25 22:13:49,103.154.62.14,100,Vietnam,Giảng Võ,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,Data Center,False
+2026-10-25 22:13:49,180.167.207.234,100,China,Shanghai,China Telecom (Group),Chinanet SH,Residential/Business,True
+2026-10-25 22:13:49,89.218.151.18,100,Kazakhstan,Shymkent,JSC Kazakhtelecom,ODS,Residential/Business,False
+2026-10-25 22:13:49,103.86.198.162,100,Bangladesh,Tongi,Nasrin Sultana t/a Maisha,,Residential/Business,False
+2026-10-25 22:13:49,213.209.159.231,100,Germany,Aachen,Feo Prest SRL,Feo Prest SRL,Residential/Business,False
+2026-10-25 22:13:49,41.77.220.188,100,Democratic Republic of the Congo,Kinshasa,Orange RDC,,Mobile,False
+2026-10-25 22:13:49,165.22.51.61,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-25 22:13:49,144.202.82.88,100,United States,Kent,The Constant Company,"Vultr Holdings, LLC",Data Center,False
+2026-10-25 22:13:49,193.163.125.150,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-25 22:13:49,116.98.50.179,100,Vietnam,Da Nang,Viettel Group,VIETTEL,Residential/Business,False
+2026-10-25 22:13:49,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-25 22:13:49,185.136.15.82,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-10-25 22:13:49,34.17.131.14,100,Italy,Turin,Google LLC,Google Cloud (europe-west12),Data Center,False
+2026-10-25 22:13:49,113.89.160.157,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-25 22:13:49,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-25 22:13:49,185.136.15.80,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-10-25 22:13:49,182.61.43.222,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-25 22:13:49,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-25 22:13:49,49.124.146.43,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-10-25 22:13:49,106.13.46.138,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-25 22:13:49,160.119.76.177,100,The Netherlands,Amsterdam,HostUS,HostUS Solutions LLC,Data Center,False
+2026-10-25 22:13:49,197.199.224.52,100,Egypt,Al Qāhirah al Jadīdah,Etisalat Misr,Etisalat Misr,Residential/Business,False
+2026-10-25 22:13:49,221.161.235.168,100,South Korea,Busan,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-25 22:13:49,192.210.169.170,100,United States,Buffalo,HostPapa,,Data Center,False
+2026-10-25 22:13:49,45.56.103.133,100,United States,Cedar Knolls,"Akamai Technologies, Inc.",Linode,Data Center,False
+2026-10-25 22:13:49,57.129.120.143,100,Germany,Frankfurt am Main,OVH SAS,OVH GmbH,Data Center,False
+2026-10-25 22:13:49,121.46.244.19,100,China,Beijing,ZHAOONE,shanghai wexchange network technology Co. Ltd.,Residential/Business,False
+2026-10-25 22:13:49,103.71.176.25,100,Malaysia,Kuala Lumpur,Gigabit Hosting Sdn Bhd,Gigabit Hosting Sdn Bhd,Data Center,False
+2026-10-25 22:13:49,59.97.21.114,100,India,Bengaluru,BSNL Internet,,Residential/Business,False
+2026-10-25 22:13:49,211.200.11.218,100,South Korea,Namyangju,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-25 22:13:49,93.118.170.197,100,Iran,Tehran,Iran Telecommunication Company PJS,Telecommunication Company of Tehran,Residential/Business,False
+2026-10-25 22:13:49,62.171.183.5,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-25 22:13:49,37.157.91.62,100,Estonia,Tallinn,Telia Eesti AS,,Residential/Business,False
+2026-10-25 22:13:49,2602:f71d:400::10,100,Japan,Chiyoda City,LNK SYSTEMS MUNTENIA SRL,Valence Technology Co,Residential/Business,False
+2026-10-25 22:13:49,20.184.59.236,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-10-25 22:13:49,138.68.103.218,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-25 22:13:49,190.89.55.250,100,Brazil,Inhumas,Cardoso Comunicacoes Limitada,Cyanet Telecom Ltda,Residential/Business,False
+2026-10-25 22:13:49,96.78.175.36,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-25 22:13:49,112.161.75.207,100,South Korea,Goyang-si,Korea Telecom,Kornet,Residential/Business,False
+2026-10-25 22:13:49,34.152.52.193,100,Canada,Montreal,Google LLC,Google Cloud (northamerica-northeast1),Data Center,False
+2026-10-25 22:13:49,109.205.211.23,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-10-25 22:13:49,45.82.110.150,100,Finland,Haapajärvi,Pyhanet,,Residential/Business,False
+2026-10-25 22:13:49,72.253.251.7,100,United States,Lahaina,Hawaiian Telcom Services Company,Hawaiian Telcom,Residential/Business,False
+2026-10-25 22:13:49,218.206.136.24,100,China,Nanjing,China Mobile communications corporation,China Mobile Communications Corporation,Mobile,False
+2026-10-25 22:13:49,169.58.113.159,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-25 22:13:49,218.148.17.156,100,South Korea,Gunpo,Korea Telecom,KORNET,Residential/Business,False
