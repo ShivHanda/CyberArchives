@@ -127629,3 +127629,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-25 14:02:58,34.62.68.97,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
 2026-10-25 14:02:58,35.240.205.183,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
 2026-10-25 14:02:58,150.107.36.236,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-25 18:40:14,94.158.49.223,100,Uzbekistan,Guliston,Iplus LLC,COMNET IPoE STATIC,Residential/Business,False
+2026-10-25 18:40:14,193.163.125.233,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-25 18:40:14,80.97.45.140,100,Germany,Frankfurt am Main,Virtono Networks SRL,Virtono Networks SRL,Data Center,True
+2026-10-25 18:40:14,109.160.32.176,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-25 18:40:14,78.44.238.178,100,Czechia,Prague,Vodafone Czech Republic,UPC Broadband,Residential/Business,False
+2026-10-25 18:40:14,47.84.139.254,100,Singapore,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc",Data Center,False
+2026-10-25 18:40:14,179.61.110.7,100,Chile,Molina,SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.,SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA,Residential/Business,False
+2026-10-25 18:40:14,166.130.176.136,100,United States,New York,"AT&T Enterprises, LLC","AT&T Enterprises, LLC",Mobile,False
+2026-10-25 18:40:14,150.5.141.198,100,Hong Kong,Hong Kong,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-25 18:40:14,123.212.9.122,100,South Korea,Boryeong,SK Broadband Co Ltd,SK Broadband Co Ltd,Residential/Business,False
+2026-10-25 18:40:14,189.204.230.91,100,Mexico,Cuatro de Octubre,"Operbes, S.A. de C.V.","Operbes, S.A. de C.V",Residential/Business,False
+2026-10-25 18:40:14,193.187.110.159,100,Turkey,Istanbul,Fast Zone IT,Cyberaegis Casa S.R.L,Residential/Business,False
+2026-10-25 18:40:14,92.27.101.99,100,United Kingdom,Bradford,TalkTalk,TalkTalk Communications Limited,Residential/Business,False
+2026-10-25 18:40:14,20.150.193.92,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-25 18:40:14,50.6.206.236,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-25 18:40:14,77.91.71.90,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-25 18:40:14,115.178.75.243,100,South Korea,Gangseo-gu,SK Broadband Co Ltd,SKBroadband Co. Inc,Residential/Business,False
+2026-10-25 18:40:14,36.25.251.109,100,China,Huzhou,Chinanet,,Residential/Business,False
+2026-10-25 18:40:14,118.107.139.224,100,Pakistan,Gilgit,Micronet,,Mobile,False
+2026-10-25 18:40:14,223.83.131.241,100,China,Jinrongjie,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-25 18:40:14,117.50.226.213,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-25 18:40:14,89.163.146.129,100,Germany,Frankfurt am Main,WIIT AG,myLoc managed IT AG,Data Center,False
+2026-10-25 18:40:14,223.93.164.218,100,China,Hangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-25 18:40:14,185.12.59.118,100,Norway,Oslo,Blix Solutions,Blixcust10463,Residential/Business,False
+2026-10-25 18:40:14,152.32.200.213,100,Brazil,São Paulo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,True
+2026-10-25 18:40:14,103.101.250.217,100,Bangladesh,Dhaka,Bangladesh Police,Bangladesh Police,Residential/Business,False
+2026-10-25 18:40:14,176.53.159.198,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-25 18:40:14,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-25 18:40:14,176.53.159.197,100,Turkey,Istanbul,Zorntech Web Solutions,BearShield Technologies S.R.O,Residential/Business,False
+2026-10-25 18:40:14,65.254.93.170,100,Australia,Sydney,P.D.R Solutions FZC,,Residential/Business,False
+2026-10-25 18:40:14,112.168.121.39,100,South Korea,Yongin-si,Korea Telecom,Sudogwongangnambonbujang,Residential/Business,False
+2026-10-25 18:40:14,50.6.23.110,100,United States,Phoenix,Oracle Corporation,,Data Center,False
+2026-10-25 18:40:14,79.138.90.195,100,Sweden,Robertsfors,AllTele,,Residential/Business,False
+2026-10-25 18:40:14,82.102.18.220,100,France,Saint-Denis,M247 Europe SRL,M247 Ltd Paris,Data Center,True
+2026-10-25 18:40:14,77.239.124.76,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-25 18:40:14,23.227.147.163,100,United States,Piscataway,"24 SHELLS, Host World Net LLC, Data World Net, Data World",B2 Net Solutions Inc.,Data Center,True
+2026-10-25 18:40:14,103.195.236.196,100,Vietnam,Quận Bình Thạnh,DULIEUAZ,AZ Viet NAM Communications Technology Company Limited,Residential/Business,False
+2026-10-25 18:40:14,138.124.62.174,100,Spain,Madrid,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,Residential/Business,False
+2026-10-25 18:40:14,217.211.208.125,100,Sweden,Arvika,Telia Company AB,,Residential/Business,False
+2026-10-25 18:40:14,210.206.95.162,100,South Korea,Yongsan-gu,LG DACOM Corporation,LG Uplus,Residential/Business,False
+2026-10-25 18:40:14,120.48.176.104,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-25 18:40:14,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-25 18:40:14,210.90.155.178,100,South Korea,Seoul,Korea Telecom,Kornet,Residential/Business,False
+2026-10-25 18:40:14,79.51.52.114,100,Italy,Cosenza,INTERBUSINESS,NAS DHCP Pool Nola,Residential/Business,False
+2026-10-25 18:40:14,152.32.218.149,100,Singapore,Singapore,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-25 18:40:14,103.249.232.71,100,India,Ahmedabad,ANTRIKSSH CABLE SERVICES Pvt. Ltd.,Gtpl Broadband Pvt. Ltd.,Residential/Business,False
+2026-10-25 18:40:14,114.35.59.237,100,Taiwan,Douliu,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-25 18:40:14,93.152.221.96,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,True
+2026-10-25 18:40:14,122.165.71.110,100,India,Chennai,BHARTI,ABTS Tamilnadu,Residential/Business,False
+2026-10-25 18:40:14,43.138.102.124,100,China,Beijing,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
