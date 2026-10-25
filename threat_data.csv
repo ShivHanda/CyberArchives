@@ -127579,3 +127579,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-25 08:52:50,217.154.38.181,100,United Kingdom,Worcester,MISTRAL,,Residential/Business,False
 2026-10-25 08:52:50,185.247.137.40,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
 2026-10-25 08:52:50,34.175.5.203,100,Spain,Madrid,Google LLC,Google Cloud (europe-southwest1),Data Center,False
+2026-10-25 14:02:58,117.50.178.180,100,China,Yangpu,UCLOUD,Shanghai UCloud Information Technology Company Limited,Data Center,False
+2026-10-25 14:02:58,94.26.106.252,100,Germany,Frankfurt am Main,TechTies Inc.,TechTies Inc,Residential/Business,False
+2026-10-25 14:02:58,52.124.103.78,100,Canada,Whitecourt,Eastlink HSI,Persona Communications Inc,Residential/Business,False
+2026-10-25 14:02:58,118.37.214.187,100,South Korea,Bupyeong-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-25 14:02:58,91.191.209.98,100,Bulgaria,Dimitrovgrad,L&L Investment Ltd.,L&L Investment Ltd,Data Center,True
+2026-10-25 14:02:58,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-25 14:02:58,43.156.115.178,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-25 14:02:58,161.18.77.49,100,Colombia,Yumbo,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP,Residential/Business,False
+2026-10-25 14:02:58,181.188.176.242,100,Bolivia,La Paz,Telefónica Celular de Bolivia S.A.,Telefónica Celular de Bolivia S.A,Mobile,False
+2026-10-25 14:02:58,41.216.167.226,100,Nigeria,Lagos,VDT COMMUNICATIONS LIMITED,CUSTOMER HealthPlus Ikeja City Mall,Residential/Business,False
+2026-10-25 14:02:58,103.117.145.130,100,Hong Kong,Hong Kong,Netsec Limited,Netsec,Residential/Business,False
+2026-10-25 14:02:58,31.184.195.248,100,Russia,St Petersburg,Petersburg Internet Network ltd,PIN DC,Data Center,True
+2026-10-25 14:02:58,151.158.44.120,100,Bangladesh,Dhaka,Md. Mehedi,,Data Center,False
+2026-10-25 14:02:58,206.42.8.243,100,Brazil,Fortaleza,Brisanet Prestacao De Servicos De Internet Ltda,Brisanet Prestacao De Servicos De Internet Ltda,Residential/Business,False
+2026-10-25 14:02:58,150.109.10.219,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd,Data Center,False
+2026-10-25 14:02:58,92.205.165.71,100,France,Strasbourg,Host Europe GmbH,Host Europe GmbH,Data Center,False
+2026-10-25 14:02:58,45.148.10.37,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-25 14:02:58,20.244.17.248,100,India,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),Data Center,False
+2026-10-25 14:02:58,200.138.46.172,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-25 14:02:58,123.253.162.253,100,India,Bhopal,INPL's,NIXI,Residential/Business,False
+2026-10-25 14:02:58,115.190.212.50,100,China,Beijing,GWBN-WUHAN's IP,,Residential/Business,False
+2026-10-25 14:02:58,34.73.103.198,100,United States,North Charleston,Google LLC,Google Cloud (us-east1),Data Center,False
+2026-10-25 14:02:58,34.7.82.107,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-25 14:02:58,35.241.132.84,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,45.148.10.13,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-25 14:02:58,5.133.111.190,100,Russia,Moscow,VDS-Telecom LLC.,Connecting LLC,Residential/Business,False
+2026-10-25 14:02:58,210.245.30.140,100,Vietnam,Hanoi,FPT Telecom Company,"Dai IP cap cho VPDD Givaudan Singapore Pte, Ltd",Residential/Business,False
+2026-10-25 14:02:58,157.230.19.72,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-25 14:02:58,111.70.23.236,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-25 14:02:58,103.168.147.235,100,Indonesia,South Jakarta,PT Herza Digital Indonesia,Herza.ID,Data Center,True
+2026-10-25 14:02:58,67.207.92.87,100,United States,North Bergen,"DigitalOcean, LLC",Digital Ocean,Data Center,True
+2026-10-25 14:02:58,35.241.132.20,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,185.218.86.21,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-25 14:02:58,34.67.88.16,100,United States,Council Bluffs,Google LLC,Google Cloud (us-central1),Data Center,False
+2026-10-25 14:02:58,103.132.243.250,100,India,Bhubaneswar,INPLs,Netset Media Services Private Limited,Residential/Business,False
+2026-10-25 14:02:58,35.241.101.5,100,Hong Kong,Hong Kong,Google LLC,Google Cloud (asia-east2),Data Center,False
+2026-10-25 14:02:58,13.140.88.22,100,Singapore,Singapore,TerraTransit AG,Contabo Asia Private Limited,Residential/Business,False
+2026-10-25 14:02:58,195.178.110.227,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-25 14:02:58,35.240.58.49,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,175.155.122.208,100,China,Chengdu,China Unicom Sichuan Province Network,,Residential/Business,False
+2026-10-25 14:02:58,34.62.82.165,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,34.62.4.168,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,77.239.124.111,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-25 14:02:58,34.6.132.29,100,Netherlands,Groningen,Google LLC,Google Cloud (europe-west4),Data Center,False
+2026-10-25 14:02:58,35.240.244.58,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-25 14:02:58,50.6.45.178,100,India,Mumbai,Oracle Corporation,Oracle Corporation,Data Center,False
+2026-10-25 14:02:58,34.62.189.80,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,34.62.68.97,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-25 14:02:58,35.240.205.183,100,Singapore,Singapore,Google LLC,Google Cloud (asia-southeast1),Data Center,False
+2026-10-25 14:02:58,150.107.36.236,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
