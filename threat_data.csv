@@ -127879,3 +127879,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-26 16:24:34,102.211.209.113,100,Tunisia,Tunis,OXAHOST,OXA TN 2 B,Data Center,False
 2026-10-26 16:24:34,172.210.9.231,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
 2026-10-26 16:24:34,47.90.137.149,100,United States,Charlottesville,Alibaba.com LLC,ALICLOUD-US,Data Center,False
+2026-10-26 22:10:43,104.199.141.155,100,Taiwan,Taipei,Google LLC,Google Cloud (asia-east1),Data Center,False
+2026-10-26 22:10:43,195.96.139.44,100,United Kingdom,Leeds,Driftnet Ltd,Constantine Cybersecurity LTD,Residential/Business,False
+2026-10-26 22:10:43,50.6.205.78,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-26 22:10:43,185.45.192.216,100,The Netherlands,Amsterdam,Host Sailor Ltd,Host Sailor Ltd,Data Center,False
+2026-10-26 22:10:43,220.80.223.144,100,South Korea,Buk-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-26 22:10:43,185.247.137.55,100,United Kingdom,Manchester,Driftnet Ltd,Constantine Cybersecurity LTD,Data Center,False
+2026-10-26 22:10:43,103.123.72.12,100,India,Greater Noida,Ynet Telecom Solutions,NIXI,Residential/Business,False
+2026-10-26 22:10:43,85.217.140.11,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-26 22:10:43,103.6.169.83,100,Singapore,Singapore,Global Cloud Infrastructure LTD,,Data Center,False
+2026-10-26 22:10:43,31.76.57.198,100,Germany,Frankfurt am Main,Chsl ONE LTD,Chsl ONE LTD,Residential/Business,False
+2026-10-26 22:10:43,163.223.210.138,100,Vietnam,Hanoi,EZ TECHNOLOGY COMPANY LIMITED,Anh Dao Phuc Technology Company Limited,Residential/Business,False
+2026-10-26 22:10:43,152.32.252.233,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-26 22:10:43,43.228.157.136,100,Germany,Frankfurt am Main,Gaditek Associates,,Residential/Business,True
+2026-10-26 22:10:43,70.183.209.197,100,United States,Baton Rouge,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-26 22:10:43,109.160.32.174,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-26 22:10:43,103.70.40.36,100,India,New Delhi,Sdh Network Pvt Ltd,Sdh Network Pvt Ltd,Residential/Business,False
+2026-10-26 22:10:43,45.156.131.22,100,United States,Los Angeles,Zenlayer Inc,ICG 2 ZEN LAX,Residential/Business,False
+2026-10-26 22:10:43,185.136.15.82,100,Kazakhstan,Almaty,AO ALMAZ,Vlad Cojuhari,Residential/Business,False
+2026-10-26 22:10:43,95.94.205.12,100,Portugal,São Domingos de Rana,NOS COMUNICACOES S.A,NOS Comunicacoes S.A.,Residential/Business,False
+2026-10-26 22:10:43,168.144.153.192,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-26 22:10:43,85.217.140.34,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-26 22:10:43,185.194.178.55,100,France,Strasbourg,velia.net Internetdienste GmbH,Rackmarkt SL,Residential/Business,True
+2026-10-26 22:10:43,135.136.23.188,100,United Kingdom,Failsworth,M247 Europe SRL,M247 LTD,Residential/Business,False
+2026-10-26 22:10:43,102.88.137.80,100,Nigeria,Lagos,MTN NIGERIA Communication limited,MTN Nigeria,Mobile,False
+2026-10-26 22:10:43,62.193.91.121,100,Egypt,Al Maḩallah al Kubrá,Etisalat,Nile Online,Residential/Business,False
+2026-10-26 22:10:43,45.180.16.0,100,Brazil,Birigui,Link Brasil Telecomunicacoes Ltda,NET FAGA TELECOMUNICACOES LTDA,Residential/Business,False
+2026-10-26 22:10:43,125.77.73.145,100,China,Fuzhou,Chinanet,Chinanet FJ,Residential/Business,False
+2026-10-26 22:10:43,62.10.174.7,100,United States,Phoenix,Tiscali Italia SpA,Tiscali Italia SpA,Data Center,False
+2026-10-26 22:10:43,43.166.246.180,100,United States,Ashburn,Aceville Pte.ltd,,Data Center,True
+2026-10-26 22:10:43,49.158.41.142,100,Taiwan,New Taipei City,UBBNET,"TFN Media Co., Ltd.",Residential/Business,False
+2026-10-26 22:10:43,27.223.98.117,100,China,Jinan,China Unicom Shandong Province Network,,Residential/Business,True
+2026-10-26 22:10:43,202.51.214.98,100,Indonesia,Jakarta,PT. Sejahtera Globalindo,,Residential/Business,False
+2026-10-26 22:10:43,2602:fa59:10:2c::1,100,United States,Ogden,RouterHosting LLC,RouterHosting LLC,Data Center,False
+2026-10-26 22:10:43,190.121.13.82,100,Chile,Lanco,Telefonica del Sur S.A.,Sociedad De Profesionales Franco Y CIA,Residential/Business,False
+2026-10-26 22:10:43,43.161.217.205,100,Hong Kong,Hong Kong,Aceville Pte.ltd,,Data Center,True
+2026-10-26 22:10:43,209.99.190.215,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-26 22:10:43,175.198.18.3,100,South Korea,Yeongdeungpo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-26 22:10:43,160.251.202.248,100,Japan,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.",Residential/Business,False
+2026-10-26 22:10:43,122.187.230.213,100,India,Mumbai,BHARTI,Bharti Telenet Ltd.,Residential/Business,False
+2026-10-26 22:10:43,188.17.229.3,100,Russia,Chelyabinsk,Rostelecom networks,Dynamic distribution IPs for broadband services,Residential/Business,False
+2026-10-26 22:10:43,77.91.71.25,100,Israel,Tel Aviv,Alferov Aleksey Aleksandrovich,NEW,Residential/Business,False
+2026-10-26 22:10:43,194.180.49.53,100,Germany,Berngau,MEVSPACE sp. z o.o.,HostSlick,Data Center,False
+2026-10-26 22:10:43,3.129.187.38,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-26 22:10:43,213.232.78.253,100,Spain,Quesada,"Generacion Tecnologica De Comunicaciones, Sociedad Limitada.",Meganet Plus SLU,Residential/Business,False
+2026-10-26 22:10:43,50.6.249.168,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-26 22:10:43,189.178.30.66,100,Mexico,Guadalajara,Uninet S.A. de C.V,Gestión de direccionamiento UniNet,Residential/Business,False
+2026-10-26 22:10:43,188.132.230.188,100,Türkiye,Istanbul,VG Telekomunikasyon Ticaret Limited Sirketi,VG TELEKOMUNIKASYON TICARET LIMITED SIRKETI,Data Center,False
+2026-10-26 22:10:43,49.124.152.226,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-10-26 22:10:43,165.227.88.1,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-26 22:10:43,41.216.167.226,100,Nigeria,Lagos,VDT COMMUNICATIONS LIMITED,CUSTOMER HealthPlus Ikeja City Mall,Residential/Business,False
