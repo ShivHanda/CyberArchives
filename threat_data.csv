@@ -127829,3 +127829,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-26 09:34:34,167.71.211.40,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
 2026-10-26 09:34:34,65.49.1.142,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
 2026-10-26 09:34:34,190.119.63.98,100,Peru,Lima,America Movil Peru S.A.C.,America Movil Peru S.A.C,Residential/Business,False
+2026-10-26 16:24:34,109.205.211.203,100,The Netherlands,Amsterdam,MEVSPACE sp. z o.o.,Colocatel Inc,Data Center,False
+2026-10-26 16:24:34,170.233.29.175,100,Argentina,Río Gallegos,Sebastian Souto,Sebastian Souto,Residential/Business,False
+2026-10-26 16:24:34,94.183.174.99,100,Germany,Hauzenberg,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,Data Center,False
+2026-10-26 16:24:34,200.138.46.19,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-26 16:24:34,45.249.247.213,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-26 16:24:34,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-26 16:24:34,178.20.210.152,100,Kazakhstan,Būlaevo,Shereverov Marat Ahmedovich,Shereverov network,Residential/Business,False
+2026-10-26 16:24:34,116.7.248.50,100,China,Shenzhen,Chinanet,Chinanet GD,Residential/Business,True
+2026-10-26 16:24:34,77.239.124.49,100,France,Paris,Banatsync SRL,RocketCloud,Data Center,False
+2026-10-26 16:24:34,45.148.10.152,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-26 16:24:34,62.150.237.107,100,Kuwait,Kuwait City,Kuwait Telecommunication Company (Under Association),Qualitynet General Trading Co.,Residential/Business,False
+2026-10-26 16:24:34,47.251.82.43,100,United States,Minkler,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-26 16:24:34,142.86.120.115,100,China,Haidian,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",Data Center,False
+2026-10-26 16:24:34,179.43.153.2,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-26 16:24:34,185.217.127.227,100,France,Lauterbourg,Contabo GmbH,Contabo GmbH,Data Center,False
+2026-10-26 16:24:34,130.12.180.164,100,The Netherlands,Amsterdam,Netiface LLC,Virtualine Technologies,Data Center,False
+2026-10-26 16:24:34,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-10-26 16:24:34,70.175.182.48,100,United States,Pensacola,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-26 16:24:34,138.226.239.234,100,The Netherlands,Amsterdam,Digital Network S.R.L.,Vlad Cojuhari,Data Center,True
+2026-10-26 16:24:34,187.76.245.170,100,Brazil,Santa Luzia,V tal,V tal,Residential/Business,False
+2026-10-26 16:24:34,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-26 16:24:34,18.217.208.51,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-26 16:24:34,196.244.192.202,100,Finland,Helsinki,Orion Network Limited,Fibersa,Data Center,True
+2026-10-26 16:24:34,20.80.75.148,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-26 16:24:34,200.138.46.209,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-26 16:24:34,45.156.129.125,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-10-26 16:24:34,101.36.114.177,100,South Korea,Seoul,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-26 16:24:34,118.47.255.44,100,South Korea,Gimhae,Korea Telecom,,Residential/Business,False
+2026-10-26 16:24:34,209.99.190.186,100,Switzerland,Zurich,SKN Subnet & Telecom Ltd,HostRoyale Technologies,Data Center,False
+2026-10-26 16:24:34,103.117.145.130,100,Hong Kong,Hong Kong,Netsec Limited,Netsec,Residential/Business,False
+2026-10-26 16:24:34,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-26 16:24:34,79.124.62.178,100,Seychelles,Victoria,DM AUTO EOOD,Internet Solutions & Innovations LTD,Data Center,False
+2026-10-26 16:24:34,94.183.31.168,100,Iran,Tehran,Aria Shatel PJSC,Shtl NET ARD DSL,Residential/Business,False
+2026-10-26 16:24:34,180.76.185.216,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-26 16:24:34,65.181.71.117,100,Hong Kong,Central,PCCW IMS Limited,PCCW IMS Ltd (PCCW Business Internet Access),Residential/Business,False
+2026-10-26 16:24:34,13.140.233.153,100,Germany,Oberasbach,TerraTransit AG,TerraTransit AG,Residential/Business,False
+2026-10-26 16:24:34,185.28.61.19,100,Turkey,Bursa,Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri,Onur Bilisim,Residential/Business,False
+2026-10-26 16:24:34,205.169.39.52,100,United States,Santa Clara,CenturyLink Communications,"Palo Alto Networks, Inc",Data Center,False
+2026-10-26 16:24:34,150.109.10.219,100,Singapore,Singapore,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd,Data Center,False
+2026-10-26 16:24:34,163.7.11.155,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus Pte. Ltd,Residential/Business,False
+2026-10-26 16:24:34,222.111.148.139,100,South Korea,Seoul,Korea Telecom,(ju)gugilyuhaengsa,Residential/Business,False
+2026-10-26 16:24:34,211.228.83.42,100,South Korea,Jeju City,Korea Telecom,Korea Telecom,Residential/Business,False
+2026-10-26 16:24:34,77.67.26.243,100,Hong Kong,Hong Kong,HGC Global Communications Limited,StarNet InfoTech Consulting Limited,Residential/Business,False
+2026-10-26 16:24:34,185.56.83.10,100,Switzerland,Bern,Datashield,"Datashield, Inc.",Residential/Business,True
+2026-10-26 16:24:34,202.165.29.219,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,TM VADS,Residential/Business,False
+2026-10-26 16:24:34,113.25.249.100,100,China,Taiyuan,Chinanet,Sxjzbas,Residential/Business,False
+2026-10-26 16:24:34,178.178.222.58,100,Russia,Moscow,PJSC MegaFon,MF MB,Mobile,False
+2026-10-26 16:24:34,102.211.209.113,100,Tunisia,Tunis,OXAHOST,OXA TN 2 B,Data Center,False
+2026-10-26 16:24:34,172.210.9.231,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-26 16:24:34,47.90.137.149,100,United States,Charlottesville,Alibaba.com LLC,ALICLOUD-US,Data Center,False
