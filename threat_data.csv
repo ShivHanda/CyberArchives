@@ -128079,3 +128079,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-27 15:39:39,190.112.210.251,100,Paraguay,Asunción,Planet S.A.,Planet S.A,Residential/Business,False
 2026-10-27 15:39:39,164.90.189.117,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
 2026-10-27 15:39:39,193.37.69.113,100,The Netherlands,Amsterdam,Nechaev Dmitry Sergeevich,Aliev,Residential/Business,False
+2026-10-27 20:21:49,138.68.103.218,100,Germany,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,True
+2026-10-27 20:21:49,91.202.233.64,100,Turkmenistan,Ashgabat,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-10-27 20:21:49,156.227.234.198,100,Russia,Moscow,Yisu Cloud LTD,Cloud Innovation Ltd,Data Center,False
+2026-10-27 20:21:49,37.28.181.78,100,Russia,Moscow,MegaFon-Moscow,,Mobile,False
+2026-10-27 20:21:49,34.79.51.100,100,Belgium,Brussels,Google LLC,Google Cloud (europe-west1),Data Center,False
+2026-10-27 20:21:49,45.148.10.141,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-27 20:21:49,179.43.153.18,100,Switzerland,Rümlang,Private Layer INC,Private Layer Inc,Data Center,False
+2026-10-27 20:21:49,20.65.178.234,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-27 20:21:49,171.36.206.112,100,China,Liuzhou,China Unicom Guangxi Province Network,,Residential/Business,False
+2026-10-27 20:21:49,69.5.20.205,100,Indonesia,Yogyakarta,Byteplus Pte. Ltd.,Byteplus,Residential/Business,False
+2026-10-27 20:21:49,40.119.43.33,100,United States,San Antonio,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),Data Center,False
+2026-10-27 20:21:49,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-27 20:21:49,202.165.15.132,100,Malaysia,Kuala Lumpur,TM VADS,VADS Sdn Bhd,Residential/Business,False
+2026-10-27 20:21:49,92.118.39.50,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-27 20:21:49,183.6.102.122,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-27 20:21:49,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-27 20:21:49,13.86.107.138,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-27 20:21:49,200.138.46.35,100,Brazil,Almirante Tamandaré,Triathlon Trading FZCO,Triathlon Trading FZCO,Residential/Business,False
+2026-10-27 20:21:49,181.52.113.102,100,Colombia,Valledupar,Telmex Colombia S.A.,Telmex Colombia S.A.,Residential/Business,False
+2026-10-27 20:21:49,85.217.149.6,100,Canada,Beauharnois,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-27 20:21:49,186.216.12.82,100,Brazil,Itapevi,Metroflex Telecomunicacoes Ltda,IOT FIBRA TELECOM LTDA,Residential/Business,False
+2026-10-27 20:21:49,180.71.9.31,100,South Korea,Gyeonggi-do,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-27 20:21:49,180.76.52.146,100,China,Beijing,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.",Data Center,False
+2026-10-27 20:21:49,179.185.227.77,100,Brazil,São Sebastião do Paraíso,TELEFÔNICA BRASIL S.A,Global Village Telecom,Residential/Business,False
+2026-10-27 20:21:49,111.70.29.156,100,Taiwan,Beitun,EMOME,Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-27 20:21:49,178.128.168.102,100,United Kingdom,Slough,"DigitalOcean, LLC",Digitalocean,Data Center,True
+2026-10-27 20:21:49,45.156.129.63,100,United States,Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,Residential/Business,False
+2026-10-27 20:21:49,45.171.200.39,100,Honduras,Tela,Tevisat Tela S.A.,Tevisat Tela S.A,Residential/Business,False
+2026-10-27 20:21:49,164.90.142.33,100,United States,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-27 20:21:49,217.60.184.24,100,Germany,Berlin,BlastVPS Services,BlastVPS Services,Data Center,False
+2026-10-27 20:21:49,176.99.110.229,100,Ukraine,Simferopol,Infostroy LLC,,Residential/Business,False
+2026-10-27 20:21:49,114.241.216.41,100,China,Beijing,China Unicom Beijing Province Network,,Residential/Business,False
+2026-10-27 20:21:49,207.148.134.251,100,Canada,Calgary,TELUS Communications Inc.,TELUS Communications Inc,Residential/Business,False
+2026-10-27 20:21:49,66.132.186.220,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-27 20:21:49,211.46.188.16,100,South Korea,Cheongyang-gun,Korea Telecom,,Residential/Business,False
+2026-10-27 20:21:49,87.107.171.192,100,Iran,Tehran,Soroush Rasanheh Company Ltd,Soroush Rasanheh Company Ltd,Residential/Business,True
+2026-10-27 20:21:49,78.128.112.30,100,Bulgaria,Sopot,noc@dotdash.host,4media,Data Center,False
+2026-10-27 20:21:49,13.140.88.161,100,Singapore,Singapore,TerraTransit AG,Contabo Asia Private Limited,Residential/Business,False
+2026-10-27 20:21:49,45.229.3.10,100,Brazil,Aracaju,Virtualnet Provedores Ltda ME,Virtualnet Provedores Ltda ME,Residential/Business,False
+2026-10-27 20:21:49,45.138.12.46,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-27 20:21:49,200.50.67.106,100,Barbados,Bridgetown,Cable & Wireless (Barbados) Limited,Cariaccess Communications,Mobile,False
+2026-10-27 20:21:49,195.178.110.18,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-27 20:21:49,72.202.225.123,100,United States,Las Vegas,Cox Communications Inc.,Cox Communications Inc.,Residential/Business,False
+2026-10-27 20:21:49,46.210.119.226,100,Israel,Rishon LeTsiyyon,Cellcom Fixed Line Communication L.P,Cellcom Fixed Line Communication L.P,Residential/Business,False
+2026-10-27 20:21:49,51.15.20.32,100,The Netherlands,Haarlem,SCALEWAY,Online SAS NL,Data Center,True
+2026-10-27 20:21:49,86.38.187.43,100,China,Chaowai,Beijing Tehuadun Starkley Trading Co. Ltd,Beijing Tehuadun Starkley Trading Co. Ltd,Residential/Business,False
+2026-10-27 20:21:49,81.229.58.214,100,Sweden,Kalmar,Telia Company AB,Telia Network Services,Residential/Business,False
+2026-10-27 20:21:49,187.40.235.109,100,United States,Kansas City,PacketHub S.A.,PacketHub S.A,Residential/Business,True
+2026-10-27 20:21:49,172.96.182.111,100,United States,Los Angeles,HostPapa,HostPapa,Data Center,False
+2026-10-27 20:21:49,153.75.225.110,100,United States,Secaucus,"Interserver, Inc","Interserver, Inc",Data Center,False
