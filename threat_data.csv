@@ -128274,3 +128274,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-28 14:45:57,18.221.179.104,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
 2026-10-28 14:45:57,36.152.25.50,100,China,Nanjing,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
 2026-10-28 14:45:57,4.246.204.51,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
+2026-10-28 20:43:12,129.121.142.157,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-28 20:43:12,61.222.211.114,100,Taiwan,Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,Residential/Business,False
+2026-10-28 20:43:12,113.43.73.108,100,Japan,Tokyo,ARTERIA Networks Corporation,Vectant,Residential/Business,False
+2026-10-28 20:43:12,14.29.208.128,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-28 20:43:12,13.143.164.206,100,Finland,Helsinki,PowerRDP Network LTD,PowerRDP Network LTD,Residential/Business,False
+2026-10-28 20:43:12,202.152.201.166,100,Indonesia,Astanajapura,PT. Bakrie Telecom Tbk,,Residential/Business,False
+2026-10-28 20:43:12,193.46.255.86,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-28 20:43:12,202.165.22.173,100,Malaysia,Kuala Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,Data Center,False
+2026-10-28 20:43:12,113.158.205.225,100,Japan,Nagoya,DION (KDDI CORPORATION),KDDI,Residential/Business,False
+2026-10-28 20:43:12,70.89.116.5,100,United States,Seattle,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-28 20:43:12,167.71.209.241,100,Singapore,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-28 20:43:12,70.184.172.229,100,United States,Chesapeake,Cox Communications Inc.,Cox Communications,Residential/Business,False
+2026-10-28 20:43:12,91.215.85.33,100,Russia,St Petersburg,Prospero OOO,Prospero OOO,Residential/Business,False
+2026-10-28 20:43:12,103.198.154.134,100,Pakistan,Lahore,PLAY BROADBAND (PRIVATE) LIMITED,PLAY BROADBAND (PRIVATE) LIMITED,Residential/Business,False
+2026-10-28 20:43:12,157.66.47.161,100,Vietnam,Hanoi,Jupiter Media Joint Stock Company,Jupiter Media Joint Stock Company,Residential/Business,False
+2026-10-28 20:43:12,128.1.32.150,100,Taiwan,Taipei,Zenlayer Inc,UCLOUD,Data Center,False
+2026-10-28 20:43:12,196.188.93.169,100,Ethiopia,Addis Ababa,Ethiotelecom,,Residential/Business,False
+2026-10-28 20:43:12,65.181.127.40,100,United States,Dallas,WHG Hosting Services Ltd,WHG Hosting Services Ltd,Data Center,False
+2026-10-28 20:43:12,119.192.210.110,100,South Korea,Seodaemun-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-28 20:43:12,71.235.27.139,100,United States,Jericho,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.",Residential/Business,False
+2026-10-28 20:43:12,186.13.96.159,100,Argentina,San Francisco Solano,Techtel LMDS Comunicaciones Interactivas S.A.,,Residential/Business,False
+2026-10-28 20:43:12,102.220.161.119,100,Slovenia,Ljubljana,VPS Dedicated LLC,,Data Center,False
+2026-10-28 20:43:12,117.70.94.155,100,China,Hefei,Chinanet,Chinanet AH,Residential/Business,True
+2026-10-28 20:43:12,192.253.248.229,100,United Kingdom,City of London,Limited Network LTD,Secure Internet LLC,Data Center,True
+2026-10-28 20:43:12,165.154.162.74,100,United States,Los Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,Data Center,False
+2026-10-28 20:43:12,101.47.158.56,100,Singapore,Singapore,BYTEPLUS,,Residential/Business,False
+2026-10-28 20:43:12,60.217.65.254,100,China,Jinan,CNC Group CHINA169 Shandong Province Network,,Residential/Business,False
+2026-10-28 20:43:12,39.164.94.190,100,China,Guancheng,"China Mobile Communications Group Co., Ltd","China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-28 20:43:12,217.100.184.50,100,The Netherlands,Voorburg,Vodafone Ziggo,,Residential/Business,False
+2026-10-28 20:43:12,103.159.2.113,100,Bangladesh,Jessore,Md Masum Billa,Skymax Communication,Residential/Business,False
+2026-10-28 20:43:12,154.18.238.98,100,Singapore,Singapore,Enjoyvc Cloud Group Limited,Enjoyvc Cloud Group Limited,Data Center,False
+2026-10-28 20:43:12,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-28 20:43:12,103.119.14.157,100,United States,Los Angeles,Turing Group Limited,QiYi HuDong US Ltd,Residential/Business,False
+2026-10-28 20:43:12,79.124.58.118,100,Bulgaria,Sopot,Tamatiya EOOD,Tamatiya EOOD,Residential/Business,True
+2026-10-28 20:43:12,111.171.125.94,100,South Korea,Nam-gu,SK Broadband Co Ltd,broadNnet,Residential/Business,False
+2026-10-28 20:43:12,45.148.10.157,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-28 20:43:12,193.47.62.69,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,True
+2026-10-28 20:43:12,192.9.176.139,100,Australia,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),Data Center,False
+2026-10-28 20:43:12,66.132.195.94,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-28 20:43:12,20.169.85.0,100,United States,Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),Data Center,False
+2026-10-28 20:43:12,64.205.72.213,100,United States,Wilmington,Ipxo LLC,Ipxo LLC,Residential/Business,False
+2026-10-28 20:43:12,165.154.62.190,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-28 20:43:12,45.153.34.71,100,The Netherlands,Amsterdam,TechTies Inc.,TechTies Inc,Data Center,False
+2026-10-28 20:43:12,5.160.128.67,100,Iran,Tehran,Respina,,Residential/Business,False
+2026-10-28 20:43:12,193.47.62.32,100,Andorra,Andorra la Vella,BestDC Limited,BestDC Limited,Residential/Business,False
+2026-10-28 20:43:12,50.6.204.157,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-28 20:43:12,119.96.158.238,100,China,Shizishan,CHINANET Hubei province network,Chinanet HB,Residential/Business,True
+2026-10-28 20:43:12,14.29.192.146,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
+2026-10-28 20:43:12,196.251.121.215,100,Ukraine,Kyiv,Netiface LLC,,Residential/Business,True
+2026-10-28 20:43:12,50.6.206.120,100,United States,Ashburn,Oracle Corporation,,Data Center,False
