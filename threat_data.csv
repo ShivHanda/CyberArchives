@@ -128224,3 +128224,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-28 07:49:43,40.77.167.76,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus2),Data Center,False
 2026-10-28 07:49:43,36.66.16.233,100,Indonesia,West Jakarta,PT. Telekomunikasi Indonesia,,Residential/Business,False
 2026-10-28 07:49:43,203.220.182.51,100,Australia,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,Residential/Business,False
+2026-10-28 14:45:57,195.178.110.217,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-28 14:45:57,210.13.99.66,100,China,Shanghai,cuii shanghai,"Lei Jiesi Business Services (Shanghai) Co., Ltd.",Residential/Business,True
+2026-10-28 14:45:57,49.124.148.195,100,Malaysia,Shah Alam,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,Residential/Business,False
+2026-10-28 14:45:57,189.244.107.78,100,Mexico,Torreón,Uninet S.A. de C.V.,UNINET,Residential/Business,False
+2026-10-28 14:45:57,151.243.11.32,100,Germany,Frankfurt am Main,LLC VASH KREDIT BANK,Private Customer,Residential/Business,False
+2026-10-28 14:45:57,52.7.83.29,100,United States,Ashburn,"Amazon.com, Inc.",AWS EC2 (us-east-1),Data Center,False
+2026-10-28 14:45:57,18.119.209.50,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-28 14:45:57,87.106.87.87,100,Germany,Berlin,IONOS SE,De Ber Ionos Cloud Txl,Data Center,False
+2026-10-28 14:45:57,65.49.20.82,100,United States,Pleasanton,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-28 14:45:57,199.165.159.75,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-28 14:45:57,45.138.12.45,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-28 14:45:57,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-10-28 14:45:57,2.57.121.25,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-28 14:45:57,194.5.82.166,100,Singapore,Singapore,GSL Networks Pty LTD,,Data Center,True
+2026-10-28 14:45:57,211.217.209.40,100,South Korea,Mapo-gu,Korea Telecom,Kornet,Residential/Business,False
+2026-10-28 14:45:57,3.85.201.48,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-10-28 14:45:57,77.105.37.219,100,Serbia,Belgrade,ORIONTELEKOMTIMHOSTING,,Data Center,False
+2026-10-28 14:45:57,216.126.225.6,100,United States,Ogden,RouterHosting LLC,anyNode,Data Center,False
+2026-10-28 14:45:57,112.184.13.156,100,South Korea,Jeju City,Korea Telecom,Kornet,Residential/Business,False
+2026-10-28 14:45:57,180.184.183.66,100,China,Haidian,China Internet Network Information Center,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-28 14:45:57,35.234.136.205,100,United Kingdom,London,Google LLC,Google Cloud (europe-west2),Data Center,False
+2026-10-28 14:45:57,8.137.161.104,100,China,Chengdu,"Hangzhou Alibaba Advertising Co., Ltd.",Alibaba.com LLC,Data Center,False
+2026-10-28 14:45:57,54.147.51.34,100,United States,Ashburn,Amazon Technologies Inc.,AWS EC2 (us-east-1),Data Center,False
+2026-10-28 14:45:57,161.18.77.49,100,Colombia,Yumbo,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP,Residential/Business,False
+2026-10-28 14:45:57,194.5.82.16,100,Singapore,Singapore,GSL Networks Pty LTD,,Data Center,True
+2026-10-28 14:45:57,20.15.203.16,100,United States,Des Moines,Microsoft Corporation,Microsoft Azure Cloud (centralus),Data Center,False
+2026-10-28 14:45:57,216.218.206.89,100,United States,Cazadero,Hurricane Electric LLC,The Shadow Server Foundation,Data Center,False
+2026-10-28 14:45:57,13.94.39.162,100,Hong Kong,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),Data Center,False
+2026-10-28 14:45:57,85.195.9.20,100,Sweden,Vaxjo,Net at Once AB,,Residential/Business,False
+2026-10-28 14:45:57,2.57.217.229,100,Georgia,Tbilisi,Multisoft LLC,Multisoftservice,Residential/Business,True
+2026-10-28 14:45:57,189.238.221.148,100,Mexico,Centro,Uninet S.A. de C.V.,Uninet S.A. de C.V.,Residential/Business,False
+2026-10-28 14:45:57,85.217.140.43,100,France,Gravelines,Modat B.V.,Modat B.V,Residential/Business,False
+2026-10-28 14:45:57,118.194.251.197,100,Thailand,Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-28 14:45:57,50.6.200.58,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-28 14:45:57,2.57.121.112,100,United Kingdom,Rushden,Unmanaged LTD,Unmanaged LTD,Data Center,True
+2026-10-28 14:45:57,95.58.255.251,100,Kazakhstan,Astana,Kazakhtelecom Data Network Administration,Centr po diagnostike i remontu mashin i oborudovaniya,Residential/Business,False
+2026-10-28 14:45:57,68.183.92.206,100,India,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-28 14:45:57,221.167.88.119,100,South Korea,Changwon,Korea Telecom,KORNET,Residential/Business,False
+2026-10-28 14:45:57,119.255.245.44,100,China,Dongchengcun,Beijing Guanghuan Xinwang Digital,"Beijing Sinnet Technology Co., Ltd.",Residential/Business,False
+2026-10-28 14:45:57,194.5.82.14,100,Singapore,Singapore,GSL Networks Pty LTD,,Data Center,True
+2026-10-28 14:45:57,157.230.133.189,100,United States,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-28 14:45:57,185.233.3.95,100,Kazakhstan,Almaty,Enterprise Cloud Ltd.,IT-GRAD 1Cloud LLC,Data Center,False
+2026-10-28 14:45:57,112.151.168.124,100,South Korea,Seongnam-si,LG POWERCOMM,LG POWERCOMM,Residential/Business,False
+2026-10-28 14:45:57,45.148.10.62,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-28 14:45:57,134.209.120.216,100,United States,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-28 14:45:57,196.189.51.246,100,Ethiopia,Addis Ababa,Ethiotelecom,To  BRAS DHCP AD,Residential/Business,False
+2026-10-28 14:45:57,119.28.46.114,100,Hong Kong,Hong Kong,ComsenzNet,"Tencent cloud computing (Beijing) Co., Ltd.",Data Center,False
+2026-10-28 14:45:57,18.221.179.104,100,United States,Columbus,"Amazon.com, Inc.",AWS EC2 (us-east-2),Data Center,False
+2026-10-28 14:45:57,36.152.25.50,100,China,Nanjing,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-28 14:45:57,4.246.204.51,100,United States,Boydton,Microsoft Corporation,Microsoft Azure Cloud (eastus),Data Center,False
