@@ -128324,3 +128324,53 @@ Timestamp_UTC,IP,Confidence_Score,Country,City,ISP,Organization,Usage_Type,Is_Pr
 2026-10-28 20:43:12,14.29.192.146,100,China,Guangzhou,Chinanet,Chinanet GD,Residential/Business,False
 2026-10-28 20:43:12,196.251.121.215,100,Ukraine,Kyiv,Netiface LLC,,Residential/Business,True
 2026-10-28 20:43:12,50.6.206.120,100,United States,Ashburn,Oracle Corporation,,Data Center,False
+2026-10-29 01:28:45,183.223.156.154,100,China,Guangzhou,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",Mobile,False
+2026-10-29 01:28:45,66.132.186.221,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-29 01:28:45,66.132.195.39,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc.",Data Center,False
+2026-10-29 01:28:45,129.121.143.66,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-29 01:28:45,186.19.199.87,100,Argentina,Buenos Aires,Telecentro S.A.,Telecentro S.A. - Clientes Residenciales,Residential/Business,False
+2026-10-29 01:28:45,199.165.159.39,100,United States,Pleasanton,"The Shadowserver Foundation, Inc.","The Shadowserver Foundation, Inc.",Data Center,False
+2026-10-29 01:28:45,118.70.182.193,100,Vietnam,Hanoi,FPT Telecom Company,Vietnam Internet Network Information Center,Residential/Business,False
+2026-10-29 01:28:45,198.57.211.34,100,United States,Phoenix,Unified Layer,Unified Layer,Data Center,False
+2026-10-29 01:28:45,45.148.10.121,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-29 01:28:45,118.196.16.16,100,China,Haidian,VOLCANO-ENGINE,"Beijing Volcano Engine Technology Co., Ltd.",Residential/Business,False
+2026-10-29 01:28:45,194.5.82.78,100,Singapore,Singapore,GSL Networks Pty LTD,,Data Center,True
+2026-10-29 01:28:45,162.243.0.142,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-29 01:28:45,43.155.248.177,100,South Korea,Seoul,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-29 01:28:45,109.160.32.150,100,The Netherlands,Amsterdam,TechTies Inc.,GBTCloud,Data Center,False
+2026-10-29 01:28:45,218.152.243.192,100,South Korea,Gangneung,Korea Telecom,KORNET,Residential/Business,False
+2026-10-29 01:28:45,202.46.28.140,100,Indonesia,Gubengairlangga,Universitas Katolik Widya Mandala,,Residential/Business,False
+2026-10-29 01:28:45,96.78.175.45,100,United States,San Francisco,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",Residential/Business,False
+2026-10-29 01:28:45,97.74.87.152,100,Japan,Chiba,"GoDaddy.com, LLC","GoDaddy.com, LLC",Data Center,False
+2026-10-29 01:28:45,66.132.186.222,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-29 01:28:45,45.148.10.151,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-29 01:28:45,103.154.233.221,100,India,Ahmedabad,Netclues Technologies Private Limited,Netclues Technologies Private Limited,Residential/Business,False
+2026-10-29 01:28:45,101.100.194.181,100,Singapore,Singapore,Vodien Internet Solutions Pte Ltd,Vodien Internet Solutions Pte Ltd,Residential/Business,False
+2026-10-29 01:28:45,74.118.81.174,100,Afghanistan,Kabul,Main Street,,Residential/Business,False
+2026-10-29 01:28:45,107.170.19.20,100,United States,Secaucus,"DigitalOcean, LLC",Digital Ocean,Data Center,False
+2026-10-29 01:28:45,202.70.78.237,100,United States,Los Angeles,Nepal Telecom,Nepal Telecommunications Corporation,Residential/Business,False
+2026-10-29 01:28:45,71.9.208.228,100,United States,Columbia,Charter Communications LLC,Spectrum,Residential/Business,False
+2026-10-29 01:28:45,43.129.193.109,100,Hong Kong,Hong Kong,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,Data Center,False
+2026-10-29 01:28:45,2.57.122.238,100,The Netherlands,Amsterdam,Unmanaged LTD,Techoff SRV Limited,Data Center,True
+2026-10-29 01:28:45,146.88.241.60,100,United States,Dallas,"Arbor Networks, Inc.","Arbor Networks, Inc.",Residential/Business,False
+2026-10-29 01:28:45,192.241.249.204,100,United States,Secaucus,"DigitalOcean, LLC","DigitalOcean, LLC",Data Center,False
+2026-10-29 01:28:45,66.132.186.241,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-29 01:28:45,57.128.239.181,100,Poland,Warsaw,OVH SAS,OVH Sp. z o. o,Data Center,False
+2026-10-29 01:28:45,45.138.12.51,100,Hong Kong,Sheung Wan,TC DATACENTER LIMITED,TC DATACENTER LIMITED,Data Center,False
+2026-10-29 01:28:45,101.36.108.72,100,Hong Kong,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,Data Center,False
+2026-10-29 01:28:45,195.178.110.132,100,Andorra,Andorra la Vella,Techoff SRV Limited,Techoff SRV Limited,Data Center,True
+2026-10-29 01:28:45,92.118.39.71,100,United States,Dallas,Unmanaged LTD,Pptechnology Limited,Data Center,False
+2026-10-29 01:28:45,191.37.76.156,100,Brazil,Nova Lima,CNT Fiber,CNT Fiber,Residential/Business,False
+2026-10-29 01:28:45,47.251.59.83,100,United States,Santa Clara,Alibaba Cloud LLC,Alibaba Cloud - US,Data Center,False
+2026-10-29 01:28:45,129.121.139.228,100,United States,Ashburn,Oracle Corporation,,Residential/Business,False
+2026-10-29 01:28:45,177.215.134.250,100,Brazil,São Paulo,TELEFÔNICA BRASIL S.A,Vivo,Residential/Business,False
+2026-10-29 01:28:45,103.193.179.139,100,Indonesia,Cicurug,PT Cloud Hosting Indonesia,PT Nara Cakra Studio,Data Center,False
+2026-10-29 01:28:45,45.148.10.240,100,The Netherlands,Amsterdam,Techoff SRV Limited,Techoff SRV Limited,Data Center,False
+2026-10-29 01:28:45,117.250.250.2,100,India,Palakkad,BSNL Internet,,Residential/Business,False
+2026-10-29 01:28:45,106.244.120.37,100,South Korea,Yongsan-gu,LG DACOM Corporation,Boranet,Residential/Business,False
+2026-10-29 01:28:45,121.133.167.123,100,South Korea,Yongin-si,Korea Telecom,,Residential/Business,False
+2026-10-29 01:28:45,81.167.26.57,100,Norway,Bergen,Altibox,,Residential/Business,True
+2026-10-29 01:28:45,52.237.80.79,100,Singapore,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),Data Center,False
+2026-10-29 01:28:45,120.48.175.69,100,China,Beijing,Baidu,"Beijing Baidu Netcom Science and Technology Co., Ltd.",Residential/Business,False
+2026-10-29 01:28:45,66.132.186.243,100,United States,Ann Arbor,"Censys, Inc.","Censys, Inc",Data Center,False
+2026-10-29 01:28:45,66.132.172.154,100,United States,Ann Arbor,"Censys, Inc.",Censys Inc,Data Center,False
